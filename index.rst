@@ -6,8 +6,6 @@
 Traite de Documentation (1934)
 
 
-Contents: (http://sphinx-doc.org/markup/toctree.html)
-
 .. toctree::
    :maxdepth: 3
    
