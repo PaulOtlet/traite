@@ -7,10 +7,11 @@ Transcribing the Traité
 ************************
 
 Help to transcribe Otlet's "Traité" from PDF to a digital full-text edition.
-No easily readable edition of his works is currently accessible online. 
+No easily readable edition of his works is currently accessible online.
 While more and more books and articles are published about the "visionary of the digital age", the original sources remain accessible only to those who are willing to download or browse a 200 MB PDF-file and understand French.
 
-The first goal is to produce a digital edition of the "Traité de Documentation" in HTML and EPUB format. The tool of choice is the Sphinx documentation generator. It uses reStructuredText files as input.
+The first goal is to produce a digital edition of the "Traité de Documentation" in HTML and EPUB format.
+The tool of choice is the Sphinx documentation generator. It uses reStructuredText files as input.
 
 The current version of the reST version can be found at https://github.com/PaulOtlet/traite . 
 The rendered version is at http://traite.czam.de .
@@ -51,6 +52,7 @@ Crowd sourcing for proofreading and translation
 
  * http://wikisource.org
  * http://traduwiki.org/
+ * https://www.transifex.com/
  * http://crowdin.net/pricing
  * https://poeditor.com/
  * http://www.hasecke.eu/Members/juh/sphinx-a-tool-for-self-publisher

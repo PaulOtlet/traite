@@ -1,7 +1,7 @@
 #########################
 TRAITÉ DE DOCUMENTATION
 #########################
-  
+
 .. image:: ./pics/pg_000_title.png
 
 ====
@@ -9752,7 +9752,7 @@ b) La projection est la reproduction et l’agrandissement à distance d'un obje
 
 c) Une classification générale de la projection donne les divisions suivantes : a) fixe ou animée; b) en noir ou en couleur; c) d’objets translucides ou opaques (dias copique ou épiscopique) ; d) de grandes dimensions ou microscopique; e) sans relief ou avec relief; f) sur écran ou en panorama; g) sans parole ni musique, awc parole et musique; h) avec fil ou sans fil; i) dans l’obscurité ou en pleine lumière. Les divers appareil» et procédés existants relèvent de ccs caractéristiques ; lanterne magique, cinéma, photoscope, cinéscope, film» partants, films sonores.
 
-2 Le livre microscopique ou microphofographiquc.
+2 Le livre microscopique ou microphotographique.
 
 Le livre projeté.
 
@@ -9802,7 +9802,7 @@ e) Le format microphote est de 18 X 24 mm. (image de cinéma) ou de 24 mm. de la
 i) La projection des microfilms a été opérée d’une manière automatique (autofilm). Cette projection c*t continue, en cycle, recommençante, et ne demande d intervention humaine que pour la première mise en mou veraent. L’appareil se compose de la lanterne, du film, d'un mécanisme de rotation, d’un écran et d'une prise de courant.
 
 On peut projeter en plein jour avec un avant-corps noir devant l’écran. L’appareil est placé dans un lieu public (galerie d'exposition ou de musée, vitrine, coin de rue ou de parc). Il s’adresse au passant. C'est une sorte de publicité murale applicable pour la diffusion de toute espèce d’information. Des lampes à lire ont été construites qu’on place sur le document (BuscK, Berlin), On a construit des lunettes spéciales (agrandisseur binoculaire Zeiss).
-(I) Hanauer, J. — Das Kleinstlichtbild im Dienste von Technik und Wissenschaft. — Das Technisch Blatt. Bei Inge der Franl^furter Zeitung, 5 Sept. 1929.
+(I) Hanauer, J. — Das Kleinstlichtbild im Dienste von Technik und Wissenschaft. — Das Technisch Blatt. Beilage der Frankfurter Zeitung, 5 Sept. 1929.
 
 
 ====
@@ -19700,7 +19700,7 @@ Secteurs par fonction de la vie générale, — Organisme# locaux. tcgionaux. na
 
 ====
 
-511 DES LOIS EN GENERAL 421
+511 DES LOIS EN GENERAL *421*
 
 ****************************
 5 Synthèse Bibliographique
@@ -20001,13 +20001,14 @@ Pour mieux apprécier la valéur des solutions proposées, supposons un instant 
 A. Le cas limite serait évidemment celui où il re serait plus nécessaire d avoir recours au livre et b la documentation. Ceci adviendrait dans l'hypothèse d’un pur esprit ayant à tout moment la connaissance intuitive et complète de toutes choses, telles qu'elles sont, ont été et seront. C’est l'hypothèse théologique de la Divinité et de tous les esprits qui participent à sa nature omnisciente, omniprésente cl éternelle. Pour Dieu, pour les anges et pour les élus, point nécessaire l'écrit et la documentation. (Il est vrai que la Bible, écrite pour les Hommes, révèle qu'il est dans le Ciel un grand livre sur lequel les anges vigilants inscrivent continuellement les mérites et démérites de chacun afin de faciliter l'oeuvre du Jugement dernier.) Cette première hypothèse deviendrait peut-être partiellement réalisable par l’Humanité si arrivaient a s affirmer et à se perfectionner h s découvertes de l'ordre dit aujourd'hui « métapsychique » Un état de clairvoyance et de prémonition généralisé enlèverait toute raison d’être au document.
 
 B. Une hypothèse moins absolue, mais très radicale encore, supposerait que toutes les connaissances, toutes les informations pourraient être rendues assez compactes pour être contenues en un certain nombre d’ouvrages d s posés sur la table de Travail même, donc h distance de la main, et indexés de manière à rendre la consultation aisée au maximum. Dans ce cas le Monde décrit dans l’ensemble des Livres serait réellement à portée
-LA DOCUMENTATION.
+
+----
 
 de chacun. Le Livre Universel formé de tou* les Livres, serait devenu très approximativement une annexe du Cerveau, substratum lui-même de la mémoire, mécanisme et instrument extérieur à l’esprit, mais si près de lui et si apte à son usage que ce serait vraiment une sorte d’organe annexe, appendice exodermique. (Ne repoussons pas ici l’image que nous fournit la structure de l'heetoplasme.) Cet organe aurait fonction de rendre notre être * ubique et éternel s.
 
 C, Pe là une troisième hypothèse, réaliste et concrète celle-là. qui pourrait, avec le temps, devenir fort réalisable. Ici la Table de Travail n’est plus chargée d'aucun livre, A leur place se dresse un écran et à portée un téléphone. Là-bas au loin, dans un édifice immense, sont tous le* livres et tous Us renseignements, avec tout l’espace que requiert leur enregistrement et leur manutention, avec tout l’appareil de ses catalogues, bibliographies et index, avec toute la redistribution des données sur fiches, feuilles et en dossiers, avec le chois et la combinaison opérés par un personnel permanent bien qualifié. Le lieu d’emmagasinement et de classement devient aussi un lieu de distribution, à distance avec ou sans fil. télévision ou télétaugrapbie. De là pn fait apparaître sur l'écran la page à lire pour connaître In réponse aux questions posées par téléphone, avec ou sans fil. Un écran serait double, quadruple ou décuple s'il s’agissait de multiplier les textes et les documents à confronter simultanément; il y aurait un Haut parleur si la vue devrait être aidée par une donnée ouïe, si la vision devrait être complétée par une audition. Une telle hypothèse, un Wells certes l'aimerait. Utopie aujourd’hui parce qu'elle n'existe encore nulle part, mais elle pourrait bien devenir la réalité de demain pourvu que se perfectionnent encore nos méthodes et notre instrumentation. Et ce perfectionnement pourrait aller peut-être jusqu'à rendre automatique l’appel de* document» sur l’écran (simples numéros de classification, de livres, de pages) ; automatique aussi la projection consécutive, pourvu que toute» le» données aient été réduites en leurs éléments analytiques et disposées pour être mises en oeuvre par les machines à sélection.
 
-De telles hypothèses, toutes imaginatives qu'elles soient, la Bïbliologie — science systématique et raisonnée du livre — doit leur faire une place. Toute science de nos jours n’arrive-t-elle pas à être guidée par quelque hypothèse limite qui apparut comme une finalité synthétique, protégeant contre la dispersion et l'égarement dans 1» dédale infini des petits progrès analytiques. Si la chimie est devenue une science formidable, l'hypothèse, gratuite au début, de l'unité de la matière y est bien pour beaucoup de choses. Et les progrès de l'aviation ont été déterminé* par l’hypothèse mythologique d'Icare le Volant.
+De telles hypothèses, toutes imaginatives qu'elles soient, la Bïbliologie — science systématique et raisonnée du livre — doit leur faire une place. Toute science de nos jours n’arrive-t-elle pas à être guidée par quelque hypothèse limite qui apparut comme une finalité synthétique, protégeant contre la dispersion et l'égarement dans 1» dédale infini des petits progrès analytiques. Si la chimie est devenue une science formidable, l'hypothèse, gratuite au début, de l'unité de la matière y est bien pour beaucoup de choses. Et les progrès de l'aviation ont été déterminés par l’hypothèse mythologique d'Icare le Volant.
 
 
 ====
