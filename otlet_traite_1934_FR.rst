@@ -2,7 +2,8 @@
 TRAITÉ DE DOCUMENTATION
 #########################
 
-.. image:: ./pics/pg_000_title.png
+.. image:: ./pics_small/pg_000_title.png
+   :width: 60 %
 
 ====
 
@@ -25,7 +26,7 @@ Les Livres et les Documents. — La Lecture, la Consultation et la Documentation
 
 [002 (02)]
 
-.. image:: ./pics/elsevier_logo.png
+.. image:: ./pics_small/elsevier_logo.png
    :scale: 30 %
    :alt: elsevier logo
 
@@ -317,7 +318,7 @@ Sciences du Livre et de la Documentation
 terms conventionnel employé ici pour exprimer toute
 espèce de documents. Il comprend non seulement le livre proprement dit, manuscrit ou imprimé, mais les revues, les journaux, les écrits et reproductions graphiques de toute espèce, dessin??, gravures, cartes, schémas, diagrammes, photographies, etc, La Documentation au sens large du terme comprend : Livre, éléments servant à indiquer ou reproduire une pensée envisagée sous n'importe quelle forme.
 
-2. Le Livre ainsi entendu présenté un double aspect: a) il est au premier chef une œuvre de l’homme, le résultat de son travail intellectuel; b) mais, multiplié à de nombreux exemplaires, il se présente aussi comme l'un des multiples objets créés par la civilisation et susceptible d’agir sur elle; c'est le propre de tout objet ayant caractère corporel et agencé techniquement.
+\2. Le Livre ainsi entendu présenté un double aspect: a) il est au premier chef une œuvre de l’homme, le résultat de son travail intellectuel; b) mais, multiplié à de nombreux exemplaires, il se présente aussi comme l'un des multiples objets créés par la civilisation et susceptible d’agir sur elle; c'est le propre de tout objet ayant caractère corporel et agencé techniquement.
 
 112 Nécessité d’une Bibliologie.
 ---------------------------------
@@ -343,7 +344,7 @@ données acquises dans les domaines du livre et en
 même temps promouvoir des recherches nouvelles destinées
 surtout à approfondir le pourquoi théorique de certaines pratiques de l'expérience.
 
-2. Elaborer une série complète de « formes docu?? mentaires » où puissent venir se déverser les données
+\2. Elaborer une série complète de « formes docu?? mentaires » où puissent venir se déverser les données
 
 
 ====
@@ -357,7 +358,7 @@ et aux formes élevées que constituent le Traité et l’Encyclopédie.
 3. Faire progresser sinsi tout ce qui peut tendre à
 l’Exposé plus méthodique et plus rationnel des données de nos connaissances et des informations pratiques.
 
-4. Provoquer certaines inventions qui sans doute pourront rester longtemps isolées et sans application, mais qui un jour seront peut-être le point de départ de transformations si profondes qu’elles équivaudront en cette matière à de véritables révolutions
+\4. Provoquer certaines inventions qui sans doute pourront rester longtemps isolées et sans application, mais qui un jour seront peut-être le point de départ de transformations si profondes qu’elles équivaudront en cette matière à de véritables révolutions
 
 5. La Bibliologie élabore les données scientifiques et
 techniques relatives à ce quadruple objet : 1° l'enregistrement
@@ -1703,18 +1704,21 @@ C’est la parole extérieure, la vérité, la phonation, qui a fini par modeler
 6. La scierice bibliologique dans sa première phase a été purement descriptive ; Ja Bibliographie proprement dite. Dans une deuxième elle a tendu à devenir théorique : Bibliologie. Voici qu'elle tend à devenir technique, c'est-à dire à influencer la confection du livre par des règles déduites de la théorie (Bibliotech nie). Cessant d'être la servante de livres tout fait«, et insuffisamment bien faits, elle revendique une action sur les livres à faire. Elle prescrit h la fois les meilleures formes (abstraction faite du contenu) et l’opportunité d écrire certains ouvrages selon les besoins scientifiques reconnus, ce qui est aujourd’hui livré entièrement à l’ar bitraire des éditeurs et souvent des auteurs. Cette fonction, les sciences du livre ont è la partager avec l'organisation scientifique de chaque science.
 
 
-.. image:: ./pics/pg039_Fig1_livres_periodiques.png
+.. image:: ./pics_small/pg039_Fig1_livres_periodiques.png
+   :width: 60 %
 
 
 ====
 
-.. image:: ./pics/pg040_fig2_representation_du_monde.png
+.. image:: ./pics_small/pg040_fig2_representation_du_monde.png
+   :width: 60 %
 
 Le livre et la representation du monde
 
 ====
 
-.. image:: ./pics/pg041_univers.png
+.. image:: ./pics_small/pg041_univers.png
+   :width: 60 %
 
 L’ univers, l'intelligence, la science, le livre
 
@@ -1757,7 +1761,8 @@ A  B  C
 
 1
 
-.. image:: ./pics/pg042_documentation.png
+.. image:: ./pics_small/pg042_documentation.png
+   :width: 60 %
 
  
 
@@ -8635,7 +8640,7 @@ Dans l’ensemble quelle est la proportion de la pensée écrite, traduite dans 
 
 Le nombre de traductions va en augmentant, mais augmente aussi le nombre des œuvres originales. En réalité, on constate : I" Que tout n’est pas traduit. On ne traduit pas toutes les œuvres, ni tous les auteurs. Pour être traduit un ouvrage doit avoir une grande notoriété. 2° On traduit avec retard. 3° On traduit incomplètement (En général seulement l’ouvrage principal de l’auteur.) 4e’ On traduit plus ou moins exactement. 5° Les traductions en restent généralement à une ou deux édition* rapidement rendues surannées par la parution successive de trois ou quatre éditions refondues de 1 original.
 
-8. à pplicationt de la traduction.
+8. Applications de la traduction.
 
 Des progrès se constatent dans l’extension du • poly glottisme dans les publications ». notamment dans les périodiques. Ainsi : 1° Nombre de périodiques publient des sommaires et des résumés en plusieurs langues. Par ex. Le Bulletin de la Fédération dentaire internationale donne article par article la traduction en français, en anglais et en allemand. 2° Dans les congrès internationaux les résolutions sont traduites en plusieurs langues et parfois les comptes rendus. 3° La Société pour les Relalion-Culturelle« entre l'U. R. S. S. et l'étranger, sous la direction du Prof. R. N. Petrof. a fait paraître une revue illustrée en trois langues * français, anglais et allemand Son radio-journal est transmis en anglais, allemand, français, espagnol et hollandais. Il est audible de toute l'Europe et même de l'Amérique.
 
@@ -9633,9 +9638,23 @@ images exactes. La niéJ ode décrite par M. L. Estanave (Académie des Sciences
 
 c) Les C ongrès ont réglementé déjà largement le* formats des plaques, des appareils, des épreuves stéréoscopiques, des fiches, etc. La standardisation apporte d’heureux résultats, U y a lieu de l’étendre aussi aux publications et collections et d’intégrer les formats de la photographie a la série des formats de la Documentation générale, De grand format (tableau), moyen format (feuille), petit format (fiche), format film (microgramme) ou formats métriques intermédiaires.
 
-d) Mais la copie photographique va révolutionner toute la documentation. En dehors des manuscrits, elle va permettre de réduire les prêt», les envois à l’étranger, les voyages mêmes aux grands centres dont les périodiques ne doivent pas sortir, ne sont moyen efficace que dans des cas d'exception. On voit les bibliothèque» se doubler d'un service photographique qui va transformer les grands dépôts et les collections spéciales non plus en salles de travail, mais en centres d'émission, d où les documents rayonneront (Morel). Deux voies sont ouvertes: la copie photographique à grandeur réelle. La copie à réduction (le* livre microphotographique, le microfilm).
+d) Mais la copie photographique va révolutionner toute
+la documentation. En dehors des manuscrits, elle va per-
+mettre de réduire les prêt», les envois à l’étranger, les
+voyages mêmes aux grands centres dont les périodiques
+ne doivent pas sortir, ne sont moyen efficace que dans
+des cas d'exception. On voit les bibliothèques se doubler
+d'un service photographique qui va transformer les grands
+dépôts et les collections spéciales non plus en salles de
+travail, mais en *centres d'émission*, d'où les documents
+rayonneront (Morel). Deux voies sont ouvertes: La copie
+photographique à grandeur réelle. La copie à réduction 
+(le livre microphotographique, le microfilm).
 
-Un appareil nouveau, construit comme un appareil d'agrandissement du rnicrophote, permet d obtenir la photocopie des manuscrits, au recto et au verso, d où économie de papier et de place,
+Un appareil nouveau, construit comme un appareil
+d'agrandissement du microphote, permet d'obtenir la
+photocopie des manuscrits, au recto et au verso, d où
+économie de papier et de place,
 
 e) Les photocopies peuvent être de véritables extraits. Elles sont en tout point l’équivalent de copies à la main qui auront été faites dans un livre ou dans une encyclopédie (texte ou image). Mais ce sont des extraits disposés dans l’ordre désiré, si bien qu’en réalité on peut se trouver en présence d un exposé nouveau, d'un véritable livre nouveau, qui n’a jamais été écrit antérieurement* mais dont la pensée qui choisit les documents a pu concevoir le plan, les idées directives, certains détails, sans qu’elle ait été obligée de procéder elle-même aux développements.
 
@@ -9763,7 +9782,8 @@ a) Nous avons proposé, dès 1906, avec Robert Gold-schmidt (I), de donner au li
 
 ====
 
-.. image:: ./pics/pg205_8figures.png
+.. image:: ./pics_small/pg205_8figures.png
+   :width: 60 %
 
 I n. L — Projection sur la table de travail
 
@@ -12172,7 +12192,8 @@ Au XVIIIe siècle, il n’y avait pas d'hommes de lettres vivant de leur plume. 
 
 251  OPERATIONS, FONCTIONS, ACTIVITES  *255*
 
-jourd'hui formait alors le grand tirage, (La Henriadc ne dépasse pas 2,000 exemplaires.) Les hommes de lettres vivaient grâce aux pensions du roi ou aux libéralités des Mécènes. (A. Brule: La vie au XVIIIe siècle. Les gens Je lettres.)
+jourd'hui formait alors le grand tirage, (La Henriadc ne dépasse pas 2,000 exemplaires.) Les hommes de lettres vivaient grâce aux pensions du roi ou aux libéralités des Mécènes. (A. Brule: *La vie au XVIIIe siècle. Les gens
+de lettres*.)
 
 c) Voiçi des exemples de sommes payées à des écrivains : Milton vendit son Paradis perdu au libraire Symons pour cinq livres sterling. Depuis les éditions de l'oeuvre en Angleterre et dans toute l’Europe ont produit plus de millions qu'il n'y avait d'oboles dans ces cinq livres. M. Ohnet a 100,000 lecteurs. Emile Zola a gagné deux à trois millions en écrivant ses romans. Flaubert recevait de son éditeur pour Madame Bovary, pour des droits durant vingt ans. une fois payé, une somme de 500 francs. Un romancier qui peut difficilement produire deux romans par an reçoit 2,500 à 2.700 francs par volume. Avant la guerre en Russie, on payait 500 francs par feuille de 40,000 lettres. En Allemagne, à un auteur qui veut se faire connaître, on payait 60 à 80 marks par feuille. Dans ses Souvenirs, l'éditeur américain, M. Mac Clure. qui avait publié les Aventures de Sherlock Holmes, raconte que. pour les six premiers récits, il versa à Conan Doyle la somme de 6.480 francs, soit 1.080 francs par récit. Pour les six récits suivants, il versa 9,920 francs, soit 1.320 francs par récit. Les honoraires ne cessèrent ensuite d'augmenter, H y a quelques années, quand Conan Doyle publia une nouvelle série d'aventures de son héros favori, l’éditeur américain acheta 1.200,000 (rancs le droit de reproduction aux Etats-Unis. — A I Ouest, rien de nouveau a rapporté à M. Remarque, en francs belges. & peu près douze millions de droits d’auteur.
 
@@ -16625,7 +16646,7 @@ d) Des organismes ont été constitués pour l'étude de la Muséographie. Ainsi
 L’Office International des Musées, organisé par la Commission de Coopération Intellectuelle de la Société des Nations étudie diverses questions intéressant directement les administrations nationales de» BeauxJArts, notamment l'exportation clandestine des œuvres d’art, la formation professionnelle des restaurateurs d'œuvres d'art, les précautions à prendre en cas de transport par voie de mer, la collaboration internationale entre les cabinets de médailles, l’étude des problèmes de la construction moderne des musées, {’unification des catalogues des musées, l'élaboration des méthodes unifiées pour la rédaction de ce* catalogues et à la rédaction des étiquettes placées dan* les musées eux-mêmes, etc. L'office publie la revue Mouneion.
 
 265.3 Historique.
-^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^
 
 a) Noë avait dans l'arche le plus beau musée d’his toire naturelle qui soit. Alexandre le Grand, d'après la tradition plus ou moins vraie, avait au cours de set expéditions militaires, fait rassembler une grande collection d animaux qui servit à Aristote à écrire son histo:re naturelle. Certains pensent que ce fut plutôt une sorte de Jardin Zoologique. Les anciens appelèrent d'abord musée, un temple de Muse*. Puis le nom s'appliqua à tout endroit consacré aux muses, c'est-à-dire à l'étude des belle* lettres, de® sciences et des arts. Tel fut le Musée d’Alexandrie, que Ptolémée II, Philadelphe, fit construire vers
 
@@ -17647,7 +17668,10 @@ Les catalogues universels sont des préfigurations des collections universelles.
 
 L'importance de la matière et le fait que les Tables de la Classification Décimale, dont la 2• édition vient d être achevée, contiennent de nombreuses indications de principes et de méthdea, nous font réduire des développements qui pourraient paraître de proportions démesurées à cette place.
 
-.. image:: ./pics/pg378_classification_biblio.png
+.. _classification_bibliographiqe:
+
+.. image:: ./pics_small/pg378_classification_biblio.png
+   :width: 60 %
 
 LA CLASSIFICATION BIBLIOGRAPHIQUE :
 
@@ -18998,7 +19022,8 @@ B. Catalogue» collectif».
 
 Dans chaque pays un catalogue collectif notamment des ouvrages possédés par le pays. Eventuellement catalogues collectifs locaux. Le Répertoire Bibliographique Universel par auteurs combiné avec des indications sur le lieu de dépôt des ouvrages et faisant fonction de catalogue collectif des grandes Bibliothèques du monde.
 
-.. image:: ./pics/pg406_repertoire_biblio_universel.png
+.. image:: ./pics_small/pg406_repertoire_biblio_universel.png
+   :width: 60 %
 
 Le Répertoire Bibliographique Universel au Palais Mondial. Le Mundaneum.
 
@@ -19148,7 +19173,8 @@ c) L'œuvre d'Encyclopédie peut être réalisée fragmen-taireinent et par part
 
 d) Comme la Bibliographie et la Bibliothèque, l’Encyclopédie sous ces cinq formes présente ces trois degrés : I" méthode d'organisation en gnérnl utilisable par chacun, abstraction faite de toute liaison de coopération avec autrui ; 2” application génraliséc des méthode» de telle sorte que des ensembles puissent être réalisé, facilitant les travaux indivuduela; 3" irganisation formelle de cettte coopération à l'intermédiaire d'un organisme général, élaborant ou dirigeant des travaux et formant des collection» centrales, assurant le fonctionnement du réseau. Celui-ci est h rattacher au Réseau Universel de la Documentation. 1 e nom d e Encyclopedia Universalis » lui serait réservé.
 
-.. image:: ./pics/pg409_encyclo_documentaire.png
+.. image:: ./pics_small/pg409_encyclo_documentaire.png
+   :width: 60 %
 
 422.31 Dossiers encyclopédiques documentaires.
 """""""""""""""""""""""""""""""""""""""""""""""
@@ -19571,7 +19597,8 @@ I. Les Milieux de la Nature nuisibles ou utiles à l’homme. La protection cont
 
 1. Bibliographie (15.646.346 fiches), 27.000 consultations. — 2. Bibliothèque (175,000 unités). — 3. Hémé* rothèque (80.000 spécimens). — 4. Archives encyclopédiques documentaires (10,000 dossiers. — I million de
 
-.. image:: ./pics/pg418_orga_mondiale.png
+.. image:: ./pics_small/pg418_orga_mondiale.png
+   :width: 60 %
 
 FONCTIONS OuTRAVAiL ScieNTiFÎQUE
 ¿^Conservation o, v» Science
@@ -19667,7 +19694,8 @@ Les instruments à mettre en œuvre sont la Constitution mondiale, le Plan mondi
 La Cité mondiale est conçue comme devant avoir trois buts principaux. 1° Etre un instrument pratique pour .a coopération internationale, dans tous les domaines, à la manière dont, dans chaque pays, la Capitale facilite des coopérations au degré national. 2" Offrir l'occas on, toute» forces unies, de réaliser une cité modèle parce qu’elle serait réalisée selon un plan, en une fois, et soustraite ainsi aux contingences des cités anciennes difficiles à transformer. 3" Enfin constituer une représentation et un symbole permanent de l’unité Humaine.
 
 
-.. image:: ./pics/pg419_action_centre_mondiale.png
+.. image:: ./pics_small/pg419_action_centre_mondiale.png
+   :width: 60 %
 
 L’ACTION DU CENTRE MONDIAL.
 
@@ -19691,7 +19719,10 @@ tion de l'idée. La Cité Mondiale sera un Livre colossal, dont les édifices et
 
 Et ainsi vraiment une édification immense s’élèverait avec le temps: * de la fiche à la Cité mondiale ».
 
-.. image:: ./pics/pg420_orga_mondiale.png
+.. _organisation_mondiale:
+
+.. image:: ./pics_small/pg420_orga_mondiale.png
+   :width: 80 %
 
 ORGANISATION MONDIALE.
 
@@ -20006,7 +20037,38 @@ B. Une hypothèse moins absolue, mais très radicale encore, supposerait que tou
 
 de chacun. Le Livre Universel formé de tou* les Livres, serait devenu très approximativement une annexe du Cerveau, substratum lui-même de la mémoire, mécanisme et instrument extérieur à l’esprit, mais si près de lui et si apte à son usage que ce serait vraiment une sorte d’organe annexe, appendice exodermique. (Ne repoussons pas ici l’image que nous fournit la structure de l'heetoplasme.) Cet organe aurait fonction de rendre notre être * ubique et éternel s.
 
-C, Pe là une troisième hypothèse, réaliste et concrète celle-là. qui pourrait, avec le temps, devenir fort réalisable. Ici la Table de Travail n’est plus chargée d'aucun livre, A leur place se dresse un écran et à portée un téléphone. Là-bas au loin, dans un édifice immense, sont tous le* livres et tous Us renseignements, avec tout l’espace que requiert leur enregistrement et leur manutention, avec tout l’appareil de ses catalogues, bibliographies et index, avec toute la redistribution des données sur fiches, feuilles et en dossiers, avec le chois et la combinaison opérés par un personnel permanent bien qualifié. Le lieu d’emmagasinement et de classement devient aussi un lieu de distribution, à distance avec ou sans fil. télévision ou télétaugrapbie. De là pn fait apparaître sur l'écran la page à lire pour connaître In réponse aux questions posées par téléphone, avec ou sans fil. Un écran serait double, quadruple ou décuple s'il s’agissait de multiplier les textes et les documents à confronter simultanément; il y aurait un Haut parleur si la vue devrait être aidée par une donnée ouïe, si la vision devrait être complétée par une audition. Une telle hypothèse, un Wells certes l'aimerait. Utopie aujourd’hui parce qu'elle n'existe encore nulle part, mais elle pourrait bien devenir la réalité de demain pourvu que se perfectionnent encore nos méthodes et notre instrumentation. Et ce perfectionnement pourrait aller peut-être jusqu'à rendre automatique l’appel de* document» sur l’écran (simples numéros de classification, de livres, de pages) ; automatique aussi la projection consécutive, pourvu que toute» le» données aient été réduites en leurs éléments analytiques et disposées pour être mises en oeuvre par les machines à sélection.
+C. De là une troisième hypothèse, réaliste et concrète
+celle-là, qui pourrait, avec le temps, devenir fort réali-
+sable. Ici la Table de Travail n’est plus chargée d'aucun
+livre. A leur place se dresse un écran et à portée un
+téléphone. Là-bas au loin, dans un édifice immense,
+sont tous les livres et tous les renseignements, avec tout
+l’espace que requiert leur enregistrement et leur manu-
+tention, avec tout l’appareil de ses catalogues, bibliogra-
+phies et index, avec toute la redistribution des données
+sur fiches, feuilles et en dossiers, avec le choix et la
+combinaison opérés par un personnel permanent bien
+qualifié. Le lieu d’emmagasinement et de classement
+devient aussi un lieu de distribution, à distance avec ou
+sans fil, télévision ou télétaugraphie. De là on fait
+apparaître sur l'écran la page à lire pour connaître la
+réponse aux questions posées par téléphone, avec ou
+sans fil. Un écran serait double, quadruple ou décuple
+s'il s’agissait de multiplier les textes et les documents à
+confronter simultanément; il y aurait un haut parleur
+si la vue devrait être aidée par une donnée ouïe, si la
+vision devrait être complétée par une audition. Une telle
+hypothèse, un `Wells<http://en.wikipedia.org/wiki/A_Modern_Utopia>`_ certes l'aimerait. Utopie aujourd’hui
+parce qu'elle n'existe encore nulle part, mais elle pour-
+rait bien devenir la réalité de demain pourvu que se
+perfectionnent encore nos méthodes et notre instrumen-
+tation. Et ce perfectionnement pourrait aller peut-être
+jusqu'à rendre automatique l’appel des documents sur
+l’écran (simples numéros de classification, de livres, de
+pages) ; automatique aussi la projection consécutive,
+pourvu que toutes les données aient été réduites en leurs
+éléments analytiques et disposées pour être mises en
+oeuvre par les machines à sélection.
 
 De telles hypothèses, toutes imaginatives qu'elles soient, la Bïbliologie — science systématique et raisonnée du livre — doit leur faire une place. Toute science de nos jours n’arrive-t-elle pas à être guidée par quelque hypothèse limite qui apparut comme une finalité synthétique, protégeant contre la dispersion et l'égarement dans 1» dédale infini des petits progrès analytiques. Si la chimie est devenue une science formidable, l'hypothèse, gratuite au début, de l'unité de la matière y est bien pour beaucoup de choses. Et les progrès de l'aviation ont été déterminés par l’hypothèse mythologique d'Icare le Volant.
 
@@ -20132,7 +20194,10 @@ Syst.-Catal.
 
 ====
 
-.. image:: ./pics/pg373bis_mundaneum.png
+.. le_palais_mondial:
+
+.. image:: ./pics_small/pg373bis_mundaneum.png
+   :width: 60 %
 
 LE PALAIS MONDIAL - LE MUNDANEUM.
 
@@ -20466,7 +20531,7 @@ Paul OTLET.
 1934.07.03.
 
 
-.. image:: pics/pg999_fermeture.png
+.. image:: ./pics_small/pg999_fermeture.png
    :scale: 40 %
 
    

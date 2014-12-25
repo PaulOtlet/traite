@@ -4,6 +4,7 @@
    contain the root `toctree` directive.
 
 Traite de Documentation (1934)
+===============================
 
 
 .. toctree::

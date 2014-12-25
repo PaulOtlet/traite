@@ -1,0 +1,12 @@
+# http://adaptivepatchwork.com/2012/03/01/mind-the-end-of-your-line/
+# These files are text and should be normalized (convert crlf to lf)
+*.rst     text
+*.md      text
+*.tex     text
+*.py      eol=lf
+
+# Images should be treated as binary
+# (binary is a macro for -text -diff)
+*.png     binary
+*.jepg    binary
+*.pdf     binary
