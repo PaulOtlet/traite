@@ -3,10 +3,20 @@
 *.rst     text
 *.md      text
 *.tex     text
+
+# Sphinx files
+Makefile  eol=lf
+make.bat  text
+
 *.py      eol=lf
+
+*.sh      eol=lf
+
+
 
 # Images should be treated as binary
 # (binary is a macro for -text -diff)
 *.png     binary
-*.jepg    binary
+*.jpeg    binary
+*.jpg     binary
 *.pdf     binary

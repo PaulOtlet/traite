@@ -1169,7 +1169,7 @@ Dans le présent exposé, on a combiné les deux méthodes.
 14 PROBLÈMES GÉNÉRAUX DE LA BIBLIOLOGIE
 ========================================
 
-Comme toute science la Bibliologie a un pióbleme ion-camemal sur lequel t»e concentrent constamment tous les eüorU. Puisque le document consiste essentiellement en un mécanisme de transmission de la pensée par 1 écriture et la lecture, ce problème peut être exprimé en ces termes; a J Lire la plus grande quantité, b) dans le moindre temps, c) avec le minimum de peine et de fatigue, a) le maximum d assimilation, e) le maximum de mémo nsat.on, J) le maximum de réaction intellectuelle (travail ne la peinée), g) le maximum d agrément,
+Comme toute science la Bibliologie a un problème ion-camemal sur lequel t»e concentrent constamment tous les eüorU. Puisque le document consiste essentiellement en un mécanisme de transmission de la pensée par 1 écriture et la lecture, ce problème peut être exprimé en ces termes; a J Lire la plus grande quantité, b) dans le moindre temps, c) avec le minimum de peine et de fatigue, a) le maximum d assimilation, e) le maximum de mémo nsat.on, J) le maximum de réaction intellectuelle (travail ne la peinée), g) le maximum d agrément,
 
 1. Pour faire progresser la bibliologie il importe de pré ciser, de systématiser et d étendre les recherches nouvelles. Les théories reposent souvent sur des données incomplètes, vagues, livrées par le hasard plutôt que choisies,
 
