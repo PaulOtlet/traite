@@ -3,6 +3,7 @@
 *.rst     text
 *.md      text
 *.tex     text
+*.py      -text
 
 # Sphinx files
 Makefile  eol=lf
