@@ -15798,15 +15798,15 @@ ont cet objet au se;n des grandes institutions, principalement les bibliothèque
 
 b) Les Offices sont nés de deux nécessités : Io Celle de donner plus d'ampleur au travail bibliographique en le confiant à un personnel spécialisé qui puisse lui assurer la rapidité, la régularité et la continuité qui font défaut aux travaux entrepris par des auteurs individuels et vo> lontaires. L'organisation la plus efficiente de la bibliographie est en effet devenue uns fonction du monde scientifique, eu égard & la continuité et à l'efficience de la recherche scientifique elle-même.
 
-2° La nécessité de rendre ce» travaux indépendants de l’impression trop onéreuse par leur extension même. Les Offices ont pu poursuivre leurs travaux à l'état de manuscrit permanent.
+2° La nécessité de rendre ces travaux indépendants de l’impression trop onéreuse par leur extension même. Les Offices ont pu poursuivre leurs travaux à l'état de manuscrit permanent.
 
-c) Les travaux des offices sont donc tantôt à l'état de prototype, or’ginaux et non publiés, tantôt & l’état d’impression. Ils sont ou non accessibles au public, gratuitement ou moyennant rémunération : on peut les consulter sur place où seules des copies sont délivrées ap.-àj demande par correspondance.
+c) Les travaux des offices sont donc tantôt à l'état de prototype, originaux et non publiés, tantôt à l’état d’impression. Ils sont ou non accessibles au public, gratuitement ou moyennant rémunération : on peut les consulter sur place où seules des copies sont délivrées ap.-àj demande par correspondance.
 
-d) L'Office International de Bibliographie, qui a été créé en 1893. est le premier office en ordre de date ei il a pris immédiatement la forme coopérative et Internationale. Depuis les offices se sont multiplié, soit généraux pour un pays, soit spéciaux pour une branche de science ou d'activité. Les bibliothèques qui avaient réalisé d'admirables catalogues de leurs livres, les éditeurs c!e bibliographies de livres qui avaient créé de8 organisations pour leurs publications, ne sont trouvés débordés quand à la fin du siècle dernier, les périodiques scientifiques ont été produits de toutes parts et ont eu bientôt concentré le plus récent et le plus important de la production en sciences. Il était impossible à chaque bibliothèque de répertorier le contenu des périodiques qu’elle recevait. La fonction nouvelle créa Vorgane nouveau.
+d) L'Office International de Bibliographie, qui a été créé en 1893. est le premier office en ordre de date et il a pris immédiatement la forme coopérative et Internationale. Depuis les offices se sont multiplié, soit généraux pour un pays, soit spéciaux pour une branche de science ou d'activité. Les bibliothèques qui avaient réalisé d'admirables catalogues de leurs livres, les éditeurs c!e bibliographies de livres qui avaient créé de8 organisations pour leurs publications, ne sont trouvés débordés quand à la fin du siècle dernier, les périodiques scientifiques ont été produits de toutes parts et ont eu bientôt concentré le plus récent et le plus important de la production en sciences. Il était impossible à chaque bibliothèque de répertorier le contenu des périodiques qu’elle recevait. La fonction nouvelle créa Vorgane nouveau.
 
 r) Mais de nos jours un mouvement nouveau se dessine.
 
-I es grandes bibliothèques ont a ce point développé leurs séries et collections qu’elles sont devenues de véritables centres de documentation intégrale. (I) A côté d'elles, surtout dan» les pays anglo-saxons, se sont multipliées 1rs Bibliothèques spéciales (Special Libraries), qui sont devenues de véritables offices de documentation (Information Bureau).
+I es grandes bibliothèques ont a ce point développé leurs séries et collections qu’elles sont devenues de véritables centres de documentation intégrale. (I) A côté d'elles, surtout dans les pays anglo-saxons, se sont multipliées les Bibliothèques spéciales (Special Libraries), qui sont devenues de véritables offices de documentation (Information Bureau).
 
 261.2 Opérations d’un Office.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -15817,16 +15817,16 @@ I. La Bibliographie proprement dite organisée en répertoires de la manière di
 
 II. Répertoires autres que le Répertoire Bibliographique. 1" Répertoires biographiques : renseignements sur les auteur» (à combiner avec le répertoire bibliographique par auteurs). 2° Répertoires des pseudonymes (idem). 31 Répertoire des Editeurs (à combiner avec le répertoire général des personnes, collectivités et matières). 4° Répertoire des termes bibl-ographiques, en annexe. 5° Répertoire des abréviations (à combiner les unes avec les termes bibliographiques, les autres avec le Répertoire Bibliographique des auteurs, périodiques). 6° Répertoire des mots-matières (à combiner avec l'Index alphabétique des Tables de la classification décimale).
 
-Ces divers répertoires existent en germe et ont fait l’objet de discussions ou de simples études. L’Office International de Documentation »'est attaché à les concevoir comme des parties d'un Répertoire Universel et s'appuyant les uns sur les autres.
+Ces divers répertoires existent en germe et ont fait l’objet de discussions ou de simples études. L’Office International de Documentation s'est attaché à les concevoir comme des parties d'un Répertoire Universel et s'appuyant les uns sur les autres.
 
-IN. La Bibliographie est une partie de la Catalographie Générale des Documents. Celle-ci s'est étendue aussi aux estampe» et gravures, aux photographies, aux cartes et plans, à la musique, à l'épigraphie, aux monuments et médailles, aux disques phonographiques, aux films cinématographiques. les pièces des musées et les objets présentés pour des buts de documentation. Au delà les données de la nature, de la technique, de l'archéologie. D'où cette conséquence: nécessité de concevoir un catalogue général embrassant toutes les espèces et toutes ics formes de documents, élargissant les cadres du Répertoire Bibliographique Universel qui n'en est donc qu'une partie, et traitant des autre» partie» selon une méthode analogue (notice, description, fiche ou élément pour les établir, classification, coopération).
+IN. La Bibliographie est une partie de la Catalographie Générale des Documents. Celle-ci s'est étendue aussi aux estampes et gravures, aux photographies, aux cartes et plans, à la musique, à l'épigraphie, aux monuments et médailles, aux disques phonographiques, aux films cinématographiques. les pièces des musées et les objets présentés pour des buts de documentation. Au delà les données de la nature, de la technique, de l'archéologie. D'où cette conséquence: nécessité de concevoir un catalogue général embrassant toutes les espèces et toutes ics formes de documents, élargissant les cadres du Répertoire Bibliographique Universel qui n'en est donc qu'une partie, et traitant des autres parties selon une méthode analogue (notice, description, fiche ou élément pour les établir, classification, coopération).
 
 IV. A un degré ultérieur la catalographie peut s'étendre indistinctement à tout ce qui peut aider le travail scientifique ou la vie pratique et donner lieu ainsi à nombre de Répertoires utiles.
 
 261.3 La recherche bibliographique.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-I.a recherche bibliographique donne lieu au* observations suivantes :
+I.a recherche bibliographique donne lieu aux observations suivantes :
 
 a) La recherche peut porter sur un ouvrage, un auteur, une question, une matière ou sur une science toute entière.
 
@@ -15836,24 +15836,24 @@ c) La recherche peut s'opérer suivant deux modes : I" Avec des répertoires bie
 
 ====
 
-*336*
+*336*  LE LIVRE ET LE DOCUMENT  262
 
-plets, U bibliographie s en constitue par voie descendante en partant des premiers travaux et en suivant T histoire du développement. 2° Dans le cas contraire, par voie ascendante, en partant des dates les plu» récentes pour remonter progressivement dans le passé. On bénéficie ainsi immédiatement des recherches bibliographiques faites par le* auteurs les plus récents. C'est autant de travail économisé.
+plets, la bibliographie s en constitue par voie descendante en partant des premiers travaux et en suivant T histoire du développement. 2° Dans le cas contraire, par voie ascendante, en partant des dates les plus récentes pour remonter progressivement dans le passé. On bénéficie ainsi immédiatement des recherches bibliographiques faites par les auteurs les plus récents. C'est autant de travail économisé.
 
 d) Pour la recherche sur un sujet déterminé : 1° Voir un Manuel des Bibliographies qui renseigne les Bibliographies spéciales existantes. 2° Consulter la dernière et la plus complète de ces bibliographies. 3° Les bio-bibliographies de« savants qui se sont occupés de la matière. 41 Les diverses bibliographies nationales, spéciales et universelles, s'il n’y a pas de bibliographie propre a la matière ou si celle qui existe a besoin d’être contrôlée à raison des incertitudes dan* les notices. 5° Mise à jour de ces données en consultant les bibliographies périodiques concernant la matière et les bibliographies périodiques générales qui embrassent toutes les matières.
 
-e) Dans les Offices de documentation et dans les Bibliothèques savantes et spéciales, les recherches se font sous la direction d'un bibliothécaire ou « documentaliste » expérimenté. Les chercheurs ont donc a leur disposition le* catalogues de l'institution, les index et collections bibliographiques, le bibliothécaire.
+e) Dans les Offices de documentation et dans les Bibliothèques savantes et spéciales, les recherches se font sous la direction d'un bibliothécaire ou « documentaliste » expérimenté. Les chercheurs ont donc a leur disposition les catalogues de l'institution, les index et collections bibliographiques, le bibliothécaire.
 
-f) Ces recherches seront facilitées a mesure que sera réalisé, avec centre et station, le Réseau Universel de Documentation. Dès ce moment, chacun peut s’adresser a son centre, lOffice International de Bibliographie h Bruxelles, au Palais Mondial.
+f) Ces recherches seront facilitées a mesure que sera réalisé, avec centre et station, le Réseau Universel de Documentation. Dès ce moment, chacun peut s’adresser a son centre, lOffice International de Bibliographie à Bruxelles, au Palais Mondial.
 
 261.4 Comment se procurer les œuvres mentionnées dans les bibliographies.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Pour les livres modernes, l'indication du lieu d’édition seul suffit pour aboutir a l'éditeur, en recourant aux bibliographies nationales. Pour les périodiques, revues, annuaires, universellement connus, il suffit en général d écrire à la maison d'édition pour se les procurer. Pour les ouvrages de mérite déjà anciens qui ne sont pas dans le commerce, leurs prix peuvent atteindre de* taux élevé* et le lecteur est désarmé. Il faut alors écrire et 7 fois sur 10 peut-etre, on ne reçoit pas de réponse. Parfois, pour avoir un simple numéro de revue on exige uîi abonnement d'un an. (Allemagne. Etats-Unis, Angleterre). Dans ce cas on peut conseiller d écrire à 1 auteur aux bons soins de l'éditeur dont on connaît l’adresse.
+Pour les livres modernes, l'indication du lieu d’édition seul suffit pour aboutir a l'éditeur, en recourant aux bibliographies nationales. Pour les périodiques, revues, annuaires, universellement connus, il suffit en général d écrire à la maison d'édition pour se les procurer. Pour les ouvrages de mérite déjà anciens qui ne sont pas dans le commerce, leurs prix peuvent atteindre des taux élevé* et le lecteur est désarmé. Il faut alors écrire et 7 fois sur 10 peut-etre, on ne reçoit pas de réponse. Parfois, pour avoir un simple numéro de revue on exige uîi abonnement d'un an. (Allemagne. Etats-Unis, Angleterre). Dans ce cas on peut conseiller d écrire à l'auteur aux bons soins de l'éditeur dont on connaît l’adresse.
 
 Trois organisations auxiliaires seraient désirables :
 
-1° Un vaste dépôt mondial de périodiques vendable* au numéro (Librairie des Périodiques).
+1° Un vaste dépôt mondial de périodiques vendables au numéro (Librairie des Périodiques).
 
 2" Un répertoire international des ouvrages d'occasion (offres et demandes).
 
@@ -15861,9 +15861,9 @@ Trois organisations auxiliaires seraient désirables :
 
  262
 
-d'établir ces deux derniers répertoires en annexe à ses répertoires. Il a été amorcé dan» une petite mesure.
+d'établir ces deux derniers répertoires en annexe à ses répertoires. Il a été amorcé dans une petite mesure.
 
-Les auteurs devraient conserver quelques exemplaires de leurs écrits, surtout de» tirés à part, pour pouvoir parer aux demandes éventuelles et sporadiques.
+Les auteurs devraient conserver quelques exemplaires de leurs écrits, surtout des tirés à part, pour pouvoir parer aux demandes éventuelles et sporadiques.
 
 262 Les Bibliothèques. Collections de Livres.
 ----------------------------------------------
@@ -15882,9 +15882,9 @@ Par Bibliothèque on entend une collection d ouvrages choisis selon certains pri
 
 Le mot Bibliothèque désigne donc un organisme dans un sens restreint, s’entend aussi des lieux aménagés spécialement pour rendre la lecture aisée et agréable. On applique encore le mot à la désignation du meuble où sont rangés des livres.
 
-Les Bibliothèques publiques dignes de ce nom sont des collections d’ouvrages systématiquement choisis dans tout—s les branches des connaissance» ou dans la spécialité qui fait l'objet de l'institution, parfaitement catalogues et largement mis à la disposition des lecteur* qui peuvent y recourir comme à de vastes offices d'information et de documentation.
+Les Bibliothèques publiques dignes de ce nom sont des collections d’ouvrages systématiquement choisis dans toutes les branches des connaissances ou dans la spécialité qui fait l'objet de l'institution, parfaitement catalogues et largement mis à la disposition des lecteur* qui peuvent y recourir comme à de vastes offices d'information et de documentation.
 
-Le» Bibliothèques comprennent en même temps tout le produit du travail intellectuel et le» moyen» d'accroître ce* produits. Elles sont à la fois les magasins, les laboratoires et les instruments de la science. Au point de vue de 1 enseignement et de la diffusion des connaissances, elles sont le9 alliées et les compléments de l'EcoU: et de l'Univeraité, et doivent fonctionner comme éléments mêmes de l'organisation de l'éducation du Peuple.
+Les Bibliothèques comprennent en même temps tout le produit du travail intellectuel et les moyen» d'accroître ces produits. Elles sont à la fois les magasins, les laboratoires et les instruments de la science. Au point de vue de l'enseignement et de la diffusion des connaissances, elles sont le9 alliées et les compléments de l'EcoU: et de l'Univeraité, et doivent fonctionner comme éléments mêmes de l'organisation de l'éducation du Peuple.
 
 LE LIVRE ET LE DOCUMENT
 
@@ -15901,14 +15901,14 @@ La Bibliothèque publique est le véritable organisme social qui doit faire naî
 
 L'expérience prouve que ce ne sont pas les lecteurs qui manquent mais les bibliothèques qui ne sont pas adaptées aux lecteurs.
 
-La Bibliothèque est un • laboratoire », c’est le labora toire ou atelier intellectuel outillé et agencé à cette fin. Carlyle a dit : « La véritable université, à notre époque, est une collection de livres. »
+La Bibliothèque est un « laboratoire », c’est le labora toire ou atelier intellectuel outillé et agencé à cette fin. Carlyle a dit : « La véritable université, à notre époque, est une collection de livres. »
 
 262.12 Histoire des Bibliothèques.
 """"""""""""""""""""""""""""""""""""""""""
 
-a) L’histoire des bibliothèques peut se diviser en quatre périodes : 1° dans les temps anciens (Egypte, Assyrie, Rome); 2n au moyen âge; l'oeuvre des moines; 3° au temps moderne ; 4' a l’époque actuelle (bibliothèques, en Amérique). (I)
+a) L’histoire des bibliothèques peut se diviser en quatre périodes : 1° dans les temps anciens (Egypte, Assyrie, Rome); 2n au moyen âge; l'œuvre des moines; 3° au temps moderne ; 4' a l’époque actuelle (bibliothèques, en Amérique). (I)
 
-Les plus anciennes bibliothèques en Egypte et en Mésopotamie ont été les archives des rois et celles des I ernples. On n’y retrouve preuve de lecture publique. Même en Grèce où toutes les formes de littérature ont été développée* au plus haut point, et où l’habileté h lire et à écrire a été presque générale, beaucoup plus de personnes écoutaient les discours, les pièces de théâtre et la poésie qu’il n’en était qui lisaient.
+Les plus anciennes bibliothèques en Egypte et en Mésopotamie ont été les archives des rois et celles des I ernples. On n’y retrouve preuve de lecture publique. Même en Grèce où toutes les formes de littérature ont été développées au plus haut point, et où l’habileté à lire et à écrire a été presque générale, beaucoup plus de personnes écoutaient les discours, les pièces de théâtre et la poésie qu’il n’en était qui lisaient.
 
 On pense que c’est Assurbanipal (568-628 av. J. C.). petit-fils de Sennacherib. qui, le premier, fit une collection d’œuvres littéraires et l’aménagea de manière à pouvoir s'en servir. Les débris de cette bibliothèque forment une masse assez considérable pour que leur * I
 (I) Sur l’histoire des bibliothèques, consulter :
@@ -15921,7 +15921,7 @@ Il y a eu des bibliothèques en Chaldée, en Perse, en Egypte (Osymandias) et le
 
 La chute de l’Empire romain amena la destruction des bibliothèques. Au moyen âge, les bibliothèques se reconstituent lentement dans les monastères et les écoles épiscopale*. La fondation des Universités entraîna celle des Bibliothèques (la Sorbonne). A la Renaissance un grand développement se produisit grâce à la protection des rois et des princes amis des lettres. La révolution nationalisa les bibliothèques (Bibliothèque Nationale). Les temps modernes créèrent la Bibliothèque Publique, dont le type le plus accompli a été réalisé dans les Etats-Unis et l’Angleterre.
 
-Les bibliothèques chrétiennes du moyen âge étaient principalement consacrées à de» livres religieux. Quand l'Eglise devint proéminente au point de vue temporel aussi bien que spirituel, les églises et les monastères devinrent des centres d'études laïques.
+Les bibliothèques chrétiennes du moyen âge étaient principalement consacrées à des livres religieux. Quand l'Eglise devint proéminente au point de vue temporel aussi bien que spirituel, les églises et les monastères devinrent des centres d'études laïques.
 
 Dans les pays neufs comme les Etats-Unis, les bibliothèques ont été créées pour l’instruction et la documentation de chacun. Les bibliothèques les plus importantes se trouvent là où il y a le plus de population agglomérée. En France, en Allemagne, en Italie, en Espagne, en Belgique, en Hollande, au contraire, les bibliothèques sont de dates anciennes, elles sont encore des salles de musées de livres précieux ou curieux, fréquentées moins par le grand public que par des érudits. L'idée de la bibliothèque pour tous y est récente et n’a pris pied que peu à peu. C’est beaucoup plus le hasard qu’une pensée réfléchie qui a présidé à son développement.
 
@@ -15931,36 +15931,36 @@ L’évolution de la Bibliothèque s’est faite parallèlement à celle du Livr
 
 G» constitution et la disposition intérieure des bibliothèques ont toutes une évolution influencée par le nombre croissant des Livres existants et des lecteurs, obligeant à des modes de plus en plus resserrés d’emmaga-sinement, tout en permettant l’accès facile des livres.
 
-Les anciens papyrus étaient disposés dans des casiers ; le* manuscrits du moyen âge dans des coffres. Plus tard on dispose les volumes (grands in-folio) sur des pupitres et on les y enchaîne. Puis les livres, rendus à la liberté,
+Les anciens papyrus étaient disposés dans des casiers ; les manuscrits du moyen âge dans des coffres. Plus tard on dispose les volumes (grands in-folio) sur des pupitres et on les y enchaîne. Puis les livres, rendus à la liberté,
 
 
 ====
 
 *338*  LE LIVRE ET LE DOCUMENT  262
 
-sont placés dans des armoires, le long des murs. Ensuite on a formé dss alcôves et des étages. Les magasins ont été séparés de la salle de lecture dont les proportions deviennent toujours plus grandes. Plus récemment on a multiplié les salles de lecture que l'on spécialise et répartit k proximité des magasins spéciaux.
+sont placés dans des armoires, le long des murs. Ensuite on a formé dss alcôves et des étages. Les magasins ont été séparés de la salle de lecture dont les proportions deviennent toujours plus grandes. Plus récemment on a multiplié les salles de lecture que l'on spécialise et répartit à proximité des magasins spéciaux.
 
 c) D’une manière générale, les bibliothèques ont passé par plusieurs stades, avant d’être telles que s'offrent à nous aujourd’hui les plus perfectionnées d'entr’elles.
 
 Ier stade : Les bibliothèques sont « épigraphiques » sur les murs des Temples et de§ Palais. — 2® stade : Les bibliothèques sont celles des souverains (La Librairie des Rois). •— stade: Les bibliothèques s’ouvrent au
 
-public, ayant encore peu de livres et peu de lecteurs; ceux-ci étaient installés dans des salles au milieu des livres. — 4,; stade : Les livres et les lecteurs augmentant, on crée une salle de lecture publique et un magasin de livres séparés. — 5r stade: Institution des Bibliothèques nationales. — 6° stade : La salle de lecture s'agrandit, mais on l'aménage en salle de travail en y laissant des livres de références qui d »pensent de recourir sans cesse aux magasins (ex. : Bibliothèque Nationale, Bibliothèque du Britisb Muséum). — 7° stade ; On ajoute à la salle dr travail une salle pour les catalogues et les recueils bibliographiques. — 8° stade : On ajoute des salles de travail spéciales, à proximité des magasins. On y dépose des ouvrages de références et des duplicata de catalogues spéciaux (New York). — 9r stade: On pousse plus loin encore la spécialisation. On crée des cabinets de travail particuliers pour les travailleurs choisis et des « boxes » pour consultation au milieu meme des magasins de livres (Harvard). — JO** stade : la bibliothèque »’adjoint musée, archives, service dr documentation (dossiers) ou va elle-même s'organiser en service spécialisé auprès des institutions qui sont en ordre principal consacrées k l'un ou à l’autre de ces objets. La bibliothèque ainsi s’étend à tout le domaine de la documentation.
+public, ayant encore peu de livres et peu de lecteurs; ceux-ci étaient installés dans des salles au milieu des livres. — 4,; stade : Les livres et les lecteurs augmentant, on crée une salle de lecture publique et un magasin de livres séparés. — 5r stade: Institution des Bibliothèques nationales. — 6° stade : La salle de lecture s'agrandit, mais on l'aménage en salle de travail en y laissant des livres de références qui d »pensent de recourir sans cesse aux magasins (ex. : Bibliothèque Nationale, Bibliothèque du Britisb Muséum). — 7° stade ; On ajoute à la salle dr travail une salle pour les catalogues et les recueils bibliographiques. — 8° stade : On ajoute des salles de travail spéciales, à proximité des magasins. On y dépose des ouvrages de références et des duplicata de catalogues spéciaux (New York). — 9r stade: On pousse plus loin encore la spécialisation. On crée des cabinets de travail particuliers pour les travailleurs choisis et des « boxes » pour consultation au milieu meme des magasins de livres (Harvard). — JO** stade : la bibliothèque »’adjoint musée, archives, service dr documentation (dossiers) ou va elle-même s'organiser en service spécialisé auprès des institutions qui sont en ordre principal consacrées à l'un ou à l’autre de ces objets. La bibliothèque ainsi s’étend à tout le domaine de la documentation.
 
 262.13 Développement actuel des Bibliothèques. Bibliothèques dans les divers pays.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Le mot bibliothèque est élastique, il s’applique il un meuble contenant quelques ouvrages ou h une collection de millions de volumes telle que celle du Britisb Muséum de Londres et de la Bibliothèque Nationale de Paris.
+Le mot bibliothèque est élastique, il s’applique il un meuble contenant quelques ouvrages ou à une collection de millions de volumes telle que celle du Britisb Muséum de Londres et de la Bibliothèque Nationale de Paris.
 
-Les bibliothèques se sont, de nos jours, considérablement multipliées, elles ont ajouté à leurs services, leurs collections de livres se sont accrues, et le public s’adresse k elles en plus grand nombre. Exemples : bibliothèque possédant 4 millions de volumes (Paris, Nationale) ; desservant une moyenne de mille lecteurs par jour (Londres. Britisb Muséum) ; disposant d'un personnel de 400 personnes (Washington. Library of Congress) ; ayant des sections pour les imprimés, les revues, les journaux, les manuscrits, les estampes, les photogra-
+Les bibliothèques se sont, de nos jours, considérablement multipliées, elles ont ajouté à leurs services, leurs collections de livres se sont accrues, et le public s’adresse à elles en plus grand nombre. Exemples : bibliothèque possédant 4 millions de volumes (Paris, Nationale) ; desservant une moyenne de mille lecteurs par jour (Londres. Britisb Muséum) ; disposant d'un personnel de 400 personnes (Washington. Library of Congress) ; ayant des sections pour les imprimés, les revues, les journaux, les manuscrits, les estampes, les photogra-
 phies, la musique, les impressions pour aveugles (Washington, idem).
 
-Les magasins de livres (stocks) sont k peu près entièrement métalliques ; ils sont à étages très rapprochés (12 étages et plus) d'une capacité de plusieurs millions dr volumes (Washington). A la nouvelle Bibliothèque d- l'Université d’Harvard, 60 professeurs ont un cabinet personnel, au contact même de ce magasin, ils peuvent y recevoir leurs étudiants, ils ont la clé de la bibliothèque ce qui leur permet d’y venir travailler la nuit comme le jour; d’autre part, 300 boxes munis de tables sont aménagés dans le magasin pour permettre le travail près des rayons k des étudiants gradués munis d’une autorisation spéciale. A l’étage supérieur. 34 salles de travail, avec bibliothèque spéciale de livres d usage courant, sont aménagées pour le travail des étudiants dans chacune des sections ou départements (mathématiques, français, allemand. sanscrit). Le British Muséum à Londres, la Public Library de New York, la Bibliothèque de Harvard, pour ne citer que celles-là. sont ouvertes de 9 heures du matin à 10 heures du so;r. La Bibliothèque du Congrès a un personnel de plusieurs centaines d’employés, celle de Harvard en a plus de 100. On imprime les catalogues de bibliothèque sur fiches et de grandes salles de catalogues précèdent les salles de travail. L'on tend vers des collée tions complétées. Par ex. sur la question de l'sefficiency*, la Bibliothèque de New York a publié une liste de 1,200 titres et elle possède tous ces ouvrages.
+Les magasins de livres (stocks) sont à peu près entièrement métalliques ; ils sont à étages très rapprochés (12 étages et plus) d'une capacité de plusieurs millions dr volumes (Washington). A la nouvelle Bibliothèque d- l'Université d’Harvard, 60 professeurs ont un cabinet personnel, au contact même de ce magasin, ils peuvent y recevoir leurs étudiants, ils ont la clé de la bibliothèque ce qui leur permet d’y venir travailler la nuit comme le jour; d’autre part, 300 boxes munis de tables sont aménagés dans le magasin pour permettre le travail près des rayons à des étudiants gradués munis d’une autorisation spéciale. A l’étage supérieur. 34 salles de travail, avec bibliothèque spéciale de livres d usage courant, sont aménagées pour le travail des étudiants dans chacune des sections ou départements (mathématiques, français, allemand. sanscrit). Le British Muséum à Londres, la Public Library de New York, la Bibliothèque de Harvard, pour ne citer que celles-là. sont ouvertes de 9 heures du matin à 10 heures du so;r. La Bibliothèque du Congrès a un personnel de plusieurs centaines d’employés, celle de Harvard en a plus de 100. On imprime les catalogues de bibliothèque sur fiches et de grandes salles de catalogues précèdent les salles de travail. L'on tend vers des collée tions complétées. Par ex. sur la question de l'sefficiency*, la Bibliothèque de New York a publié une liste de 1,200 titres et elle possède tous ces ouvrages.
 
 La Bibliothèque de Harvard a 1.200.000 volumes, celle d#: York 1,000.000, celle de Columbia 550,000. La Centrale des Bibliothèques de New York reçoit une moyenne journalière de 10.000 visiteurs. Il est remarquable de constater qu’on a pu rassembler, en un siècle, aux Etats-Unis presque toute la production intellectuellr que l'on avait mis des milliers d’années à créer en Europe.
 
 La Bibhotbèque de New York mouvementé annuellement 11 millions de volumes. L'ensemble des Bibliothèques Nationales de France ont à dépenser 3.500.000 francs. La Bibliothèque Nationale de Berlin seule a 16 millions de francs. Chaque bibliothèque d’université prussienne a eu un crédit moyen de 525,000 fr.
 
-Le» bibliothèque* ont un système de succursales, branches, sous-branches, stations (par ex. dans le* écoles, les hôpitaux, les prisons, etc.). Elles ont aussi commencé un système d’extension au dehors à la manière de l'extension universitaire (Library extension, service par correspondance et colis postal). On a créé des services régionaux de bibliothèques (County library) comportant une collection centrale de livres distribués dans toute la région par l’intermédiaire de* bibliothèques locales, des stations du service postal et des wagons de livres itinérants (book-wagon).
+Les bibliothèques ont un système de succursales, branches, sous-branches, stations (par ex. dans les écoles, les hôpitaux, les prisons, etc.). Elles ont aussi commencé un système d’extension au dehors à la manière de l'extension universitaire (Library extension, service par correspondance et colis postal). On a créé des services régionaux de bibliothèques (County library) comportant une collection centrale de livres distribués dans toute la région par l’intermédiaire des bibliothèques locales, des stations du service postal et des wagons de livres itinérants (book-wagon).
 
 a) Angleterre. — L'Angleterre possédait beaucoup de bibliothèques au moyen âge; elles furent en partie perdues
 
@@ -15969,17 +15969,17 @@ a) Angleterre. — L'Angleterre possédait beaucoup de bibliothèques au moyen �
 
 262 BIBLIOTHEQUES. COLLECTIONS *339*
 
-à la Réforme. Le* bibliothèques d’Oxford et de Cambridge paraissent avoir précédé In fondation de* bibliothèques universitaires ailleurs. Le British Mu# :um est le plus grand centre d’activité scient fique anglais. Il date de 1753 et ses collection# ne le cèdent qu’à celles de la Nationale et de îti Bibliothèque Lénine, fi reçoit annuellement environ 60.000 volume# par le Copyright.
+à la Réforme. Lesbibliothèques d’Oxford et de Cambridge paraissent avoir précédé In fondation des bibliothèques universitaires ailleurs. Le British Mu# :um est le plus grand centre d’activité scient fique anglais. Il date de 1753 et ses collection# ne le cèdent qu’à celles de la Nationale et de îti Bibliothèque Lénine, fi reçoit annuellement environ 60.000 volumes par le Copyright.
 
 En Angleterre, il y a 500 systèmes de bibliothèques, installés dans un millier de bâtiments. Cent millions d'ouvrages par an circulent dans les mains des lecteurs. A Croydon par exemple, agglomération de 200.000 habitants, 700 lecteurs se présentent par jour aux bibliothèques.
 
 L'Angleterre et le Pays de Galles travaillent à réaliser un système de bibliothèques embrassant l'ensemble du pays. (I) Il comprend : 1° un système de groupes locaux autour d ?s centres ou foyers formés par des bibliothèques importantes. Les campagnes elles-mêmes sont desservies.
 
-2* Un système de bibliothèques spéciales appelées « mettre leurs ressources en commun par l'Association of Spécial Library and Information Bureaux et l'Association of University Tracbers. 3° Une bibliothèque centrale devant suppléer aux besoins de l’ensemble, (ancienne Central Library of Student. à transformer en une institution nationale). Le tout repose sur le principe de ia coopération volontaire et le desiderata que chaque bibliothèque* désormais se sente la partie d’un système général.
+2* Un système de bibliothèques spéciales appelées « mettre leurs ressources en commun par l'Association of Spécial Library and Information Bureaux et l'Association of University Tracbers. 3° Une bibliothèque centrale devant suppléer aux besoins de l’ensemble, (ancienne Central Library of Student. à transformer en une institution nationale). Le tout repose sur le principe de ia coopération volontaire et le desiderata que chaque bibliothèques désormais se sente la partie d’un système général.
 
 De 700 bibliothèques anglaises, la plus petite possède 5,000 volumes et toutes ont une salle de lecture avec journaux et revues et beaucoup une salle spéciale pour enfants.
 
-h) Etas-Vnis. fis occupent fe premier rang pour b* I bibliothèques : nombre de volumes, utilisation, perfection des méthodes. Son oeuvre propre est la bibliothèque publique, pour la masse plutôt que pour les recherches scientifiques. Mais à côté, elle a créé aussi des bibliothèques savantes auprès de ses universités et de ses collèges. et des institutions scientifiques. La Library of Congres» a 3,500.000 volumes. La New York Public Library en a 3.000,000 avec 46 branches et environ 400 autres organes de distribution. La Library of CongTess comprenait en 1924 3 nvliions de livres et brochures, 900,000 cartes.
+h) Etas-Vnis. fis occupent fe premier rang pour b* I bibliothèques : nombre de volumes, utilisation, perfection des méthodes. Son œuvre propre est la bibliothèque publique, pour la masse plutôt que pour les recherches scientifiques. Mais à côté, elle a créé aussi des bibliothèques savantes auprès de ses universités et de ses collèges. et des institutions scientifiques. La Library of Congres» a 3,500.000 volumes. La New York Public Library en a 3.000,000 avec 46 branches et environ 400 autres organes de distribution. La Library of CongTess comprenait en 1924 3 nvliions de livres et brochures, 900,000 cartes.
 
 I million environ de morceaux de musique, 500,000 gravures. IJ a été dépensé 8 millions de dollars pour l’édifice,
 
@@ -15987,7 +15987,7 @@ I million environ de morceaux de musique, 500,000 gravures. IJ a été dépensé
 
 Aux Etats-Unis il y avait, en 1915, 8,302 bibliothèques dont environ 3.000 possédaient an moins 5,000 volumes Les riches particuliers (Carnegie, notamment), ont fait 1
 (1) Voir à ce sujet le rapport de Sir Frédéric C, Kenyon, directeur du British Museum et Président du Board of Education Departmental Committee Public Library dans Library Journal, 1 January 1928. p. 11.
-des donations importantes, mais l’impôt spécial pour les bibliothèques y rapportent 35 millions de francs. Le corps de l’Association des bibliothécaires américains comprend 4,030 membres. Beaucoup de ces bibliothèques ont des succursales et rayonnent vers le# campagnes par des bibliothèques circulantes.
+des donations importantes, mais l’impôt spécial pour les bibliothèques y rapportent 35 millions de francs. Le corps de l’Association des bibliothécaires américains comprend 4,030 membres. Beaucoup de ces bibliothèques ont des succursales et rayonnent vers les campagnes par des bibliothèques circulantes.
 
 c) Hollande. — Le petit pays de Hollande a donné un soin particulier à ses bibliothèques.
 
@@ -15995,9 +15995,9 @@ En Hollande on comptait, en 1919, 56 communes avec une ou plusieurs bibliothèqu
 
 a Leeszalen » de Hollande avaient (avec les succursales) en 1908: 6; en 1933: 110 salles de lecture (dans toutes les communes de plus de 20.000 habitants, il y a maintenant une salle de lecture, subventionnée par l'Etat). Nombre de livres en possession de l’ensemble des bibliothèques publiques: 1913: 100,000; 1933: 1.800,000. Fréquentation: 1908 : 300,000; 1931:2,100,000. Recettes: 1903: Fr. 25.000; 1931; Fr. 1,780.000. Subventions de l'Etat: Fr. 250.000. Les particuliers environ Fr. 500.000.
 
-d) Belgique, — Le# grandes bibliothèques sont: la Bibliothèque Royale de Bruxelles, fondée en 1827, mais héritière des collections formées déjà par les ducs de Bourgogne, les Bibliothèques de Gand, de Louvain, maintenant celle de l'Université de Bruxelles, la Bibliothèque des Bollandistes, le Musée Plantln-Moretus. Après !n guerre, pendant laquelle la lecture avait été intensifiée, un mouvement s'est dessiné en faveur de l'organisalijn de bibliothèques publiques. Une législation spéciale est intervenue.
+d) Belgique, — Les grandes bibliothèques sont: la Bibliothèque Royale de Bruxelles, fondée en 1827, mais héritière des collections formées déjà par les ducs de Bourgogne, les Bibliothèques de Gand, de Louvain, maintenant celle de l'Université de Bruxelles, la Bibliothèque des Bollandistes, le Musée Plantln-Moretus. Après !n guerre, pendant laquelle la lecture avait été intensifiée, un mouvement s'est dessiné en faveur de l'organisalijn de bibliothèques publiques. Une législation spéciale est intervenue.
 
-En Belgique, en 1921, des 2.639 communes, il en est environ 1,500 qui ne possèdent aucune bibliothèque publique. Parmi les 1,600 reconnue# par le Ministère, petit est le nombre de celles qui sont convenablement outillées, installées et dirigées (Rapport parlementaire Hey-man). De ces bibliothèques, si l'on excepte celles de l’agglomération bruxelloise et des chefs-lieux de province. 601 possédaient moins de 300 volumes et 46 plus de 3,000 volumes. Ces bibliothèques fonctionnent en général comme service de prêts et n’ont point de salle de lecture.
+En Belgique, en 1921, des 2.639 communes, il en est environ 1,500 qui ne possèdent aucune bibliothèque publique. Parmi les 1,600 reconnues par le Ministère, petit est le nombre de celles qui sont convenablement outillées, installées et dirigées (Rapport parlementaire Hey-man). De ces bibliothèques, si l'on excepte celles de l’agglomération bruxelloise et des chefs-lieux de province. 601 possédaient moins de 300 volumes et 46 plus de 3,000 volumes. Ces bibliothèques fonctionnent en général comme service de prêts et n’ont point de salle de lecture.
 
 e) 7 chécoalovaquie. — La Tchécoslovaquie est (avec lu Belgique) le premier pays qui ait rendu obligatore l’établissement des bibl othèques publiques. Chaque agglomération doit avoir sa bibliothèque et les villes de 10,000 habitants doivent nommer un bibliothécaire. Dans les villes plus petites, une personne qui a suivi des cours de bibliothéconomie pendant un moi* doit être nommée. Le Ministère de l'Education fournit un traité d'administration de bibliothéconomie à la communauté et inspecte la biblio thèque. La loi exige que le cinquième de tous les livres de chaque bibliothèque ait un contenu instructif (1928).
 
@@ -16018,10 +16018,10 @@ La plupart des institutions qui portent le nom de bibliothèque, ne sont pas des
 
 g) Allemagne. —■ Les grandes bibliothèques font celles d-* Berlin, Munich, Dresde, Gôttingen, Heidelberg. Leipzig, Tubingen. Beaucoup de bibliothèques d’associations scientifiques. Un système excellent de prêts entre bibliothèques. Une grande expansion de bibliothèques populaires. Dans le domaine technique, un grand développement a été réalisé par la Bibliothèque des Ingénieurs allemands, celle dvi Patentant, celle du «Deutschen Mnaevm d Berlin », la Deutsche Bücherei a Leipzig.
 
-h) Italie. — Elle a de magnifiques collections de livres. Elle eut des collectionneurs privés possesseurs de larges bibliothèques à l’époque de la Renaissance. La vieille Bibliothèque du Vatican, commencée au IVe siècle par le pape Damasc, a été réorganisée selon les principe» modernes par le pape, actuel qui fut* lorsqu'il était cardinal Kati, bibliothécaire de l'Ambrosienne de Milan. La Lau-rentienne de Florence (Medicis-I aurrnziana), la Bib’io-teca Nazionale de Florence, la Vittorio Emmanuel** de Rome, les Bibliothèques de Naples. Palerme. Turin. Bologne, Padoue. En Italie fasciste, on continue d'agiter le problème de doter toute commune d’une bibliothèque populaire pourvue de bons livres, bien attrayante. On demande que s'en occupe 1« Opera Nazionale Dopola-voro s.
+h) Italie. — Elle a de magnifiques collections de livres. Elle eut des collectionneurs privés possesseurs de larges bibliothèques à l’époque de la Renaissance. La vieille Bibliothèque du Vatican, commencée au IVe siècle par le pape Damasc, a été réorganisée selon les principes modernes par le pape, actuel qui fut* lorsqu'il était cardinal Kati, bibliothécaire de l'Ambrosienne de Milan. La Lau-rentienne de Florence (Medicis-I aurrnziana), la Bib’io-teca Nazionale de Florence, la Vittorio Emmanuel** de Rome, les Bibliothèques de Naples. Palerme. Turin. Bologne, Padoue. En Italie fasciste, on continue d'agiter le problème de doter toute commune d’une bibliothèque populaire pourvue de bons livres, bien attrayante. On demande que s'en occupe 1« Opera Nazionale Dopola-voro s.
 
 i) Russie .— Ce pays possède de très grandes bibliothèques. Celle de Leningrad (4.260,000 vol.) a été récem-
-ment doté d'un nouvel édifice. A Moscou, la Bibliothèque Lénine. Suivant le décret soviétique du 4 mai 1920. toutes les bibliothèques de la République forment dans leur ensemble le réseau unique des bibliothèques de 1 Etat. La réforme intérieure est annlogue à celle de» musées et des archive». L'administration dépend d'organismes spéciaux du Commissariat de l’Instruction publique.
+ment doté d'un nouvel édifice. A Moscou, la Bibliothèque Lénine. Suivant le décret soviétique du 4 mai 1920. toutes les bibliothèques de la République forment dans leur ensemble le réseau unique des bibliothèques de 1 Etat. La réforme intérieure est annlogue à celle des musées et des archive». L'administration dépend d'organismes spéciaux du Commissariat de l’Instruction publique.
 
 jl Vatican. — La Bibliothèque du Vatican est ancienne et riche. Son origine remonte au début du XVe siècle, \ Martin V. Elle fut victime d'une catastrophe foudroyante, une partie s’étant écroulée. En 1932, le Pape Pie XI a inauguré le nouvel édifice.
 
@@ -16035,13 +16035,13 @@ l) Organisations internationales. — Elles ont réalisé de grandes bibliothèq
 262.21 Généralités.
 """"""""""""""""""""
 
-tl existe un nombre considérable de bibliothèques. Elles sont différenciées par le public R qui elle* s adressent (bibliothèques savante» et non savantes) ; par la nature des collections (bibliothèques générales et spé ciales) (livres nationaux ou étrangers) ; par la sphère d'action sur laquelle s'étend leur organisation (bibliothèques communales ou municipales, régionales ou provinciale», nationale, internationale).
+tl existe un nombre considérable de bibliothèques. Elles sont différenciées par le public à qui elles s'adressent (bibliothèques savantes et non savantes) ; par la nature des collections (bibliothèques générales et spé ciales) (livres nationaux ou étrangers) ; par la sphère d'action sur laquelle s'étend leur organisation (bibliothèques communales ou municipales, régionales ou provinciale», nationale, internationale).
 
-On peut classer les bibliothèques de la manière suivante ;
+On peut classer les bibliothèques de la manière suivante :
 
-I" Les grandes bibliothèques nationales: elles ont pour but de conserver toute la production nationale et de former de grandes collections générales, en vue des études et des recherches de toute nature. 2° Le» bibliothèques publiques, établies dans tou» les centre» de population et destinées à multiplier les facilités de lecture et d’étude pour le public en général. 3° Les bibliothèques de» institutions scientifiques d'étude ou d'enseignement; universités. instituts, observatoires, musées» jardins botaniques, etc. 4" Les bibliothèques des administrations publiques : ministères, parlements, municipalités, services
+I" Les grandes bibliothèques nationales: elles ont pour but de conserver toute la production nationale et de former de grandes collections générales, en vue des études et des recherches de toute nature. 2° Les bibliothèques publiques, établies dans tous les centres de population et destinées à multiplier les facilités de lecture et d’étude pour le public en général. 3° Les bibliothèques des institutions scientifiques d'étude ou d'enseignement; universités. instituts, observatoires, musées» jardins botaniques, etc. 4" Les bibliothèques des administrations publiques : ministères, parlements, municipalités, services
 
-public» de toute espèce. 5° Les bibliothèque» des associa lions scientifiques, de» corps savants et des sociétés qui poursuivent de» buts d'intérêt général dans tous les do-
+publics de toute espèce. 5° Les bibliothèques des associations scientifiques, des corps savants et des sociétés qui poursuivent des buts d'intérêt général dans tous les do-
 ( I ) Sevensma T. P. — La Bibliothèque de la Société des Nations, Paris, Champion, 6°, 1930*
 
 
@@ -16062,15 +16062,15 @@ Les cabinets de lecture sont des lieux publics où. moyennant une rétribution, 
 262.22 La Bibliothèque publique.
 """""""""""""""""""""""""""""""""
 
-La Bibliothèque publique ne peut être tenue comme une oeuvre de charité mais comme un véritable service public, comme une branche principale de l'enseignement post-scolaire. Elle doit, à ce titre, être au premier chef un facteur puissant du développement intellectuel et mural de la nation.
+La Bibliothèque publique ne peut être tenue comme une œuvre de charité mais comme un véritable service public, comme une branche principale de l'enseignement post-scolaire. Elle doit, à ce titre, être au premier chef un facteur puissant du développement intellectuel et mural de la nation.
 
 La Bibliothèque publique ou Bibliothèque municipale est entretenue au moyen de taxes ou de dons volontaires. Elle fonctionne dans le cadre de la loi. Elle n’cst pas réservée à une classe spéciale comme les bibliothèques de sociétés savantes ou d'université* : elle est destinée à la communauté, à toute personne.
 
-La bibliothèque municipale, dit M. Coyecque. dans scs publications récentes, est faite pour tout le monde. Elle ^'adresse à tous, elle est collectivement la bibliothèque personnelle de chacun, les uns y trouvant le complément de celle qu'ils possèdent, les autres la compensation de
+La bibliothèque municipale, dit M. Coyecque. dans ses publications récentes, est faite pour tout le monde. Elle s'adresse à tous, elle est collectivement la bibliothèque personnelle de chacun, les uns y trouvant le complément de celle qu'ils possèdent, les autres la compensation de
 (1) Waas. — Volkstümliche und Wissenschaftliche Bibliotheken. Zentrahblatt für Bibliothekswesen. 1926, p. 476-79.
 celle qu’ils n'ont pas. Distraire, instruire, informer, voilà, dit-il. le programme intégral de la bibliothèque municipale.
 
-Les bibliothèques municipales offrent ce trait commun : oeuvre de vulgarisation scientifique et littéraire en même temps que centres d'information pratique, elles ne sont pas comme les savantes, des conservatoires dont les effectifs, gardés et perpétués, s'accroissent indéfiniment; chez elles les livres passent et ne demeurent; il s'agit ici moins de quantité que qualité ; la bibliothèque met à la disposition du public ce qu'il y a de meilleur et de plus récent, pour la forme, pour le fond, et pour l'un et l'autre, et en l'espèce, ces deux termes sont souvent connexes ; dans les domaines scientifiques, techniques, profession neU. sociologiques. l’ouvrage tenant compte des derniers progrès ou de la dernière législation ; en littérature, des représentants de tout le mouvement contemporain, des spécimens de tous les genres, des produits de toutes les écoles ; pour les classiques des éditions récentes, aussi attrayantes qu'étaient retardataires celles de la vieille pédagogie, dans les domaines de l'histoire, l'ouvrage qui utilise les prodigieuses ressources de la photographie et de ses dérivés industriels.
+Les bibliothèques municipales offrent ce trait commun : œuvre de vulgarisation scientifique et littéraire en même temps que centres d'information pratique, elles ne sont pas comme les savantes, des conservatoires dont les effectifs, gardés et perpétués, s'accroissent indéfiniment; chez elles les livres passent et ne demeurent; il s'agit ici moins de quantité que qualité ; la bibliothèque met à la disposition du public ce qu'il y a de meilleur et de plus récent, pour la forme, pour le fond, et pour l'un et l'autre, et en l'espèce, ces deux termes sont souvent connexes ; dans les domaines scientifiques, techniques, profession neU. sociologiques. l’ouvrage tenant compte des derniers progrès ou de la dernière législation ; en littérature, des représentants de tout le mouvement contemporain, des spécimens de tous les genres, des produits de toutes les écoles ; pour les classiques des éditions récentes, aussi attrayantes qu'étaient retardataires celles de la vieille pédagogie, dans les domaines de l'histoire, l'ouvrage qui utilise les prodigieuses ressources de la photographie et de ses dérivés industriels.
 
 La Bibliothèque municipale est doublement encyclopédique ; elle embrasse à la fois l'ensemble des connaissances et l'ensemble de la population ; il n*y a pas une branche du savoir qui n’y trouve sa place; il n’est personne dans la cité qui n'ait intérêt à s'en servir, ne fut-ce que pour apprendre ou connaître ceux qui la fréquentent régulièrement,
 
@@ -16078,7 +16078,7 @@ La Bibliothèque est un des organes de la vie collective, ni plus ni moins néce
 
 Une bibliothèque n’est pas un « magasin de livres où l'on se borne à distribuer des numéros »; c'est une œuvre d'enseignement public dont peuvent et doivent dépendre dans une large mesure l'éducation de la nation et la formation de l’esprit public.
 
-Les principe* exposés dans ce traité ont pour but d établir la bibliothèque suivant les données rationnelles. L'ensemble des livres que la bibliothèque contient forme un organisme dont toutes les parties sont solidaires. Embrassant l'intégralité des connaissances, elle est encyclopédique; disposant les ouvrages suivant les cadres d'un ordre rigoureux, elle est conforme a la classification des connaissances. Semblable bibliothèque est 1 image de la science elle-même : ses livres, pourvu qu ils soient choisis parmi les meilleurs, les plu* clairs et les plus récents, sont l'expression écrite même des connaissances.
+Les principes exposés dans ce traité ont pour but d'établir la bibliothèque suivant les données rationnelles. L'ensemble des livres que la bibliothèque contient forme un organisme dont toutes les parties sont solidaires. Embrassant l'intégralité des connaissances, elle est encyclopédique; disposant les ouvrages suivant les cadres d'un ordre rigoureux, elle est conforme a la classification des connaissances. Semblable bibliothèque est l'image de la science elle-même : ses livres, pourvu qu ils soient choisis parmi les meilleurs, les plus clairs et les plus récents, sont l'expression écrite même des connaissances.
 
 
 ====
@@ -16101,7 +16101,7 @@ Dans la bibliothèque publique de Washington, la section des enfants est particu
 4. Catalogue des bibliothèques pour enfants. — Se représenter que l'enfant doit pouvoir se servir de tels cata logues, Eviter que leur terminologie ne soit celle des adultes. Les rubriques du catalogue s’inspireront des titres des livres mêmes. On évitera les abréviations et signes bibliographiques. (Voir un exemple d’application de la Classification décimale à de tels catalogues dans Berwick Sayers. The Childrcng library, p. 56.)
 
 5. La Bibliothèque à l'Ecole. — L’Ecole doit aider la Bibliothèque a apprendre a Vire systématiquement et avec fruit, apprendre à manier et respecter les livres. Petite bibliothèque à l’école même ; envoi des enfants à la bibliothèque publique pour compléter, par des lec-
-tures, les leçons données ou à préparer. Les livres classiques des écoliers constituent le noyau de la biblio thèque personnelle qui deviendra la bibliothèque de la famille : complément désirable de ces livres par des introductions et des tables des matières les reliant les uns aux autres et en faisant de petites encyclopédies bien étudiées. Réciproquement la Bibliothèque doit aider l’Ecole ; utilisation des loisirs et des vacances des éco llers; fourniture h l’école de livres de lecture.
+tures, les leçons données ou à préparer. Les livres classiques des écoliers constituent le noyau de la biblio thèque personnelle qui deviendra la bibliothèque de la famille : complément désirable de ces livres par des introductions et des tables des matières les reliant les uns aux autres et en faisant de petites encyclopédies bien étudiées. Réciproquement la Bibliothèque doit aider l’Ecole ; utilisation des loisirs et des vacances des éco llers; fourniture à l’école de livres de lecture.
 
 Les conditions de la Bibliothèque de travail à l’école s’étudient. Elles prennent de l'importance à raison inverse de la lutte pour destituer de sa position privilégiée le Manuel scolaire. (Ve Congrès de l'imprimerie à l'école. 2 août 1931. Rapport Freinet-Ruch.) Pour familiariser la jeunesse avec les Bibliothèques, les Américains possèdent un Manuel très pratique élaboré par MM. Hutchins, Johnson et Williams (Guide to the Use of the Library, A Manual for College and University Student, 1929).
 
@@ -16112,7 +16112,7 @@ Les conditions de la Bibliothèque de travail à l’école s’étudient. Elles
 
 En principe, il n’est pas désirable pour la généralité des particuliers, d'avoir des quantités de livres, mais il lui faut en posséder de bons, de beaux et, pour les questions scientifiques, de modernes. La bibliothèque privée se composera de trois sortes de livres: Io un fonds encyclopédique, choix d’ouvrages généraux ou livres de références sur toutes les matières, permettant, sinon d'étudier, du moins d avoir immédiatement quelques notions sur n’importe quelles questions rencontrées au cours de la vie et des études; 2° les ouvrages relatifs à la spécialité. à la profession, aux études et aux occupations cou rantes. Ces livres-là doivent être aussi complets et aussi nombreux que possible ; ils ne devront pas se borner strictement à la spécialité, mais comprendre aussi des ouvrages relatifs aux branches auxiliaires; 3° les ouvrages relatifs aux questions qui intéressent occasionnellement.
 
-La place des livres que l’on ne consulte plus ou que l'on consulte très peu est dans les bibliothèques publiques. Il y a même, pour un homme d étude, un intérêt réel h éviter l’encombrement chez lui. Le mieux est de remettre en dépôt ou de faire don aux bibliothèques publiques et spécialement à celles des sociétés scientifiques dont il fait partie, les ouvrages inutilisés par lui, notamment les ouvrages surannés et ceux relatifs à des questions étudiées occasionnellement et dont il ne s occupe plus. Il est certain ainsi de pouvoir retrouver ces livres le jour où ¡1 pourrait en avoir besoin, ceux-là et
+La place des livres que l’on ne consulte plus ou que l'on consulte très peu est dans les bibliothèques publiques. Il y a même, pour un homme d étude, un intérêt réel à éviter l’encombrement chez lui. Le mieux est de remettre en dépôt ou de faire don aux bibliothèques publiques et spécialement à celles des sociétés scientifiques dont il fait partie, les ouvrages inutilisés par lui, notamment les ouvrages surannés et ceux relatifs à des questions étudiées occasionnellement et dont il ne s occupe plus. Il est certain ainsi de pouvoir retrouver ces livres le jour où ¡1 pourrait en avoir besoin, ceux-là et
 
 
 ====
@@ -16127,26 +16127,26 @@ tous les autres sur la meme question, que posséderait la bibliothèque.
 
 4. Bibliothèque familiale. — Il est tout un apostolat a organiser : répandre parmi les peuples et la petite bourgeoisie le goût de la bibliothèque familiale jointe à la table d’études des enfants.
 
-5. Bibliothèque de Bibliophiles. — A côté des bibliothèques privées, il y a celles des bibliophiles. Ces dernières sont basées sur le choix de livres beaux et rares. Peu étendue en général, toutes les opérations du livre peuvent s’en ressentir. On les place dans des armoires fermées, on classe sommairement et d'après les caractères extrinsèques, on s'abstient de placer des marques apparentes au dos des livres, on catalogue en petit carnet h reliure mobile, on achète aux ventes publiques ou par commission donnée à des libraires spécialisés. (1)
+5. Bibliothèque de Bibliophiles. — A côté des bibliothèques privées, il y a celles des bibliophiles. Ces dernières sont basées sur le choix de livres beaux et rares. Peu étendue en général, toutes les opérations du livre peuvent s’en ressentir. On les place dans des armoires fermées, on classe sommairement et d'après les caractères extrinsèques, on s'abstient de placer des marques apparentes au dos des livres, on catalogue en petit carnet à reliure mobile, on achète aux ventes publiques ou par commission donnée à des libraires spécialisés. (1)
 
 262.3 Parties, collections, fonds, services et départements.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 a) Les bibliothèques sont : 1° des ensembles composés de diverses parties ou collections ; 2° des organismes faisant fonctionner diveïs services; 3° des centres opérant divers travaux. Par suite, la bibliothèque a une organisation centralisée unique où elle est divisée en départements distincts appelés de noms divers, mais placés sous une direction générale unique.
 
-b) La bibliothèque contient les catégorie,, d'oeuvres sui-
+b) La bibliothèque contient les catégorie,, d'œuvres sui-
 (I) ConsuIter les ouvrages de Muhlbecht, Otto: Buch lielhberci. 1898. — Slater: How to Collect Book, 1905. *— Winterich: Primer of Book Collecting. 1927. — Allans : Book-Hunter at home, 1922. — Willis’s: Bibliophily,
 
 Boston 1921.
 vantes souvent constitués en divisions spéciales: 1° livres; 2" brochures; 3° ouvrages de référence; 4° publications officielles; 5'1 journaux officiels (contenant les lois, les traités et les actes législatifs les plus récents; 6° documents officiels des gouvernements, des parlements et des grandes administrations (règlement, annuaires officiels, comptes rendus des débats parlementaires, texte de projets de lois et de budgets, rapports soumis aux corps législatifs des différents ministères, statistiques, etc) ; 7° manuscrits
 
-(cabinet des manuscrits, cabinet de„ cartes et plnns) ; 8' carte» de géographie et atlas (plans de bâtiments, machines et appareils) : 9° gravures (cabinet des estampes) ; 10" périodiques (périodxothèque) ; fl® journaux quotidiens (hémérothl-que) : 12° photographie (photothèque) ; 13° musique,
+(cabinet des manuscrits, cabinet des cartes et plans) ; 8' cartes de géographie et atlas (plans de bâtiments, machines et appareils) : 9° gravures (cabinet des estampes) ; 10" périodiques (périodxothèque) ; fl® journaux quotidiens (hémérothl-que) : 12° photographie (photothèque) ; 13° musique,
 
 c) Des collections distinctes sont formées à raison du format (in-folio) ou du caractère spécial des livres (enfer, censure, immoraux).
 
-d) Il y a éventuellement les collections de documents autres que les publications et qui se rapportent è la documentation générale, telle que la cinémathèque, la phototh‘*que. les archives anciennes, les archives encyclopédiques documentaires (dossiers), les objets de musée.
+d) Il y a éventuellement les collections de documents autres que les publications et qui se rapportent à la documentation générale, telle que la cinémathèque, la phototh‘*que. les archives anciennes, les archives encyclopédiques documentaires (dossiers), les objets de musée.
 
-e) La lecture et la consultation sont favorisées par la diversité des salles de lecture, l'accession aux rayons des bibiothèques, dites de référence, des tables de travail au sein des collections, des salles de travail réservées aux travailleurs scientifiques faisant des travaux de longue haleine, de» cellules de travail. A la Bibliothèque Universitaire Ann Arbor, les docteurs de l'hôpital peuvent demander qu'on leur lise, par téléphone, quelque article dont ils ont immédiatement besoin.
+e) La lecture et la consultation sont favorisées par la diversité des salles de lecture, l'accession aux rayons des bibiothèques, dites de référence, des tables de travail au sein des collections, des salles de travail réservées aux travailleurs scientifiques faisant des travaux de longue haleine, des cellules de travail. A la Bibliothèque Universitaire Ann Arbor, les docteurs de l'hôpital peuvent demander qu'on leur lise, par téléphone, quelque article dont ils ont immédiatement besoin.
 
 262.4 Technique et organisation des Bibliothèques (Bibliotechnie, Bibliotécono-mie).
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -16157,16 +16157,16 @@ e) La lecture et la consultation sont favorisées par la diversité des salles d
 a) La technique des bibliothèques a été fort développée. Elle entre dans des détails de plus en plus particuliers et précis. Renvoyant pour ceux-ci aux traités spéciaux sur la matière, dans le présent exposé il ne sera question que des données générales. (???)
 (I) ÎVhlkau. F. :H<mdbuch der Bibhofhcksiuissenacha/i, 2 vol. 1932-33, — Morel. Eugène: Bibliothèque. Essai sur
 
-la développement des bibliothèques publique» et de u librairie dans les deux mondes, Paris 1908. — Briscoe, W. A. : Library planning. A compilation designed to assist in the planning, equipment and development of new libraries, and the reconstruction of old ones, London 1927, 141 p. — Coyccque, Ernest: Code administratif des bibliothèques d’études, Paris 1929, 2 vol. (organisation, cadres et traitements). — Paul Otlet : Manuel de la Bibliothèque publique, publication n" 133 de l’Institut International de Bibliographie. 1925. 166 p. — Trozct. Léo: Manuel pratique du Bibliothécaire. Préface de MM, Pol Neveux et Charles Schmidt. Paris. E. Nourry, 1933.
+la développement des bibliothèques publiques et de la librairie dans les deux mondes, Paris 1908. — Briscoe, W. A. : Library planning. A compilation designed to assist in the planning, equipment and development of new libraries, and the reconstruction of old ones, London 1927, 141 p. — Coyccque, Ernest: Code administratif des bibliothèques d’études, Paris 1929, 2 vol. (organisation, cadres et traitements). — Paul Otlet : Manuel de la Bibliothèque publique, publication n" 133 de l’Institut International de Bibliographie. 1925. 166 p. — Trozct. Léo: Manuel pratique du Bibliothécaire. Préface de MM, Pol Neveux et Charles Schmidt. Paris. E. Nourry, 1933.
 
 
 ====
 
 *344*  LE LIVRE ET LE DOCUMENT  262
 
-b) Une bibliothèque n'existe pas par elle-même. Il faut la former, à la manière dont on construt un édifice ou une machine. Elle n’est pas un amas de livres. Il faut constituer une collection, c’est-à-dire créer un véritable organisme intellectuel, dont les partie* soient en corrélation les unes avec les autres et réalisent le maximum de rendement avec le minimum d effort et de travail.
+b) Une bibliothèque n'existe pas par elle-même. Il faut la former, à la manière dont on construt un édifice ou une machine. Elle n’est pas un amas de livres. Il faut constituer une collection, c’est-à-dire créer un véritable organisme intellectuel, dont les parties soient en corrélation les unes avec les autres et réalisent le maximum de rendement avec le minimum d effort et de travail.
 
-c\ Comme toute * construction », celle de la bibliothèque suppose de» matériaux (les livres), un plan (la classification), des procédés (les méthodes), un outillage (le matériel), un personnel, des opérations et une organisation.
+c\ Comme toute « construction », celle de la bibliothèque suppose des matériaux (les livres), un plan (la classification), des procédés (les méthodes), un outillage (le matériel), un personnel, des opérations et une organisation.
 
 Ensuite quand la bibliothèque est formée, il s’ag't de la maintenir à hauteur dr sa tâche, de l’amortir, de faire fonctionner les services relatifs à son utilisation. Tout cela exige des opérations d’ordre administratif et d ordre exécutif, les unes et les autres relevant d’une direction confiée à des personnes ou à des corps responsables. Le tout forme une unité: l'organisation.
 
@@ -16177,28 +16177,28 @@ e) Grande ou petite, une bibliothèque doit avoir une administration, doit être
 262.4 Acquisition.
 ^^^^^^^^^^^^^^^^^^^
 
-a) Il y a quatre modes d'acquisition : Io par dépôt légal ; 2° achat : 3° donation des auteurs ou éditeurs et des collectionneurs; 4° échange.
+a) Il y a quatre modes d'acquisition : 1° par dépôt légal ; 2° achat : 3° donation des auteurs ou éditeurs et des collectionneurs; 4° échange.
 
-b) Les achats constituent une fonction importante de la bibliothèque. Le choix des livres à acheter s’opère à l’aide des catalogues, bibliographies, circulaires, résumés, etc. Les desiderata sont exprimés par les lecteurs. Des directives doivent présider aux ochats. La règle doit être l’impartialité. Pour faciliter W acquisitions, on a établi de« listes choisies ; on a déterminé des proportions entre le» ouvrages de« diverses branches.
+b) Les achats constituent une fonction importante de la bibliothèque. Le choix des livres à acheter s’opère à l’aide des catalogues, bibliographies, circulaires, résumés, etc. Les desiderata sont exprimés par les lecteurs. Des directives doivent présider aux ochats. La règle doit être l’impartialité. Pour faciliter W acquisitions, on a établi de« listes choisies ; on a déterminé des proportions entre les ouvrages de« diverses branches.
 
-c) Pour leurs achats, les bibliothèque» »’adressent aux libraires, selon des modes les uns concentrés, les autres dispersés. Des firmes puissantes sont organisées pour alimenter régulièrement les bibliothèques de* livres dont elles ont besoin.
+c) Pour leurs achats, les bibliothèques s'adressent aux libraires, selon des modes les uns concentrés, les autres dispersés. Des firmes puissantes sont organisées pour alimenter régulièrement les bibliothèques des livres dont elles ont besoin.
 
-d) Le livre rare a tendance à aller dans le* bibliothèques publiques comme les tableaux rares dans les musées officiels. Le peuple et le» donateurs pensent que c’est là qu'ils auront le maximum de chance de survivre et de pouvoir être communiqué» à qui saura le mieux l'utiliser. C’est une sorte de communisme intellectuel.
-r) « Il faut des bibliothèques complètes, dit M. Zanitzhy. directeur du Palais C entral russe du Livre. Seule la bibliographie est la mesure de l'intégralité d une bibiolhèqur. Le lecteur doit avoir à sa disposition la littérature complète d aujourd'hui, au moins par cette raison que le» époques d- valeur historique universelle ne sont pas très fréquentes -
+d) Le livre rare a tendance à aller dans les bibliothèques publiques comme les tableaux rares dans les musées officiels. Le peuple et les donateurs pensent que c’est là qu'ils auront le maximum de chance de survivre et de pouvoir être communiqué» à qui saura le mieux l'utiliser. C’est une sorte de communisme intellectuel.
+r) « Il faut des bibliothèques complètes, dit M. Zanitzhy. directeur du Palais C entral russe du Livre. Seule la bibliographie est la mesure de l'intégralité d une bibiolhèqur. Le lecteur doit avoir à sa disposition la littérature complète d aujourd'hui, au moins par cette raison que les époques d- valeur historique universelle ne sont pas très fréquentes -
 
-Impressionné par la production quantitative toujours croissante du livre, on a posé récemment le problème de l’élimination de certains livres de certaines bibliothèques et le problème de la redistribution des collections. La conservation des prototypes de toute* les publications est une chose, la présence de livres peu consultés dan* certaines des bibliothèques sont choses différentes.
+Impressionné par la production quantitative toujours croissante du livre, on a posé récemment le problème de l’élimination de certains livres de certaines bibliothèques et le problème de la redistribution des collections. La conservation des prototypes de toutes les publications est une chose, la présence de livres peu consultés dan* certaines des bibliothèques sont choses différentes.
 
 L'accroissement au centre des villes est en certain ca» énorme: ainsi au British Museum. 1600 mètres de rayonnage sont ajoutés chaqu- année. En 1931, on ajouta à la collection 22,567 livres, soit une moyenne journalière de soixante livres nouveaux ou rééditions de livres anciens. La Bibliothèque Nationale de Paris est dans une situation analogue.
 
-On est amené à envisager : 1° l'établissement de vaste» magasins nationaux extra muros ; 2° la redistribution des collections. Le hasard a souvent fait les choses ; la raison doit les rectifier. Concentration, fusion, transfert, échange. De toute manière systématisation, organisation de réseaux avec centrales, branches et succursales, principe affirmé que tout ce qui appartient à la communauté doit être nménagé au mieux de la communauté ; 3° agrégation des doubles à la Bibliothèque mondiale. Les périodiques étant l’aile marchante de la science, une bibliothèque scientifique vaut par l'existence de ces trois facteurs: 1. richesse en revue: 2. leur accessibilité au maximum (mise à disposition directe, arrivée ponctuelle et rapide des fascicules)» 3. leur catalogue, alias leur bibliographie.
+On est amené à envisager : 1° l'établissement de vastes magasins nationaux extra muros ; 2° la redistribution des collections. Le hasard a souvent fait les choses ; la raison doit les rectifier. Concentration, fusion, transfert, échange. De toute manière systématisation, organisation de réseaux avec centrales, branches et succursales, principe affirmé que tout ce qui appartient à la communauté doit être nménagé au mieux de la communauté ; 3° agrégation des doubles à la Bibliothèque mondiale. Les périodiques étant l’aile marchante de la science, une bibliothèque scientifique vaut par l'existence de ces trois facteurs: 1. richesse en revue: 2. leur accessibilité au maximum (mise à disposition directe, arrivée ponctuelle et rapide des fascicules)» 3. leur catalogue, alias leur bibliographie.
 
 262.43 Opérations à l'entrée.
 
 Les opérations suivantes sont à faire à l'entrée des volumes, dans l’ordre même indiqué ci-après :
 
-1" Ouverture des paquets. —• Si les arrivages sont accompagnés de factures ou bordereaux, leur contenu sera vérifié, le bordereau pointé et paraphé par le vérificateur, qui annotera soigneusement sur cette pièce le» anomalies éventuelles.
+1° Ouverture des paquets. —• Si les arrivages sont accompagnés de factures ou bordereaux, leur contenu sera vérifié, le bordereau pointé et paraphé par le vérificateur, qui annotera soigneusement sur cette pièce les anomalies éventuelles.
 
-2° Examen du livre. — Il y n lieu, dès l'entrée, de constater l'état matériel de chaque livre, a) Correspond il à la commande, à la liste ou pièce qui accompagne l’envoi; b) Est-il complet, pas d'omission de parties, d’omission ou déplacement de planches annoncées dans les tables; c) Est-il en bon état: détérioration» matérielles, taches, reliure ou brochage défaits ? d) Ne con»titue-‘.-il pas un double ?
+2° Examen du livre. — Il y a lieu, dès l'entrée, de constater l'état matériel de chaque livre, a) Correspond il à la commande, à la liste ou pièce qui accompagne l’envoi; b) Est-il complet, pas d'omission de parties, d’omission ou déplacement de planches annoncées dans les tables; c) Est-il en bon état: détérioration» matérielles, taches, reliure ou brochage défaits ? d) Ne con»titue-‘.-il pas un double ?
 
 3° Ouverture de chaque volume. — Découpage des pages: emploi d’un bon coupe-papier (les lames de cou-
 
@@ -16209,19 +16209,19 @@ Les opérations suivantes sont à faire à l'entrée des volumes, dans l’ordre
 
 te a ux ou ciseaux ne conviennent pas) ; découper, en suivant, de gauche à droite. Pour obtenir que les pages demeurent droites, ouvrir les pages par petits paquets en appuyant légèrement le long de la marge intérieure. Eviter l'écrasement brusque du dos.
 
-4" Détermination du clairement de Fouvrage. —■ On la fait à ce moment, car elle est nécessaire aux opérations ultérieures: 1"enregistrement à l'inventaire, l'estampillage et le catalogue. L'indice classificateur peut être inscrit d abord au crayon sur la couverture même du volume, en attendant tout enregistrement.
+4° Détermination du clairement de Fouvrage. —■ On la fait à ce moment, car elle est nécessaire aux opérations ultérieures: l'enregistrement à l'inventaire, l'estampillage et le catalogue. L'indice classificateur peut être inscrit d abord au crayon sur la couverture même du volume, en attendant tout enregistrement.
 
-5“ inscription à l'inventaire. (Voir ci-après). — Les ouvrages en continuation et les périod.ques sont inscrits sur leur fiche alphabétique déjà existante. On y trouvera leur numéro d'inventaire et leur indice de classement.
+5° inscription à l'inventaire. (Voir ci-après). — Les ouvrages en continuation et les périod.ques sont inscrits sur leur fiche alphabétique déjà existante. On y trouvera leur numéro d'inventaire et leur indice de classement.
 
-6“ Marque de propriété. — Dès qu'un livre est porté à l’inventaire, il doit être considéré comme faisant partie de la collection et doit recevoir une marque de propriété. Tout lecteur étant susceptible d'emprunter à plusieurs bibliothèques, il faut empêcher des confusions lors de la restitution des ouvrages. En cas de décès ou de départ du détenteur, ses commettants doivent pouvoir se rendre compte de l'origine et de la propriété des ouvrages trouvés chez lui. La marque de propriété doit empêcher aussi le troc ou la circulation illégale des ouvrages appartenant à la bibliothèque. La marque peut prendre deux formes : le timbrage et l’ex-libris. a) Timbrage: Le timbrage des volumes convient bien pour les bibliothèques servant à des lecteurs nombreux. Il comporte le simple estampillage de la firme de la Bibliothèque, avec mention de la ville et éventuellement de l'adresse où elle a son siège. On peut faire usage de tampons humides ou de timbres secs (à relief). Ces derniers ont le désavantage de n'êtic pas assez apparent», mai» ils ne font pa» tache sur le livre, La ploce du timbre est en premier lieu sur la page titre du volume ou au verso de celle-ci, ensuite sur les éléments encartés, sur les fascicules d'un même ouvrage, et sur les cartes et gravures. Si on préfère respecter ces éléments quand ils présentent un caractère d'art qui aurait à en souffrir, on timbre au dos. Pour plu» de précaution, on tamponne encore une page déterminée dan» le corps du volume, par exemple, pages 5 105, 205 et chaque 05; Le tampon doit être de petit format, et le» caractères simples et nets. L’encre doit être visible, indélébile et rapidement sèche. L’encre rouge est visible et sèche vite, On y ajoute du siccatif. Eviter couleur» à l'aniline. — b) Ex-libris: Le système qui a été employé en premier lieu comme marque de propriété est celui de l'ex-libri». Celui-ci est gravé ou collé à l'extérieur ou à l'intérieur de la reliure (armes, dessin, figure allégorique ou légende, ou combinaison de ces éléments). Une place est réservée pour l'inscription de la cote de l'ouvrage. Ce système convient encore actuellement, no-
+6° Marque de propriété. — Dès qu'un livre est porté à l’inventaire, il doit être considéré comme faisant partie de la collection et doit recevoir une marque de propriété. Tout lecteur étant susceptible d'emprunter à plusieurs bibliothèques, il faut empêcher des confusions lors de la restitution des ouvrages. En cas de décès ou de départ du détenteur, ses commettants doivent pouvoir se rendre compte de l'origine et de la propriété des ouvrages trouvés chez lui. La marque de propriété doit empêcher aussi le troc ou la circulation illégale des ouvrages appartenant à la bibliothèque. La marque peut prendre deux formes : le timbrage et l’ex-libris. a) Timbrage: Le timbrage des volumes convient bien pour les bibliothèques servant à des lecteurs nombreux. Il comporte le simple estampillage de la firme de la Bibliothèque, avec mention de la ville et éventuellement de l'adresse où elle a son siège. On peut faire usage de tampons humides ou de timbres secs (à relief). Ces derniers ont le désavantage de n'êtic pas assez apparent», mai» ils ne font pa» tache sur le livre, La ploce du timbre est en premier lieu sur la page titre du volume ou au verso de celle-ci, ensuite sur les éléments encartés, sur les fascicules d'un même ouvrage, et sur les cartes et gravures. Si on préfère respecter ces éléments quand ils présentent un caractère d'art qui aurait à en souffrir, on timbre au dos. Pour plus de précaution, on tamponne encore une page déterminée dans le corps du volume, par exemple, pages 5 105, 205 et chaque 05; Le tampon doit être de petit format, et les caractères simples et nets. L’encre doit être visible, indélébile et rapidement sèche. L’encre rouge est visible et sèche vite, On y ajoute du siccatif. Eviter couleur» à l'aniline. — b) Ex-libris: Le système qui a été employé en premier lieu comme marque de propriété est celui de l'ex-libri». Celui-ci est gravé ou collé à l'extérieur ou à l'intérieur de la reliure (armes, dessin, figure allégorique ou légende, ou combinaison de ces éléments). Une place est réservée pour l'inscription de la cote de l'ouvrage. Ce système convient encore actuellement, no-
 
-tamment pour le» bibliothèques personnelles. Il peut être cumulé avec le ssytème du timbrage, (I)
+tamment pour les bibliothèques personnelles. Il peut être cumulé avec le ssytème du timbrage, (I)
 
-7° Etiquetage des volumes. — 11 a pour but l'indication de la cote de placement des volumes, qui doit être bien apparente. Il peut servir par surcroît de marque de propriété si l'étiquette porte imprimée la firme de la Bibliothèque, C’est la marque de propriété la plu» visible et remplissant le plu» pratiquement son office, mai» elle n exclut pas l'application du timbre et l'emploi de 1 ex-libris car létiquette peut être décollée accidentellement oj volontairement. Elle comprend l'indice de la classification décimale et le numéro d'inventaire de l'ouvrage. On compte six espèce» de symbole pour exprimer les divers éléments qui servent à classer les livres sur les rayons. 1° La classe (indice décimal ou indice d'une autre classification). 2“ L’auteur (les Cutter numbers). 3“ Le titre d i l’ouvrage lie» Cutter nurajen) -, il est nécessaire de l'indiquer s'il est plusieurs livres d’un même auteur dans la même classe. 4° L'édition (s’il y a plusieurs éditions, indiquer par le nombre usuel de l'édition. 5a La date: table de Biscoe avec nombre arbitraire (date réelle de l'édition ou date abrégé). 6° Emplacement spécial qui correspond à diverses séries ou à des fonds. Far ex. : les lettres des formats (q) quarto et (f) folio. Et toutes désignation de fonds par des lettres A, B, C, etc.
+7° Etiquetage des volumes. — Il a pour but l'indication de la cote de placement des volumes, qui doit être bien apparente. Il peut servir par surcroît de marque de propriété si l'étiquette porte imprimée la firme de la Bibliothèque, C’est la marque de propriété la plus visible et remplissant le plus pratiquement son office, mai» elle n exclut pas l'application du timbre et l'emploi de l'ex-libris car létiquette peut être décollée accidentellement oj volontairement. Elle comprend l'indice de la classification décimale et le numéro d'inventaire de l'ouvrage. On compte six espèces de symbole pour exprimer les divers éléments qui servent à classer les livres sur les rayons. 1° La classe (indice décimal ou indice d'une autre classification). 2“ L’auteur (les Cutter numbers). 3“ Le titre de l’ouvrage lies Cutter nurajen) -, il est nécessaire de l'indiquer s'il est plusieurs livres d’un même auteur dans la même classe. 4° L'édition (s’il y a plusieurs éditions, indiquer par le nombre usuel de l'édition. 5a La date: table de Biscoe avec nombre arbitraire (date réelle de l'édition ou date abrégé). 6° Emplacement spécial qui correspond à diverses séries ou à des fonds. Far ex. : les lettres des formats (q) quarto et (f) folio. Et toutes désignation de fonds par des lettres A, B, C, etc.
 
 L'étiquette a la forme rectangulaire, le format, 1/6 de fiche est recommandé. Elle se place au bas de la couverture ou de la reliure, dans l'angle inférieur gauche, toujours à la même place et à la même distance pour tous les volumes. Si, le volume est assez épais, on peut placer sur le dos, tout en bas. une étiquette qui prend alors la forme ronde, ovale ou rectangulaire à coins coupés. En aucun cas elle ne peut couvrir des textes. On peut aussi remplacer l'étiquette par un timbre humide, de même grandeur, appliqué sur les couvertures des volumes brochés. Après l'étiquetage, les volumes sont rangés sur les rayons dans l'ordre des numéros d'inventaire, jusqu’à ce qu'on puisse les incorporer à leur place respective dans les collections.
 
-(1) Les collection» d'ex-libris présentent non seulement un intérêt pour l'art, mais aussi pour l'histoire des bibliothèques. Le» répertoires d’ex-libris auxquels elles donnent lieu constituent de véritables listes historiques des bibliothèques privées. Le nombre de ces répertoires, pour telle ou telle région, devient d- plus en plu» grand. On les termine aujourd'hui par des tables alphabétiques générales des armoiries, des devises et des noms propres, renvoyant aux notices descriptives des armoiries elles-mêmes et permettant ainsi de les identifier facilement. L'équivalent de l'ex-libri» appliqué sur les documents de toute espèce devrait être dit Ex-Documentis et faire l'objet d'une certaine standardisation. C'est à l'Allemagne que reviendrait l'honneur d'avoir inventé, vers le milieu du XVe siècle, ¡'ex-libris ; on en trouve la première mention en l'an 1460. Un siècls plus tard, on trouve des ex-libris en France et en Angleterre.
+(1) Les collection» d'ex-libris présentent non seulement un intérêt pour l'art, mais aussi pour l'histoire des bibliothèques. Les répertoires d’ex-libris auxquels elles donnent lieu constituent de véritables listes historiques des bibliothèques privées. Le nombre de ces répertoires, pour telle ou telle région, devient d- plus en plus grand. On les termine aujourd'hui par des tables alphabétiques générales des armoiries, des devises et des noms propres, renvoyant aux notices descriptives des armoiries elles-mêmes et permettant ainsi de les identifier facilement. L'équivalent de l'ex-libri» appliqué sur les documents de toute espèce devrait être dit Ex-Documentis et faire l'objet d'une certaine standardisation. C'est à l'Allemagne que reviendrait l'honneur d'avoir inventé, vers le milieu du XVe siècle, ¡'ex-libris ; on en trouve la première mention en l'an 1460. Un siècls plus tard, on trouve des ex-libris en France et en Angleterre.
 
 
 ====
@@ -16235,11 +16235,11 @@ a) Le catalogue est un élément capital de la bibliothèque. Sans catalogue, el
 
 b) On a traité avec la bibliographie sous le n° ¿61 tout ce qui concerne le catalogue.
 
-c) L’inventaire se combine avec le catalogue, mais il est de première importance. L'inventaire peut être établi soit sur registre soit sur fiche. Les inscriptions y étant établies au jour le jour ou dans un ordre numérique suivi, les avantages des fiches quant à l'intercalation sont moindres ; ceux de la répartition du travail entre plusieurs n'existe que dans les grands établissements ou lorsqu'il s'agit d’arriéré. L’inventaire est comparable au Livre Journal dans la comptabilité. Il peut servir de base aux autres écritures des autres partie» du catalogue qui, s'il est complet, peuvent en être extraites à la manière dont les écritures du Grand-Livre, qui classe les articles par comptes, sont extraites du Journal. L'inventaire en registre peut s’établir pour chaque ouvrage, soit en un texte continu, les déterminations suivant les diverses caractéristiques à décrire, soit en colonnes.
+c) L’inventaire se combine avec le catalogue, mais il est de première importance. L'inventaire peut être établi soit sur registre soit sur fiche. Les inscriptions y étant établies au jour le jour ou dans un ordre numérique suivi, les avantages des fiches quant à l'intercalation sont moindres ; ceux de la répartition du travail entre plusieurs n'existe que dans les grands établissements ou lorsqu'il s'agit d’arriéré. L’inventaire est comparable au Livre Journal dans la comptabilité. Il peut servir de base aux autres écritures des autres parties du catalogue qui, s'il est complet, peuvent en être extraites à la manière dont les écritures du Grand-Livre, qui classe les articles par comptes, sont extraites du Journal. L'inventaire en registre peut s’établir pour chaque ouvrage, soit en un texte continu, les déterminations suivant les diverses caractéristiques à décrire, soit en colonnes.
 
-Le» caractéristiques à mentionner sont les suivantes î 1° Date de l’entrée de l’ouvrage (mois, jour et année), 2} Numéro d'ordre de l'inventaire. 3° Indice de la classification. 4° Les indications d'ordre bibliographique : auteur, titre, etc. 5° Reliure, leur état. 6° Nombre d'exemplaires. 7J Mode d'acquisition, achat, prix. 8° Valeur actuelle. 9° Donation (nom du donateur). 10° Echange. 11° Observations diverses.
+Les caractéristiques à mentionner sont les suivantes : 1° Date de l’entrée de l’ouvrage (mois, jour et année), 2} Numéro d'ordre de l'inventaire. 3° Indice de la classification. 4° Les indications d'ordre bibliographique : auteur, titre, etc. 5° Reliure, leur état. 6° Nombre d'exemplaires. 7J Mode d'acquisition, achat, prix. 8° Valeur actuelle. 9° Donation (nom du donateur). 10° Echange. 11° Observations diverses.
 
-d) Les bibliothèques sont devenues des organismes de bibliographie et elles sont d'autre part des organismes de coopération à la bibliographie. Elles y sont amenées par leur propre catalogue, par le catalogue collectif national ou local, qu'entreprennent certaines d'entre elles — par les travaux bibliographique» qu’elles élaborent, qu'elles éditent ou que font les membres de leur personnel. (Ex. Library of Congress, Preussische Staatshibliothek).
+d) Les bibliothèques sont devenues des organismes de bibliographie et elles sont d'autre part des organismes de coopération à la bibliographie. Elles y sont amenées par leur propre catalogue, par le catalogue collectif national ou local, qu'entreprennent certaines d'entre elles — par les travaux bibliographiques qu’elles élaborent, qu'elles éditent ou que font les membres de leur personnel. (Ex. Library of Congress, Preussische Staatshibliothek).
 
 262.44 Placement sur les rayons.
 """""""""""""""""""""""""""""""""""
@@ -16247,29 +16247,29 @@ d) Les bibliothèques sont devenues des organismes de bibliographie et elles son
 262.441 NOTION ET BUT.
 ........................
 
-Les ouvrages ne sauraient être placés pêle-mêle sur les rayons. Il faut un ordre en relation avec le catalogue. Le but de tout classement est de faciliter la recherche. Du classement qu'on donnera aux livres sur lc9 rayons dépendra le plu» ou moins de facilité qu'on aura à les retrouver. La cote de placement est la marque ou étiquette apposée sur les ouvrages et qui porte les éléments destinés à déterminer la place à occuper sur le rayon par chaque ouvrage dans la série constituée par la collection bien ordonnée de tous les ouvrages. La cote de placement sert donc à retrouver les livre». Elle est le lien entre le catalogue, >» ouvrages et le» rayons sur lesquels ceux-ci sont déposés.
-Elle doit donc être portée sur les notices du catalogue, sur les ouvrages eux-mêmes, et en outre fournir des repère» porté» de distance en distance sur les rayons. La cote de placement est en corrélation directe avec le système adopté pour le placement. Sa forme et ses éléments different donc d'après lui.
+Les ouvrages ne sauraient être placés pêle-mêle sur les rayons. Il faut un ordre en relation avec le catalogue. Le but de tout classement est de faciliter la recherche. Du classement qu'on donnera aux livres sur lc9 rayons dépendra le plus ou moins de facilité qu'on aura à les retrouver. La cote de placement est la marque ou étiquette apposée sur les ouvrages et qui porte les éléments destinés à déterminer la place à occuper sur le rayon par chaque ouvrage dans la série constituée par la collection bien ordonnée de tous les ouvrages. La cote de placement sert donc à retrouver les livre». Elle est le lien entre le catalogue, >» ouvrages et les rayons sur lesquels ceux-ci sont déposés.
+Elle doit donc être portée sur les notices du catalogue, sur les ouvrages eux-mêmes, et en outre fournir des repères portés de distance en distance sur les rayons. La cote de placement est en corrélation directe avec le système adopté pour le placement. Sa forme et ses éléments different donc d'après lui.
 
 262.442 SYSTEME DE PLACEMENT DES LIVRES.
 ...............................................
 
-Trois système» fondamentaux de placement sur les rayon» sont possible». Ces systèmes s’excluent, il faut choisir l'un d’eux et s'y tenir rigoureusement.
+Trois systèmes fondamentaux de placement sur les rayon» sont possible». Ces systèmes s’excluent, il faut choisir l'un d’eux et s'y tenir rigoureusement.
 
 Les formats. les fonda et la disposition matérielle des rayons viennent apporter quelque complication et devraient être combinés avec le système adopté,
 
 A) Placement par numéro d'inventaire. — Le système de placement le plus simple est celui de l'ordre des numéros matricules attribués aux ouvrages dans l'inventaire. Les ouvrages s'ajoutent les uns à la suite des autres, à mesure de leur arrivée. La recherche s'opère d’après leur numéro. Les périodiques formant série a part, sont suivis chacun d'un espace libre correspondant à leur accroissement normal.
 
-B) Placement dana l'ordre systématique décima/. — Ce placement est opéré par indice de la classification décimale subdivisé par numéro d'inventaire. On écrit la cote sous la forme
+B) Placement dans l'ordre systématique décimale. — Ce placement est opéré par indice de la classification décimale subdivisé par numéro d'inventaire. On écrit la cote sous la forme
 
 n° 324  ou   n° 324 511
 
-Sur le» rayons les ouvrages eux-mêmes sont placés dans l’ordre des divisions décimales. On obtient ainsi un parallélisme parfait entre le placement sur les rayons, le catalogue méthodique par matières et la classification décimale. L'ordre adopté peut être celui de la classification abrégée (division du lpr, 2° ou 3e degré) ou de la classification détaillée et complète. Les ouvrages traitant de plusieurs sujets sont placés sur les rayons à l’indice du sujet principal. On peut les rappeler sous les autres indices su moyen de cartons ou de planchette» portant la notice abrégée de l’ouvrage et renvoyant à l’indice du sujet principal.
+Sur les rayons les ouvrages eux-mêmes sont placés dans l’ordre des divisions décimales. On obtient ainsi un parallélisme parfait entre le placement sur les rayons, le catalogue méthodique par matières et la classification décimale. L'ordre adopté peut être celui de la classification abrégée (division du lpr, 2° ou 3e degré) ou de la classification détaillée et complète. Les ouvrages traitant de plusieurs sujets sont placés sur les rayons à l’indice du sujet principal. On peut les rappeler sous les autres indices su moyen de cartons ou de planchettes portant la notice abrégée de l’ouvrage et renvoyant à l’indice du sujet principal.
 
-C) Placement par ordre alphabétique. — Les ouvrages dans ce système sont disposés sur les rayons dans l'ordre même du catalogue alphabétique. Si un auteur est représenté par plusieurs ouvrages, on sous-classe les titre» de l’ouvrage, ordonnés eux-mêmes alphabétiquement. Pour faciliter ce classement, on établit des tables qui transforment les groupes de lettres des noms, en groupes de chiffres. (1)
+C) Placement par ordre alphabétique. — Les ouvrages dans ce système sont disposés sur les rayons dans l'ordre même du catalogue alphabétique. Si un auteur est représenté par plusieurs ouvrages, on sous-classe les titres de l’ouvrage, ordonnés eux-mêmes alphabétiquement. Pour faciliter ce classement, on établit des tables qui transforment les groupes de lettres des noms, en groupes de chiffres. (1)
 
 ----
 
-(I) Aux Etats-Unis, les Tables de Cutter et de Biscoe. Les Russes en ont fait une adaptation h la forme et à la fréquence de leurs noms propres. Voir Griorjev, J. V. : Distribution et conservation des livres dans les bibliothèques, Moscou 1931, p. 23.
+(I) Aux Etats-Unis, les Tables de Cutter et de Biscoe. Les Russes en ont fait une adaptation à la forme et à la fréquence de leurs noms propres. Voir Griorjev, J. V. : Distribution et conservation des livres dans les bibliothèques, Moscou 1931, p. 23.
 
 
 ====
@@ -16279,15 +16279,15 @@ C) Placement par ordre alphabétique. — Les ouvrages dans ce système sont dis
 262.443 CHOIX ENTRE CES METHODES.
 ......................................
 
-C'est la nature des collections, le caractère de la bibliothèque et des lecteurs auxquels elle est destinée, la place et le personnel dont on dispose qui doivent faire décider du choix d'une de ces méthodes. Ainsi le classement en trois formats (Octavo, Quarto, Folio) suivi du numéro de l'inventaire en trois séries est le plus simple pour la mise en place immédiate, le moins sujet è changement et le plus facile au moment du prêt et pour le recollement d'inventaire. (I) Mais le classement selon l'ordre systématique décimal détaillé offre de son côté divers avantages qui font défaut au classement par format et par numéro d'inventaire. Ce qui réduit le travail du bibliothécaire n'est pas toujours ce qu'il y a de mieux pour les lecteurs. Les bibliothèques en Amérique sont, pour la plupart, classées d'après le sujet des ouvrages, c'est-à-dire le numéro donné à ce sujet dans la classification décimale C'est le système qui convient là où le lecteur est admis à choisir lui-même, dans les rayons, les ouvrages qu’il désire consulter ou emporter. Il trouve ainsi réunie toute la littérature d'un même sujet. Le classement par sujet exige des espaces de réserve à chaque division, dans une mesure correspondante aux accroissements probables. Cette mesure est difficile à évaluer et des remaniements s'imposent soit périodiquement (par exemple au recollement des inventaires), soit lorsqu'un développement imprévu oblige d'étendre l'espace réservé à une division. La détermination du sujet d'un ouvrage ne peut être faite que par un personnel instruit, apte à discerner à quelle classe appartient un ouvrage et à lui attribuer le numéro classificateur correspondant. Cette opération nécessite un examen de l'ouvrage et prend, naturellement, un certain temps. Le grand avantage de voir grouper ensemble tous les ouvrages et périodiques traitant d un même sujet implique donc un sacrifice d'espace, de matériel et de travail qui fait qu’on y renonce là où les ressources et le personnel sont limités. Mais là où ces considérations n'entrent pas en ligne de compte, et notamment dans les « bibliothèques de travail a constituées surtout pour l’usage du personnel d'un établissement ou d'une administration, qui a intérêt à compulser à un moment donné l'ensemble de tous les ouvrages possédés sur un sujet donné, on envisagera comme idéal I arrangement des livres sur les rayons dans l’ordre même des sujets dont ils traitent. Là, le but à atteindre, une consultation complète, facile et rapide est assez important pour considérer comme éléments accessoires les reclassements ou les réserves d’espaces.
+C'est la nature des collections, le caractère de la bibliothèque et des lecteurs auxquels elle est destinée, la place et le personnel dont on dispose qui doivent faire décider du choix d'une de ces méthodes. Ainsi le classement en trois formats (Octavo, Quarto, Folio) suivi du numéro de l'inventaire en trois séries est le plus simple pour la mise en place immédiate, le moins sujet à changement et le plus facile au moment du prêt et pour le recollement d'inventaire. (I) Mais le classement selon l'ordre systématique décimal détaillé offre de son côté divers avantages qui font défaut au classement par format et par numéro d'inventaire. Ce qui réduit le travail du bibliothécaire n'est pas toujours ce qu'il y a de mieux pour les lecteurs. Les bibliothèques en Amérique sont, pour la plupart, classées d'après le sujet des ouvrages, c'est-à-dire le numéro donné à ce sujet dans la classification décimale C'est le système qui convient là où le lecteur est admis à choisir lui-même, dans les rayons, les ouvrages qu’il désire consulter ou emporter. Il trouve ainsi réunie toute la littérature d'un même sujet. Le classement par sujet exige des espaces de réserve à chaque division, dans une mesure correspondante aux accroissements probables. Cette mesure est difficile à évaluer et des remaniements s'imposent soit périodiquement (par exemple au recollement des inventaires), soit lorsqu'un développement imprévu oblige d'étendre l'espace réservé à une division. La détermination du sujet d'un ouvrage ne peut être faite que par un personnel instruit, apte à discerner à quelle classe appartient un ouvrage et à lui attribuer le numéro classificateur correspondant. Cette opération nécessite un examen de l'ouvrage et prend, naturellement, un certain temps. Le grand avantage de voir grouper ensemble tous les ouvrages et périodiques traitant d un même sujet implique donc un sacrifice d'espace, de matériel et de travail qui fait qu’on y renonce là où les ressources et le personnel sont limités. Mais là où ces considérations n'entrent pas en ligne de compte, et notamment dans les « bibliothèques de travail a constituées surtout pour l’usage du personnel d'un établissement ou d'une administration, qui a intérêt à compulser à un moment donné l'ensemble de tous les ouvrages possédés sur un sujet donné, on envisagera comme idéal I arrangement des livres sur les rayons dans l’ordre même des sujets dont ils traitent. Là, le but à atteindre, une consultation complète, facile et rapide est assez important pour considérer comme éléments accessoires les reclassements ou les réserves d’espaces.
 ( I ) Les in-folio, à raison de leurs dimensions sont avantageusement conservés à plat. Lorsqu'ils sont dressés, les ouvrages voisins les pressent et les abîment. On a créé un type de meuble spécial pour conserver et lire les in-folios dans les petites bibliothèques (armoires des atlas)
 
 262.45 Le prêt des livres.
 """"""""""""""""""""""""""""""""
 
-a) Le prêt ou communication des ouvrages prend deux formes. 1° Prêter des livres en lecture dans la bibliothèque seulement, avec des conditions d'accession variant d après le» catégories d'ouvrages. 2° Prêt des livres au dehors, soit simultanément avec le prêt de l'intérieur, soit seulement le prêt au dehors, réduisant la bibfothèque à un magasin de livres sans salle de lecture, soit le prêt au dehors limité à des ouvrages en double ou facilement remplaçables.
+a) Le prêt ou communication des ouvrages prend deux formes. 1° Prêter des livres en lecture dans la bibliothèque seulement, avec des conditions d'accession variant d'après les catégories d'ouvrages. 2° Prêt des livres au dehors, soit simultanément avec le prêt de l'intérieur, soit seulement le prêt au dehors, réduisant la bibfothèque à un magasin de livres sans salle de lecture, soit le prêt au dehors limité à des ouvrages en double ou facilement remplaçables.
 
-b) Pour enregistrer les prêts, on a imaginé des dispositifs ingénieux permettant d’un seul coup d'oeil de connaître ce qui est sorti, quand est sorti et qui a reçu. Ainsi est assuré le contrôle. Les lecteurs sont appelés à concourir à ces opérations en rédigeant eux-mêmes les bulletins de demande ou s'ils ont libre accès aux rayons. Les prêts peuvent être enregistrés soit sur fiches, soit en registres. Les mentions suivantes ont une utilité pour l'identification ou pour la statistique. 1° Bibliothécaire de service. 2° Numéro d'ordre des prêts. 3° Numéro d'inventaire de l’ouvrage. 4° Classification décimale du livre. 5° Auteur. 6" Titre. 7° Tome. 8° Etat du livre. 9° Date du prêt. 10° Nom et signature de l'emprunteur. 11° Age de l’emprunteur. 12° Sexe. 13° Nationalité. 14° Profession. 15° Date de la restitution, 16° Nom du bibliothécaire qui a reçu le livre. 17° Observation. Ces mentions sont très complètes; elles peuvent être simplifiées au 2°, 3°, 9". 10° et 15".
+b) Pour enregistrer les prêts, on a imaginé des dispositifs ingénieux permettant d’un seul coup d'œil de connaître ce qui est sorti, quand est sorti et qui a reçu. Ainsi est assuré le contrôle. Les lecteurs sont appelés à concourir à ces opérations en rédigeant eux-mêmes les bulletins de demande ou s'ils ont libre accès aux rayons. Les prêts peuvent être enregistrés soit sur fiches, soit en registres. Les mentions suivantes ont une utilité pour l'identification ou pour la statistique. 1° Bibliothécaire de service. 2° Numéro d'ordre des prêts. 3° Numéro d'inventaire de l’ouvrage. 4° Classification décimale du livre. 5° Auteur. 6" Titre. 7° Tome. 8° Etat du livre. 9° Date du prêt. 10° Nom et signature de l'emprunteur. 11° Age de l’emprunteur. 12° Sexe. 13° Nationalité. 14° Profession. 15° Date de la restitution, 16° Nom du bibliothécaire qui a reçu le livre. 17° Observation. Ces mentions sont très complètes; elles peuvent être simplifiées au 2°, 3°, 9". 10° et 15".
 
 c) Le prêt de livres à domicile a fait de remarquables progrès dans certaines bibliothèques .Les demandes faites par cartes postales sont desservies à domicile par la poste ou par service d'auto.
 
@@ -16305,39 +16305,39 @@ b) Un édifice de bibliothèque doit être une construction libre de toutes part
 
 *348* LE LIVRE ET LE DOCUMENT 263
 
-en toi, afin de répondre aux desiderata du silence, de l'aération, de la lumière nécessaire. Il faut tendre à faire parcourir un chemin minimum au livre pour parvenir jusqu'au lecteur ; il faut aussi séparer distinctement les deux grands services d'une bibliothèque, celui relatif au travail intérieur de manipulation des livre» et celui relatif à l'utilisation des livre» par le» lecteur». (I)
+en toi, afin de répondre aux desiderata du silence, de l'aération, de la lumière nécessaire. Il faut tendre à faire parcourir un chemin minimum au livre pour parvenir jusqu'au lecteur ; il faut aussi séparer distinctement les deux grands services d'une bibliothèque, celui relatif au travail intérieur de manipulation des livres et celui relatif à l'utilisation des livres par les lecteur». (I)
 
 Nous avons suggéré qu'à Paris un jour la Bibliothèque Nationale et le Louvre soient reliés par des passages souterrains et qu'à J*intermédiaire du Palais Royal, consacrés aux extensions et à la concentration des collections éparse», il soit formé un seul immense complexe consacré à la documentation dans tous ses aspects.
 
 c) L'architecte J. Witkiewicz-Koszcyc a exprimé l'avis qu'il est impossible de faire un projet rationnel d'édifice de bibliothèque pouvant subir des agrandissements à l'infini. On peut construire l’édifice en plusieurs étages, mais le programme doit être défini et prévoit un tout complet et une possibilité d'agrandissement limité. L'examen des bibliothèques existantes démontre qu'elles nécessitent une reconstruction au bout de 50 à 60 ans. Le développement des possibilités techniques est en rapport avec le développement de la lecture des livres. Après 50 ans la génération nouvelle devra résoudre la question d'une façon différente en harmonie avec tous les progrès réalisés simultanément dans la technique, dans la société et dans la documentation.
 
-d) Les installations techniques progressent sans cesse: éclairage, distribution mécanique des livre», circulation de l'air,
+d) Les installations techniques progressent sans cesse: éclairage, distribution mécanique des livres, circulation de l'air,
 
 263 Les Archives (Archives anciennes)
 -----------------------------------------
 
 I. — Notion.
 
-a) Les archive» sont les titres juridiques de l'Etat, des provinces, des communes, de» établissements public» et privés et des particuliers. Les « archives historiques » sont celles qui sont antérieures à une date déterminée. Elles »ont accessibles au public par opposition aux « archives administratives », qui servent exclusivement aux besoin» de l'administration et qui ne peuvent jouir de la même publicité. Les document» anciens forment des masses considérable*'
+a) Les archives sont les titres juridiques de l'Etat, des provinces, des communes, des établissements publics et privés et des particuliers. Les « archives historiques » sont celles qui sont antérieures à une date déterminée. Elles sont accessibles au public par opposition aux « archives administratives », qui servent exclusivement aux besoin» de l'administration et qui ne peuvent jouir de la même publicité. Les document» anciens forment des masses considérable*'
 
 b) l.a constitution des archives a pour objet notamment
 (I) La nouvelle Bbiliotbèque de l’Ecole des Hautes Etudes commerciales de Varsovie, qui abrite provisoirement la Bibliothèque Nationale Polonaise (architecte Jean Wit-kicwicz Koszcyc) réalise une nouvelle disposition Je locaux : les salles de lecture sont placées immédiatement au-dessus du magasin à livres et reliées à lui par des monte-charges électriques. Ainsi le livre se trouve à une distance minime du lecteur, son trajet étant vertical et d'un étage seulement. Dans l'édifice, 1,000 étudiants peuvent travailler aisément et simultanément. L’édifice a été construit en 17 mois et demi.
-L conservation de» titres juridique», la documentation de {'histoire, le» informations scientifiques de caractère social.
+L conservation des titres juridiques, la documentation de {'histoire, les informations scientifiques de caractère social.
 
 c) On distingue les archives quant à la propriété (archives officielles ou privées), quant à la publicité (archives publiques ou secrètes), quant à l'objet (archives administratives ou scientifique»).
 
 2. — Historique.
 
-En France, l'Assemblée Constituante, par voie de confiscation, a mis à la disposition de l'Etat, c'est-à-dire da tout le monde, une foule d’archives privées et de collections particulière» : archives, bibliothèques et musées de la Couronne, archives et bibliothèques de couvents et de corporations supprimées. On les a réparties entre quelques établissement» nationaux. Le même fait s est produit sur une moins grande échelle en Allemagne, en Espagne et en Italie.
+En France, l'Assemblée Constituante, par voie de confiscation, a mis à la disposition de l'Etat, c'est-à-dire de tout le monde, une foule d’archives privées et de collections particulières : archives, bibliothèques et musées de la Couronne, archives et bibliothèques de couvents et de corporations supprimées. On les a réparties entre quelques établissement» nationaux. Le même fait s est produit sur une moins grande échelle en Allemagne, en Espagne et en Italie.
 
-Les Archives nationales de France renferment plusieurs millions de titres, répartis dans environ 300,000 cartons, liasses, registres et portefeuilles; elles s augmentent chaque jour de documents dont les administrations n’ont plus besoin pour les affaires courantes. En Angleterre, une Commission royale de 1914 s est occupée de la quest :on des archives. (Voir rapport Edwards, n° 13.) (I) En Russie, le Gouvernement des Soviets a pris un ensemble de mesure» nouvelles pour la centralisation et le classement des archive».
+Les Archives nationales de France renferment plusieurs millions de titres, répartis dans environ 300,000 cartons, liasses, registres et portefeuilles; elles s augmentent chaque jour de documents dont les administrations n’ont plus besoin pour les affaires courantes. En Angleterre, une Commission royale de 1914 s est occupée de la quest :on des archives. (Voir rapport Edwards, n° 13.) (I) En Russie, le Gouvernement des Soviets a pris un ensemble de mesures nouvelles pour la centralisation et le classement des archive».
 
 3. — Archivistique. Méthodes.
 
-La science de» archive», créée par Mabillon sous le nom de Diplomatique, n'a cessé de te développer. Des méthodes très précises ont été élaborées pour l'organisation des archives. (2) Il en a été discuté dan» les Associations d archiviste» et les Congrès internationaux des bibliothécaires et d«s archivistes. La manière dont les archive» sont traitées a des identités fondamentales avec le traitement de» livres dans les bibliothèques : disposition en magasin, inventaire et catalogues, communication publique de» pièces, etc. Mais il existe aussi de» différences marquées.
-(1) Il y a les archives des organisation» secrète» de l*«ln-telligence service » dans le» archive» du Foreign Office, de» ministères, du château de Windsor. (Les pièces passées à /‘état historique mais qui intéressent les intrigues des cours), du British Museum (sans indication de provenance) de Scotland Yard (les portraits des espions) de l'Amirauté et du War Office (plans, graphiques, épures du contre-espionnage). Les archives de l'Intelligence service restent à l'abri d'un attentat convoité, d'un incendie criminel. Il y a des gens très haut placés de par le monde qui. de tous temps, eussent bien aimé considérer comme détruits certains dossiers s. (Les hommes aux mille visages ). «Indépendance Belge, 21 oct. 1933 ».
+La science des archives, créée par Mabillon sous le nom de Diplomatique, n'a cessé de se développer. Des méthodes très précises ont été élaborées pour l'organisation des archives. (2) Il en a été discuté dans les Associations d archivistes et les Congrès internationaux des bibliothécaires et d«s archivistes. La manière dont les archives sont traitées a des identités fondamentales avec le traitement des livres dans les bibliothèques : disposition en magasin, inventaire et catalogues, communication publique des pièces, etc. Mais il existe aussi des différences marquées.
+(1) Il y a les archives des organisations secrètes de l'«In-telligence service » dans les archives du Foreign Office, des ministères, du château de Windsor. (Les pièces passées à /‘état historique mais qui intéressent les intrigues des cours), du British Museum (sans indication de provenance) de Scotland Yard (les portraits des espions) de l'Amirauté et du War Office (plans, graphiques, épures du contre-espionnage). Les archives de l'Intelligence service restent à l'abri d'un attentat convoité, d'un incendie criminel. Il y a des gens très haut placés de par le monde qui. de tous temps, eussent bien aimé considérer comme détruits certains dossiers s. (Les hommes aux mille visages ). «Indépendance Belge, 21 oct. 1933 ».
 
-(2) Manuel pour le classement et la description des archives. par S. Muller. J. A. Feitb et Fruin. Traduction française du hollandais, adaptation aux archive» belges, par Jos. Cuvclier, adaptation aux archives française», par H. Stein, fj» Haye, A. de Jager, 1910.
+(2) Manuel pour le classement et la description des archives. par S. Muller. J. A. Feitb et Fruin. Traduction française du hollandais, adaptation aux archives belges, par Jos. Cuvclier, adaptation aux archives française», par H. Stein, fj» Haye, A. de Jager, 1910.
 
 
 ====
@@ -16348,13 +16348,13 @@ La science de» archive», créée par Mabillon sous le nom de Diplomatique, n'a
 
 a) Partout où la chose est possible, il faut classer les archives comme elles le furent à l'époque où existèrent les corps et administrations dont elles proviennent et l’inventaire doit refléter ce classement. Le rétablissement de ce classement primitif est presque toujours possible. La durée éternelle, à laquelle on doit viser dans les travaux de l’espèce ne peut être obtenue que par les inventaires basés sur le classement rationnel ressortant des archives mêmes, fl faut donc respecter les fonds (principe de provenance) et donner dans l’inventaire une image exacte de l'organisme ou de l'in9titution dont on veut faire connaître les archives. (J. Cuvelier). t Un fonds d’archives bien ordonné doit offrir dans la distribution des documents l’image extérieure de la structure organique de l'Etat, comme le bon architecte laisse deviner dans la façade la destination et la structure interne de l'édifice » (Leopoldo Galcotti).
 
-b) Un effort considérable a été fait dans la plupart des pays pour opérer le dépouillement systématique des archives: tableaux, index, répertoires, inventaires et catalogues d’actes. Les archives ainsi traitées analytiquement sont les matériaux classés de l’histoire. Les ouvrages synthétiques d’histoire peuvent vieillir, ne plus répondre à a conception de l'heure, tandis que les archives demeurent permanentes, c La tache de l’archiviste doit consister exclusivement, dit J. Cuvelier, à faire des travaux d’analyse qu’il mettra à la disposition de l’historien. Sic Dos non vobis. Pendant ses heures de bureau, l’archiviste sera l’encyclopédiste de l’histoire, fournissant tour h tour des renseignements sur les documents de toutes les parties de l’histoire. » — R. Galli a proposé de former k Rome une collection complète des inventaires imprimés de tous les dépôts d’archives du monde (Nuova Antología, juillet 1895).
+b) Un effort considérable a été fait dans la plupart des pays pour opérer le dépouillement systématique des archives: tableaux, index, répertoires, inventaires et catalogues d’actes. Les archives ainsi traitées analytiquement sont les matériaux classés de l’histoire. Les ouvrages synthétiques d’histoire peuvent vieillir, ne plus répondre à a conception de l'heure, tandis que les archives demeurent permanentes, c La tache de l’archiviste doit consister exclusivement, dit J. Cuvelier, à faire des travaux d’analyse qu’il mettra à la disposition de l’historien. Sic Dos non vobis. Pendant ses heures de bureau, l’archiviste sera l’encyclopédiste de l’histoire, fournissant tour à tour des renseignements sur les documents de toutes les parties de l’histoire. » — R. Galli a proposé de former à Rome une collection complète des inventaires imprimés de tous les dépôts d’archives du monde (Nuova Antología, juillet 1895).
 
 c) Les archives anciennes sont conservées sous trois
 
 formes : registres, dossiers, cartons. Les registres pré-
 
-sentent la forme d’origine que l’on ne saurait modifier. Les cartonniers doivent être évités autant que possible, sauf pour les chartes et diplômes (parchemins et sceaux) qui doivent être placés sous enveloppes et rassemblés en cartons qui les protègent. Les dossiers constituent le mode le plus pratique. Us sont extensibles a volonté, ils prennent donc le minimum de place et. disposés sur les rayons, on s’aperçoit facilement qu’ils ont été déplacés.
+sentent la forme d’origine que l’on ne saurait modifier. Les cartonniers doivent être évités autant que possible, sauf pour les chartes et diplômes (parchemins et sceaux) qui doivent être placés sous enveloppes et rassemblés en cartons qui les protègent. Les dossiers constituent le mode le plus pratique. Ils sont extensibles a volonté, ils prennent donc le minimum de place et disposés sur les rayons, on s’aperçoit facilement qu’ils ont été déplacés.
 
 5. —. Centralisation.
 
@@ -16376,7 +16376,7 @@ transférer périodiquement aux archives de l’Etat les documents devenus inuti
 
 Plusieurs pays ont arrêté des dispositions très précises pour la mise au rebut et l’élimination de certains documents d’archives (voir les règlements des archives anglaises et italiennes). Tout document officiel doit être tenu comme propriété de l’Etat. Toute administration doit avoir la faculté de transférer à tout moment aux archives
 
-( I ) J. Cuvelier. De la nécessité des versements périodiques des documents administratifs dans les dépôts d’archives. Rapport au Congrès International des Science» administratives 1910. (4-1-12).
+( I ) J. Cuvelier. De la nécessité des versements périodiques des documents administratifs dans les dépôts d’archives. Rapport au Congrès International des Sciences administratives 1910. (4-1-12).
 
 
 ====
@@ -16387,16 +16387,16 @@ de l'Etat (service central ou départemental) les documents dont elle n'a plus l
 
 8. — Archives économiques et sociales.
 
-a) On a formé des archives économiques et sociales contemporaines : collections des documents imprimés ou manuscrits, intéressant l’histoire d’une commune au point de vue artistique, économique, social et politique. Il s'agit non pas de livres ou de brochures, qui ont leur place indiquée dans une bibliothèque, mais de feuilles volantes distribuées sur la voie publique, de prospectus de maisons de commerce, de préférence des prospectus illustrés ou accompagnés d'échantillons, de programmes illustrés de théâtre, etc.» en un mot de tout un ensemble de documents de la vie journalière, d'un caractère extrêmement fugitif et, par conséquent, voués, de la part des particuliers. h une destruction immédiate :
+a) On a formé des archives économiques et sociales contemporaines : collections des documents imprimés ou manuscrits, intéressant l’histoire d’une commune au point de vue artistique, économique, social et politique. Il s'agit non pas de livres ou de brochures, qui ont leur place indiquée dans une bibliothèque, mais de feuilles volantes distribuées sur la voie publique, de prospectus de maisons de commerce, de préférence des prospectus illustrés ou accompagnés d'échantillons, de programmes illustrés de théâtre, etc.» en un mot de tout un ensemble de documents de la vie journalière, d'un caractère extrêmement fugitif et, par conséquent, voués, de la part des particuliers, à une destruction immédiate :
 
 b) On a institué notamment en Hollande plusieurs dépôts d’archives de grandes firmes commerciales.
 
-c) 11 faudrait (localement, régionalement, nationalement, internationalement) des dépôts généraux où il soit possible à tous, gratuitement s’il s’agit d'institut ons Publiques scientifiques ou d'utilité publique, moyennant payement pour les autres, de déposer les papiers hors d'usage fréquemment mais qu'il importe de ne pas détruire. Ces dépôts pourraient être installés hors des centres.
+c) Il faudrait (localement, régionalement, nationalement, internationalement) des dépôts généraux où il soit possible à tous, gratuitement s’il s’agit d'institut ons Publiques scientifiques ou d'utilité publique, moyennant payement pour les autres, de déposer les papiers hors d'usage fréquemment mais qu'il importe de ne pas détruire. Ces dépôts pourraient être installés hors des centres.
 
 9. — Une Internationale des Archivistes.
 
 L'Institut International de coopération intellectuelle a réuni, en 1931, un comité international d'archivistes, dont les sessions seront dorénavant périodiques. Ce comité est composé des directeurs d'archives d'Etat de neuf pays : Allemagne, Autriche, Belgique, Espagne, France. Italie. Grande-Bretagne, Pays-Bas, Suisse. Il a estimé que le travail de coordination des administrations centrales d'archives devait porter notamment sur la publication d’un guide international des archives, sur l’échange de fac-similés paléographiques, sur l'unification de la terminologie ainsi que sur des échanges de professeurs et conférencier* entre les différentes institutions ou écoles formant des archivistes.
-264 Le» Administration». Documentation administrative.
+264 Les Administrations. Documentation administrative.
 
 (Bureaux, Secrétariats, Archives courantes.)
 
@@ -16405,13 +16405,13 @@ L'Institut International de coopération intellectuelle a réuni, en 1931, un co
 
 a) On définit la documentation administrative (distincte de la documentation scientifiqueb celle qui procède de l’administration des choses. C’est l'ensemble des opérations documentaires et des documents eux-mêmes qui enregistrent, inscrivent, prennent note de l'activité pratique au fur et à mesure qu elle se produit, aux fins de communication, de mémoire et de preuve.
 
-b) La documentation administrative constitue l’outillage de l'administration. C’est l'ensemble des pièces qui ren seîgnent les chefs et les agents et leur permettent dans toute circonstance de prendre des décisions en connaissance de cause. De même qu’une usine élabore des produits, une administration élabore des documenta. Mais dans l'usine le produit est le but ; dans l'administration le but est l’action administrative laquelle ne peut s'exercer qu'en s’accompagnant de documents, en s'incorporant en eux.
+b) La documentation administrative constitue l’outillage de l'administration. C’est l'ensemble des pièces qui ren seignent les chefs et les agents et leur permettent dans toute circonstance de prendre des décisions en connaissance de cause. De même qu’une usine élabore des produits, une administration élabore des documenta. Mais dans l'usine le produit est le but ; dans l'administration le but est l’action administrative laquelle ne peut s'exercer qu'en s’accompagnant de documents, en s'incorporant en eux.
 
-c) La documentation administrative se rapporte h toute administration. Qu'il s’agisse de celle des organismes publics (l'administration proprement dite) ou de celle de» organismes privés; que les organismes poursuivent des buts lucratifs ou des fins économiques ou sociales; que les organismes soient des collectivités ou des bureaux et studios de particuliers, de mêmes principes, une même méthode régissant la documentation administrative sous toutes ses formes et dans toutes ses applications.
+c) La documentation administrative se rapporte à toute administration. Qu'il s’agisse de celle des organismes publics (l'administration proprement dite) ou de celle des organismes privés; que les organismes poursuivent des buts lucratifs ou des fins économiques ou sociales; que les organismes soient des collectivités ou des bureaux et studios de particuliers, de mêmes principes, une même méthode régissant la documentation administrative sous toutes ses formes et dans toutes ses applications.
 
-Les Anglais disent « Registration » (Record Department). Les Allemands disent a Registratuur s. Les Français d'sent « Archives » et parfois * Enregistrement s : mais le premier de ces termes étant aussi employé pour désigner le document ancien et le second étant aussi appliqué à un organisme fiscal. l'administration de l'enregistrement. aucun d’eux d’ailleurs ne couvrant exactement le contenu de ce qu’ils doivent signifier, il semble préférable d’employer le mot «r Documentation administrative ».
+Les Anglais disent « Registration » (Record Department). Les Allemands disent « Registratuur ». Les Français disent « Archives » et parfois « Enregistrement » : mais le premier de ces termes étant aussi employé pour désigner le document ancien et le second étant aussi appliqué à un organisme fiscal. l'administration de l'enregistrement. aucun d’eux d’ailleurs ne couvrant exactement le contenu de ce qu’ils doivent signifier, il semble préférable d’employer le mot «r Documentation administrative ».
 
-c) La documentation administrative est directement dérivée de l’administration elle-même et celle-ci se modèle sur l'organisation qui est donnée è l'action (travnîT),
+c) La documentation administrative est directement dérivée de l’administration elle-même et celle-ci se modèle sur l'organisation qui est donnée à l'action (travnîT),
 
 264.2 L’Administration Les transformations
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -16420,7 +16420,7 @@ survenues naralî£len»ent aux transformations de la Société.
 
 I — Place êans Vensemble.
 
-La documentation administrative occupe la place suivante dans le tableau synoptiaue des choses et des propriété* présenté selon un développement dichotomique.
+La documentation administrative occupe la place suivante dans le tableau synoptiaue des choses et des propriétés présenté selon un développement dichotomique.
 
 
 ====
@@ -16431,34 +16431,34 @@ a) La Vie humaine et les autres (ormes d’existence, b) La Société et la part
 
 2. — L'Administration.
 
-La notion de documentation administrative est fonction des notions de documentation, d une part, d’administration. d’autre part.
+La notion de documentation administrative est fonction des notions de documentation, d'une part, d’administration. d’autre part.
 
-Or, la notion de la documentation s'est transformée; la notion de l'administration aussi. C’est qu’en dépit des apparences, en dépit des régressions momentanées, locales ou spéciales, la civilisation et le progrès général sont h l’œuvre partout, transforment tout et chaque chose. C’est peu ou mal comprendre le processus dans lequel nous sommes indétachablement engagés que de ne pas envisager de ce point de vue les grands problèmes. Cette formule en triptyque doit l’emporter ï « A civilisation nouvelle, administration nouvelle; à administration nouvelle, documentation nouvelle ».
+Or, la notion de la documentation s'est transformée; la notion de l'administration aussi. C’est qu’en dépit des apparences, en dépit des régressions momentanées, locales ou spéciales, la civilisation et le progrès général sont à l’œuvre partout, transforment tout et chaque chose. C’est peu ou mal comprendre le processus dans lequel nous sommes indétachablement engagés que de ne pas envisager de ce point de vue les grands problèmes. Cette formule en triptyque doit l’emporter ï « A civilisation nouvelle, administration nouvelle; à administration nouvelle, documentation nouvelle ».
 
 3 — Processus à Vctuürc dans les société».
 
 Les grands processus qui sont simultanément à 1 œuvre et influent les besoins de la documentation sont notamment ceux-ci :
 
-a) Notre société s* » économise » ou s* ■ industrialise » de plus en plus, c'est-à-dire qu'elle attend sa vîe matérielle d’une extension du machinisme, d'une production en grand et, partant, d'une concentration de toutes les fonctions économiques.
+a) Notre société s' « économise » ou s' « industrialise » de plus en plus, c'est-à-dire qu'elle attend sa vîe matérielle d’une extension du machinisme, d'une production en grand et, partant, d'une concentration de toutes les fonctions économiques.
 
 b) Elle s’ « intellectualise », c’est-à-dire qu’à l’empirisme se substitue la rationalisation ou application raison-née de la science.
 
-c) Elle s’ « universalise », c’est-à-dire qu'elle étend «es structures et ses activités à la fois dans les divers domaines (liaisons étroite» de tous les départements de la vie sociale) ; dans l’espace (tous l^s pays) ; dans le temps (continuité évolutive du processus en visant à un développement progressif constant).
+c) Elle s’ « universalise », c’est-à-dire qu'elle étend «es structures et ses activités à la fois dans les divers domaines (liaisons étroites de tous les départements de la vie sociale) ; dans l’espace (tous l^s pays) ; dans le temps (continuité évolutive du processus en visant à un développement progressif constant).
 
-d) Dan» l'ensemble des activités sociales, à côté de celles des individus et des groupes, les activités de l'Etat er de ses divisions (central, régional, local) accnvssent leur importance comme organe» de la coordination des activités individuelles et comme agents des activités collectives utiles à la communauté tout entière.
+d) Dan» l'ensemble des activités sociales, à côté de celles des individus et des groupes, les activités de l'Etat er de ses divisions (central, régional, local) accnvssent leur importance comme organes de la coordination des activités individuelles et comme agents des activités collectives utiles à la communauté tout entière.
 
-e) L'administration revêt des formes nouvelle» nui toutes requièrent un déveloonement de la documentation.
+e) L'administration revêt des formes nouvelles nui toutes requièrent un déveloonement de la documentation.
 
 4 — Formei caroctérlnliaues nouvelles de f administration.
 
 a) Que l'on envisage la formule communiste (collectivisme, marxisme) ou la formula dictatoriale (fascisme) on aboutit des deux côtés à un dévelonpement des fonctions de l'Etat avec, comme corollaire, celui de l'administration.
 
 î-a conception d'une administration limitée a dû céder
-piesque partout à celle d une large intervention des pouvoirs publics dans la vie économique, sociale et intellectuelle. Tout à l'extrême est maintenant l’administration communiste de la Russie des Soviets. L Allemagne est à demi socialisée. En Autriche, à Vienne, la municipalité est intéressée dans 66 entreprises, principalement dans celles du bâtiment, des constructions électriques et des machines. Cet intérêt dépasse la moitié du capital pour entame» entreprises et même Va totalité pour d autres.
+piesque partout à celle d une large intervention des pouvoirs publics dans la vie économique, sociale et intellectuelle. Tout à l'extrême est maintenant l’administration communiste de la Russie des Soviets. L Allemagne est à demi socialisée. En Autriche, à Vienne, la municipalité est intéressée dans 66 entreprises, principalement dans celles du bâtiment, des constructions électriques et des machines. Cet intérêt dépasse la moitié du capital pour entames entreprises et même Va totalité pour d autres.
 
-La grande transformation, c'est que maintenant l’administration doit être au service du public et non pas 1 inverse. Comme sous le régime aristocratique ou oligarchique où l'administration était l’organe du prince ou des élites privilégiées. l'administration, organe de la collectivité doit assumer tout ce qu’il est plus efficient de lui faire faire en commun et par voie réglementaire plutôt que de le confier aux particuliers livrés à eux-mêmes. L'administration alors apparaît comme un énorme appareil, une machinerie dont il importe de savoir te rendre maître pour qu’à son tour elle ne se rende pas elle-même maîtresse de ses maîtres.
+La grande transformation, c'est que maintenant l’administration doit être au service du public et non pas l'inverse. Comme sous le régime aristocratique ou oligarchique où l'administration était l’organe du prince ou des élites privilégiées. l'administration, organe de la collectivité doit assumer tout ce qu’il est plus efficient de lui faire faire en commun et par voie réglementaire plutôt que de le confier aux particuliers livrés à eux-mêmes. L'administration alors apparaît comme un énorme appareil, une machinerie dont il importe de savoir te rendre maître pour qu’à son tour elle ne se rende pas elle-même maîtresse de ses maîtres.
 
-b) Aux formes traditionnelles, l’administration ajout« des formes nouvelles. Grand’ssent considérablement, en ce moment, les entreprises ou services de nature mixte. Jusqu’ici, on n'avait comme formes Juridiques de l'activité de la puissance publique dans l’ordre économique, que la régie et la concession. La régie dans laquelle la collectivité publique se fait entrepreneur, charge de gérer elle-même le service à ses risques et périls, par ses propres employés et agents auxquels elle commande, qu'elle dirige et qui reçoivent des traitements et salaires fixes ; la concession par îanuelle la collectivité publique confie l’établissement et l’exploitation du service à un entrepreneur privé, le plus souvent à une société, qui supDorte les aléas de l’entreprise, mats est généralement sfule à en cueillir les bénéfices et au*, sous la seule réserve d* se conformer aux diverses stipulations du cahier des chartres, peut la gérer suivant 1rs méthodes et dans les conditions qui lui semblent l*s meilleure»,
+b) Aux formes traditionnelles, l’administration ajout« des formes nouvelles. Grand’ssent considérablement, en ce moment, les entreprises ou services de nature mixte. Jusqu’ici, on n'avait comme formes Juridiques de l'activité de la puissance publique dans l’ordre économique, que la régie et la concession. La régie dans laquelle la collectivité publique se fait entrepreneur, charge de gérer elle-même le service à ses risques et périls, par ses propres employés et agents auxquels elle commande, qu'elle dirige et qui reçoivent des traitements et salaires fixes ; la concession par îanuelle la collectivité publique confie l’établissement et l’exploitation du service à un entrepreneur privé, le plus souvent à une société, qui supDorte les aléas de l’entreprise, mats est généralement sfule à en cueillir les bénéfices et au*, sous la seule réserve d* se conformer aux diverses stipulations du cahier des chartres, peut la gérer suivant les méthodes et dans les conditions qui lui semblent l*s meilleure»,
 
 A ces deux systèmes et comme modalité s’ajoutent le système de la régie intéressée, où l’exploitation est confiée à un régisseur (individu ou société), rémunéré proportionnellement à la dépense et aux bénéfices ; et le système de l’affermage, ou Temîse de l’exploitation à un intermédiaire qui paye une redevance forfaitaire en gardant pour lui le reste des bénéfices.
 
@@ -16471,40 +16471,40 @@ La formule de î’économïe mixte associe la collectivité concédante, repré
 
 et le droit commercial; elle sert d’intermédiaire entre l’administration et l’économie.
 
-La société anonyme peut être la forme juridique donnée A l’économie mixte, te pouvoir public lui faisant un apport en nature ou en argent en représentation duquel il reçoit des actions qui lui confèrent voix délibératives et même des sièges dans le Conseil d’administration ; sièges d'ailleurs pouvant lui être réservés en dehors de toute élection, en raison de son caractère de puissance publique et des intérêts généraux qu*il représente. (1)
+La société anonyme peut être la forme juridique donnée à l’économie mixte, te pouvoir public lui faisant un apport en nature ou en argent en représentation duquel il reçoit des actions qui lui confèrent voix délibératives et même des sièges dans le Conseil d’administration ; sièges d'ailleurs pouvant lui être réservés en dehors de toute élection, en raison de son caractère de puissance publique et des intérêts généraux qu*il représente. (1)
 
 c) L’administration comparée révèle l’existence de nouvelles structures et de nouvelles activités administratives. Retenons notre attention sur quelques exemples. Dans l'organisation municipale moderne de Vienne fonctionne un Office de Contrôle (Kontrollambt). Il a trois attributions, théoriquement distinctes, mais pratiquement interdépendantes; ce sont: le contrôle des gestions; le contrôle des compte»; le contrôle de l'organisation.
 
-Quant à la gestion, l'Office a pour devoir suprême de tenir la municipalité continuellement et entièrement au courant de ses constatations et de découvrir toutes les défectuosités économiques. Ses fonctionnaires examinent journellement sur place les opérations économiques. Ils s'assurent que les données des comptes et des dossiers sont conformes à la réalité. Ouant au contrôle d'organisat’on. il est la condition indispensable pour que le contrôle d^s gestions et celui des comptes puissent s'exercer avec efficacité. Il doit approuver les projets modifiant l'organisation où il prend des initiatives dans ce sens. Au cours de ses vérifications journalières, il est è même de recueillir une expérience étendue et de faire bénéficier immédiatement toutes les organisations municipales des constatations faites dans l'une d*elles en matière de défectuosités ou de perfectionnement.
+Quant à la gestion, l'Office a pour devoir suprême de tenir la municipalité continuellement et entièrement au courant de ses constatations et de découvrir toutes les défectuosités économiques. Ses fonctionnaires examinent journellement sur place les opérations économiques. Ils s'assurent que les données des comptes et des dossiers sont conformes à la réalité. Ouant au contrôle d'organisat’on. il est la condition indispensable pour que le contrôle d^s gestions et celui des comptes puissent s'exercer avec efficacité. Il doit approuver les projets modifiant l'organisation où il prend des initiatives dans ce sens. Au cours de ses vérifications journalières, il est à même de recueillir une expérience étendue et de faire bénéficier immédiatement toutes les organisations municipales des constatations faites dans l'une d*elles en matière de défectuosités ou de perfectionnement.
 
-d) Certaine» grandes administrations (l’aviation en France, par ex.) en arrivent è constituer de véritables intégrations de toute* les t-chnîques. Son organisation se compose de services complets et parallèles où le nombre d'* freins est réduTt au minimum et où chacun suit directement son travail : le «ervice de recherches, le service technique, le service de fabrication, le service des hases extérieure* et. pour l'information dp tous, le service de l'Office de Documentation
+d) Certaines grandes administrations (l’aviation en France, par ex.) en arrivent à constituer de véritables intégrations de toutes les techniques. Son organisation se compose de services complets et parallèles où le nombre d'* freins est réduTt au minimum et où chacun suit directement son travail : le «ervice de recherches, le service technique, le service de fabrication, le service des hases extérieures et. pour l'information dp tous, le service de l'Office de Documentation
 
-e) Fn même temps, on assiste & la création, au sein même de l'adnvnistration. d'organes de coordination et de liaison. Citons les transformations apportées aux organismes du Gouvernement central en Angleterre ù l’avènement du Gouvernement travailliste ; les plans présentés en France pour faire de la Présidence du Conseil un organe coordinateur entre 1rs divers Ministères (travaux du groupe d'études administratives Fayol h ce sujet). Le plan mis en oeuvre en Serhie-Croatîe.
+e) Fn même temps, on assiste & la création, au sein même de l'adnvnistration. d'organes de coordination et de liaison. Citons les transformations apportées aux organismes du Gouvernement central en Angleterre ù l’avènement du Gouvernement travailliste ; les plans présentés en France pour faire de la Présidence du Conseil un organe coordinateur entre les divers Ministères (travaux du groupe d'études administratives Fayol à ce sujet). Le plan mis en œuvre en Serhie-Croatîe.
 
 (1) Report de Maurice Félin, dans L'Adminhtrafion locale, 1930. p 936.
 f) De loin, dans divers pays, on organise la mobilisation de la nation en cas de guerre. Une vaste organisation corrélative s’en est suivie, mi-militaire, mi-civile.
 
 5 — La rationalisation du progrès.
 
-En fait, aujourd’hui toutes forces actives de la Société sont en lutte contre la routine et l’empirisme pour le progrès et la rat onalisation. Mais il a été démontré à surabondance que la routine trouve un point d’appui dans les règlements administratifs qui, par la lenteur de leur élaboration, sont le plus souvent en retard sur la technique, même au jour de leur approbation. Une meilleure documentation de l’administration obviera en partie è ce vice rédhibitoire. Les règlements administratifs doivent prendre aujourd’hui une forme souple pour s'adapter au progrès. Leurs données essentielles doivent périodiquement être revues et corrigées à la lumière des résultats nouveaux. Une collaboration incessante est nécessaire, entre les administrations, les organismes scientifiques, les grandes industries.
+En fait, aujourd’hui toutes forces actives de la Société sont en lutte contre la routine et l’empirisme pour le progrès et la rat onalisation. Mais il a été démontré à surabondance que la routine trouve un point d’appui dans les règlements administratifs qui, par la lenteur de leur élaboration, sont le plus souvent en retard sur la technique, même au jour de leur approbation. Une meilleure documentation de l’administration obviera en partie à ce vice rédhibitoire. Les règlements administratifs doivent prendre aujourd’hui une forme souple pour s'adapter au progrès. Leurs données essentielles doivent périodiquement être revues et corrigées à la lumière des résultats nouveaux. Une collaboration incessante est nécessaire, entre les administrations, les organismes scientifiques, les grandes industries.
 
 6. — La Science et l'Administration.
 
-Le rôle de la science a été graduellement introduit dans les affaires sociales et la science y vient agir è la fols sur l’administration et sur la documentation.
+Le rôle de la science a été graduellement introduit dans les affaires sociales et la science y vient agir à la fois sur l’administration et sur la documentation.
 
-a) Au temps de l'autocratie, c'étaient les conseillers privé* du Prince, personne* choisies arbitrairement par lui et dont les avis donné* secrètement ne devaient pas nécessairement êtr* suivis.
+a) Au temps de l'autocratie, c'étaient les conseillers privé* du Prince, personnes choisies arbitrairement par lui et dont les avis donné* secrètement ne devaient pas nécessairement êtr* suivis.
 
-b) Puis vint l’organisation d'une hiérarchie de fonctionnaires faisant rapporta et propositions, mais c'étaient des agents pavés, ne jouissant d’aucune indépendance d’esprit. Le problème rest- d’ailleurs ouvert, aujourd'hui encore, du droit du fonctionnaire ouant è l'obéissance aux ordre* irrationnel* ou soulevant l'obîectîon de sa conscience.
+b) Puis vint l’organisation d'une hiérarchie de fonctionnaires faisant rapporta et propositions, mais c'étaient des agents pavés, ne jouissant d’aucune indépendance d’esprit. Le problème rest- d’ailleurs ouvert, aujourd'hui encore, du droit du fonctionnaire ouant à l'obéissance aux ordres irrationnel* ou soulevant l'obîectîon de sa conscience.
 
-c) Le* expert* ont été nommé* ensuite. (I) Tls »ont désigné* n raison de leur compétence connue et ils sont supposé» libres de toute entrave dans l'exposé de leur opinion. Simple supposition cependant, car le fait même de leur désignation Implioue un choix intéressé et. en fait, l'expert est rarement indépendant.
+c) Les experts ont été nommés ensuite. (I) Ils sont désignés en raison de leur compétence connue et ils sont supposé» libres de toute entrave dans l'exposé de leur opinion. Simple supposition cependant, car le fait même de leur désignation Implioue un choix intéressé et. en fait, l'expert est rarement indépendant.
 
-d) L'organisation objective d- la fonction scientifique en fixant par un statut régulier les rapports entre le» pouvoirs publics et leurs administrations, d'une psrt et. d’autre part, les organismes savants indépendants av-c les travaux ou service» dont Ils sont chargé* par convention*.
+d) L'organisation objective d- la fonction scientifique en fixant par un statut régulier les rapports entre les pouvoirs publics et leurs administrations, d'une psrt et. d’autre part, les organismes savants indépendants av-c les travaux ou services dont Ils sont chargé* par convention*.
 
-(11 Mi-janv*er 1930. te Gouvernement espagnol fa!saît paraître une note officieuse contenant ce passage : », Persuadé de l'îmnaHcr de la camna^ne de diffamation
+(11 Mi-janv*er 1930. te Gouvernement espagnol faisait paraître une note officieuse contenant ce passage : », Persuadé de l'îmnaHcr de la camna^ne de diffamation
 
-* qui est menée è l'étranger contre la situation économi-» que de l’Espagne, le Gouvernement a décidé d'inviter
+* qui est menée à l'étranger contre la situation économi-» que de l’Espagne, le Gouvernement a décidé d'inviter
 
-* quatre ou six expert» étrangers en sciences économique» » et financière» à visiter l'Espagne et à étudier la sltua-
+* quatre ou six expert» étrangers en sciences économiques » et financières à visiter l'Espagne et à étudier la sltua-
 
 * tion afin d’émettre un avis autorisé. »
 
@@ -16520,7 +16520,7 @@ Le problème général de la documentation administrative peut se formuler ainai
 
 La solution posée est celle-ci : a) Considérer par la pensée comme une et indivisible, chaque unité administrative envisagée, quelle que soit sa division en organes distincts (directions, départements, sections, services, etc.),
 
-b) Donner au point de départ un exposé, une description analytique et intégrale, une situation de l’entité considérée (documentation statique), c) Enregistrer systématiquement et continuellement toutes les modifications particulières qui surviennent dans cette situation et cela au fur et à mesure qu'elles se produisent et selon une forme telle qu'elle affecte, élément par élément, de la plus petite è la plus grande, chacune et toutes ensemble, les données de cette situation (documentation dynamique), d) Périodiquement confronter la représentation Intra-docu-mentaire ainsi obtenue avec la réalité documentée externe en opérant toutes les rectifications et ajustements requis.
+b) Donner au point de départ un exposé, une description analytique et intégrale, une situation de l’entité considérée (documentation statique), c) Enregistrer systématiquement et continuellement toutes les modifications particulières qui surviennent dans cette situation et cela au fur et à mesure qu'elles se produisent et selon une forme telle qu'elle affecte, élément par élément, de la plus petite à la plus grande, chacune et toutes ensemble, les données de cette situation (documentation dynamique), d) Périodiquement confronter la représentation Intra-docu-mentaire ainsi obtenue avec la réalité documentée externe en opérant toutes les rectifications et ajustements requis.
 
 264.4 Principes généraux d’organisation.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -16537,32 +16537,32 @@ A tout organisme (individu, administration, firme, etc ) correspondent quatre or
 
 se combinent. 1° Unité réelle (physique). 2° Unité juridique (statut). Unité comptable (patrimoine). 4° Unité documentaire.
 
-La division de tout organisme s’opère en services, départements ou sections. Ils comprennent la coexistence des personnes, des choses, des locaux et emplacements, tout à l’état statique et à 1 état de fonctionnement dynamique, soit les opérations dans le temps et dans l'espace.
+La division de tout organisme s’opère en services, départements ou sections. Ils comprennent la coexistence des personnes, des choses, des locaux et emplacements, tout à l’état statique et à l'état de fonctionnement dynamique, soit les opérations dans le temps et dans l'espace.
 
 2 — Action organisée.
 
-L’action organisée (le Travail) donne lieu k la mise en œuvre d’un certain nombre de facteurs essentiels dont l'existence et les rapports réciproques peuvent être ramenés aux douze termes de la formule suivante :
+L’action organisée (le Travail) donne lieu à la mise en œuvre d’un certain nombre de facteurs essentiels dont l'existence et les rapports réciproques peuvent être ramenés aux douze termes de la formule suivante :
 
 • Dans le But (A), précisé et développé selon le Plan (B) î répartis dans le temps suivant le Programme ou Budget (C) en exécution des Instructions et des Ordres (D) en se conformant aux méthodes (E), soumettre la matière et les objets (F) à une série d’opérations (G) er. faisant intervenir les agents personnels Individuels ou collectifs (H), les agents matériels (matières, formes ou propriétés) et les machines, outils ou instruments (J) de manière à obtenir les produits ou Résultats (K) destinés a être intégrés dans les ensembles (L). »
 
 3 — Action documentée.
 
-Le fonctionnement de toute administration doit être accompagné de documents. Il y a lieu de réaliser au cours des opérations, un enregistrement continu des données administratives essentielles, enregistrement opéré sur des documents adéquats et permettant une circulation constante des données administratives nécessaires aux travaux à travers tout l’organisme documentaire. La documentation. dédoublement et miroir de l'action ainsi définie intervient: 1° pour chacun des douze termes envisagés; 2° pour chacun de leurs rapports mutuels deux k deux, ou plus de deux k plus de deux ; 3° à chacun des moments du temps de leur interaction ; 4° à chacun des lieux de l'espace où elle se produit.
+Le fonctionnement de toute administration doit être accompagné de documents. Il y a lieu de réaliser au cours des opérations, un enregistrement continu des données administratives essentielles, enregistrement opéré sur des documents adéquats et permettant une circulation constante des données administratives nécessaires aux travaux à travers tout l’organisme documentaire. La documentation. dédoublement et miroir de l'action ainsi définie intervient: 1° pour chacun des douze termes envisagés; 2° pour chacun de leurs rapports mutuels deux à deux, ou plus de deux à plus de deux ; 3° à chacun des moments du temps de leur interaction ; 4° à chacun des lieux de l'espace où elle se produit.
 
 4 — Eléments de la documentation.
 
-1° Les écritures qui sont simples ou composées (analytiques et synthétiques) et tendent ver» des rédactions unifiées et standardisées (formule). 2° Les ensembles documentaires ou collections de données documentée» qui contiennent le» écriture» similaires. 3° Le classement assigné aux écritures dans le document et assigné aussi aux documents dans l'ensemble ou collections qu'ils constituent. 4° Le contenant ou réceptable matériel des documents. 5° Les relevés (statistique, comptabilité, mesures). J'après les écritures faites, et consistant en comptage dont le» données numériques (totaux, moyennes, coefficients. indices) expriment, d'après les enregistrements administratifs, l'état global, absolu ou relatif des données h administrée» ». 6° Les rapports périodiques ayant pour objet: a) de déterminer la situation des éléments sdmi-
+1° Les écritures qui sont simples ou composées (analytiques et synthétiques) et tendent ver» des rédactions unifiées et standardisées (formule). 2° Les ensembles documentaires ou collections de données documentées qui contiennent les écritures similaires. 3° Le classement assigné aux écritures dans le document et assigné aussi aux documents dans l'ensemble ou collections qu'ils constituent. 4° Le contenant ou réceptable matériel des documents. 5° Les relevés (statistique, comptabilité, mesures). J'après les écritures faites, et consistant en comptage dont les données numériques (totaux, moyennes, coefficients. indices) expriment, d'après les enregistrements administratifs, l'état global, absolu ou relatif des données à administrées ». 6° Les rapports périodiques ayant pour objet: a) de déterminer la situation des éléments sdmi-
 
 
 ====
 
 *354* LE LIVRE ET LE DOCUMENT 264
 
-nistrés à des dates successives (état ou bilan) ; b) de proposer les objectifs prochains, orientation et travaux. 7'» Les décisions qui sont: a) des ordres, s’il s'agit de chefs hiérarchiques; b) des résolutions, s’il s’agit de corps ou collèges ayant autorité ; c) des conventions ou accords, s'il s'agit d'entente» intervenues entre entités indépendantes. 8° Les données à enregistrer ont, toutes, une portée administrative, mais elles peuvent être de différents ordres : I, comptables. 2. juridiques et légales. 3, techniques.
+nistrés à des dates successives (état ou bilan) ; b) de proposer les objectifs prochains, orientation et travaux. 7'» Les décisions qui sont: a) des ordres, s’il s'agit de chefs hiérarchiques; b) des résolutions, s’il s’agit de corps ou collèges ayant autorité ; c) des conventions ou accords, s'il s'agit d'ententes intervenues entre entités indépendantes. 8° Les données à enregistrer ont, toutes, une portée administrative, mais elles peuvent être de différents ordres : I, comptables. 2. juridiques et légales. 3, techniques.
 
 5 — Caractéristiques des pièces.
 
-Les pièces que comprend l’unité documentaire présentent les espèces et caractéristiques suivantes : 1° Les pièces «fites imprimés, pièces manuscrites, pièces reçues du dehors ; 2° celles établies à l’intérieur ; 3° les pièces de base (pièces mères), pièces originales et les pièces qui en sont dérivées (résumés, extraits, éléments k porter sur d’autres pièces) ; 4° les pièces elles-mêmes, leur catalogue et le simple énoncé des rubriques ou des indices servant à leur maniement, à leur distribution et k leur placement c’est-à-dire la classification.
+Les pièces que comprend l’unité documentaire présentent les espèces et caractéristiques suivantes : 1° Les pièces «fites imprimés, pièces manuscrites, pièces reçues du dehors ; 2° celles établies à l’intérieur ; 3° les pièces de base (pièces mères), pièces originales et les pièces qui en sont dérivées (résumés, extraits, éléments à porter sur d’autres pièces) ; 4° les pièces elles-mêmes, leur catalogue et le simple énoncé des rubriques ou des indices servant à leur maniement, à leur distribution et à leur placement c’est-à-dire la classification.
 
 6 — Corrélations.
 
@@ -16593,14 +16593,14 @@ La mise des données en forme telle que toutes concourent à constituer pour l�
 
 Dans chaque organisme établir un Manuel Général comportant: 1° la classification synthétique de l’organisme mise en rapport de concordance avec la classification décimale universelle (î); 2° la description de l’organisme
 
-(l) Pour les développements. voir les travaux de l’Institut International de Bibhovraphîe et de Documentation e* les collections tvpes et comparée» forcées au Palais Mondial. En particulier, voir: 1° La Classification universelle décimale. 2° L’Atlas administratif. 3° La collection comparée des formules, par établissement et dan« leur unité or^anioue nar types de formules comparées. 4rt Le* tra'tés Paul Otlet : a) Manuel de la Documentation Administrative (publication nn 137) ; b) Sur les possibilité* pour les entités administratives d’avoir à tout moment leur situation présentée documentairement (pu blication n# 162).
+(l) Pour les développements. voir les travaux de l’Institut International de Bibliographie et de Documentation et les collections tvpes et comparées forcées au Palais Mondial. En particulier, voir: 1° La Classification universelle décimale. 2° L’Atlas administratif. 3° La collection comparée des formules, par établissement et dans leur unité or^anioue nar types de formules comparées. 4rt Les traités Paul Otlet : a) Manuel de la Documentation Administrative (publication nn 137) ; b) Sur les possibilité* pour les entités administratives d’avoir à tout moment leur situation présentée documentairement (pu blication n# 162).
 
 
 ====
 
 265 LES MUSEES *355*
 
-et de» opérations à faire ; 3° une collection générale de formules avec observations expliquant leur emploi.
+et des opérations à faire ; 3° une collection générale de formules avec observations expliquant leur emploi.
 
 \2. — Portillon adminittratwe.
 
@@ -16615,16 +16615,16 @@ a) A la documentation administrative se rattachent étroitement la comptabilité
 
 b) Statistique, comptabilité et métrie sont distinctes,
 
-le La statistique, c'est le comptage des obénomènes caractéristiques selon leurs unités naturelles concrètes : des hommes, des maisons, des terres cultivées, etc. 2° La comptabilité, c’est l'enregistrement du mouvement des valeurs économiques d'un patrimoine ramené h l'étalon de valeur monétaire, le franc ou tout autre type de monnaie. 3" La métrie. c’est la mesure Je tous les phénomènes caractéristiques ramenés chaque fois aux étalons propres à chaque phénomène. Mais tout en demeurant distinctes l’une de l’autre, statistique, comptabilité et métrie ont entr*elles d’étroites relations : il y s lieu
+le La statistique, c'est le comptage des obénomènes caractéristiques selon leurs unités naturelles concrètes : des hommes, des maisons, des terres cultivées, etc. 2° La comptabilité, c’est l'enregistrement du mouvement des valeurs économiques d'un patrimoine ramené à l'étalon de valeur monétaire, le franc ou tout autre type de monnaie. 3" La métrie. c’est la mesure Je tous les phénomènes caractéristiques ramenés chaque fois aux étalons propres à chaque phénomène. Mais tout en demeurant distinctes l’une de l’autre, statistique, comptabilité et métrie ont entr*elles d’étroites relations : il y s lieu
 
-d’établir des un’tés-étalons pour chaque catégorie ou aspect de phénomène, comme on l’a fait pour la monnaie : 2° de se servir des comptages statistiques pour é'ab'ir leurs mesures réelles ; 3° d établir des formules générale, de situation fl tout point de vue è la manière
+d’établir des un’tés-étalons pour chaque catégorie ou aspect de phénomène, comme on l’a fait pour la monnaie : 2° de se servir des comptages statistiques pour é'ab'ir leurs mesures réelles ; 3° d établir des formules générale, de situation fl tout point de vue à la manière
 des comptes actifs et passif» et des bilans. (I)
 
 2 — Documentation scientifique et technique dans les
 
 administrations.
 
-Parallèlement à l'organisation de la Documentation administrative, toute administration doit veiller è organiser une documentation en conformité avec les méthodes et les desiderata généraux reliés au Réseau Universel. 1" Publications et Catalogues de ses publications. 2° Bibliothèque et Echanges nationaux et internationaux. 3" Bibliographie. 4° Dossiers documentaire,.
+Parallèlement à l'organisation de la Documentation administrative, toute administration doit veiller à organiser une documentation en conformité avec les méthodes et les desiderata généraux reliés au Réseau Universel. 1" Publications et Catalogues de ses publications. 2° Bibliothèque et Echanges nationaux et internationaux. 3" Bibliographie. 4° Dossiers documentaire,.
 
 265 Les Musées.
 ------------------
@@ -16634,7 +16634,7 @@ Parallèlement à l'organisation de la Documentation administrative, toute admin
 
 a) Un musée public est tout édifice servant de dépôt pour la conservation d'objets relatifs à l'art, 1 histoire, la science ou l'industrie, qui est ouvert au public pour l'étude de ces sujets (Henry Miers). En principe, un musée peut comprendre des animaux et des plantes vivantes, des livres et les œuvres de peinture et de sculpture. Mais les collection» de cette nature prennent nom jardin Z.00I0-gique. Jardin Botanique, Bibliothèque, Galerie de Peinture. Le musée se différencie des autres institutions de la documentation en ce qu'il comprend soit les pièces ayant trois dimensions alors que les autres documents sont présentés sur des surfaces, soit des pièces destinées dans leur arrangement à être vues et non à être lues.
 
-b) Les musées modernes constituent de formidables accumulations d*objets. Ce sont les magasins de \a nature et de la civilisation. Les musées de peinture, au commencement de ce siècle comptaient déjà plus de 25,000 œuvres. Quand le Natural History Museum de Londres a occupé ses locaux actuels, le transfert a duré trois ans. Les seuls poissons fossiles y comptent plus de 9.000 numéros. Le National Museum de Washington a entré plus de 200.000 spécimens par an. Plus de 150.000 vases se trouvent dans les grands musées d’Europe. Le Musée historique des Tissus de Lyon comprend 400.000 échantillons.
+b) Les musées modernes constituent de formidables accumulations d*objets. Ce sont les magasins de la nature et de la civilisation. Les musées de peinture, au commencement de ce siècle comptaient déjà plus de 25,000 œuvres. Quand le Natural History Museum de Londres a occupé ses locaux actuels, le transfert a duré trois ans. Les seuls poissons fossiles y comptent plus de 9.000 numéros. Le National Museum de Washington a entré plus de 200.000 spécimens par an. Plus de 150.000 vases se trouvent dans les grands musées d’Europe. Le Musée historique des Tissus de Lyon comprend 400.000 échantillons.
 
 c) Les musées sont devenus des c Trésors » collectifs. Ils sont pour la collectivité entière ce qu'étaient les anciennes collections royales pour les seuls détenteurs du pouvoir; ils sont aussi, au point de vue intellectuel, ce qu'au point de vue spirituel ont été les trésors des cathédrales. Les musées, par leurs merveilles, nous étonnent, nous enchantent, nous éblouissent. Leur vue noua donne des émotions salutaires ou bien constitue pour nous un enseignement profond.
 (1) Voir Paul Otlet : Statistique et Comptabilité
@@ -16646,13 +16646,13 @@ do 1*1. I. B. n° 137 et 162 mentionnées ci-dessus. Rapport sur l'avenir de la 
 
 *356* LE LIVRE ET LE DOCUMENT 265
 
-d) Le* chose* rassemblées en leur entier, ou par échantillons (partie d'une matière homogène) constituent des document* par le fait de l'intention qui préside au rassemblement (collection) et qui sont utiles à 1 étude, à l'en*eignement, à la recherche.
+d) Les choses rassemblées en leur entier, ou par échantillons (partie d'une matière homogène) constituent des document* par le fait de l'intention qui préside au rassemblement (collection) et qui sont utiles à l'étude, à l'en*eignement, à la recherche.
 
-e) La présentation des objets, ail repos ou en mouvement, les musées, les expositions, les démonstrations, ont le* plus grandes affinités et sont en un certain sens le* espèces d'un genre commun basé d’une part sur la vue des choses, d’autre part sur le fait que le» pièces sont essentiellement a trois dimensions.
+e) La présentation des objets, ail repos ou en mouvement, les musées, les expositions, les démonstrations, ont les plus grandes affinités et sont en un certain sens les espèces d'un genre commun basé d’une part sur la vue des choses, d’autre part sur le fait que les pièces sont essentiellement a trois dimensions.
 
-f) M. Paul M. Rea. Président de 1*American Association of National Enseignement a présenté le* observations suivantes (!)
+f) M. Paul M. Rea. Président de 1*American Association of National Enseignement a présenté les observations suivantes (!)
 
-« L’idée essentielle du musée, outre sa fonction de conservation des données de la science, dit l’auteur, est l'interprétation des idées associées avec les objets dans les collection*. Le musée appelle K l’organe sensible le plu» rapide et le plus vivant que nous possédons : l'œil. Ils sont donc des institutions d'enseignement visuel. Les principes de l'enseignement visuel sont essentiellement les mêmes quelle que soit la nature de l'objet, qu’il soit d'art, d'histoire ou de science; qu'il soit fait appel au public en général ou à des groupes choisis. Et tous ont encore le problème de la présentation. Ce problème implique non seulement la technique, mais la psychologie et il est éclairé par le problème similaire que rencontre l'annoncier commercial dont la tâche est également d'arrêter l'attention et d’imprimer des idées.
+« L’idée essentielle du musée, outre sa fonction de conservation des données de la science, dit l’auteur, est l'interprétation des idées associées avec les objets dans les collection*. Le musée appelle K l’organe sensible le plus rapide et le plus vivant que nous possédons : l'œil. Ils sont donc des institutions d'enseignement visuel. Les principes de l'enseignement visuel sont essentiellement les mêmes quelle que soit la nature de l'objet, qu’il soit d'art, d'histoire ou de science; qu'il soit fait appel au public en général ou à des groupes choisis. Et tous ont encore le problème de la présentation. Ce problème implique non seulement la technique, mais la psychologie et il est éclairé par le problème similaire que rencontre l'annoncier commercial dont la tâche est également d'arrêter l'attention et d’imprimer des idées.
 
 g) Le développement d’un musée peut être comparé à celui d'un enfant* les progrès visibles d’un jour à l'autre sont petits bien que la croissance a ta fin de l’année soit grande. Un musée ne saurait être considéré comme chose réalisée une fois pour toutes et fixée, La stagnation est la mort pour le musée. La conception désirable est celle d'un cadre constamment complété, amélioré quant aux pièces présentées et quant aux points de vues mis en évidence. (1)
 
@@ -16664,7 +16664,7 @@ a) La muséologie ou muséographie est l'ensemble des connaissances, des princip
 (I) RutJetin of ihe International Association of Medical Muséums, déc. 1922.
 
 (I) Murrav, D. Muséum tbelr Hiwtory and tbeir use. 3 vol. Glasgow. 1904. — Flower. W. H. Le rôle et l'organisation des musées d'Histoire naturelle Revue scientifique, vol. XLIV. p. 385. — A report on tbe public muséum of tbe Rritisb Isle. (Otber than tbe National Muséum) by Sir Henry Mirrs to tbe Carnegie United Kingdom Trustée 1928. — Lowe. Dr. A report on American Muséum Work, by Dr. Lowe. DunfermÜne Carnegie United Kingdom Trustées. — Coleman (Laurence Vail) Manual for Small Muséum, New-York. — Mouseion, Revue Internationale de Muséographie. Publiée par l'Office International des Musées, Paris. — Tbe Muséum. Illustrated Journal devoted to muséum activitles and interests.
-lives h la réunion, montage, à la disposition des objets réels en vue de conservation, d'étude, d’enseignement ou de démonstration, soit en collection permanente ou musée, soit par l'utilisation des objets comme auxiliaire de la graphie dans la démonstration des idées.
+lives à la réunion, montage, à la disposition des objets réels en vue de conservation, d'étude, d’enseignement ou de démonstration, soit en collection permanente ou musée, soit par l'utilisation des objets comme auxiliaire de la graphie dans la démonstration des idées.
 
 b) Les musées soulèvent en grande partie les mêmes questions que les bibliothèques : objet et but ; organisation (Fondation et statuts, direction, personnel, membres). Administration (finances, budgets, recettes et dépenses) ; opérations : (formation de collections, catalogue, préparation. étiquetage, inventaire. Catalogue, conservation, présentation démonstration). Musée, cartes de recherche, de documentation, d'étude, de diffusion et d'information.
 
@@ -16674,12 +16674,12 @@ Le musée, c'est le livre in natura.
 
 d) Des organismes ont été constitués pour l'étude de la Muséographie. Ainsi l’American Association of Museum, la Société des Musées allemands, la Junta de Mu-seos de Ciencias Naturales, Madrid, etc.
 
-L’Office International des Musées, organisé par la Commission de Coopération Intellectuelle de la Société des Nations étudie diverses questions intéressant directement les administrations nationales de» BeauxJArts, notamment l'exportation clandestine des œuvres d’art, la formation professionnelle des restaurateurs d'œuvres d'art, les précautions à prendre en cas de transport par voie de mer, la collaboration internationale entre les cabinets de médailles, l’étude des problèmes de la construction moderne des musées, {’unification des catalogues des musées, l'élaboration des méthodes unifiées pour la rédaction de ce* catalogues et à la rédaction des étiquettes placées dan* les musées eux-mêmes, etc. L'office publie la revue Mouneion.
+L’Office International des Musées, organisé par la Commission de Coopération Intellectuelle de la Société des Nations étudie diverses questions intéressant directement les administrations nationales des BeauxJArts, notamment l'exportation clandestine des œuvres d’art, la formation professionnelle des restaurateurs d'œuvres d'art, les précautions à prendre en cas de transport par voie de mer, la collaboration internationale entre les cabinets de médailles, l’étude des problèmes de la construction moderne des musées, {’unification des catalogues des musées, l'élaboration des méthodes unifiées pour la rédaction de ces catalogues et à la rédaction des étiquettes placées dan* les musées eux-mêmes, etc. L'office publie la revue Mouneion.
 
 265.3 Historique.
 ^^^^^^^^^^^^^^^^^^
 
-a) Noë avait dans l'arche le plus beau musée d’his toire naturelle qui soit. Alexandre le Grand, d'après la tradition plus ou moins vraie, avait au cours de set expéditions militaires, fait rassembler une grande collection d animaux qui servit à Aristote à écrire son histo:re naturelle. Certains pensent que ce fut plutôt une sorte de Jardin Zoologique. Les anciens appelèrent d'abord musée, un temple de Muse*. Puis le nom s'appliqua à tout endroit consacré aux muses, c'est-à-dire à l'étude des belle* lettres, de® sciences et des arts. Tel fut le Musée d’Alexandrie, que Ptolémée II, Philadelphe, fit construire vers
+a) Noë avait dans l'arche le plus beau musée d’his toire naturelle qui soit. Alexandre le Grand, d'après la tradition plus ou moins vraie, avait au cours de set expéditions militaires, fait rassembler une grande collection d animaux qui servit à Aristote à écrire son histo:re naturelle. Certains pensent que ce fut plutôt une sorte de Jardin Zoologique. Les anciens appelèrent d'abord musée, un temple de Muse*. Puis le nom s'appliqua à tout endroit consacré aux muses, c'est-à-dire à l'étude des belles lettres, des sciences et des arts. Tel fut le Musée d’Alexandrie, que Ptolémée II, Philadelphe, fit construire vers
 
 
 ====
@@ -16688,21 +16688,21 @@ a) Noë avait dans l'arche le plus beau musée d’his toire naturelle qui soit.
 
 le milieu du IIIe siècle av.-J.-C. et qui renfermait, outre la fameuse bibliothèque, des salles de cours, des salles d'élèves et des logements pour les professeurs. Le tout périt dans les flammes.
 
-b) Les collections artistiques ont eu un développement distinct à Athènes ; dans une des ailes des Propylées on avait réuni des oeuvres de plusieurs peintres célèbres. (Pinacothèque). A Rome: les chefs-d’œuvre enlevés à la Grèce furent placés dans des endroits publics. On ornait les monuments publics de peintures; des fiches citoyens réunissaient des curiosités naturelles. A Byzance, Constantin rassembla les œuvres d’art et les répartit dans la ville. Les princes et les riches formaient des collections publiques.
+b) Les collections artistiques ont eu un développement distinct à Athènes ; dans une des ailes des Propylées on avait réuni des œuvres de plusieurs peintres célèbres. (Pinacothèque). A Rome: les chefs-d’œuvre enlevés à la Grèce furent placés dans des endroits publics. On ornait les monuments publics de peintures; des fiches citoyens réunissaient des curiosités naturelles. A Byzance, Constantin rassembla les œuvres d’art et les répartit dans la ville. Les princes et les riches formaient des collections publiques.
 
-Au moyen âge il n’y eut pas de musées artistiques, mais les églises, les couvents, les abbayes en tinrent lieu. La renaissance opéra de» fouilles. Les rois, le» villes et les grands eurent des collections plus ou moins précieuses qui devinrent les noyaux de la plupart des grands musées publics. (Médicis, Florence; Papes, Vatican; Escorial. Madrid; François Pr et Louis XIV, Louvre). Les collections des princes furent au début des souvenirs personnels, la collection de portraits de parents et intimes; le trésor privé, le» insignes et les joyaux de la couronne, les meubles, les tapisseries, les verreries, les porcelaines, ce que les souverains ont emporté de leurs voyages, ce que les ambassadeurs étrangers leur ont apporté de cadeaux,
+Au moyen âge il n’y eut pas de musées artistiques, mais les églises, les couvents, les abbayes en tinrent lieu. La renaissance opéra des fouilles. Les rois, les villes et les grands eurent des collections plus ou moins précieuses qui devinrent les noyaux de la plupart des grands musées publics. (Médicis, Florence; Papes, Vatican; Escorial. Madrid; François Pr et Louis XIV, Louvre). Les collections des princes furent au début des souvenirs personnels, la collection de portraits de parents et intimes; le trésor privé, les insignes et les joyaux de la couronne, les meubles, les tapisseries, les verreries, les porcelaines, ce que les souverains ont emporté de leurs voyages, ce que les ambassadeurs étrangers leur ont apporté de cadeaux,
 
-A la fin du XVIIIe siècle intervient l’idée de faire servir les oeuvres d’art à former le goût de la population. A partir de la Révolution, on concentra les collection» de» couvents et les musées sont devenus des institutions publiques. Ils dépendent encore, en certains pays du domaine de la Couronne, mais ils sont inaliénables. Le Louvre a été le premier musée vraiment national qu’il y ait eu en Europe. Pendant les guerres de l’Empire, les Français emportèrent quantités d’œuvres d’art, notamment de Belgique, En 1801 on créa des dépôts dans 15 villes.
+A la fin du XVIIIe siècle intervient l’idée de faire servir les œuvres d’art à former le goût de la population. A partir de la Révolution, on concentra les collection» des couvents et les musées sont devenus des institutions publiques. Ils dépendent encore, en certains pays du domaine de la Couronne, mais ils sont inaliénables. Le Louvre a été le premier musée vraiment national qu’il y ait eu en Europe. Pendant les guerres de l’Empire, les Français emportèrent quantités d’œuvres d’art, notamment de Belgique, En 1801 on créa des dépôts dans 15 villes.
 
-Les musées scientifique» ont leur origine dans le» cabinets de curiosités naturelles qui naissent avec les sciences naturelles. Les progrès de la navigation, les voyages, les découvertes, les grandes conquêtes coloniales puis, surtout au XVIIIe siècle, l’habitude d'embarquer de» naturalistes pour chaque lointaine expédition rassemblent en Europe des collections de presque tout ce qui vit sur le globe, animaux et plantes. Un long et laborieux travail de description et de classification mit de l’ordre dans la multitude des formes et aboutit à une série d’inventaires qui nous servent encore aujourd'hui, pour les parfaire, certains ont suivi les explorateurs dans les dernières terres inconnues, d’autres ont parcouru les mers. De nombreux amateurs ont recueilli dans une région tous les êtres qui leur plaisaient. Depuis cinquante ans, les navire» océano-
-graphiques ont révélé un monde nouveau, vivant dans les profondeurs des eaux. Le bilan des êtres vivant» •’enrichit ainsi constamment de formes nouvelles. Dès 1619 est publiée une liste de Cabinets scientifiques. En 1681 est installé le Hall d’Anatomie et le Théâtre public de l’Université de Leyde. Vers 1750 est fondé le Musée de Brukman de Wolfenbüttel qui contient des curiosités artificielles. Les chambres des anciens alchimistes, le» cabinet» de physique, les salons scientifiques du XVIIIe siècle sont des contributions à la formation des musées scientifiques.
+Les musées scientifiques ont leur origine dans les cabinets de curiosités naturelles qui naissent avec les sciences naturelles. Les progrès de la navigation, les voyages, les découvertes, les grandes conquêtes coloniales puis, surtout au XVIIIe siècle, l’habitude d'embarquer des naturalistes pour chaque lointaine expédition rassemblent en Europe des collections de presque tout ce qui vit sur le globe, animaux et plantes. Un long et laborieux travail de description et de classification mit de l’ordre dans la multitude des formes et aboutit à une série d’inventaires qui nous servent encore aujourd'hui, pour les parfaire, certains ont suivi les explorateurs dans les dernières terres inconnues, d’autres ont parcouru les mers. De nombreux amateurs ont recueilli dans une région tous les êtres qui leur plaisaient. Depuis cinquante ans, les navires océano-
+graphiques ont révélé un monde nouveau, vivant dans les profondeurs des eaux. Le bilan des êtres vivants s’enrichit ainsi constamment de formes nouvelles. Dès 1619 est publiée une liste de Cabinets scientifiques. En 1681 est installé le Hall d’Anatomie et le Théâtre public de l’Université de Leyde. Vers 1750 est fondé le Musée de Brukman de Wolfenbüttel qui contient des curiosités artificielles. Les chambres des anciens alchimistes, les cabinet» de physique, les salons scientifiques du XVIIIe siècle sont des contributions à la formation des musées scientifiques.
 
 255.4 Transformations des musées.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
 Une transformation similaire à celle des Bibliothèques semble en voie de se produire actuellement dans les musées. Elle prend diverses directions :
 
-l*J Les musées étaient autrefois des conservatoires d’objets rares et précieux. Sans leur enlever ce caractère, on cherche à en faire aussi des centres de documentation pour les objets à voir: (document» à trois dimensions); compléter les objets, soit en les reproduisant, soit en montrant leur liaison et enchaînement, soit en les commentant à l’aide de textes choisis. 2,J Les musées, faits d objets originaux, constituent des collections nécessairement incomplètes. On s’efforce de reproduire les objets eu fac-simi-lés de toute nature ou en modèles réduit» et de rendre ainsi possible l’intégration de séries formées par les originaux que possède une collection. 3° Il n’y avait des musées que pour certains domaines des connaissances et des activités pratiques. Progressivement le Musée devient une forme et une méthode s’appliquant à tous les domaines (science, technique, sociologie, histoire, littérature, médecine, commerce, droit, etc.). Dans une même localité les musées et collections étaient séparés, disséminés, laissés là où les circonstances les avaient fait naître. L’idée de musée général, collectif, universel, se fait jour. Les divers musées ne sont plus considérés que comme des départements ou des branches d'un musée central, à la manière dont les collection* de la bibliothèque »ont considéré» comme des fonds et les établissements destinés comme des succursales. 5° Le musée était autonome et isolé parmi toutes les institutions de l’ordre intellectuel. U tend à prendre une place coordonnée dans l’ensemble de ces institutions envisagées selon le principe supérieur d’une organisation générale du Travail Intellectuel: Rapports du Musée avec le livre (Bibliothèque), avec l’Enseignement (Ecole et Université), avec la Recherche (Instituts) avec les applications sociales (La vie en général). 6° Le Musée dans son organisation demeurait »oit local, soit régional ou national. On considère de plus en plus maintenant l’ensemble des musées d’une localité, d’une région, d’un pays et, maintenant, l’ensemble des musées du monde. Et cela non seulement pour 1*interéchange des collections, mais pour la coopération à des travaux d’élaboration en commun.
+l*J Les musées étaient autrefois des conservatoires d’objets rares et précieux. Sans leur enlever ce caractère, on cherche à en faire aussi des centres de documentation pour les objets à voir: (document» à trois dimensions); compléter les objets, soit en les reproduisant, soit en montrant leur liaison et enchaînement, soit en les commentant à l’aide de textes choisis. 2,J Les musées, faits d objets originaux, constituent des collections nécessairement incomplètes. On s’efforce de reproduire les objets eu fac-simi-lés de toute nature ou en modèles réduit» et de rendre ainsi possible l’intégration de séries formées par les originaux que possède une collection. 3° Il n’y avait des musées que pour certains domaines des connaissances et des activités pratiques. Progressivement le Musée devient une forme et une méthode s’appliquant à tous les domaines (science, technique, sociologie, histoire, littérature, médecine, commerce, droit, etc.). Dans une même localité les musées et collections étaient séparés, disséminés, laissés là où les circonstances les avaient fait naître. L’idée de musée général, collectif, universel, se fait jour. Les divers musées ne sont plus considérés que comme des départements ou des branches d'un musée central, à la manière dont les collection* de la bibliothèque sont considéré» comme des fonds et les établissements destinés comme des succursales. 5° Le musée était autonome et isolé parmi toutes les institutions de l’ordre intellectuel. Iltend à prendre une place coordonnée dans l’ensemble de ces institutions envisagées selon le principe supérieur d’une organisation générale du Travail Intellectuel: Rapports du Musée avec le livre (Bibliothèque), avec l’Enseignement (Ecole et Université), avec la Recherche (Instituts) avec les applications sociales (La vie en général). 6° Le Musée dans son organisation demeurait soit local, soit régional ou national. On considère de plus en plus maintenant l’ensemble des musées d’une localité, d’une région, d’un pays et, maintenant, l’ensemble des musées du monde. Et cela non seulement pour 1*interéchange des collections, mais pour la coopération à des travaux d’élaboration en commun.
 
 
 ====
@@ -16714,15 +16714,15 @@ l*J Les musées étaient autrefois des conservatoires d’objets rares et préci
 
 Le travail muséographique consiste : 1° À réunir les
 
-pièces; 2° à déterminer les pièces; 3° à les classer ; 4" à les étiqueter ; 5° à en dresser le catalogue ; 6" à consacrer une notice spéciale aux pièces caractéristiques ou à des ensembles ; 7° à disposer les objets soit en séries dites de magasin et de réserves, soit en exhibition et démonstration dans des galeries publiques pour les études ; 8° à organiser la division du travail de la coopération.
+pièces; 2° à déterminer les pièces; 3° à les classer ; 4° à les étiqueter ; 5° à en dresser le catalogue ; 6° à consacrer une notice spéciale aux pièces caractéristiques ou à des ensembles ; 7° à disposer les objets soit en séries dites de magasin et de réserves, soit en exhibition et démonstration dans des galeries publiques pour les études ; 8° à organiser la division du travail de la coopération.
 
 I. Collectionnement.
 
-L-es collections ne doivent pas être réunies au hasard. Il faut une méthode, une systématisation dans le collection-nement des objets choisis, spécialement demandés ou créés 11 ne faut pas se borner uniquement à ce qu’apporte le cas fortuit des donations. On distingue les salles d'exposition qui constituent l’essentiel des réserves où l’exclusive ne s’impose pas. Le succès d’un musée est d’avoir un plan bien défini, un système organisé de col-lectionnemcnt des objets et ensuite de faire appel a l’apport par les particuliers soit des pièces elles-mêmes, soit de l’argent pour les acquérir.
+L-es collections ne doivent pas être réunies au hasard. Il faut une méthode, une systématisation dans le collection-nement des objets choisis, spécialement demandés ou créés Il ne faut pas se borner uniquement à ce qu’apporte le cas fortuit des donations. On distingue les salles d'exposition qui constituent l’essentiel des réserves où l’exclusive ne s’impose pas. Le succès d’un musée est d’avoir un plan bien défini, un système organisé de col-lectionnemcnt des objets et ensuite de faire appel a l’apport par les particuliers soit des pièces elles-mêmes, soit de l’argent pour les acquérir.
 
 2 Classement.
 
-Il est chose capitale dans le musée ou dans la bibliothèque. On a suivi des méthode» très variées d après V espèce de musées, fondées sur la nature des objets ou la distinction de l’institution. On suit l’ordre historique (chronologie, école) ou géographique (pays, régions) ou simplement (d’après le système en usage dans les sciences. En suivant, pour le classement des objets, le même ordre que celui des textes dans les ouvrages, les deux sortes de documentation, bibliographique et muséographique, sont présentées comme complémentaire» l’une de 1 autre. Dans un Musée du type documentaire, le visiteur trouve les objets rassemblés systématiquement dans une représentation évocatrice de la vie ce qu’on sait d’essentiel sur l’ensemble de ces objets et sur chacun d’eux.
+Il est chose capitale dans le musée ou dans la bibliothèque. On a suivi des méthodes très variées d'après V espèce de musées, fondées sur la nature des objets ou la distinction de l’institution. On suit l’ordre historique (chronologie, école) ou géographique (pays, régions) ou simplement (d’après le système en usage dans les sciences. En suivant, pour le classement des objets, le même ordre que celui des textes dans les ouvrages, les deux sortes de documentation, bibliographique et muséographique, sont présentées comme complémentaires l’une de l'autre. Dans un Musée du type documentaire, le visiteur trouve les objets rassemblés systématiquement dans une représentation évocatrice de la vie ce qu’on sait d’essentiel sur l’ensemble de ces objets et sur chacun d’eux.
 
 3. Catalogue.
 
@@ -16730,22 +16730,22 @@ Les musées organisés ont leur catalogue dont le rôle est semblable au catalog
 
 Les catalogues de musées constituent une littérature considérable. Les accroissements et transformations des musées donnent lieu à des éditions nouvelles de catalogues qui ont besoin d’être tenus à jour, amplifiés, détaillés, approfondis avec des inscriptions toujours plus proches de la vérité.
 
-Les catalogues sont de valeur très inégale ; il serait utile d’établir des conditions minimum pour de telles oeuvres. Les catalogues d’objets et ceux des livres im-
+Les catalogues sont de valeur très inégale ; il serait utile d’établir des conditions minimum pour de telles œuvres. Les catalogues d’objets et ceux des livres im-
 pliquent de simples notices signalétiques ou des notices détaillées ; un seul ordre de choses ou plusieurs ordres (par n° d’inventaire, par notice, par pays, par date, par catégorie d’abjes) ; ils sont à l’étatt de manuscrit« ou imprimés, de fichiers ou de registres ; ils sont réservés à l’administration des musées ou mis aussi à la disposition du public. Le catalogue, guide pratique du musée, expose la matière dans l’ordre des salles. Une introduction générale place immédiatement le visiteur dans l’esprit même des collections exposées Les musées, par certains catalogues qu'ils établissent, fournissent des réponses aux demandes de renseignements et leurs vastes répertoires sont devenus des centres d’études. Ce fut là, par exemple, le but primitif c’u Musée Germanique de Nuremberg. Comme pour les livres encore, il y a les catalogues collectifs ou communs, le.« catalogues des catalogues, les listes (directory ou annuaires) des collections et des musées. (1)
 
 4. Présentation. Moulage.
 
-11 s’est formé toute une technique du moulage, de 'a piésentation des pièces et de 1 art d’opérer les démonstrations : machines découpées de manière à montrer le mécanisme ordinairement caché; machines mises en mouvement sous la pression de boutons électriques ou de leviers; diorama ou théâtre en miniature, sur lesquels les objets sont montés en une présentation dramatique ; cinéma et projections en plein jour (Day-light motion-picture) complétant les objets par des vues en mouvement, etc...
+11 s’est formé toute une technique du moulage, de la piésentation des pièces et de l'art d’opérer les démonstrations : machines découpées de manière à montrer le mécanisme ordinairement caché; machines mises en mouvement sous la pression de boutons électriques ou de leviers; diorama ou théâtre en miniature, sur lesquels les objets sont montés en une présentation dramatique ; cinéma et projections en plein jour (Day-light motion-picture) complétant les objets par des vues en mouvement, etc...
 
 5. Locaux.
 
-Les locaux des musées ont donné lieu à des édifices typiques qui constituent un groupe important parmi les édifices monumentaux. Comme toute l'architecture, celle-ci tend à être de plus en plus fonctionnelle. Les locaux ont donc toute la diversité que créent les circonstances et l'état des fonds dont on dispose. En principe il faut s’affranchir des formes et des espaces donnés en les pliant à la démonstration et non l'inverse. Si le musée doit être un traité visualisé, objectif et synoptique, la répartition des locaux y consacrés partira du même principe que celui qui, dans le livre, préside à la répartition par chapitre. par section, par paragraphe, pour aboutir à la phrase et au mot. On considérera donc des grands espaces rectangulaires bien éclairés qui seront divisés à l'aide de cloisons mobiles disposées de manière k former salles, stands et panneaux.
+Les locaux des musées ont donné lieu à des édifices typiques qui constituent un groupe important parmi les édifices monumentaux. Comme toute l'architecture, celle-ci tend à être de plus en plus fonctionnelle. Les locaux ont donc toute la diversité que créent les circonstances et l'état des fonds dont on dispose. En principe il faut s’affranchir des formes et des espaces donnés en les pliant à la démonstration et non l'inverse. Si le musée doit être un traité visualisé, objectif et synoptique, la répartition des locaux y consacrés partira du même principe que celui qui, dans le livre, préside à la répartition par chapitre. par section, par paragraphe, pour aboutir à la phrase et au mot. On considérera donc des grands espaces rectangulaires bien éclairés qui seront divisés à l'aide de cloisons mobiles disposées de manière à former salles, stands et panneaux.
 
 6. Coopération.
 
 On a peu pratiqué jusqu’ici la coopération et l’assis-
 
-(1) Pour les Herbiers, par exemple, on possède: 1° la liste des herbiers d'administrations publiques, des sociétés et de particuliers : 2° l’énumération alphabétique d'auteurs et collectionneurs, avec indication des herbiers qu’on peut consulter sur les échantillons authentiques, avec références aux sources permettant d'affirmer les faits. Indication sur le lieu actuel des collections.
+(1) Pour les Herbiers, par exemple, on possède: 1° la liste des herbiers d'administrations publiques, des sociétés et de particuliers ; 2° l’énumération alphabétique d'auteurs et collectionneurs, avec indication des herbiers qu’on peut consulter sur les échantillons authentiques, avec références aux sources permettant d'affirmer les faits. Indication sur le lieu actuel des collections.
 
 
 ====
@@ -16781,7 +16781,7 @@ a) Les monuments sont des documents du point de vue scientifique, historique ou 
 
 b) Monuments et sites sont décrits, catalogués, reproduits. Des mesures sont prises pour leur classement (au titre de monument national). Il est des organismes chargés de leur protection. (Commission des sites et des monuments).
 
-c) Des fouilles ont été entreprises en divers endroits depuis des temps déjà reculés. En ce siècle, une recrudescence d'excavation due à la rivalité et à la coopération de divers pays a mis à jour des centres archéologiques de première importance dans toutes les parties du monde. Ainsi l’expédition suédoise, à Chypre, à elle seule, a découvert plus de 18,000 objets. Certaines protestations se sont élevées contre la profanation des tombeaux, et l'on s est plu à reconnaître dans la mort violente des violateurs la mise en oeuvre des puissances magiques des Pharaons troublés dans leur dernier sommeil
+c) Des fouilles ont été entreprises en divers endroits depuis des temps déjà reculés. En ce siècle, une recrudescence d'excavation due à la rivalité et à la coopération de divers pays a mis à jour des centres archéologiques de première importance dans toutes les parties du monde. Ainsi l’expédition suédoise, à Chypre, à elle seule, a découvert plus de 18,000 objets. Certaines protestations se sont élevées contre la profanation des tombeaux, et l'on s est plu à reconnaître dans la mort violente des violateurs la mise en œuvre des puissances magiques des Pharaons troublés dans leur dernier sommeil
 (I) Voir Bruxelles. Janvier 1934, p. 4.
 
 
@@ -16792,16 +16792,16 @@ c) Des fouilles ont été entreprises en divers endroits depuis des temps déjà
 27 PERSONNES.
 ================
 
-Dana la Documentation interviennent dej organismes et d'*s personnes spécialisées. Un exposé systématique complet exigerait qu'il en fut traité ‘ci, distinctement et séparément. Ainsi le voudrait une analyse une synthèse intégrales. Mais en vue d’éviter des répétitions, on s*est borné à traiter de ces matières aux divers sujets spéciaux avec lesquelles ils ont des affinités et aussi sous la division 4 Organisation.
+Dana la Documentation interviennent des organismes et des personnes spécialisées. Un exposé systématique complet exigerait qu'il en fut traité ‘ci, distinctement et séparément. Ainsi le voudrait une analyse une synthèse intégrales. Mais en vue d’éviter des répétitions, on s'est borné à traiter de ces matières aux divers sujets spéciaux avec lesquelles ils ont des affinités et aussi sous la division 4 Organisation.
 
-a) Le livre est un des produis de l'activité humaine qui exige le plus d'opérations distinctes. Celles-ci, nu cour» du temps, ont été réparties selon les principe* de la division et de la coopération dans le travail, entre une série de personnes et de fonctions.
+a) Le livre est un des produis de l'activité humaine qui exige le plus d'opérations distinctes. Celles-ci, nu cour» du temps, ont été réparties selon les principes de la division et de la coopération dans le travail, entre une série de personnes et de fonctions.
 
 b) Les Auteurs (écrivains, savants, publicistes) établissent le manuscrit des ouvrages. Ils sont les créateurs des livres et les signent. Ils en ont la propriété qu'ils peuvent céder en tout ou en partie, Les Editeurs se chargent de leur diffusion et de toutes les opérations d’ordre commercial ; ils sont, en quelque sorte, les entrepreneurs généraux du livre, groupant sous leur direction, les différents métiers et professions. Ils ont tendance à se spécialiser dans un genre. Les Imprimeurs (typographes.
 lithographes, graveurs, photograveurs, etc.) reproduisent le livre en multiples exemplaires sur commande des éditeurs ou des auteurs. Les Libraires s’occupent de la vente des livres neufs. Ce sont les dépositaires des éditeurs. Les Bouquinistes (librairies d'occasion, librairies anciennes, antiquariats), s'occupent des livres anciens. Les Bibliographes font les catalogues, les descriptions des livres, les Critiques les jugent. Les Bibliothécaires kl conservent et les distribuent.
 
-c) Le monde du livre a une organisation collective puissante : associations et syndicats ; maisons ou bourses du livre avec centrale de commandes ; organismes pour l’exportation et l'expédition h l'étranger, catalogues collectifs, publications professionnelles. Des règlements et des contrats collectifs ainsi qu'une législation locale, nationale et internat onale, organisent les rapports juridiques du livre et de ceux qui y travaillent.
+c) Le monde du livre a une organisation collective puissante : associations et syndicats ; maisons ou bourses du livre avec centrale de commandes ; organismes pour l’exportation et l'expédition à l'étranger, catalogues collectifs, publications professionnelles. Des règlements et des contrats collectifs ainsi qu'une législation locale, nationale et internat onale, organisent les rapports juridiques du livre et de ceux qui y travaillent.
 
-d) Des organismes correspondent à chacune de* grandes fonctions, opérations, groupes, personnes. Ex.: Imprimeries, Librairies, Bibliothèques. Archives, Offices de Bibliographie et Documentation, etc.
+d) Des organismes correspondent à chacune des grandes fonctions, opérations, groupes, personnes. Ex.: Imprimeries, Librairies, Bibliothèques. Archives, Offices de Bibliographie et Documentation, etc.
 
 28 CORRÉLATIONS ENTRE LES DIVERS ÉLÉMENTS DU LIVRE ET DU DOCUMENT
 =======================================================================
@@ -16845,22 +16845,22 @@ Etudié sous son aspect économique, le livre nous fait retrouver chez 'ui les g
 
 2. La commercialisation : valeur nouvelle qui a'ajoute aux autres,
 
-3. L'industrialisme, capitalisme (part plus grande de» capitaux fixés dans l'établissement des imprimeries).
+3. L'industrialisme, capitalisme (part plus grande des capitaux fixés dans l'établissement des imprimeries).
 
 Production. — Toutes les questions économiques générales se posent pour le livre.
 
 Elles sont orientées vers l'organisation des cinq forces : Capital, Travail, Savoir. Consommation, Etat coordinateur.
 
-L'organisation des écrivain» devant les éditeurs, de» lecteurs devant les uns et les autres pour les prix et la qualité.
+L'organisation des écrivain» devant les éditeurs, des lecteurs devant les uns et les autres pour les prix et la qualité.
 
 Si l'on prend en considération les frai» de transport
 
 
 ====
 
-283 GENERALITES *361*
+283  GENERALITES  *361*
 
-aux Etats-Unis, les frais d'assurance, les droits de douane, de commission et U différence dans le coût du papier, on peut aisément calculer qu'un livre vendu en France au prix de fr. 3.50 pourrait être mis en vente aux Etats-Unis, s’il y était imprimé, au prix de 2 fr. et peut-être au-dessous de ce prix.
+aux Etats-Unis, les frais d'assurance, les droits de douane, de commission et la différence dans le coût du papier, on peut aisément calculer qu'un livre vendu en France au prix de fr. 3.50 pourrait être mis en vente aux Etats-Unis, s’il y était imprimé, au prix de 2 fr. et peut-être au-dessous de ce prix.
 
 La part des auteurs. — Travail intellectuel. Vivre de son esprit : écrire dans les journaux, faire des traductions, donner des leçons.
 
@@ -16870,7 +16870,7 @@ La littérature industrielle que dénonçait déjà Nizard vise simplement au su
 
 Demain, un syndicat puissant de littérateurs et d’éditeurs jettera à profusion sur le marché mondial une abondante et ignoble littérature de guerre. La littérature militariste qui s’est ajoutée à la littérature policière se développera d’une façon intense et complexe. (Guilbeaux.)
 
-Il est désirable que les producteurs intellectuels, artistes, hommes de lettres, »avants, puissent trouver des moyens de vie en dehors des œuvres qu'ils produisent pour leur propre satisfaction et dont le public ne peut apprécier assez vite la valeur pour qu’ils en puissent vivre comme producteurs.
+Il est désirable que les producteurs intellectuels, artistes, hommes de lettres, savants, puissent trouver des moyens de vie en dehors des œuvres qu'ils produisent pour leur propre satisfaction et dont le public ne peut apprécier assez vite la valeur pour qu’ils en puissent vivre comme producteurs.
 
 Comment l’intelligence peut-elle se protéger contre la tyrannie de For ? Charles Mau ras a traité cette question dans tt L'Avenir de l'Intelligence ».
 
@@ -16882,8 +16882,8 @@ Le domaine de la documentation est partagé entre la Commercialisation faction d
 
 Le commerce dispose de moyens quasi illimités sous la forme de capital rentable. Celui-ci par ses avances ou crédit permet d'entreprendre des travaux à récupération éloignée. La communauté dispose des fonds publics et de ressources volontaires qui sont aussi considérables mais qui ne sont pas mis à disposition du travail et des services avec la quantité, la rapidité et la régularité désirables.
 
-Il y a maintenant développement simultané dans les deux sens : commercialisation d une part des services public»,
-travail scientifique d’autre part. La tradition a fait des travaux et des services de l'esprit des œuvres hors commerce, ainsi les savants, les poètes, le» philosophes, les prêtres. (Les clercs ne faisaient œuvre servile.) Il y a eu de ce fait pour les biens intellectuels une sorte de communisme, bien que le petit nombre de lettrés, des écrivains dans le passé ait établi une différence entre les biens intellectuels et les biens moraux au partage desquels très tôt tous étaient appelés (les œuvres de religion, de morale, les œuvres de salut). De nos jours le socialisme et le communisme, éloignés au début de ce qui concerne Fintellec-tualité, entendent ériger certains travaux en services publics (Ex. : organisation des bibliothèques, des musées de 1 édition, de la librairie, de la bibliographie, dans la Kussie des Soviets).
+Il y a maintenant développement simultané dans les deux sens : commercialisation d une part des services publics,
+travail scientifique d’autre part. La tradition a fait des travaux et des services de l'esprit des œuvres hors commerce, ainsi les savants, les poètes, les philosophes, les prêtres. (Les clercs ne faisaient œuvre servile.) Il y a eu de ce fait pour les biens intellectuels une sorte de communisme, bien que le petit nombre de lettrés, des écrivains dans le passé ait établi une différence entre les biens intellectuels et les biens moraux au partage desquels très tôt tous étaient appelés (les œuvres de religion, de morale, les œuvres de salut). De nos jours le socialisme et le communisme, éloignés au début de ce qui concerne Fintellec-tualité, entendent ériger certains travaux en services publics (Ex. : organisation des bibliothèques, des musées de l'édition, de la librairie, de la bibliographie, dans la Kussie des Soviets).
 
 D’autre part l'édition d’ouvrages est devenue presque entièrement commerciale, le magazine, le journal, la librairie l est lout à lait, la critique aussi ; il y a des cabinets de lecture payants avec abonnements à domicile. Il y a des offices de documentation commercialisés.
 
@@ -16894,7 +16894,7 @@ I. En général.
 
 Le droit qui a pour objet la réglementation des relations sociales étend son domaine sur les choses du livre. C’est d’une part la liberté et la réglementation de la presse (imprimerie, vente, circulation). d'autre part les droits privés auxquels donnent lieu les œuvres édites, le vaste domaine de la propriété littéraire. Ce dernier droit comprend deux parties bien distinctes: le droit au maintien de l’individualité de l'œuvre, prolongement de l'individualité de Fauteur, le droit aux avantages économiques de l’œuvre en tant qu’objet ayant une valeur monnayable.
 
-La liberté, la personnalité, la propriété sont les données des institutions générale» d'ordre juridique. Elles se présentent à l’occasion du Livre et du document. Là où il y a une ou des choses, objet de production, un ou des agents humains de la production et un processus productif, là il y a des droits sur des choses ou des droits de personnes ou à 1 égard de personnes, et des droits de faire ou de ne pas faire.
+La liberté, la personnalité, la propriété sont les données des institutions générales d'ordre juridique. Elles se présentent à l’occasion du Livre et du document. Là où il y a une ou des choses, objet de production, un ou des agents humains de la production et un processus productif, là il y a des droits sur des choses ou des droits de personnes ou à l'égard de personnes, et des droits de faire ou de ne pas faire.
 
 Toute une législation, locale, nationale, internationale, régit le livre. Elle est prolongée par des réglementations collectives, volontaires, éditées par les Associations et les syndicats, Ln liberté d’écriture, la censure officielle. Le drôit d'auteur, les dispositions relatives à l’imprimé et à 'a presse, à l’affichage, le colportage, la vente et à la distribution postale des imprimés sont des parties du droit de la documentation. Les contrats collectifs entre auteurs et éditeurs, entre syndicats de typographes et patrons imprimeurs, entre libraires et éditeurs, entre bibliothèques, sont autant de disposit ons et règlements organisant la vaste matière documentaire dans le cadre des lois générales et spéciales.
 
@@ -16903,7 +16903,7 @@ Toute une législation, locale, nationale, internationale, régit le livre. Elle
 
 *362* LE LIVRE ET LE DOCUMENT
 
-2. Droit in temat ion al.
+2. Droit international.
 
 Le droit d'auteur international a été déterminé par la Convention de Berne. Passée en 1886, révisée en 1908 et en 1914, elle assure dans les pays adhérents, la même protection à chaque auteur ressortissant d'un Etat unioniste qu'aux nationaux de ce pays, même si cette protection est plus étendue que celle prévue par la loi étrangère de l'auteur. En bénéficient toutes les œuvres littéraires. ou artistiques, en ce qui concerne les droits de reproduction, traduction, représentation et adaptation, i.es Etats-Unis ne sont pas parties de la convention de Berne. D'après le système du copyright d'après lequel, pour voir respecter ses droits chez eux, un auteur devant jusqu'ici faire une déclaration de son œuvre et payer une taxe. Un mouvement se produit actuellement en faveur de l'entrée du pays dans l'Union. L'U. K, S. S. a établi le communisme dans le domaine littéraire comme dans le domaine économique. Elle s'approprie toutes les œuvres étrangères qu’elle juge intéressantes pour en faire tel usage qui lui semble bon.
 
@@ -16954,7 +16954,7 @@ a des particularités intéressantes (monographies bibliographiques),
 
 corrélations.
 
-32 Des livres et documents en tant qu'enscmblcs.
+32 Des livres et documents en tant qu'ensembles.
 
 321 Dans les diverses matières (sciences et activités pra-
 
@@ -16980,16 +16980,16 @@ rature.
 
 I. Histoire des diverses parties du livre.
 
-Le livre a une longue histoire: chacun de s~s éléments, chacune de ses parties et de ses espèces est le produit d un développement parfois très lent. — Ecriture : le Livre a ses origines dan» celles de récriture figurative et du tracé des signes conventionnels. (Paléographie; science de» écritures). — Substance: Il fut d'abord
+Le livre a une longue histoire: chacun de ses éléments, chacune de ses parties et de ses espèces est le produit d un développement parfois très lent. — Ecriture : le Livre a ses origines dans celles de récriture figurative et du tracé des signes conventionnels. (Paléographie; science des écritures). — Substance: Il fut d'abord
 
 inscription murale (Epigraphie), tablette ou rou'eau en terre cuite, tablette de bronze, de cire, ardoise. Plus tard îl s'écrivit sur papyrus et parchemin, puis sur papier originaire de Chine. — Forme: il eut, dans l'antiquité, la forme rectangulaire, avec les tablettes de cire juxtaposée»;
-il fut fait de feuillet» superposés et relié» avec les codex. Aujourd hui il tend k la feuille ou fiche, mobile ou liassée en reliure mobile (monographie). — Reproduction: il fut écrit à la main (manuscrit), puis gravé sur Loi» (xylographie), puis composé à l'aide de caractères mobiles (imprimerie, Gutenberg). On le reprodu.sit par la pierre (lithographie), puis par la photographie (photogravure, héliogravure, pholotypie), pui» par des procédé» chimiques (anastatique ou reviviscence des encre»). — illustration : Remonte à la plus haute antiquité, enluminure, miniature, puis gravure en relief et en creux. — Reliure ; très ancienne, devient un art à Byzance au Xe siècle, se développe en Italie au XVIII*, en France au XVI* et au XVIIIe. renaît de nos jour».
+il fut fait de feuillets superposés et reliés avec les codex. Aujourd'hui il tend à la feuille ou fiche, mobile ou liassée en reliure mobile (monographie). — Reproduction: il fut écrit à la main (manuscrit), puis gravé sur Loi» (xylographie), puis composé à l'aide de caractères mobiles (imprimerie, Gutenberg). On le reprodu.sit par la pierre (lithographie), puis par la photographie (photogravure, héliogravure, pholotypie), pui» par des procédé» chimiques (anastatique ou reviviscence des encre»). — illustration : Remonte à la plus haute antiquité, enluminure, miniature, puis gravure en relief et en creux. — Reliure ; très ancienne, devient un art à Byzance au Xe siècle, se développe en Italie au XVIII*, en France au XVI* et au XVIIIe. renaît de nos jour».
 
 2. Histoire générale.
 
-a) Antiquité. — Invention et transformation des écritures, constitution des langues en langages littéraires. Le Papyrus. Les premières littératures ; la formation des genres littéraire». Premiers essa s de rédaction dans les sciences. Conservation des textes sacrés dans les temples et palais. Influence de I esclavage: le cercle étroit des lettrés, des philosophes et de» savants. Les polygraphîes «t de omni re scibili ». Les premiers encyclopédistes . Aristote.
+a) Antiquité. — Invention et transformation des écritures, constitution des langues en langages littéraires. Le Papyrus. Les premières littératures ; la formation des genres littéraire». Premiers essa s de rédaction dans les sciences. Conservation des textes sacrés dans les temples et palais. Influence de I esclavage: le cercle étroit des lettrés, des philosophes et des savants. Les polygraphîes «t de omni re scibili ». Les premiers encyclopédistes . Aristote.
 
-b) Moyen âge. — Les barbares détruisent les bibliothèques. Les moine* recopient le» manuscrit». L’époque des manuscrits: Au XIIIe siècle, invention du papier de chiffon. Le moyen âge. grand par son art, »a philosophie, sa théologie. Peu de création» littéraires. Développement des sciences presque nul. Le» «Miroirs» et les «Sommes», formes de l'idée encyclopédique.
+b) Moyen âge. — Les barbares détruisent les bibliothèques. Les moines recopient les manuscrits. L’époque des manuscrits: Au XIIIe siècle, invention du papier de chiffon. Le moyen âge. grand par son art, »a philosophie, sa théologie. Peu de création» littéraires. Développement des sciences presque nul. Les «Miroirs» et les «Sommes», formes de l'idée encyclopédique.
 
 c) Renaissance et temps modernes. — La Renaissance découvre l’antiquité. Epoque de l'érudition: reproduction, traduction, commentaire d*s ouvrages. Vers 1436, invention de l’imprimerie. Elle se répand dans toute 1 Europe avec la Réforme. Développement de la gravure. Les guerres de relig on» utilisent les livre». Au XVe siècle, le livre se constitue avec les trait» essentiel» qu’il a
 
@@ -16998,22 +16998,22 @@ c) Renaissance et temps modernes. — La Renaissance découvre l’antiquité. E
 
 *364*  UNITES OU ENSEMBLES  324
 
-encore aujourd hui. Plantin à Anvers (vers 1530). Fon* dation à Pans de la Bibliothèque nationale (1595), et de l'imprimerie nationale. Les premiers journaux. La consti-tution des sciences en corps de doctrines autonomes. XVIIIe siècle : les idées travaillent le peuple. L’encyclopédie de Diderot et d'Alembert. Le rôle des livres, du pamphlet et des journaux politiques dans la Révolution tiançaitc. XIX' s.f-c.e: lei invention, mécaniques appliquées à la production du Livre; 1a reproduction photo-mécanique de l’image; le triomphe de la démocratie; la diffusion de l’enseignement; le régime constitutionnel dans les grands Etats basé sur la liberté de la parole et de la presse; progrès dans l’organisation administrat.ve des Etats et rôle des imprimés de toute espèce à ce point de vue. Développement des sciences sur la base de la division du travail ; organisation rattonnellc de Ja librairie et de la presse scientifiques; la revue, le journal d’information. La librairie et l'édition se font universelles, ¡«s bibliothèques géantes et les éditions géantes. Organ.sation internationale du Livre et de la Documentation.
+encore aujourd hui. Plantin à Anvers (vers 1530). Fon* dation à Pans de la Bibliothèque nationale (1595), et de l'imprimerie nationale. Les premiers journaux. La consti-tution des sciences en corps de doctrines autonomes. XVIIIe siècle : les idées travaillent le peuple. L’encyclopédie de Diderot et d'Alembert. Le rôle des livres, du pamphlet et des journaux politiques dans la Révolution tiançaitc. XIX' s.f-c.e: lei invention, mécaniques appliquées à la production du Livre; la reproduction photo-mécanique de l’image; le triomphe de la démocratie; la diffusion de l’enseignement; le régime constitutionnel dans les grands Etats basé sur la liberté de la parole et de la presse; progrès dans l’organisation administrat.ve des Etats et rôle des imprimés de toute espèce à ce point de vue. Développement des sciences sur la base de la division du travail ; organisation rattonnellc de Ja librairie et de la presse scientifiques; la revue, le journal d’information. La librairie et l'édition se font universelles, ¡«s bibliothèques géantes et les éditions géantes. Organ.sation internationale du Livre et de la Documentation.
 
-3 Le* Phases.
+3 Les Phases.
 
 Toute histoire est divisée en deux manières : par date (chronologie), par phases (phaséologie, stades, époques). En vertu de la première, on se borne à déterminer la localisation d’un événement dans le temps, en vertu de la seconde, on détermine la division du temps d après la duré© de quelques grands faits subordonnant ou influençant les autres et s’étant succédé selon une certaine ratio. La chronologie est commune à l’h sloire générale et à 1*histoire spéciale bien que, dans ce dernier cas, il i»e soit fait mention que des fa.ts généraux influençant les faits spéciaux et, quant à ceux-ci seulement, les faits intéressant la spécialité à I exclusion des autres. Les phases au contraire sont distinctes, selon qu il s agit d’histoire générale ou d’histoire spéciale, distinctes aussi d’après chaque histoire spéciale.
 
-L’histoire générale est divisée en préhistoire, antiquité (5000 ans), moyen âge (1000 ans), nouvel âge (350 ans), âge présent (120 ans). Au point de vue matériel, 1 histoire du Livre présente les grands faits suivants qui délimitent autant de phases ; I. avant l’écriture; 2, l’invention de l'écriture; 3. l’invention du papier; 4. l’invention de l’imprimerie, le» revues et les journaux périodiques; 5. la lecture généralisée et la production en masse ; 6. la multiplication de l’image; 7. les nouveaux substituts du livre (radio - phono - hlm).
+L’histoire générale est divisée en préhistoire, antiquité (5000 ans), moyen âge (1000 ans), nouvel âge (350 ans), âge présent (120 ans). Au point de vue matériel, 1 histoire du Livre présente les grands faits suivants qui délimitent autant de phases ; I. avant l’écriture; 2, l’invention de l'écriture; 3. l’invention du papier; 4. l’invention de l’imprimerie, les revues et les journaux périodiques; 5. la lecture généralisée et la production en masse ; 6. la multiplication de l’image; 7. les nouveaux substituts du livre (radio - phono - hlm).
 
 Au point de vue intellectuel, l’histoire du livre est divisible en un nombre très divers de phases qui se confondent avec celles de l’histoire des sciences, des lettres, des arts, de Véducation, de Ja vie économique, sociale et politique.
 
-En établissant les phases du développement hatorique de chaque élément, et de tout l'ensemble, cela h divers
+En établissant les phases du développement hatorique de chaque élément, et de tout l'ensemble, cela à divers
 points de vue, on arrive au résultat de mieux concevoir toute l'évolution. (I)
 
 4. Histoire des Hures et histoire des réalisations.
 
-L’histoire de la littérature est l’histoire des livres et celle de l'influence des livres. Ce n’est pas celle de la politique. Pendant de longues période» fa pensée dts livres et U conduite des affaires politiques sont tout À fait distinctes. Quand on passe à l’action, le» choses changent. Il ne s agit plus seulement de raisonner, de discuter, de proposer, il faut tenter d'agir. Tant qu’il n’y a en présence que des écrivains et des lecteurs, la valeur d’une idée ne dépend que de l’intelligence et du talent de l’écrivain et de l’accent, de la compréhension des lecteurs. Si l’on commence au contraire à réaliser, c’est la réalisation qui compte. On voit une opinion réformiste devenir une opinion agressive puis une opinion révolutionnaire. (Daniel Mornet.) Histoire des idées d’un côté, histoire des activités de l'autre.
+L’histoire de la littérature est l’histoire des livres et celle de l'influence des livres. Ce n’est pas celle de la politique. Pendant de longues périodes fa pensée dts livres et la conduite des affaires politiques sont tout à fait distinctes. Quand on passe à l’action, les choses changent. Il ne s agit plus seulement de raisonner, de discuter, de proposer, il faut tenter d'agir. Tant qu’il n’y a en présence que des écrivains et des lecteurs, la valeur d’une idée ne dépend que de l’intelligence et du talent de l’écrivain et de l’accent, de la compréhension des lecteurs. Si l’on commence au contraire à réaliser, c’est la réalisation qui compte. On voit une opinion réformiste devenir une opinion agressive puis une opinion révolutionnaire. (Daniel Mornet.) Histoire des idées d’un côté, histoire des activités de l'autre.
 
 324 Le livre et la littérature.
 --------------------------------
@@ -17022,11 +17022,11 @@ I. Notion.
 
 a) La Littérature est l’ensemble de la production littéraire d’un pays ou d'une époque. Au sens large, par littérature on peut aussi entendre toutes sortes de livres. Une partie importante de la Bibliologie doit consis'er a étudier les lois générales de la production, de l’échange et de la consommation littéraire.
 
-Les oeuvres de littérature fournissent la source la plus abondante pour l’étude comparée du livre aux divers point» de vue bibliologiques.
+Les œuvres de littérature fournissent la source la plus abondante pour l’étude comparée du livre aux divers point» de vue bibliologiques.
 
 C'est la littérature aussi qui a fourni la majeure partie de la production bibliographique. Pour beaucoup d nommes, le livre littéraire est tout le livre.
 
-b) Dans sa préface des Contemplations, Victor Hugo a défini ainsi le contenu de la littérature : c Une destinée est écrite lâ jour à jour. Ce sont lâ en effet toutes les impressions, tous les souvenirs, toutes les réalités, tous Icî fantômes vagues, riants ou funèbres, que peut contenir une conscience, revenus et rappelés rayon à rayon, soupir à soupir et mêlés dans la même nuée sombre. C’est l’existence humaine sortant de 1 énigme du berceau et aboutissant à l’énigme du cercueil; c est un esprit qui marche de lueur en lueur en laissant derrière lui la jeunesse, l’amour, l’illusion, le combat, le désespoir et qui s’arrête éperdu, au bord de l'infini. Cela commence par un sourire, continue par un sanglot et finit par un bruit de clairon dans l'abîme. La littérature découvre une âme, un cœur, une souffrance, une vertu, un vice. »
+b) Dans sa préface des Contemplations, Victor Hugo a défini ainsi le contenu de la littérature : c Une destinée est écrite lâ jour à jour. Ce sont lâ en effet toutes les impressions, tous les souvenirs, toutes les réalités, tous Icî fantômes vagues, riants ou funèbres, que peut contenir une conscience, revenus et rappelés rayon à rayon, soupir à soupir et mêlés dans la même nuée sombre. C’est l’existence humaine sortant de l'énigme du berceau et aboutissant à l’énigme du cercueil; c'est un esprit qui marche de lueur en lueur en laissant derrière lui la jeunesse, l’amour, l’illusion, le combat, le désespoir et qui s’arrête éperdu, au bord de l'infini. Cela commence par un sourire, continue par un sanglot et finit par un bruit de clairon dans l'abîme. La littérature découvre une âme, un cœur, une souffrance, une vertu, un vice. »
 
 (I) Muller-Lyer. — Phasen der Kultur. The fÎfliOVf üj Social development a mis en œuvre cette méthode en sociologie, notamment en économie.
 
@@ -17035,35 +17035,35 @@ b) Dans sa préface des Contemplations, Victor Hugo a défini ainsi le contenu d
 
 324  LE LIVRE ET LA LITTERATURE  *365*
 
-c) Au point de vue individuel, la littérature répond à ce but : ■ chercher son âme dans une autre âme. explo-" rcr le monument éternel laissé par les classiques anciens, » s’abreuver à cette rivière féconde, percevoir In lumière » des soleils qui dan» le passé ont transpercé le monde » de leurs rayons magnifiques, fréquenter la société des • grands esprit*. »
+c) Au point de vue individuel, la littérature répond à ce but : ■ chercher son âme dans une autre âme. explo-" rer le monument éternel laissé par les classiques anciens, » s’abreuver à cette rivière féconde, percevoir In lumière » des soleils qui dans le passé ont transpercé le monde » de leurs rayons magnifiques, fréquenter la société des • grands esprits. »
 
-La foule, quoi qu'on prétende, adore U littérature Elle apprécie les inventions des poètes, le drame de la fantaisie, les découvertes de l'inspiration. Elle sait bien que les romans ne sont pas arr*re chose que des secrets de famille, et cette révélation audacieuse aguiche la curiosité de tous les passants inexprimés.
+La foule, quoi qu'on prétende, adore la littérature Elle apprécie les inventions des poètes, le drame de la fantaisie, les découvertes de l'inspiration. Elle sait bien que les romans ne sont pas au re chose que des secrets de famille, et cette révélation audacieuse aguiche la curiosité de tous les passants inexprimés.
 
-d) La littérature est aussi vaste que 'a pensée humaine. C est la manifestation intellectuelle de l'humanité dans ce qu’elle a de plus élevé avec les Arts, la Science et avec les Inventions.
+d) La littérature est aussi vaste que la pensée humaine. C'est la manifestation intellectuelle de l'humanité dans ce qu’elle a de plus élevé avec les Arts, la Science et avec les Inventions.
 
-Pour créer une littérature, il a fallu que l’homme dispose de loisirs. Partout où il est parvenu & s’en créer un peu. aussitôt la littéraire a fleuri.
+Pour créer une littérature, il a fallu que l’homme dispose de loisirs. Partout où il est parvenu à s’en créer un peu. aussitôt la littéraire a fleuri.
 
-Sous ses formes multiples: poésie, drame, h stoire. éloquence. la littérature fut la première éducatrice des peuples. Elle eut d’abord pour hase l’étude e* pour but l’exposition lumineuse de ces faits naturels sur lesquels est fondée la science moderne. Elle apparaît la première dans l’enfance des sociétés, dès que l’homme sait coordonner ses idées et possède le moyen de les transmettre. Elle fixe d’abord, dans un langage incorrect e> grossier, les faits mémorables, transmet les noms des héros, des pasteurs du peuples ou des dompteurs de monstres ; puis, s’enhardissant, elle dépeint les grands spectacles de la nature ; chante les guerres et adresse des hymnes aux dieux.
+Sous ses formes multiples: poésie, drame, histoire, éloquence. la littérature fut la première éducatrice des peuples. Elle eut d’abord pour hase l’étude et pour but l’exposition lumineuse de ces faits naturels sur lesquels est fondée la science moderne. Elle apparaît la première dans l’enfance des sociétés, dès que l’homme sait coordonner ses idées et possède le moyen de les transmettre. Elle fixe d’abord, dans un langage incorrect e> grossier, les faits mémorables, transmet les noms des héros, des pasteurs du peuples ou des dompteurs de monstres ; puis, s’enhardissant, elle dépeint les grands spectacles de la nature ; chante les guerres et adresse des hymnes aux dieux.
 
-Quand la lit'érature a produit ainsi une certaine masse d’œuvres remarquables, l’examen même de ces inspirations directes crée une autre source de littérature, la critique qui juge et compare entr’elles les productions des âges précédents.
+Quand la littérature a produit ainsi une certaine masse d’œuvres remarquables, l’examen même de ces inspirations directes crée une autre source de littérature, la critique qui juge et compare entr’elles les productions des âges précédents.
 
 e) La littérature n’est pas un miroir de la société. L’expression littéraire peut renforcer certains traits de la réalité, elle peut en combattre d’autres, ou les passer sous silence. La littérature n’est donc pas un reflet mais une recomposition de la vie. Il arrive souvent qu elle accuse des divergences qui dans la réalité se compensent et s’effacent. Une psychologie des nations basée sur la littérature risque fort d’aboutir à des résultats trompeurs e: artificiels. (I)
 
-f) Utilité de la littérature. — On peu* donner des buts divers k la littérature. La littérature doit servir le peuple, relier les générations les unes aux autres, faire la conscience de l’Humanité. En détruisant les formes désuètes, en construisant avec les éléments nouveaux, en maintenant
+f) Utilité de la littérature. — On peut donner des buts divers à la littérature. La littérature doit servir le peuple, relier les générations les unes aux autres, faire la conscience de l’Humanité. En détruisant les formes désuètes, en construisant avec les éléments nouveaux, en maintenant
 
 (I) Curtius. — Essai sur la France. Paris, Crasset 1932.
 
-l’héritage et l’acquit, elle doit être & la fois au service de la Tradition et de la Révolution.
+l’héritage et l’acquit, elle doit être à la fois au service de la Tradition et de la Révolution.
 
-g) La lit'érature a donné lieu : Io aux œuvres elles-mêmes, à leur collection dans les meilleurs textes; 2° aux écrits sur les œuvres de la littérature, écrits répartis en quatre groupes: a) exposé de l’enchaînement de la production des œuvres; b) fa littérature comparée; c) fa critique littéraire (voir n° 234) : d) la théorie littéraire (voir n° 224.1). (I)
+g) La littérature a donné lieu : Io aux œuvres elles-mêmes, à leur collection dans les meilleurs textes; 2° aux écrits sur les œuvres de la littérature, écrits répartis en quatre groupes: a) exposé de l’enchaînement de la production des œuvres; b) fa littérature comparée; c) fa critique littéraire (voir n° 234) : d) la théorie littéraire (voir n° 224.1). (I)
 
 L’é ude littéraire des œuvres est entrée dans un détail extrême avec la discipline nouvelle dite la stylométrie. Ainsi pour établir la chronologie des écrits de Platon. Winsenty Lutoslawski a créé toute une méthode. (The origin and growth of Plato’s logic, 1897.) Ce*te méthode a son point de départ dans un relevé minutieux de plus de 500 particularités qui caractérisent le style des derniers écrits de Platon, le Timée et les Lois. Elle a été décrite pour les lecteurs de langue française par M P. Tannery dans un article de la Revue Philosophique (1899. p. 159)
 
 2. Historique.
 
-a) Les littératures, en tant que l’ensemble des produc-*ions des écrivains d’une nation, d'un pays, d’une époque ont donné lieu à des productions immensément nombreuses et parmi elles à des œuvres magistrales. Ont existé successivement les littératures indoue, hébraïque, chinoise, grecque, romaine, les littératures italienne, espagnole, française, allemande. Il y a aussi les littératures russe, Scandinave, hollandaise-flamande. hongroise, polonaise, roumaine. Et d’une manière générale chaque langue possède ses œuvres littéraires, notamment les langues rendues récemmen* à la liberté : la littérature lettone, lithuanienne, finoise et toutes les littératures particulières des nationalités comprise» dan* fa Russie des Soviets.
+a) Les littératures, en tant que l’ensemble des produc-tions des écrivains d’une nation, d'un pays, d’une époque ont donné lieu à des productions immensément nombreuses et parmi elles à des œuvres magistrales. Ont existé successivement les littératures indoue, hébraïque, chinoise, grecque, romaine, les littératures italienne, espagnole, française, allemande. Il y a aussi les littératures russe, Scandinave, hollandaise-flamande. hongroise, polonaise, roumaine. Et d’une manière générale chaque langue possède ses œuvres littéraires, notamment les langues rendues récemmen* à la liberté : la littérature lettone, lithuanienne, finoise et toutes les littératures particulières des nationalités comprises dan* fa Russie des Soviets.
 
-b) Les littératures ont procédé largement les unes des autres; en Occident, elles ont procédé très directement des lettres- greco-latines. Le vieux français et le vieux provençal, les langues d’oc et d’oïl, dérivées notamment du latin, créent des œuvres communes et imitées partout, (Epopées françaises). Au XVe et au XVIe siècle, l'Italie est un foyer lumineux auquel d'autres nations empruntent leur lumière. L'Angleterre et la France rayonnent aussi simultanément au XVIe siècle; au commencement du XVIIe siècle, la France emprunte son théâtre à l'Espagne et ses madrigaux k l'Italie. A la fin du XVIIe siècle, c’est au contraire l'Italie et l'Espagne qui empruntent à la France. Au XVIIIe siècle, les libérateurs français s’en-jouent de l’Angleterre, et en transportent chez eux la philosophie, puis le théâtre. La Russie produit une littérature largement française. Au XIXe siècle, le Romantisme. puis le Réalisme sont de tous les pays. Au XXe siècle apparaissent des formes de littérature internationaîr.
+b) Les littératures ont procédé largement les unes des autres; en Occident, elles ont procédé très directement des lettres- greco-latines. Le vieux français et le vieux provençal, les langues d’oc et d’oïl, dérivées notamment du latin, créent des œuvres communes et imitées partout, (Epopées françaises). Au XVe et au XVIe siècle, l'Italie est un foyer lumineux auquel d'autres nations empruntent leur lumière. L'Angleterre et la France rayonnent aussi simultanément au XVIe siècle; au commencement du XVIIe siècle, la France emprunte son théâtre à l'Espagne et ses madrigaux à l'Italie. A la fin du XVIIe siècle, c’est au contraire l'Italie et l'Espagne qui empruntent à la France. Au XVIIIe siècle, les libérateurs français s’en-jouent de l’Angleterre, et en transportent chez eux la philosophie, puis le théâtre. La Russie produit une littérature largement française. Au XIXe siècle, le Romantisme. puis le Réalisme sont de tous les pays. Au XXe siècle apparaissent des formes de littérature internationaîr.
 
 (1) Verest, J. (S. J ). — Manuel de Littérature Principes. Faits généraux. Lois. 3® édition, 676 p.
 
@@ -17074,13 +17074,13 @@ b) Les littératures ont procédé largement les unes des autres; en Occident, e
 
 T Histoire de la Littérature. (Littérature comparée).
 
-a) L’his‘oire littéraire au sens large doit s*attacher à l'histoire des formes littéraires, à celle des formes bibiologiques et documentaires, à celle du contenu des œuvres. Elle comprend d'après les œuvres l'histoire des idées, celle du sentiment et aussi celle de l'action. (1)
+a) L’histoire littéraire au sens large doit s*attacher à l'histoire des formes littéraires, à celle des formes bibiologiques et documentaires, à celle du contenu des œuvres. Elle comprend d'après les œuvres l'histoire des idées, celle du sentiment et aussi celle de l'action. (1)
 
 b) L'JnVoire de la littérature. — Demogeot (Histoire dt, la Littérature française)) a défini ainsi cette histoire :
 
 «r Ce n'est pas seulement des écrivains, des artistes de langage plus ou moins habiles que nous cherchons dans cette longue revue littéraire ; c'es' l’élite des esprits de chaque temps, les représentants intellectuels de la nation. Toute pensée dont une époque a vécu, toute idée qui a servi de flambeau à une génération se trouvent nécessairement reproduites pour nous sous sa forme privilégiée. Envisagée ainsi l’histoire de la littérature française est donc l’histoire même de l’homme sur une grande échelle, une étude de psychologie sur le genre humain. Nous suivons avec une religieuse émotion la grande biographie de cet individu immortel qui. comme dit Pascal, vit toujours et apprend sans cesse. Chaque époque littéraire est un des moments de sa pensée, chaque œuvre une des vues de son esprit, ou un des battements de son cœur, d
 
-c) La littérature naît, fleurit et meurt. Les œuvres correspondent îi la sensibilité, aux goûta, à la compréhension d'une époque, d’un moment, puis elles deviennent périmées. elles passent, elles tombent dans l'oubli. De-ci de-là l’une d’elles survit ou ressuscite, c’est le cbef-d œuvre ou l'œuvre qualifiée telle et qui va s'ajouter au trésor des siècles.
+c) La littérature naît, fleurit et meurt. Les œuvres correspondent à la sensibilité, aux goûts, à la compréhension d'une époque, d’un moment, puis elles deviennent périmées. elles passent, elles tombent dans l'oubli. De-ci de-là l’une d’elles survit ou ressuscite, c’est le cbef-d œuvre ou l'œuvre qualifiée telle et qui va s'ajouter au trésor des siècles.
 
 d) Les Histoires de la Littérature constituent pour les œuvres littéraires les inventaires choisis, classés et critiques les mieux établis.
 
@@ -17088,21 +17088,21 @@ s Le critique s'arrête seulement aux œuvres littéraires, c’est-à-dire aux 
 
 (Lanson, Histoire de la Littérature française, p. Mil.)
 
-e) Les traités de littérature, même les mieux enrichis de citations traduites plus ou moins fidèlement, ne font connaître les œuvres que bien vaguement. Le seul moyen de les estimer à leur juste valeur consiste à se reporter h leurs textes originaux.
+e) Les traités de littérature, même les mieux enrichis de citations traduites plus ou moins fidèlement, ne font connaître les œuvres que bien vaguement. Le seul moyen de les estimer à leur juste valeur consiste à se reporter à leurs textes originaux.
 
 f) II est presque impossible de comparer les différentes littératures entr'elles au point de vue de leur valeur respective ; car, sans parler des préférences possibles. il est peu de gens à qui plus de deux ou »rois littératures soient familières.
 
-g) De nombreux et puissants facteurs agissent pour donner h la littérature Je même caractère universel qu'ont
+g) De nombreux et puissants facteurs agissent pour donner à la littérature Je même caractère universel qu'ont
 (I) Ex.: Histoire du sentiment religieux en France, par l'abbé Brémond.
 revêtu la science et la civilisation elle-même. (La littérature et l'internationalisation.)
 
 4 Littérature orale. Tradition.
 
-a) La tradition est U transmission orale de récits vrais ou faux, faite de bouche en bouche et pendant un long espace de *cmps. Elle est la mémoire de l'Humanité (Gabriel), le lien du présent avec le passé (Lacordaire), le point de départ de toute spéculation sur l'aveni* (Proudhon). Il y a des traditions historiques conservées dans la mémoire par des récits épiques ; des traditions mythiques, produits spon'anés de l'imagination interprétant à sa manière la nature et ses phénomènes, des traditions remontant aux origines même de l’humanité, mais obscurcies et altérées. Bien des nations, n'ayant pas le livre, ont été réduites à confier à la mémoire seule leurs lois et leurs poèmes.
+a) La tradition est la transmission orale de récits vrais ou faux, faite de bouche en bouche et pendant un long espace de *cmps. Elle est la mémoire de l'Humanité (Gabriel), le lien du présent avec le passé (Lacordaire), le point de départ de toute spéculation sur l'aveni* (Proudhon). Il y a des traditions historiques conservées dans la mémoire par des récits épiques ; des traditions mythiques, produits spon'anés de l'imagination interprétant à sa manière la nature et ses phénomènes, des traditions remontant aux origines même de l’humanité, mais obscurcies et altérées. Bien des nations, n'ayant pas le livre, ont été réduites à confier à la mémoire seule leurs lois et leurs poèmes.
 
 b) La littérature parlée fut à l'origine; elle s’est poursuivie à travers ïantiquré et Je moyen mge; elle se perfectionne encore aujourd'hui. Il y a un siècle les frères Grimm ont recueilli la collection des contes populaires allemands. Les conteurs, véritables artistes oraux, possèdent le don inné du détail et cet»e saveur précieuse capable d'entraîner l’auditeur.
 
-La littérature orale existe encore aujourd'hui. Par ex. celle des Bantonos du Congo Belge. Les idiome» y sont multiples. Les apologies et les contes de la brousse remontent à de très lointaines origines. Leur langue est pleine d’ordre, et de méthode. Dans leurs contes s'affirment des concordances avec ceux des Egyptiens et d’autre« peuples civilisés. (1)
+La littérature orale existe encore aujourd'hui. Par ex. celle des Bantonos du Congo Belge. Les idiomes y sont multiples. Les apologies et les contes de la brousse remontent à de très lointaines origines. Leur langue est pleine d’ordre, et de méthode. Dans leurs contes s'affirment des concordances avec ceux des Egyptiens et d’autre« peuples civilisés. (1)
 
 5. La matière littéraire.
 
@@ -17110,7 +17110,7 @@ a) La matière littéraire comme la matière scientifique (toutes deux alimentan
 
 Toute l’histoire littéraire en démontre la lente élaboration. Elle n'offre que bien rarement l'exemple d’une élaboration spontanée.
 
-b) « Le génie classique a eu scs grandes beautés, mais on peut le critiquer de n’avoir pas châtié les vices et 1»§ crimes des dieux et des rois, en leur prêtant une noblesse de langage qui ne correspond guère à la bassesse de leurs sentiments. Le romantisme a opposé le grotesque au sublime, la laideur à la beauté, l’intérêt personnel à l’altruisme et il a donné aux crimes et aux vices humains, une place souvent excessive. Le nouveau genre littéraire devra s'imposer l'auguste mission de fouiller dans les replis les plus profonds de l’âme pour nous révéler toutes les nuances, toutes les délicatesses des qualités et des vertus humaines. Avec une maîtrise qui
+b) « Le génie classique a eu ses grandes beautés, mais on peut le critiquer de n’avoir pas châtié les vices et les crimes des dieux et des rois, en leur prêtant une noblesse de langage qui ne correspond guère à la bassesse de leurs sentiments. Le romantisme a opposé le grotesque au sublime, la laideur à la beauté, l’intérêt personnel à l’altruisme et il a donné aux crimes et aux vices humains, une place souvent excessive. Le nouveau genre littéraire devra s'imposer l'auguste mission de fouiller dans les replis les plus profonds de l’âme pour nous révéler toutes les nuances, toutes les délicatesses des qualités et des vertus humaines. Avec une maîtrise qui
 
 (1) G. D. Périer. — Musée du Livre: Exposition du livre colonial. Octobre 1931.
 
@@ -17119,11 +17119,19 @@ b) « Le génie classique a eu scs grandes beautés, mais on peut le critiquer d
 
 324  UNITES OU ENSEMBLES  *367*
 
-non seulement surmontera tous les dangers de la monotonie, mais encore en fera ressortir l'incomparable valeur morale, soutien de U beauté littéraire parvenue h son plus haut apogée. »
+non seulement surmontera tous les dangers de la monotonie, mais encore en fera ressortir l'incomparable valeur morale, soutien de la beauté littéraire parvenue à son plus haut apogée. »
 
-c) Prospérité ou crise, ordre ou révolution, guerre ou pais, les oeuvres littéraires jaillissent intarissablement. Voici la nouvelle littérature russe. Dans la préface de a La Défaite » par Alex. Fedcev (Editions Sociales internationales). Maurice Parijnnine écrit : « Notre littérature » prolétarienne a une tâche essentielle : celle de montrer % comment, dans l’atmosphère d’une grande révolution j> sociale, le « vieil homme » quelles que soient ses ori-i gines, réagit aux événements, comment se forme l’hom-» me d'un nouvel âge, qui appartiendra corps et âme à » U collectivité, qui sera membre actif et utile dans un b état socialiste... »
+c) Prospérité ou crise, ordre ou révolution, guerre ou pais, les œuvres littéraires jaillissent intarissablement. Voici la nouvelle littérature russe. Dans la préface de « La Défaite » par Alex. Fedcev (Editions Sociales internationales). Maurice Parijnnine écrit :
 
-Et l'on voit des œuvres comme < Nous autres » de Zumiatin décrire l'antagonisme, dans un univers caractérisé par la mécanisation à outrance, entre la raison et l'imagination, l'ordre établi et l'attrait subversif de la révolution, entre l'individualisme et la soumission complète à la collectivité, entre 1* notion de bien, représentant tout ce qui est admis et la notion de mal représentant tout ce que l'homme étouffe de lui-méme.
+    « Notre littérature
+    prolétarienne a une tâche essentielle : celle de montrer
+    comment, dans l’atmosphère d’une grande révolution
+    sociale, le « vieil homme »
+    quelles que soient ses ori-i gines, réagit aux événements, comment se forme l’hom-» me d'un nouvel âge, qui appartiendra corps et âme à 
+    la collectivité, qui sera membre actif et utile dans un
+    état socialiste... »
+
+Et l'on voit des œuvres comme « Nous autres » de Zumiatin décrire l'antagonisme, dans un univers caractérisé par la mécanisation à outrance, entre la raison et l'imagination, l'ordre établi et l'attrait subversif de la révolution, entre l'individualisme et la soumission complète à la collectivité, entre 1* notion de bien, représentant tout ce qui est admis et la notion de mal représentant tout ce que l'homme étouffe de lui-méme.
 
 d) La littérature contemporaine a été tour à tour romantique, idéaliste, parnassienne, réaliste, symboliste, éprise d'idées internationalistes.
 
@@ -17131,7 +17139,7 @@ Deux grands courants traversent In littérature actuelle : !" ceux qui proclamen
 
 6. Genres littéraires.
 
-a) U y a une multitude de genres littéraires.
+a) Il y a une multitude de genres littéraires.
 
 Lors de la lutte des classiques et des romantiques, un académicien disait en 1824 : « Les genres ont été reconnus et fixés, on ne peut en changer la nature ni en augmenter le nombre. >
 
@@ -17139,7 +17147,7 @@ Dumas Père recevait Madame Bovary de Flambert et écrivait : « Si c’est bon 
 
 En fait, entre les differents genres littéraires, il n’y a pas eu de solution de continuité. Au moyen âge, l'histoire était mêlée de roman et le roman de l'histoire.
 
-En littérature, on a inventé des genre* nouveaux et on en invente encore: tel le genre opérette inventé sous le second empire.
+En littérature, on a inventé des genres nouveaux et on en invente encore: tel le genre opérette inventé sous le second empire.
 
 b) Les mêmes formes, les mêmes idées à exprimer peuvent donner fieu à vingt formes diiférentes. Contes piblosopbiques, dialogues, discours, conférences, rêveries, théâtre. « Tout livre qui a exercé son influence sur le
 ??? mouvement de la société a eu son allure propre qui ne permet guère de le classer. Qu'est-ce Don Quichotte, et Pantagruel, et Faust ? » (M, Barrés.)
@@ -17148,13 +17156,13 @@ En tant que forme d'un même fond littéraire, et selon l'ordre chronologique d�
 
 c) Description. — Dans une description, il n’y a pas d'action ou du moins d’action unique. L'ordre des parties est facultatif.
 
-11 faut savoir répartir les détails en quelque» groupe» nettement séparés, afin de donner à la description toute la clarté désirable. Pour cela une vue générale de l’objet à décrire est souvent nécessaire. On indique ensuite les différents points qu'on traitera et l'on développe ceux-ci l’un après l'autre. Quand on visite un monument, il ne suffit pas de visiter successivement toutes les parties, il faut y jeter un coup d'œil d’ensemble.
+11 faut savoir répartir les détails en quelques groupes nettement séparés, afin de donner à la description toute la clarté désirable. Pour cela une vue générale de l’objet à décrire est souvent nécessaire. On indique ensuite les différents points qu'on traitera et l'on développe ceux-ci l’un après l'autre. Quand on visite un monument, il ne suffit pas de visiter successivement toutes les parties, il faut y jeter un coup d'œil d’ensemble.
 
 La description comprend le tableau et le portrait. Le tableau est une description dont le titre conviendrait également à l'œuvre d’un peintre et qui ne renferme pas autre chose que ce que l'artiste pourrait fixer sur la toile. C'est une description destinée à remplacer le tableau qu'on n'a pas sous les yeux. Le portrait est une description physique et morale.
 
 d) Narration. — En rhétorique, c’est la partie du discours qui comprend le récit des faits : l'exposition la précède et la confirmation la suit. On distingue la narration oratoire de la narration hiatorique et de la narration poétique. Celle-ci est laissée à l'imagination du poète.
 
-I n narration historique, au contraire, doit exprimer l'exacte vérité ; quant à la narration oratoire elle s'accommode au discours et expose les faits sous le jour le plus favorable à la cause. On cite Démosthène, Cicéron. Bossuet, comme ayant excellé dans ce genre. On étend aussi le nom de narration à toutes sortes de récits et d'exercices littéraires par lesquels les humanistes se préparent à suivre h s cours de rhétorique.
+I n narration historique, au contraire, doit exprimer l'exacte vérité ; quant à la narration oratoire elle s'accommode au discours et expose les faits sous le jour le plus favorable à la cause. On cite Démosthène, Cicéron. Bossuet, comme ayant excellé dans ce genre. On étend aussi le nom de narration à toutes sortes de récits et d'exercices littéraires par lesquels les humanistes se préparent à suivre à s cours de rhétorique.
 
 e) Conte. — On comprend, sous ce nom. tout un genre de littérature, en prose ou en vers, qui a été cultivé très anciennement et chez divers peuples, L’Asie nous a donné : les Contes indiens de Bidpay, qui vivait, dit-on, deux mille ans avant j.-C. i les Fables Milésiennes d’Aristide de Milet. regardées comme la source du roman grec ; les Mille et unç Nuits de $aadi, poète persan. L’Occident a eu : les contes chevaleresques et les romans de nos trouvères: les contes de jées (Chaperon rouge. Petit Poucet, Peau d'âne. Barbe bleue); ies confes-nouuettcs (Decaméron et hlepiaméron) ; bref, les contes de toutes sortes: fantastiques, philosophiques, moraux.
 
@@ -17165,29 +17173,29 @@ f) Epopée. — La Divine Comédie n'est pas une création subite, le sublime ca
 
 *368*  UNITES OU ENSEMBLES  324
 
-périodiquement dan» les âges précédents ; pensée uniforme d'abord, qui se dégage peu à peu, qui s’essaye diversement à travers les siècles, jusqu’à ce qu'un homme s’en empare et la fixe définitivement dans un chef-d'œuvre.
+périodiquement dans les âges précédents ; pensée uniforme d'abord, qui se dégage peu à peu, qui s’essaye diversement à travers les siècles, jusqu’à ce qu'un homme s’en empare et la fixe définitivement dans un chef-d'œuvre.
 
 (C. Labitte.)
 
-g) Mythe. — Il diffère de l’allégorie et la fable en ce qu’il est moins une création des poètes qu un produit spontané de l’imagination populaire. Le mythe joue un grand rôle à l’origine des religions qui tombèrent dan» le polythéisme et l’anthropomorphisme, comme celles de l’Inde et de la Grèce (la Mythologie). Souvent il traduit des faits historiques, embellis par la reconnaissance ou l'admiration populaire ; ainsi les mythes de Jupiter, de Janus, etc., qui paraissent avoir été d'anciens rois; d'autres fois il exprime de grands phénomènes naturels, comme la lutte du jour et de la nuit, le désordre de» éléments pendant la tempête, la foudre, les tremblements de terre; d'autres fois, enfin, il porte avec lui un sens moral; ainsi le mythe de Prométhée. celui de Pandore.
+g) Mythe. — Il diffère de l’allégorie et la fable en ce qu’il est moins une création des poètes qu un produit spontané de l’imagination populaire. Le mythe joue un grand rôle à l’origine des religions qui tombèrent dans le polythéisme et l’anthropomorphisme, comme celles de l’Inde et de la Grèce (la Mythologie). Souvent il traduit des faits historiques, embellis par la reconnaissance ou l'admiration populaire ; ainsi les mythes de Jupiter, de Janus, etc., qui paraissent avoir été d'anciens rois; d'autres fois il exprime de grands phénomènes naturels, comme la lutte du jour et de la nuit, le désordre des éléments pendant la tempête, la foudre, les tremblements de terre; d'autres fois, enfin, il porte avec lui un sens moral; ainsi le mythe de Prométhée. celui de Pandore.
 
-h) Littérature érotique, pornographique. —* Elle s’es* signalée autrefois par sa truculence ou sa courtoisie, ses prétentions philosophiques ou son mépris de tout spiritualisme ; aujourd'hui elle est marquée du signe de la ruse intellectuelle, na caractéristique n’est ni dans la complaisance, ni dans Vaudace, ni dans le réalisme, mais dans la vogue de l'anormal, du morbide et du malsain. (I)
+h) Littérature érotique, pornographique. —* Elle s’est signalée autrefois par sa truculence ou sa courtoisie, ses prétentions philosophiques ou son mépris de tout spiritualisme ; aujourd'hui elle est marquée du signe de la ruse intellectuelle, na caractéristique n’est ni dans la complaisance, ni dans Vaudace, ni dans le réalisme, mais dans la vogue de l'anormal, du morbide et du malsain. (I)
 
-« Mettre tant de descriptions, tant de scènes, tant de recettes de péchés mortels, sous les yeux de jeunes gens effervescent», sous les yeux de jeunes filles que leur maman a déjà mille peines à empêcher de jouir des apéritifs défendus avant le mariage, ou des époux qui s'ennuient d'être toujours en tête à tête avec le même partenaire, les documenter comme on fait, les enflammer, les exciter, augmenter la force explosive, diminuer leur force de résistance, dérégler ne fût-ce que pour quelque» heures, mais on ne sait jamais le frein de leur conscience: cela, ce n’est pas bien du tout, c'est même très mal. surtout de la part d’un homme qui professe le respect de In morale chrétienne et qui reconnaît qu'il y a lieu d’obéir aux 6'' et 9e commandements de Dieu. Luxurieux point ne seras. de corps ni de consentement. L'œuvre de chair ne désireras qu'en mariage seulement. » (L’abbé Englebert sur le» Bacchantes de Daudet, mises à l'index. Revue Catholique, des idées et des fats. 1932-04.15, p. 114.)
+« Mettre tant de descriptions, tant de scènes, tant de recettes de péchés mortels, sous les yeux de jeunes gens effervescents, sous les yeux de jeunes filles que leur maman a déjà mille peines à empêcher de jouir des apéritifs défendus avant le mariage, ou des époux qui s'ennuient d'être toujours en tête à tête avec le même partenaire, les documenter comme on fait, les enflammer, les exciter, augmenter la force explosive, diminuer leur force de résistance, dérégler ne fût-ce que pour quelques heures, mais on ne sait jamais le frein de leur conscience: cela, ce n’est pas bien du tout, c'est même très mal. surtout de la part d’un homme qui professe le respect de In morale chrétienne et qui reconnaît qu'il y a lieu d’obéir aux 6'' et 9e commandements de Dieu. Luxurieux point ne seras. de corps ni de consentement. L'œuvre de chair ne désireras qu'en mariage seulement. » (L’abbé Englebert sur les Bacchantes de Daudet, mises à l'index. Revue Catholique, des idées et des fats. 1932-04.15, p. 114.)
 
-i) Livres futiles. — 11 n’est de composition futile ni ridicule qui n’ait été faite Des oeuvres littéraire» existent dont les auteur» ont omis à dessein une lettre de l’alphabet (lipograinmntique). Pindare composa déjà une ode qui
-(I) Raoul Derwere. — «L'érotisme dan» la littérature moderne ». La Revue nationale, Bruxelles. 15 avril 1933.
+i) Livres futiles. — Il n’est de composition futile ni ridicule qui n’ait été faite Des œuvres littéraires existent dont les auteur» ont omis à dessein une lettre de l’alphabet (lipograinmntique). Pindare composa déjà une ode qui
+(I) Raoul Derwere. — « L'érotisme dans la littérature moderne ». La Revue nationale, Bruxelles. 15 avril 1933.
 
-La Société des Nation» a organisé une enquête par rapports annuels sur les publications obscènes (livres, images, photographies, périodiques, films, cartes et carte* postale«). Les questions s’inspirent de l’accord de 1910 et de la convention internationale de 1923.
-était dépourvue de la lettre S. Nestor de Laranda. contemporain de l’empereur Sévère, fît une Illiade en 24 chants dont le premier était »ans A, le second sans B et ainsi des autres. Le moyen âge a vu naître quelques ouvrage» de cette nature où des Italiens modernes ont aussi excellé.
+La Société des Nations a organisé une enquête par rapports annuels sur les publications obscènes (livres, images, photographies, périodiques, films, cartes et cartes postale«). Les questions s’inspirent de l’accord de 1910 et de la convention internationale de 1923.
+était dépourvue de la lettre S. Nestor de Laranda. contemporain de l’empereur Sévère, fît une Illiade en 24 chants dont le premier était »ans A, le second sans B et ainsi des autres. Le moyen âge a vu naître quelques ouvrages de cette nature où des Italiens modernes ont aussi excellé.
 
 j) En dehors de tous les genres, il en est deux qui partagent tous les autres : le genre ennuyeux et le genre intéressant.
 
 7. Poésie.
 
-a) De l'inspiration naquit la poésie, ce langage des dieux. Il serait injuste de ne voir dans la poésie et dans la prose qu’une distinction fondée dans la mesure, la cadence et l'observation des autres règles poétiques. Ces deux forme» de la parole répondent surtout à deux manières bien différentes de sentir et d’exprimer le vrai et le beau. Combien de versificateurs laborieux, dit E. Blanc (Dictionnaire Universel de la Pensée), qui n'ont pu jamais se dégager de la prose, tandis que des prosateurs mieux doués s'élevaient sans effort et sans prétention à une sublime poésie! Il y a deux tendances qui sollicitent inégalement toutes les âmes. Les uns charmés par les tableaux de leur imagination, ému» du pressentiment de l'infini cl de l'expectative d’une révélation suprême, cherchent des horizon» nouveaux, comme ces hardis navigateurs à qui l’ancien monde ne suffisait plus. La terre, malgré son immensité, leur paraît trop étroite : ils aspirent sans cesse à une vie supérieure, idéale, où les spectacle» de leur imagination et les conceptions enchanteresses de leur esprit ne seraient plu» de vains rêves. C'est parmi eux qu'il faut chercher les poètes. Il en est d’autres, ru contraire, que l'imagination ne séduira jamais, et que 1rs possibilités entrevues ne sauraient distraire du fait qui vient de s'accomplir ou qui se prépare. Sans danger de tomber jamais au-dessous de la réalité, comme aussi sans espoir de s’élever nu dessus, ils suivent une voie uniforme, non «ans mérites et sans honneur. C’est parmi eux qu’on choisira plus d’un esprit judicieux et ferme. Mais qu’il» renoncent à l'espoir d’être jamais poètes. Heureux celui en qui l'imagination la plus vive s’allierait à la raison la plus ferme et la mieux éclairée. Mai» qui peut hériter en même temps de toute la verve de» poète« et de toute la raison de» philosophe», succéder à Homère en même temps qu’à Aristote, écrire Ylliade en même temps que ???n Métaphysique ?
+a) De l'inspiration naquit la poésie, ce langage des dieux. Il serait injuste de ne voir dans la poésie et dans la prose qu’une distinction fondée dans la mesure, la cadence et l'observation des autres règles poétiques. Ces deux formes de la parole répondent surtout à deux manières bien différentes de sentir et d’exprimer le vrai et le beau. Combien de versificateurs laborieux, dit E. Blanc (Dictionnaire Universel de la Pensée), qui n'ont pu jamais se dégager de la prose, tandis que des prosateurs mieux doués s'élevaient sans effort et sans prétention à une sublime poésie! Il y a deux tendances qui sollicitent inégalement toutes les âmes. Les uns charmés par les tableaux de leur imagination, émus du pressentiment de l'infini cl de l'expectative d’une révélation suprême, cherchent des horizon» nouveaux, comme ces hardis navigateurs à qui l’ancien monde ne suffisait plus. La terre, malgré son immensité, leur paraît trop étroite : ils aspirent sans cesse à une vie supérieure, idéale, où les spectacles de leur imagination et les conceptions enchanteresses de leur esprit ne seraient plus de vains rêves. C'est parmi eux qu'il faut chercher les poètes. Il en est d’autres, ru contraire, que l'imagination ne séduira jamais, et que les possibilités entrevues ne sauraient distraire du fait qui vient de s'accomplir ou qui se prépare. Sans danger de tomber jamais au-dessous de la réalité, comme aussi sans espoir de s’élever nu dessus, ils suivent une voie uniforme, non «ans mérites et sans honneur. C’est parmi eux qu’on choisira plus d’un esprit judicieux et ferme. Mais qu’il» renoncent à l'espoir d’être jamais poètes. Heureux celui en qui l'imagination la plus vive s’allierait à la raison la plus ferme et la mieux éclairée. Mai» qui peut hériter en même temps de toute la verve des poète« et de toute la raison des philosophe», succéder à Homère en même temps qu’à Aristote, écrire Ylliade en même temps que ???n Métaphysique ?
 
-h) Genre». — Il y a plusieurs genres de poésie. Au point de vue du but que poursuit le poète et de la forme qu’il choisit, on distingue les poésies lyrique, épique ou héroïque, dramatique, didactique ou philosophique, élé-gtaque, pastorale ou bucolique, érotique, satirique, la poésie descriptive (très pratiquée au XVIIIe siècle). Selon le» matière* ou selon la façon dont elles sont traitées, la poésie est dite sacrée ou profane, sérieuse ou légère, badine, etc. Au point de vue du rythme et de la mesure.
+h) Genres. — Il y a plusieurs genres de poésie. Au point de vue du but que poursuit le poète et de la forme qu’il choisit, on distingue les poésies lyrique, épique ou héroïque, dramatique, didactique ou philosophique, élé-gtaque, pastorale ou bucolique, érotique, satirique, la poésie descriptive (très pratiquée au XVIIIe siècle). Selon les matières ou selon la façon dont elles sont traitées, la poésie est dite sacrée ou profane, sérieuse ou légère, badine, etc. Au point de vue du rythme et de la mesure.
 
 
 ====
@@ -17196,17 +17204,17 @@ h) Genre». — Il y a plusieurs genres de poésie. Au point de vue du but que p
 
 la poésie est dite rhytmique ou métrique. Dans la première, on observe la cadence et le nombre de syllabes, mais non leur quantité, car elles sont toutes réputées égales : telle est la poésie moderne en général et celle aussi des Orientaux. Au contraire, la poésie métrique repose sur la quantité des syllabes, dont les unes sont brèves et les autres longues : ainsi, la poésie grecque, latine, allemande (v. les Histoires de la Littérature et les rraités de Poésie).
 
-La poésie lyrique est le plus élevé de tous les genres e*» poésie, celui qui exprime le mieux l'enthousiasme et réclame le plus d'inspiration, ainsi nommé parce qu'elle se chantait sur la lyre. Il comprend l'ode et ses diverses forme** : dithyrambe, hymne, cantique, cantate, etc. On étend aussi à la ballade, la chanson, V élégie, le sonnet et m;mc aux opéras et aux drames destinés à être chantés. On trouve, dans la Bible, d'admirable» modèles de poésie lyrique (psaumes, cantiques de Moïse, etc.). Les lyriques grecs, et en particulier Pindare. ont brillé aussi aux premiers rangs. Parmi les Romains, on trouve Horace et Catulle. La poésie liturgique très riche, renferme des joyaux. Le moyen âge eut les œuvres de ses troubadours.
+La poésie lyrique est le plus élevé de tous les genres e*» poésie, celui qui exprime le mieux l'enthousiasme et réclame le plus d'inspiration, ainsi nommé parce qu'elle se chantait sur la lyre. Il comprend l'ode et ses diverses forme** : dithyrambe, hymne, cantique, cantate, etc. On étend aussi à la ballade, la chanson, l'élégie, le sonnet et m;mc aux opéras et aux drames destinés à être chantés. On trouve, dans la Bible, d'admirables modèles de poésie lyrique (psaumes, cantiques de Moïse, etc.). Les lyriques grecs, et en particulier Pindare. ont brillé aussi aux premiers rangs. Parmi les Romains, on trouve Horace et Catulle. La poésie liturgique très riche, renferme des joyaux. Le moyen âge eut les œuvres de ses troubadours.
 
 c) Phases. — On distingue trois phases dans la création
 
 poétique : l'univers fournit au poète son innombrable
 
-matière et une ébauche de forme que l'esprit élabore et achève ; la seconde phase consiste dans cette transformation et purification spirituelle; la troisième évolue, du point de vue humain, les objets poétiques ainsi créés. S en tenir aux fins esthétiques, c’est prendre le poète pour tout l’homme, adorer des ido’es et s'exposer à mourir d’inanition dans un musée encombré de chefs-d’œuvre. Poète est maître chez soi : dans f acte de construire ses poèmes, i! est seul juge de ses moyen» et de ses fins propres. Mais la maison du poète n’est pas l’univers; ses œuvres font partie intégrante de l'avoir humain, elles sont utiles à la cité et à la civilisation. Le poète se sépare de l’homme pour travailler, mais se subordonne à l'humanité pour la servir. (1)
+matière et une ébauche de forme que l'esprit élabore et achève ; la seconde phase consiste dans cette transformation et purification spirituelle; la troisième évolue, du point de vue humain, les objets poétiques ainsi créés. S en tenir aux fins esthétiques, c’est prendre le poète pour tout l’homme, adorer des ido’es et s'exposer à mourir d’inanition dans un musée encombré de chefs-d’œuvre. Poète est maître chez soi : dans f acte de construire ses poèmes, il est seul juge de ses moyen» et de ses fins propres. Mais la maison du poète n’est pas l’univers; ses œuvres font partie intégrante de l'avoir humain, elles sont utiles à la cité et à la civilisation. Le poète se sépare de l’homme pour travailler, mais se subordonne à l'humanité pour la servir. (1)
 
 d) Objet. — La poésie exprime deux choses; des idées ; 2n des sentiments. Et très souvent les deux sont amalgamés.
 
-La poésie a ou peut avoir sa forme, sa couleur, sa musique et en outre elle dispose du verbe sans lequel tout le reste est forcément un peu vague et qui ajoute a toute» les autres qualités la lumière de l’esprit et la splendeur du vrai. (Paul Souday.)
+La poésie a ou peut avoir sa forme, sa couleur, sa musique et en outre elle dispose du verbe sans lequel tout le reste est forcément un peu vague et qui ajoute a toutes les autres qualités la lumière de l’esprit et la splendeur du vrai. (Paul Souday.)
 
 Etre poète c’est avoir le don de l’Image, du Rythme, de l’Emotion, de la Musicalité, de l’Evocation.
 
@@ -17216,7 +17224,7 @@ Toutes les méditations du poète sont des extases et tous les rêves sont des v
 
 e) Le souci métaphysique. — A la poésie, expression
 (I) Victor Bindel, — « La mission de Claudel ». Revue catholique des idées et des faits, 1933.05.12.
-de la vie spirituelle des peuples, on a donné comme fin l’expression de l'humain, le souci métaphysique ou le jeu gratuit, On peut se demander si la poésie moderne a une tendance générale ou si au contraire elle manque de direction, si elle est vivante ou morte, comme certains le prétendent ; s’il y a avantage ou non aux échanges réciproques entre poésies de divers peuples, notamment entre la poésie occidentale et la poésie orientale ; s'il y a lieu & la liberté des vers ou au retour h des formes rigoureuse».
+de la vie spirituelle des peuples, on a donné comme fin l’expression de l'humain, le souci métaphysique ou le jeu gratuit, On peut se demander si la poésie moderne a une tendance générale ou si au contraire elle manque de direction, si elle est vivante ou morte, comme certains le prétendent ; s’il y a avantage ou non aux échanges réciproques entre poésies de divers peuples, notamment entre la poésie occidentale et la poésie orientale ; s'il y a lieu à la liberté des vers ou au retour à des formes rigoureuse».
 
 Pour certains artistes, l’acte de création littéraire, c'est prendre conscience des choses de l’univers en leur vérité, leur nudité originelle, à renaître avec elles, à les recréer en esprit après Dieu. « Je suis l'Inspecteur de la création, dit Claudel, le Vérificateur de la prose présente, la Solidité de ce monde est la matière de ma béatitude. (A fi Poétique,) Dans les œuvres littéraires, la poésie a construit une métaphysique du cœur. Dans la création imaginaire, le récit objectif semble avoir pour fonction de manifester une métaphysique de l’intelligence. L'art dramatique, la tragédie surtout, une métaphysique de la volonté.
 
@@ -17224,9 +17232,9 @@ La poétique est l’aspiration vers l'infini. (A. Delacour.)
 
 f) Le vers. — Aux époques primitives, où l’écriture était ignorée ou peu répandue, on eut recours aux formes synchroniques et régulières de la poésie pour faire entrer plus facilement les préceptes dans l’esprit populaire. (Un Hésiode qui ne parle guère que par aphorismes.)
 
-g) Historique, — On a distingué trois périodes dans l'histoire du vers. 1° Période physique où l’homme traduit d’une façon purement émotive ce qu il ressent. Dans un état d’émotion, les battements du cœur et la tension des nerfs s'expriment sous une forme rythmique. 2° Période physico-mécano-intellectuelle, au cours de laquelle le rythme se confond avec la technique du vers. Ainsi, ne pouvant adopter ni le système gréco-romain (quantitatif, qualitatif), ni le système germanique (accentuel), les Français ont compté les syllabes et le rythme consiste à observer des règles numériques. 3° La période intellectuelle ou psychologique ou révolutionnaire, l’individu suit ses tendances naturelles, ses inclinaisons, ses émotions. Certaine» expériences de laboratoire tendent è faire penser que le vers nouveau français est basé sur des accents, voir même sur des quantités. (1)
+g) Historique, — On a distingué trois périodes dans l'histoire du vers. 1° Période physique où l’homme traduit d’une façon purement émotive ce qu il ressent. Dans un état d’émotion, les battements du cœur et la tension des nerfs s'expriment sous une forme rythmique. 2° Période physico-mécano-intellectuelle, au cours de laquelle le rythme se confond avec la technique du vers. Ainsi, ne pouvant adopter ni le système gréco-romain (quantitatif, qualitatif), ni le système germanique (accentuel), les Français ont compté les syllabes et le rythme consiste à observer des règles numériques. 3° La période intellectuelle ou psychologique ou révolutionnaire, l’individu suit ses tendances naturelles, ses inclinaisons, ses émotions. Certaines expériences de laboratoire tendent à faire penser que le vers nouveau français est basé sur des accents, voir même sur des quantités. (1)
 
-h) La mise en pages. — Ordinairement la mise en page» des vers est la figure visible du rythme. Dans certaine» éditions de poésies françaises, les ver» ne sont pas alignés selon le nombre de syllabes, mais selon leur longueur apparente, qui n’a aucune valeur métrique et dépend du hasard des mots et de l’orthographe. (Ex. Edition de Fleurs du mal. 1917. Edition de Verhaeren par la Société littéraire de France.) Les vers lihristes ont adopté une troisième méthode qui consiste à mettre tous les vers sans* distinction sur la même ligne.
+h) La mise en pages. — Ordinairement la mise en pages des vers est la figure visible du rythme. Dans certaines éditions de poésies françaises, les ver» ne sont pas alignés selon le nombre de syllabes, mais selon leur longueur apparente, qui n’a aucune valeur métrique et dépend du hasard des mots et de l’orthographe. (Ex. Edition de Fleurs du mal. 1917. Edition de Verhaeren par la Société littéraire de France.) Les vers lihristes ont adopté une troisième méthode qui consiste à mettre tous les vers sans* distinction sur la même ligne.
 (!) Thieme. H. P. — Essai sur la civilisation française 1933.
 
 
@@ -17234,38 +17242,38 @@ h) La mise en pages. — Ordinairement la mise en page» des vers est la figure 
 
 *370* LE LIVRE ET LA LITTERATURE 324
 
-Paul Fort, qui écrit de* vers réguliers, le* imprime dur» seul tenant, sans aller à la ligne, comme de la prose.
+Paul Fort, qui écrit des vers réguliers, les imprime durs seul tenant, sans aller à la ligne, comme de la prose.
 
 i) La forme poétique. — Le poème, par toutes les complications de rythme, de césure, d'allitérations et de rimes qu’il suppose est la forme supérieure de création spirituelle, car « la matière de la pensée, c'est le langage qui est pour elles ce que les machines sont pour le feu qui ne devient utile que lorsqu'il est engagé et emprisonné en elles », (Rageot.)
 
-j) Prosodie musicale. — Le rythme joue dan* le langage un rôle important. Dans certaines langues, la signification d'un mot se modifie suivant l'emplacement de l'accent. Le langage lui-même peut être considéré comme une musique inorganique, étant fécond en modèles rythmiques et contenant dans ses inflexions une mélodie latente. Dans la poésie, les modèles rythmiques du langage s'organisent en rythmes véritables par l'alternance de* syllabes accentuées et non accentuées, ou simplement par leur association en groupes réguliers. Le rythme poétique peut être comparé nu rythme musical, mais ses combinaisons sont infiniment moins nombreuses. Il existe deux genres de poésie: 1° la poésie qualitative fondée sur la qualité. C'est celle des langues classiques, grecque et latine, et des langues germaniques. Ces langues étant fortement rythmées et les syllabes fortes ou faibles, ou longues et brèves, par conséquent fort distinctes l'une de l'autre, celles-ci sont disposées d'après des modèles rythmiques réguliers, maintenus d'un bout à l’autre de la pièce, 2° La poésie quantitative, fondée surtout sur la quantité des syllabes. C'est celle de la langue française qui n'est pas rythmée mais accentuée seulement. C’est en vain que des poètes humanistes de la Renaissance avec Baif tentèrent d'y adapter des rythmes antiques. (E Closson. )
+j) Prosodie musicale. — Le rythme joue dans le langage un rôle important. Dans certaines langues, la signification d'un mot se modifie suivant l'emplacement de l'accent. Le langage lui-même peut être considéré comme une musique inorganique, étant fécond en modèles rythmiques et contenant dans ses inflexions une mélodie latente. Dans la poésie, les modèles rythmiques du langage s'organisent en rythmes véritables par l'alternance des syllabes accentuées et non accentuées, ou simplement par leur association en groupes réguliers. Le rythme poétique peut être comparé nu rythme musical, mais ses combinaisons sont infiniment moins nombreuses. Il existe deux genres de poésie: 1° la poésie qualitative fondée sur la qualité. C'est celle des langues classiques, grecque et latine, et des langues germaniques. Ces langues étant fortement rythmées et les syllabes fortes ou faibles, ou longues et brèves, par conséquent fort distinctes l'une de l'autre, celles-ci sont disposées d'après des modèles rythmiques réguliers, maintenus d'un bout à l’autre de la pièce, 2° La poésie quantitative, fondée surtout sur la quantité des syllabes. C'est celle de la langue française qui n'est pas rythmée mais accentuée seulement. C’est en vain que des poètes humanistes de la Renaissance avec Baif tentèrent d'y adapter des rythmes antiques. (E Closson. )
 
-k) Surréalisme. — Le surréalisme a fait la critique de la poésie-raison ; ¡1 a montré que la poésie était activité libre de l'esprit et que cette activité ne pouvait être dirigée par la raison qui représente nos acquisitions passées et les fige; la raison qui exprime les étapes parcourues de la science ne doit pas même servir à marquer celles de l'art; c'est dans une association libre et non dans une idée définie que doit se marquer le temps d'arrêt où la pensée se pose, *e fixe sur les mots. Une image ? Non, pas nécessairement une image, un rapprochement des choses les plus imprévues possible et qui est pourtant connu tout dt* suite comme essentiel « J'ai tendu des guirlandes d'étoile à étoile et fai dansé », dit Rimbaud. (I)
+k) Surréalisme. — Le surréalisme a fait la critique de la poésie-raison ; il a montré que la poésie était activité libre de l'esprit et que cette activité ne pouvait être dirigée par la raison qui représente nos acquisitions passées et les fige; la raison qui exprime les étapes parcourues de la science ne doit pas même servir à marquer celles de l'art; c'est dans une association libre et non dans une idée définie que doit se marquer le temps d'arrêt où la pensée se pose, *e fixe sur les mots. Une image ? Non, pas nécessairement une image, un rapprochement des choses les plus imprévues possible et qui est pourtant connu tout dt* suite comme essentiel « J'ai tendu des guirlandes d'étoile à étoile et fai dansé », dit Rimbaud. (I)
 
 l) La poésie scientifique. — Des poètes ont accepté une mission qui à travers les âges a été en s'amplifiant.
 
 (I) André Deléage. — L'Internationale de l'Art. Esprit. 1932. p. 155.
 
-(1) E. A Fu sil. — La poésie scientifique, de 1750 à no.i jours (édition Scientia, 87. boni. St-Germain. Paris) Article à ce sujet par René Ghil dans Les Cahiers Idéalistes français, juillet 1918, p. 178.
-Ils n'ont pas séparé la pensée de la forme, mai» de leur verbe magnifique ils ont approché de la science attachée aux idées, travaillant à In découverte de l'Univers et de not destinées. Cette science, ils ont commencé a la ocnniiître de l'extérieur, et puis de plus en plus de l'intérieur. Ils vont à l'interroger sur les inconnues universelles et nous-mêmes, lui demandant des émotions, des enthousiasmes, ou de poignantes appréhensions. La vraie poésie scientifique est atteinte lorsque le poète a pénétré dans la science et ainsi est devenu le centre vibratoire conscient et émis de la connaissance scientifique. Cette poésie léguée de l’Inde à la Grèce, à Lucrèce, entrevue au moyen âge, est représentée plus près de nous par Chenier, Dclille, Leconte de Lisle, Richepin, Sully Prudhomme, par Verhaeren, par René Ghil. Tous ils composèrent une œuvre unique, s'emparèrent des hypothèses savantes et se montrèrent dans la zone de la philosophie voisine avec la science et firent sortir directement l'émotion. ajoutant parfois de nouvelles hypothèses en vue de multiplier les rapports vers des nœuds de synthèse pour mieux scruter les ténèbres qui nous entourent. (I)
+(1) E. A Fu sil. — La poésie scientifique, de 1750 à nos jours (édition Scientia, 87. boni. St-Germain. Paris) Article à ce sujet par René Ghil dans Les Cahiers Idéalistes français, juillet 1918, p. 178.
+Ils n'ont pas séparé la pensée de la forme, mais de leur verbe magnifique ils ont approché de la science attachée aux idées, travaillant à la découverte de l'Univers et de not destinées. Cette science, ils ont commencé a la ocnniiître de l'extérieur, et puis de plus en plus de l'intérieur. Ils vont à l'interroger sur les inconnues universelles et nous-mêmes, lui demandant des émotions, des enthousiasmes, ou de poignantes appréhensions. La vraie poésie scientifique est atteinte lorsque le poète a pénétré dans la science et ainsi est devenu le centre vibratoire conscient et émis de la connaissance scientifique. Cette poésie léguée de l’Inde à la Grèce, à Lucrèce, entrevue au moyen âge, est représentée plus près de nous par Chenier, Dclille, Leconte de Lisle, Richepin, Sully Prudhomme, par Verhaeren, par René Ghil. Tous ils composèrent une œuvre unique, s'emparèrent des hypothèses savantes et se montrèrent dans la zone de la philosophie voisine avec la science et firent sortir directement l'émotion. ajoutant parfois de nouvelles hypothèses en vue de multiplier les rapports vers des nœuds de synthèse pour mieux scruter les ténèbres qui nous entourent. (I)
 
 8. Le Roman.
 
 a) Le roman demeure un genre immense.
 
-On estime que la presse quotidienne publie 50.(MK) romans par an dont 95 % sont fournis par les ■ fabriques d<* romans ».
+On estime que la presse quotidienne publie 50.(MK) romans par an dont 95 % sont fournis par les « fabriques de romans ».
 
 b) Des romanciers s’efforcent de nous intéresser par la nouveauté ou le savant embrouillement de leurs intrigues. D’autres plus fins nous proposent des études psychologiques ou de mœurs. Il en est qui ont pour but de créer une atmosphère et d'obliger le lecteur à y entrer. Le roman idéal combinerait les trois genres : nourri d'une forte intrigue, il serait aussi un document psychologique ou social et baignerait en outre dans une atmosphère d'une densité, d’un pouvoir de suggestion particulier. (Georges Remy.)
 
 c) Le roman a été jugé avec sévérité.
 
-Production d’un esprit faible, écrivant avec facilité des choses indignes d'être lue» par des esprits sérieux.
+Production d’un esprit faible, écrivant avec facilité des choses indignes d'être lues par des esprits sérieux.
 
 (Voltaire. )
 
-Le roman, genre détestable caT il permet de ne pas conclure. La société étant faite d'hommes et de manants, d'ignorants et de savants, décrire ce qui est. c'est parler a la fois des uns et des autres avec une égale sympathie.
+Le roman, genre détestable car il permet de ne pas conclure. La société étant faite d'hommes et de manants, d'ignorants et de savants, décrire ce qui est. c'est parler a la fois des uns et des autres avec une égale sympathie.
 
-d) • Tout futile qu'il soit, un roman a beaucoup d'us de chance qu’une œuvre doctrinale de refléter une conception collective. Nul public ne lit un roman qui lui déplaît. On peut dire que le succès d’un roman qui a laissé quelques traces dans l'histoire est astreint h une double condition. D'abord ¡1 faut qu'aux yeux d'un large public il ait exprimé la vie d’une époque ; mieux encore que sa vérité, sa ressemblance, c'est-à-dire une sorte de synthèse de la réalité et de l’idéal ; la combinaison com-
+d) • Tout futile qu'il soit, un roman a beaucoup plus de chance qu’une œuvre doctrinale de refléter une conception collective. Nul public ne lit un roman qui lui déplaît. On peut dire que le succès d’un roman qui a laissé quelques traces dans l'histoire est astreint à une double condition. D'abord ¡1 faut qu'aux yeux d'un large public il ait exprimé la vie d’une époque ; mieux encore que sa vérité, sa ressemblance, c'est-à-dire une sorte de synthèse de la réalité et de l’idéal ; la combinaison com-
 
 
 ====
@@ -17281,13 +17289,13 @@ a) Pour certains le dessein essentiel du roman doit être d’ordre philosophiqu
 Dans La Vie en Fleur, Anatole France a écrit : « Les sciences séparées des lettres demeurent machinales et brutes; et les lettres privées des sciences sont creuses, car la science est la substance des lettres ». L'union de la littérature contemporaine avec la science demeure intime, car sans vérité une œuvre ne saurait durer. (Paul Voivenel.) Des savants ont eu une grande culture littéraire associée à la forte culture scientifique, non seulement livresque mais vécue. Paré. Palissy, Cabanis, Cuvier, Laplace. Lacépède. Volney sont de grands savants et de
 grands écrivains. Pour le poète, toute rencontre, tout événement n’a de valeur qu'autant qu’ils lui fournissent une matière verbale. (I) Pour le savant, au contraire, cette rencontre fournit matière théorique.
 
-b) Dans un livre scientifique, à l’opposé d’une œuvre littéraire, les idées ne sont pas noyées dans une phraséologie compliquée. On y gagne en clarté, en précision. Les faits restent eux-mêmes, sèchement, froidement avec leur valeur propre intrinsèque et exacte. Les contemporains accordent au fond une révérence que les prédécesseurs accordaient à la forme. Mais, a-t-on répondu, 1 imprécision dans l’exposé des idées est un charme pour le cœur. On a distingué les harmonies du langage humain fondées sur la raison et non sur l’esthétique. Ce qui est trop précis ne satisfait pas l’esthétique, élément de In littérature, et entre par là même dans le cadre de la science. Ce qui est trop dispersé ne répond pas à la fixation nécessaire à une observation scientifique.
+b) Dans un livre scientifique, à l’opposé d’une œuvre littéraire, les idées ne sont pas noyées dans une phraséologie compliquée. On y gagne en clarté, en précision. Les faits restent eux-mêmes, sèchement, froidement avec leur valeur propre intrinsèque et exacte. Les contemporains accordent au fond une révérence que les prédécesseurs accordaient à la forme. Mais, a-t-on répondu, l'imprécision dans l’exposé des idées est un charme pour le cœur. On a distingué les harmonies du langage humain fondées sur la raison et non sur l’esthétique. Ce qui est trop précis ne satisfait pas l’esthétique, élément de In littérature, et entre par là même dans le cadre de la science. Ce qui est trop dispersé ne répond pas à la fixation nécessaire à une observation scientifique.
 
 c) Le style nouveau est le style de la simplification. Le modernisme se traduit essentiellement par cette formule ; l'adaptation rigoureuse de l’objet à sa destination est génératrice de beauté, tout au moins d eurythmie. (L. Van der Swaelmen.)
 
 Le style c’est l'empreinte sur lo tradition de la vie elle-même, consciente seulement de créer.
 
-Les mots, les phrases qu’ils forment, les livres dont il» sont composés, sont en quelque sorte les « prisons » dts idées. Formuler exactement celles-ci, voilà le grand problème de toute rédaction, partant de toute documentation. La lettre tue, l’esprit vivifie. L’esprit, la pensée doit donc être tenue comme première et primordiale, tandis que la lettre écrite doit apparaître comme son approximation plus ou moins proche.
+Les mots, les phrases qu’ils forment, les livres dont ils sont composés, sont en quelque sorte les « prisons » dts idées. Formuler exactement celles-ci, voilà le grand problème de toute rédaction, partant de toute documentation. La lettre tue, l’esprit vivifie. L’esprit, la pensée doit donc être tenue comme première et primordiale, tandis que la lettre écrite doit apparaître comme son approximation plus ou moins proche.
 (I) Maïokovski. Comment on fait un poème. Europe,
 
 15 juillet 1933.
@@ -17303,7 +17311,7 @@ Les mots, les phrases qu’ils forment, les livres dont il» sont composés, son
 
 Biblio-Technie, Biblio-Economie
 
-a) Apres avoir déterminé ce qui est (Documentation énumérative. descriptive, historique), il y a lieu de détr-r miner ce qui doit être (Documentation normative). C’est l'objet de cette quatrième partie du traité : L’organisation rationnelle des livres et des documents. C’est l’Economie (IJiblio Economie) et la Technique (Biblio-Technie).
+a) Apres avoir déterminé ce qui est (Documentation énumérative. descriptive, historique), il y a lieu de déterminer ce qui doit être (Documentation normative). C’est l'objet de cette quatrième partie du traité : L’organisation rationnelle des livres et des documents. C’est l’Economie (IJiblio Economie) et la Technique (Biblio-Technie).
 
 b) Il sera traité séparément et successivement des points suivants (ils sont précédés de leur numéro) :
 
@@ -17323,14 +17331,14 @@ b) Il sera traité séparément et successivement des points suivants (ils sont 
 41 PRINCIPES GÉNÉRAUX ET MÉTHODE D’ORGANISATION
 ================================================
 
-Quelles que soient les œuvres h créer, les ensembles a constituer, des principes généraux et une méthode sont nécessaires. Pour une organisation rationnelle et mondiale, ils doivent être universels. Il y a donc lieu de traiter ici :
+Quelles que soient les œuvres à créer, les ensembles a constituer, des principes généraux et une méthode sont nécessaires. Pour une organisation rationnelle et mondiale, ils doivent être universels. Il y a donc lieu de traiter ici :
 
-1° des principes; 2° de la méthode; 3° de l’outillage; 4’ des locaux; 5 du personnel; 6" des opérat:ons ; 7" des autres facteurs d’organisation (finance, convention, réglementation).
+1° des principes ; 2° de la méthode ; 3° de l’outillage; 4° des locaux ; 5° du personnel; 6° des opérat:ons ; 7° des autres facteurs d’organisation (finance, convention, réglementation).
 
 411 Les Principes généraux.
 ----------------------------
 
-Des principes généraux ont à être formulés en ce qui concerne: lü les documents eux-mêmes et leurs espèces; 2" la documentation en son ensemble : 3° le problème ; 4° le but et le plan ; 5° les principes d’unité, d’universalité, de standardisation, coopération.
+Des principes généraux ont à être formulés en ce qui concerne: 1° les documents eux-mêmes et leurs espèces ; 2° la documentation en son ensemble ; 3° le problème ; 4° le but et le plan ; 5° les principes d’unité, d’universalité, de standardisation, coopération.
 
 411.1 Les documents.
 ^^^^^^^^^^^^^^^^^^^^^
@@ -17338,7 +17346,7 @@ Des principes généraux ont à être formulés en ce qui concerne: lü les docu
 a) L’examen antérieur doit faire conclure aux distinc-
 formé de tous les organismes unis par une convention sur le but, le travail et la méthode, les liens de coopération et les rapports d’échange.
 
-c) Dans cette partie on considère l’ensemble de la documentation, se» buis, ses parlies composâmes, ses unités, ses collections, ses opérations et formats. On examine de quelle manière il y a lieu de les traiter èt de les aménager de manière à en former des ensembles et à leur degré supérieur, réaliser une organisation universelle et mondiale. Les moyens, les méthodes, l’outillage, les relations entre organismes sont examinés en fonction de ce but ultime. Il s’agit donc avant tout de rapports généraux, de liaisons corrélatives.
+c) Dans cette partie on considère l’ensemble de la documentation, ses buis, ses parlies composâmes, ses unités, ses collections, ses opérations et formats. On examine de quelle manière il y a lieu de les traiter èt de les aménager de manière à en former des ensembles et à leur degré supérieur, réaliser une organisation universelle et mondiale. Les moyens, les méthodes, l’outillage, les relations entre organismes sont examinés en fonction de ce but ultime. Il s’agit donc avant tout de rapports généraux, de liaisons corrélatives.
 
 En tête du traité, sous le titre Fundumcnta (0) on a résumé les directives générales à ce sujet.
 
@@ -17352,20 +17360,20 @@ b) En principe on peut distinguer suivant un ordre croissant de combinaisons :
 
 1° La Réalité (Réalia) (ex. une science, un paysage, une personne), soit la Réalité dans son ambiance ou milieu naturel, soit la Réalité dans une collection d'objets (muséographie).
 
-2" L'Image (Icône). Elle reproduit la réalité. On distingue la reproduction directe de la réalité. Elle s’opère par l'un des procédés suivants: tableau, aquarelle (en couleurs) isolé ou mobile ou fixe (fresque), plafond, encadrement dans une paroi dans un objet, dessin (noir ou couleur), gravure, photographie, sculpture.
+2° L'Image (Icône). Elle reproduit la réalité. On distingue la reproduction directe de la réalité. Elle s’opère par l'un des procédés suivants: tableau, aquarelle (en couleurs) isolé ou mobile ou fixe (fresque), plafond, encadrement dans une paroi dans un objet, dessin (noir ou couleur), gravure, photographie, sculpture.
 
-3U La reproduction d’une reproduction de la réalité.
+3° La reproduction d’une reproduction de la réalité.
 
 
 ====
 
 411  PRINCIPES GENERAUX  *373*
 
-Par le» même* procédé»: tableau, dessin, gravure, photographie, etc.
+Par les mêmes procédés: tableau, dessin, gravure, photographie, etc.
 
-4 ' Le* écrits (Biblion). On distingue qu ils sont ou relatif* directement à la réalité ou bien relatifs à une image, et alors ils sont : a) ou relatifs à une reproduction de la réalité, soit tableau, dessin, gravure, photographie, sculpture ; b) ou relatifs à une reproduction d*une reproduction laite à son tour par tableau, dessin, gravure, photographie ou sculpture.
+4° Les écrits (Biblion). On distingue qu ils sont ou relatif* directement à la réalité ou bien relatifs à une image, et alors ils sont : a) ou relatifs à une reproduction de la réalité, soit tableau, dessin, gravure, photographie, sculpture ; b) ou relatifs à une reproduction d*une reproduction laite à son tour par tableau, dessin, gravure, photographie ou sculpture.
 
-c) Les réalités, les images, les écrit» peuvent, les uns comme les autres, donner lieu : 1° à des collections soit particulières soit universelles ;2° au catalogue de ces collections particulières, soit le catalogue universel.
+c) Les réalités, les images, les écrits peuvent, les uns comme les autres, donner lieu : 1° à des collections soit particulières soit universelles ;2° au catalogue de ces collections particulières, soit le catalogue universel.
 
 d) Le répertoire des éléments de la réalité (Réalia) est un inventaire des choses, êtres et phénomènes, au point de vue de la chose elle-même, du lieu et du temps, dans les trois séries.
 
@@ -17401,28 +17409,28 @@ Le tableau général suivant résume toutes ces distinctions.
 411.2 La Documentation.
 ^^^^^^^^^^^^^^^^^^^^^^^^
 
-Par documentation on entendra à la fois 1 ensemble des documents et la fonction de documenter, c’est-à-dire d’informer à l’aide de documentation. Il a été traité de ce point dans la partie 1.
+Par documentation on entendra à la fois l'ensemble des documents et la fonction de documenter, c’est-à-dire d’informer à l’aide de documentation. Il a été traité de ce point dans la partie 1.
 
 411.3 Le problème.
 ^^^^^^^^^^^^^^^^^^^
 
 Il y a un problème central à la Documentation comme à toutes les disciplines. Par le fait que le Document est non pas une donnée naturelle mais bien une œuvre dépendante de la volonté humaine, ce problème est de l'ordre de l'action et de son progrès. Comme tous les problèmes d’ordre pratique il ne peut être résolu que progressivement et par approximation successive. La solution dépend de bonnes méthodes, de coopération dans le travail, d organisation dans les eflorts. Le problème se pose en deux parties: quant à rétablissement du livre et du document; quant à leur utilisation.
 
-1, Quant à l'établissement du livre et du document.
+1° Quant à l'établissement du livre et du document.
 
 a) On distingue: 1“ Les Liurcs, dans leur ensemble, ont pour fin la transcription des connaissances scientifiques; 2' La Science a pour but la connaissance de la réalité; 3‘ La Réalité est l’ensemble des choses corporelles qui existent (monde ou univers).
 
-b) Le but idéal assigné est : pour la Science qu elle soit complète et parfaite et couvre intégralement le champ de la réalité; 2° pour les Livres, qu’ils soient complet^ et parfaits et couvrent intégralement le champ de la science. Les livres devraient donc être les « miroirs » de la réalité.
+b) Le but idéal assigné est : pour la Science qu'elle soit complète et parfaite et couvre intégralement le champ de la réalité; 2° pour les Livres, qu’ils soient complet^ et parfaits et couvrent intégralement le champ de la science. Les livres devraient donc être les « miroirs » de la réalité.
 
-c) Critique de l'état actuel; 1° quant à la science: a) la science actuelle est incomplète en ce que les connaissances ne couvrent qu’une partie du champ de la réalité (inachèvement de la science) ; b) la science actuelle ne comprend pas que des vérités (erreurs de la science).
+c) Critique de l'état actuel : 1° quant à la science: a) la science actuelle est incomplète en ce que les connaissances ne couvrent qu’une partie du champ de la réalité (inachèvement de la science) ; b) la science actuelle ne comprend pas que des vérités (erreurs de la science).
 
-2" Quant aux livres: a) les livres ne transcrivent qu une parties des données scientifiques et par conséquent qu une partie de la science (inachèvement des livres) ; b) ils transcrivent nos connaissances fausses comme nos connaissances vraies (erreurs des livres) ; c) ils transcrivent plusieurs fois les mêmes connaissances (répétitions) ; d) ils ne rassemblent pas le» exposés des connaissances en quelques ouvrages, mais les divisent et les éparpillent en d'innombrables volumes (fragmentation et dispersion) ;
+2° Quant aux livres: a) les livres ne transcrivent qu une parties des données scientifiques et par conséquent qu une partie de la science (inachèvement des livres) ; b) ils transcrivent nos connaissances fausses comme nos connaissances vraies (erreurs des livres) ; c) ils transcrivent plusieurs fois les mêmes connaissances (répétitions) ; d) ils ne rassemblent pas les exposés des connaissances en quelques ouvrages, mais les divisent et les éparpillent en d'innombrables volumes (fragmentation et dispersion) ;
 
 e) ils ne coordonnent pas les faits exposés suivant leur degré d'importance et d’utilité (mélange du principal et du secondaire).
 
-d) Le problème de l’établissement du livre est donc double: lü rendre possible la transcription de 1 intégralité de nos connaissances : 2" permettre d'extraire de la masse innombrable des livres les connaissances vraies, en écartant les erreurs et les répétitions et en les ordonnant de manière à les sérier et à dégager le principal de l'accessoire.
+d) Le problème de l’établissement du livre est donc double: 1° rendre possible la transcription de l'intégralité de nos connaissances : 2° permettre d'extraire de la masse innombrable des livres les connaissances vraies, en écartant les erreurs et les répétitions et en les ordonnant de manière à les sérier et à dégager le principal de l'accessoire.
 
-Deux comparaisons éclairent le problème; il faut mettr» de l’ordre dans les «montagnes» de papiers et de documents; il faut créer une « métallurgie » du papier, faire
+Deux comparaisons éclairent le problème; il faut mettre de l’ordre dans les «montagnes» de papiers et de documents; il faut créer une « métallurgie » du papier, faire
 
 
 page omite 373
@@ -17435,12 +17443,12 @@ ANNEXE
 ERRATA : (Page omise).
 373bis.  ORGANISATION RATIONNELLE DU LIVRE  411
 
-de» galeries d'approche vers ces montagnes, dont Us flancs recèlent des trésors, en extraire le bon minerai et ensuite séparer le métal pur de sa gangue. L'extraction se fait d'une gangue pour le fer à raison de 40 à 65 %. pour le cuivre à raison de 7 à 8 %. Pour le radium, il faut des tonnes de Hornblende pour en extraire quelques milligrammes!
+des galeries d'approche vers ces montagnes, dont les flancs recèlent des trésors, en extraire le bon minerai et ensuite séparer le métal pur de sa gangue. L'extraction se fait d'une gangue pour le fer à raison de 40 à 65 %. pour le cuivre à raison de 7 à 8 %. Pour le radium, il faut des tonnes de Hornblende pour en extraire quelques milligrammes!
 
 2. Quant à iutilisation du Livre et du Document.
 
-La connaissance des choses une fois acquise par quelque* esprits et incorporée par eux dans les livres et les documents, il y a lieu de rendre possible, avec !e minimum de temps et de peine, la même acquisition par tou* les esprits qui peuvent en avoir besoin. Il s'agit là d'utilisation et de diffusion.
-La documentation s'établit de nos jours sur [a base d'une rationalisation et d'une organisation des ensembles des éléments en s'appuyant sur les données le* plus avancées de la science et de la technique d'une part, du travail intellectuel et de l’industrialisation d’autre part.
+La connaissance des choses une fois acquise par quelques esprits et incorporée par eux dans les livres et les documents, il y a lieu de rendre possible, avec !e minimum de temps et de peine, la même acquisition par tou* les esprits qui peuvent en avoir besoin. Il s'agit là d'utilisation et de diffusion.
+La documentation s'établit de nos jours sur la base d'une rationalisation et d'une organisation des ensembles des éléments en s'appuyant sur les données les plus avancées de la science et de la technique d'une part, du travail intellectuel et de l’industrialisation d’autre part.
 
 Etablir le contact « entre l'élaboration de la pensée et l'enregistrement des connaissances ».
 
@@ -17448,7 +17456,7 @@ Le but se précise ainsi :
 
 I" Accroître l'effet du livre et du document en tant que résultat corporel de l'enregistrement du savoir humain (efficace quant à la chose, l'espace et le temps, quant à l'individu et la société).
 
-2° Aider à former de 1 ensemble des documents un Corpus Librorum qui soit représentatif de la pensée uni
+2° Aider à former de l'ensemble des documents un Corpus Librorum qui soit représentatif de la pensée uni
 Le Tahleau suivant présente les distinctions sur la base desquelles se pose le Problème de la Documentation.
 a  Institution b  Document C  Etat de la chose d  caractère C  étendue f  degré moJe de conservation h  Forme
 1. Bibliothèque  2. Bibliographie  3. Archive  4. Encyclopédie  5. Musce 1. Fiche  2. Livre 1. La chose  2. Son résumé 1. Analytique  2. Synthétique 1. Totalité  2. Partie 1. Détaillé  2. Abrégé 1. Emmagasiné  2. Exposé 1. Texte à lire  2. Imagcàvoir
@@ -17458,7 +17466,7 @@ a  Institution b  Document C  Etat de la chose d  caractère C  étendue f  degr
 411.4 Buts, Plan, Organisation de la Documentation.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Comme toute oeuvre de l’homme, le livre et le document sont déterminés par un but. C'est à lui qu’ont auteurs et coopérateurs à subordonner tous leurs travaux.
+Comme toute œuvre de l’homme, le livre et le document sont déterminés par un but. C'est à lui qu’ont auteurs et coopérateurs à subordonner tous leurs travaux.
 
 Le but, le plan général a été exposé au début de ce traité sous le titre Fundamenta (0). Il y est dit les tâches communes proposées à l'action de tous. La détermination des méthodes est en fonction notamment de ce but.
 
@@ -17467,21 +17475,21 @@ Les six buts à poursuivre dans l'organisation peuvent s'exprimer par ces six de
 411.41 But.
 """"""""""""
 
-Les Buts de la Documentation organisée consistent à pouvoir offrir sur tout ordre de fait et de connaissance des informations documentées : I* universelles quant à leur objet; 2“ sûres et vraies; 3° complètes; 4° rapides; 5" à jour; 6° faciles à obtenir; 7” réunies d'avance et prêtes à être communiquées; 8“ mises à la disposition du plus grand nombre.
+Les Buts de la Documentation organisée consistent à pouvoir offrir sur tout ordre de fait et de connaissance des informations documentées : 1° universelles quant à leur objet; 2° sûres et vraies; 3° complètes; 4° rapides; 5° à jour; 6° faciles à obtenir; 7° réunies d'avance et prêtes à être communiquées; 8° mises à la disposition du plus grand nombre.
 verselle, de la science tenue comme systémation dts connaissances.
 
 3° Tenir ainsi le livre comme instrument du travail intellectuel, nécessaire à la fois à la connaissance ou à la transmission du savoir acquis et à l'élaboration des connaissances elles-mêmes.
 
 Desiderata majeurs de la documentation.
 
-a) Quant à la production et à la distribution : réaliser la documentation sous des forme* et des modes tels qu'il soit possible d'en constituer des ensembles et de faire ainsi de chacun d'eux la partie s'insérant et s'incorporant aisément dans le tout.
+a) Quant à la production et à la distribution : réaliser la documentation sous des formes et des modes tels qu'il soit possible d'en constituer des ensembles et de faire ainsi de chacun d'eux la partie s'insérant et s'incorporant aisément dans le tout.
 
-b) Quant à l'utilisation : disposer d'une documentation: a) complète; b) aisément obtenable (1° démarches et formalités simples; 2® rapidité; 3® coût); c) assimiliatton ou de lecture facile.
+b) Quant à l'utilisation : disposer d'une documentation: a) complète; b) aisément obtenable (1° démarches et formalités simples; 2° rapidité; 3° coût); c) assimiliatton ou de lecture facile.
 
 411.42 Plan.
 """""""""""""
 
-Il y a lieu de: I® décomposer; 2® définir; 3° classer et 4U mettre en relation les données relatives au livre-doru-ment considéré: a) dans son entité totale; b) dana tes parties ou éléments; c) dans ses opérations ou fonction»; d) dans sa genèse ou son histoire; e) dans sa distribution dans l'espace.
+Il y a lieu de: 1° décomposer; 2° définir; 3° classer et 4° mettre en relation les données relatives au livre-doru-ment considéré: a) dans son entité totale; b) dana tes parties ou éléments; c) dans ses opérations ou fonction»; d) dans sa genèse ou son histoire; e) dans sa distribution dans l'espace.
 
 
 ====
@@ -17492,11 +17500,11 @@ Il y a lieu de: I® décomposer; 2® définir; 3° classer et 4U mettre en relat
 411.43 Organisation. Concentration du travail et décentralisation.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-a) On peut définir l'organisation, l'ensemble des principes et des dispositions pour relier entr'eux d une façon permanente tous les éléments concourant à un simple ensemble ou à une suite d'acte. C est à 1 organisme formé par cet ensemble et à ses organes reliés aux autres organes qu’est dévolu le soin de veiller à cet ensemble, a son unité, à sa continuité, à son adaptation, à 1 éloignement de tout ce qui pourrait le troubler et le détruire, n la réalisation de tout ce qui peut l'améliorer et le développer.
+a) On peut définir l'organisation, l'ensemble des principes et des dispositions pour relier entr'eux d une façon permanente tous les éléments concourant à un simple ensemble ou à une suite d'acte. C'est à l'organisme formé par cet ensemble et à ses organes reliés aux autres organes qu’est dévolu le soin de veiller à cet ensemble, a son unité, à sa continuité, à son adaptation, à l'éloignement de tout ce qui pourrait le troubler et le détruire, n la réalisation de tout ce qui peut l'améliorer et le développer.
 
-b) L organisation détermine l'organisme et 1 organisme à son tour détermine l'organisation. C'est la fonction qui, en s'exerçant, crée l'organe; c’est l’organe formé (*a structure) qui réalise la fonction. Il y a action et réaction, réciproques et continues. Avec l’avènement du règne humain caractérisé pat 1*intelligence, un facteur nouveau intervient, la finalité des actes, I organisation préconçue, la préfiguration des fins et des buts, en conséquence des pians et des programmes.
+b) L organisation détermine l'organisme et l'organisme à son tour détermine l'organisation. C'est la fonction qui, en s'exerçant, crée l'organe; c’est l’organe formé (*a structure) qui réalise la fonction. Il y a action et réaction, réciproques et continues. Avec l’avènement du règne humain caractérisé pat 1*intelligence, un facteur nouveau intervient, la finalité des actes, I organisation préconçue, la préfiguration des fins et des buts, en conséquence des pians et des programmes.
 
-L’organisation dès lors se présente n trois stades ou degrés. Iu L’organisation est purement idéologique; elle est dans la pensée. 2° L'organisation est représentée pa. un organe de caractère social : une convention qui marque un accord convergent de volonté, une institution, un organisme. 3° L'organisation prend un caractère matériel, elle e«t incorporée dans des objets, des machines, des installations, des locaux.
+L’organisation dès lors se présente n trois stades ou degrés. 1° L’organisation est purement idéologique; elle est dans la pensée. 2° L'organisation est représentée pa. un organe de caractère social : une convention qui marque un accord convergent de volonté, une institution, un organisme. 3° L'organisation prend un caractère matériel, elle e«t incorporée dans des objets, des machines, des installations, des locaux.
 
 L'organisation de la documentation doit se poursuivre simultanément et parallèlement dans les trois domaines : idéologique, institutionnelle, matérielle.
 
@@ -17509,7 +17517,7 @@ Dans le domaine des livres et des documents en particulier, il y a lieu d’arri
 
 d) Tandis que tous les objets autour de nous se transformaient rapidement, le livre a offert longtemps ce contraste qu’en sa forme externe il demeurait quasi immuable. Malgré l’évolution de la pensée scientifique, le contenu bibliologique, les modes d’enregistrement de nos connaissances faisaient peu de progrès.
 
-La Pensée de l’homme depuis un siècle a largement un contenu nouveau, science, technique, arts, littérature, sociologie: T idéologie a été sinon entièrement révolutionnée, tout au moins profondément modifiée et immensément augmentée. A ce contenu il n’est pas possible que ne correspondent des moyens nouveaux d’expression, une adaptation du contenant : le livre, les documents.
+La Pensée de l’homme depuis un siècle a largement un contenu nouveau, science, technique, arts, littérature, sociologie: l'idéologie a été sinon entièrement révolutionnée, tout au moins profondément modifiée et immensément augmentée. A ce contenu il n’est pas possible que ne correspondent des moyens nouveaux d’expression, une adaptation du contenant : le livre, les documents.
 
 Mais depuis quelques années ces points ont fini par faire l’objet d’études et de mouvements. Des innovations réelles se sont produites. Nous sommes seulement à un commencement.
 
@@ -17517,18 +17525,18 @@ Un certain nombre d’idées et d’inventions ont apporté un progrès considé
 
 e) Au cours des siècles écoulés une technique et une organisation ont été données à la production matérielle des livres (l’imprimerie) et à leur distribution (librairie). C’est un exemple et la justification de la demande d organiser aussi les autres parties. Ainsi en imprimerie les lettres ont été standardisées (le point typographique), les règles de correction d’épreuves, largement déjà le format. Il y a toute la belle organisation de la librairie avec ses centrales et ses bourses.
 
-On commence à se rendre compte que le travail relatif au livre ne peut gagner en puissance qu’en s aidant d un outillage appropriée, qu’il ne peut s’y opérer de la coopération pratique qu’à l’aide de méthodes unifiées et coordonnées. Dans ce double ordre d’idées, chaque jour apporte quelque progrès.
+On commence à se rendre compte que le travail relatif au livre ne peut gagner en puissance qu’en s'aidant d un outillage appropriée, qu’il ne peut s’y opérer de la coopération pratique qu’à l’aide de méthodes unifiées et coordonnées. Dans ce double ordre d’idées, chaque jour apporte quelque progrès.
 
-g) On objectera : I" l’organisation proposée est trop
+g) On objectera : 1° l’organisation proposée est trop
 
-vaste. Mais la pensée elle-même n est-elle une vastitude incompressible ? 2° L'heure est trouble, cahotique, ce qui divise l’emportant sur ce qui unit. Mais pourquoi ne pas
+vaste. Mais la pensée elle-même n'est-elle une vastitude incompressible ? 2° L'heure est trouble, cahotique, ce qui divise l’emportant sur ce qui unit. Mais pourquoi ne pas
 
 
 ====
 
 411 PRINCIPES GENERAUX *375*
 
-scruter à fond le» divergences pour dégager les convergences ? 3" L'organisation se développera d'elle-même avec le temps sans qu'il soit nécessaire de la déterminer. Mais les esprits ont renoncé en tous domaines au* fatalités résignées pour présider directement eui-mêroes au* destinées. L'idée est lancée. Il est toujours temps de présenter de nouveaux arguments ou d approfondir les premiers.
+scruter à fond les divergences pour dégager les convergences ? 3° L'organisation se développera d'elle-même avec le temps sans qu'il soit nécessaire de la déterminer. Mais les esprits ont renoncé en tous domaines aux fatalités résignées pour présider directement eui-mêroes aux destinées. L'idée est lancée. Il est toujours temps de présenter de nouveaux arguments ou d approfondir les premiers.
 
 g) L’organisation de la Documentation est a réaliser à cinq degrés :
 
@@ -17549,9 +17557,9 @@ V. Corrélation. — a) Avec le Travail intellectuel, b) Avec l'Organisation mon
 411.5 Des divers principes.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Sont à mettre en oeuvre les principes : Io unite ;
+Sont à mettre en œuvre les principes : 1° unite ;
 
-2' universalité; 3'* expansibility ; 4‘ rationalisation, normalisation, standardisation ; 3” coopération ; 6" publicité ; 7° Sériation des efforts.
+2° universalité; 3° expansibility ; 4° rationalisation, normalisation, standardisation ; 5° coopération ; 6° publicité ; 7° Sériation des efforts.
 
 411.51 Unité (Complexité).
 """""""""""""""""""""""""""
@@ -17561,26 +17569,26 @@ L'Unité consiste à concevoir comme un seul ensemble toute la Documentation et 
 411.52 Universalité (Complétude).
 """"""""""""""""""""""""""""""""""
 
-L’organisation d'ensemble proposée embrasse les diverses espèces de documents, de collections et d organismes aux quatre étapes suivantes :
+L’organisation d'ensemble proposée embrasse les diverses espèces de documents, de collections et d'organismes aux quatre étapes suivantes :
 
-I" Prototype universel (idéaux). La réflexion scientifique combinée avec l'invention établit à l'état théorique idéal ce qu'il est désirable que soit l'organisation dans son ensemble et dans ses parties. Elle crée ainsi sous chaque partie le Prototype Universel ayant un caractère purement idéal, et constamment susceptible de développement et de revision.
+1° Prototype universel (idéaux). La réflexion scientifique combinée avec l'invention établit à l'état théorique idéal ce qu'il est désirable que soit l'organisation dans son ensemble et dans ses parties. Elle crée ainsi sous chaque partie le Prototype Universel ayant un caractère purement idéal, et constamment susceptible de développement et de revision.
 
-2" Les standards: par convention on établit pour tous le:i ordres de documents, collection» et organismes, les standards et unités. Il y est procédé par recommandations, règles et conventions.
+2° Les standards: par convention on établit pour tous les ordres de documents, collection» et organismes, les standards et unités. Il y est procédé par recommandations, règles et conventions.
 
-3U I .es documents, collections et organismes, du type universel, se conforment aux standards arrêtés et se réali-
+3° Les documents, collections et organismes, du type universel, se conforment aux standards arrêtés et se réali-
 ] 375)
 Rant dans toutes les parties ou stations du Késeau Universel. Ces collections devraient être désignés par une nomenclature systématique avec termes internationaux (latin). Editio Universalis. Bibliographia Universalis. Bibliotheca Universalis. Atlas Universalis. Projeclio Universalis. Encyclopedia Universalis. Museum Universale.
 
-4° Collections et organes centraux et ensembles constitués d’une manière conventionnelle sous la direction d'organe* centraux mettant en oeuvre la coopération.
+4° Collections et organes centraux et ensembles constitués d’une manière conventionnelle sous la direction d'organes centraux mettant en œuvre la coopération.
 
 411.53 Expansibilité (règle). Méthodes universelles et applications particulières.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 a) Les méthodes arrêtées sont expansibles. Elles se développent a divers degrés, mais à partir du degré supérieur, celui du maximum d'étendue et de complexité.
 
-Chaque élément de In méthode et de l'organisation offre une échelle de degrés, allant du plus simple au plus complexe (très petit, petit, moyen assez grand, très grand)
+Chaque élément de la méthode et de l'organisation offre une échelle de degrés, allant du plus simple au plus complexe (très petit, petit, moyen assez grand, très grand)
 
-« qui peut le plu* peut le moins ». Des règles destinées à la documentation universelle ne se trouveront donc pas en défaut devant les nécessités de documentations particulières. Pour celles-ci chacun est libre de n'appliquer Us méthodes et les règles que jusqu’à un tel degré de détail qu'il juge utile.
+« qui peut le plus peut le moins ». Des règles destinées à la documentation universelle ne se trouveront donc pas en défaut devant les nécessités de documentations particulières. Pour celles-ci chacun est libre de n'appliquer les méthodes et les règles que jusqu’à un tel degré de détail qu'il juge utile.
 
 b) L’applicntion de ces principes généraux donnent lieu aux observations suivantes: 1° Les règles catalographiques détaillées, comme il importe pour la description des ouvrages rares, les incunables par exemple, peuvent de réduction en réduction se limiter à deux lignes et même à une ligne. 2° La classification peut être simplifiée jusqu’à ne faire usage que de I, 2 ou 3 chiffres, de n’employer certaines divisions communes (la langue par exemple) ou ne pas employer du tout de subdivisions communes, ou seulement 5, 3 ou même une décimale. 3° La forme matérielle des catalogues peut être celle de fiches en fort bristol ou se réduire s'il le faut à un catalogue imprimé ou manuscrit en volume. 41 Les ouvrages et articles seront analysés et il y a des règles à cet effet, mais ou pourra s’abstenir de toutes notes analytiques, de contenu ou de critique. On pourra appliquer un système complet de duplicata et de références ou les limiter aux plus essentiels. 5° On pourra, dans l'organisation de la bibliothèque et des collections de documents eux-mêmes, disposer les pièces dans l’ordre strict de la classification, intercaler à leur place quand les ouvrages ont des références multiples, des cartons repérés en tel nombre qu'd est fait des fiches de références dans les catalogues; on pourra même diviser une grande bibliothèque encyclopédique en sections correspondant aux principales divisions de la classification, de manière à rapprocher les travailleurs eux-mêmes des ouvrages et à leur donner libre accès aux rayons. On peut n'appliquer le principe du classement systématique sur les rayons qu'à la salle de lecture et y donner libre accès aux rayons, tandis que dans les nmga-
 
@@ -17589,30 +17597,30 @@ b) L’applicntion de ces principes généraux donnent lieu aux observations sui
 
 *376* ORGANISATION RATIONNELLE DU LIVRE 411
 
-ains 1 ordre »uivi serait celui des numéros d’accession uj d'inventaire, avec éventuellement respect des divers fonds antérieurement constitués.
+ains l'ordre suivi serait celui des numéros d’accession uj d'inventaire, avec éventuellement respect des divers fonds antérieurement constitués.
 
-c) Ainsi les méthodes universelles constituent comme un réservoir général. Il appartiendra à chaque organisme de déterminer lui-même le degré auquel il les appliquera et l étendue qu'il entend leur donner. Le Manuel Général de» Méthodes sera donc complété par des instructions écrites, élaborées dans chaque établissement, et dans Lesquelles se trouveront incorporées les décisions prises quant à l'application du manuel.
+c) Ainsi les méthodes universelles constituent comme un réservoir général. Il appartiendra à chaque organisme de déterminer lui-même le degré auquel il les appliquera et l'étendue qu'il entend leur donner. Le Manuel Général des Méthodes sera donc complété par des instructions écrites, élaborées dans chaque établissement, et dans Lesquelles se trouveront incorporées les décisions prises quant à l'application du manuel.
 
-d) Le piincipe d expansivité de la méthode offre plusieurs avantages. I” 1 oui travail opéré une fois, à quelque degré élémentaire soit-il, est utilisable pour tout travail ultérieur. On sait exactement où l'on va; on peut commencer par n'importe quel bout; on est assuré de pouvoir a tout moment faire mieux et plus complet, de pouvoir faire face à l’accroissement subit ou considérable des collections, aux exigences nouvelles qui s'imposeraient. 2" Ceux qui ont à édifier de grandes architectures de
-services y affectés) se sentent en communion de travail avec tous ceux qui de par le monde appliquent les mîmes méthodes, de pouvoir comme eux coopérer au développement et au perfectionnement de» méthodes et des stations d'un réseau universel, el d être activement reliés au centre de la Documentation Universelle. 3° Pour ceux qui ont à se servir de* collections et h recourir aux services des Bibliothèques et Institutions documentaires, c'est avantageux de n’avoir à connaître qu une seule méthode, générale, synthétique, unique, malgré ses degrés de développement et par suite de se sentit immédiatement c chez eux » partout où on les applique, ce qui fait gagner du temps el permet d’utiliser plus à fond les ressources documentaires de ces établissements. 4" Est rendu possible de plus en plus l’établissement en coopération de certains travaux et services. On s’élève ainsi progressivement à la conception de l’Unité de la Documentation corerspondant à l’Unité des Connaissances , par la pensée, toutes les Bibliothèques, toutes les Archives, tous les Musées, Ioub les Offices de documentation du monde constituent des branches idéelles d’une seule grande Organisation Universelle dont toutes les œuvres sont, par voie de libre lecture, vision, consultation, prêt, copie échange, à la disposition de tous.
+d) Le piincipe d'expansivité de la méthode offre plusieurs avantages. 1° 1 oui travail opéré une fois, à quelque degré élémentaire soit-il, est utilisable pour tout travail ultérieur. On sait exactement où l'on va; on peut commencer par n'importe quel bout; on est assuré de pouvoir a tout moment faire mieux et plus complet, de pouvoir faire face à l’accroissement subit ou considérable des collections, aux exigences nouvelles qui s'imposeraient. 2" Ceux qui ont à édifier de grandes architectures de
+services y affectés) se sentent en communion de travail avec tous ceux qui de par le monde appliquent les mîmes méthodes, de pouvoir comme eux coopérer au développement et au perfectionnement des méthodes et des stations d'un réseau universel, el d être activement reliés au centre de la Documentation Universelle. 3° Pour ceux qui ont à se servir des collections et à recourir aux services des Bibliothèques et Institutions documentaires, c'est avantageux de n’avoir à connaître qu une seule méthode, générale, synthétique, unique, malgré ses degrés de développement et par suite de se sentit immédiatement c chez eux » partout où on les applique, ce qui fait gagner du temps el permet d’utiliser plus à fond les ressources documentaires de ces établissements. 4" Est rendu possible de plus en plus l’établissement en coopération de certains travaux et services. On s’élève ainsi progressivement à la conception de l’Unité de la Documentation corerspondant à l’Unité des Connaissances , par la pensée, toutes les Bibliothèques, toutes les Archives, tous les Musées, Ioub les Offices de documentation du monde constituent des branches idéelles d’une seule grande Organisation Universelle dont toutes les œuvres sont, par voie de libre lecture, vision, consultation, prêt, copie échange, à la disposition de tous.
 
-« Ut omnes uni J sinf s. L’on se trouve ici au cœur du problème général du temps présent et aussi de tous les temps : individus et société, égoïsme et altruisme. 1/ homme a-t-il avantage aux formes supérieures de la socialité (solidarité, fraternité) ; est-il capable de s'élever jusqu'à elles par un effort conscient, rationnel, dirige, constant ? Evidemment cet effort ne se justifie que s'il y a échange, réciprocité, mutualité. Mais il faut bien commencer et avoir conscience que le cercle ultime d’ex-
-pansion, l’universalité et la mondialité, sauront ne pas détruire les cercles de l'individu, de 1 institut, de la nation, mais au contraire les épurer de ce que I égoïsme a nui à leur développement même.
+« Ut omnes uni J sinf ». L’on se trouve ici au cœur du problème général du temps présent et aussi de tous les temps : individus et société, égoïsme et altruisme. 1/ homme a-t-il avantage aux formes supérieures de la socialité (solidarité, fraternité) ; est-il capable de s'élever jusqu'à elles par un effort conscient, rationnel, dirige, constant ? Evidemment cet effort ne se justifie que s'il y a échange, réciprocité, mutualité. Mais il faut bien commencer et avoir conscience que le cercle ultime d’ex-
+pansion, l’universalité et la mondialité, sauront ne pas détruire les cercles de l'individu, de l'institut, de la nation, mais au contraire les épurer de ce que l'égoïsme a nui à leur développement même.
 
 411.54 Rationalisation, normalisation, standardisation.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 a) Les règles à suivre pour la standardisation de la documentation ne sauraient être arbitraires. Elles doivent être coordonnées non seulement entr elles, mais avec toutes les autres standaidisations et surtout avec les manières de faire les plus généralement suivies parce qu'elles sont les plus naturelles ou les plus conformes aux habitudes sociales.
 
-b) Les mouvements naturels sont basés sur I usage pré dominant de la main droite. Tous les gestes actifs, tous ceux qui exigent de 1 habilité, de la force, de la grâce sont faits par la main droite.
+b) Les mouvements naturels sont basés sur l'usage pré dominant de la main droite. Tous les gestes actifs, tous ceux qui exigent de 1 habilité, de la force, de la grâce sont faits par la main droite.
 
 Or les mouvements de la main droite sont commandes par la position du pouce qui, en se superposant aux autres doigts, fait de la main un instrument de préhension apte à tenir un outil, un ustensile et à le manier aisément. Ce tait détermine la position de la plume et la direction de l’écriture qui, chez les occidentaux, est universellement dirigée de gauche à droite et de. haut en bas.
 
-La droite demeure la place d'honneur. (L Evangile déjà fixe cette place. Le Christ à la droite de son Père.) On peut le justifier par la facilité de venir en aide à qui l’on veut honorer. On laisse autrui sur sa droite en marchant car si l’on va au-devant de lui c’est plus facile pour le saluer du chapeau, pour lui tendre la main.
+La droite demeure la place d'honneur. (L'Evangile déjà fixe cette place. Le Christ à la droite de son Père.) On peut le justifier par la facilité de venir en aide à qui l’on veut honorer. On laisse autrui sur sa droite en marchant car si l’on va au-devant de lui c’est plus facile pour le saluer du chapeau, pour lui tendre la main.
 
 c) Dans la documentation il est naturel de ramener le plus de règles au livre et à la page du livre. Ceci conduit à quatre directions ou bases fondamentales : 1. de gauche à droite (sens de l’écriture et de la lecture) ; 2. de haut en bas (id.) ; 3. retour pérodique à la ligne d abord, à la page ensuite, au lieu d’une continuité de ligne et d’une continuité de papier ; 4. angle inférieur de gauche, base df tous les alignements. Cet angle est fixe quelle que soit !a dimension.
 
-D'où les applications suivantes : I. les livres sont placés sur les rayons de gauche à droite, de haut en bas, en recommençant après chaque rayon et après chaque travée. 2. Les fiches dans les répertoires sont classées de devant en arrière ; l’ordre chronologique des fiches est aussi d'avant en arrière; le» tiroirs sont disposés de haut en bas, et par rangées distinctes d'un seul tiroir. 3. Dans un dossier, les lettres anciennes sont classées les premières.' 4. Dans les fichiers et les classeurs, les fiches divisionnaires sont placées devant les documents et non derrière; les becs et encoches sont disposés de gauche à droite et en ordre strict de subordination (et non en chevauchant et
+D'où les applications suivantes : I. les livres sont placés sur les rayons de gauche à droite, de haut en bas, en recommençant après chaque rayon et après chaque travée. 2. Les fiches dans les répertoires sont classées de devant en arrière ; l’ordre chronologique des fiches est aussi d'avant en arrière; les tiroirs sont disposés de haut en bas, et par rangées distinctes d'un seul tiroir. 3. Dans un dossier, les lettres anciennes sont classées les premières.' 4. Dans les fichiers et les classeurs, les fiches divisionnaires sont placées devant les documents et non derrière; les becs et encoches sont disposés de gauche à droite et en ordre strict de subordination (et non en chevauchant et
 
 
 ====
@@ -17640,36 +17648,36 @@ d’autrui, ou du travail à réaliser.
 
 b) Les rapports étant devenus internationaux, ils ont amené la collaboration internationale. Il importe désormais d envisager et de traiter également les choses de la documentation sous l’aspect universel et mondial.
 
-c) La question se pose ici de l’obligation ou de la liberté dans la coopération. En tous domaines un minimum étant nécessaire, n’est-ce pas par tous les moyens possible qu’il faut le réaliser ? L’exemple du Radio est typique. L’U. R. S. S. y agit à sa guise, elle ne coopère pas k l'organisation mondiale des ondes; elle interfère, par ses propres ondes, dans tout le système mis en œuvre par les autres pays.
+c) La question se pose ici de l’obligation ou de la liberté dans la coopération. En tous domaines un minimum étant nécessaire, n’est-ce pas par tous les moyens possible qu’il faut le réaliser ? L’exemple du Radio est typique. L’U. R. S. S. y agit à sa guise, elle ne coopère pas à l'organisation mondiale des ondes; elle interfère, par ses propres ondes, dans tout le système mis en œuvre par les autres pays.
 
-d) Dans Ica méthodes, bases de la coopération, il y a cinq étapes : 1° elles commencent par une idée théorique ; 2° ensuite elles s'appliquent individuellement ; 3° puis elles font l’objet de recommandations; 4° finalement de règles; 5° et on entrevoit le moment où des lois et aussi des conventions et traités internationaux, conclus entre gouvernements. imposeront certaines règles sans lesquelles d« s travaux fondamentaux ne peuvent se poursuivre.
+d) Dans Ica méthodes, bases de la coopération, il y a cinq étapes : 1° elles commencent par une idée théorique ; 2° ensuite elles s'appliquent individuellement ; 3° puis elles font l’objet de recommandations; 4° finalement de règles; 5° et on entrevoit le moment où des lois et aussi des conventions et traités internationaux, conclus entre gouvernements. imposeront certaines règles sans lesquelles des travaux fondamentaux ne peuvent se poursuivre.
 
 411.56 Publicité des œuvres et des travaux scientifiques.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Cette publicité est k la base de tout ce qui s’entreprend dans le livre, lequel lui-même se définit c une publication ». On distinguera, entre la possibilité de connaître des fait* et l’effort pour les faire connaître effectivement du très grand nombre des individus. La science,
+Cette publicité est à la base de tout ce qui s’entreprend dans le livre, lequel lui-même se définit c une publication ». On distinguera, entre la possibilité de connaître des faits et l’effort pour les faire connaître effectivement du très grand nombre des individus. La science,
 ( IJ Le Deutêche Normenauaschuaa (Conseil allemand de la Normalisation) s'occupe depuis plusieurs années de la rationalisation dans le domaine des bibliothèques.
-Il poursuit l'application du DIN-format aux formats des livres et des revues, (‘unification des titres cités (Zitier-tïtel), de la classification et d’autres matières. Le sous-comité pour la normalisation des bibliothèques est présidé par le Directeur Général Dr Kruss, délégué k la Commission de Coopération Intellectuelle de la S. D. N.
+Il poursuit l'application du DIN-format aux formats des livres et des revues, l'unification des titres cités (Zitier-tïtel), de la classification et d’autres matières. Le sous-comité pour la normalisation des bibliothèques est présidé par le Directeur Général Dr Kruss, délégué à la Commission de Coopération Intellectuelle de la S. D. N.
 la technique, les industries, la conduite des affaires publiques doivent passer, graduellement de l’état de secret à l'état de publicité. Pour les lois, les brevets, le casier civil, l'état civil, les informations administratives telles que les statistiques, on a organisé la publicité.
 
-Devant la multiplicité des travaux qui attendent leur tour de publicité, on sera amené k réaliser leur enregistrement dans des offices spéciaux où chacun pourra rn obtenir copie (expédition).
+Devant la multiplicité des travaux qui attendent leur tour de publicité, on sera amené à réaliser leur enregistrement dans des offices spéciaux où chacun pourra rn obtenir copie (expédition).
 
 411.57 Sériation des efforts. Etapes.
 """"""""""""""""""""""""""""""""""""""
 
-La différence est grande entre une création de toute pièce, avec des puissants moyens d'idées, d’hommes, d argent et une organisation reliant des éléments existants et qui ont chacun leurs propres moyens d existence et de direction. On peut obtenir tout de la contrainte dans le premier cas ; il faut attendre tout de la bonne volonté dans le second cas. L’analogie est frappante ici entre l'organisation scientifique et la synthèse scientifique. Celle-ci s'opère constamment et spontanément dans la liberté avec, k la base, les myriades de résultats analytiques, particuliers et, au sommet, les directives générales, et les principes formulés par les esprits synthétiseurs. Cette synthèse s’opère ainsi en quelque sorte d’elle-même. Le Livre, qu'il faut organiser, est une réalité vivante et ¿es organismes fonctionnent k la manière de tous les organes sociaux, partie spontanément, partie délibérément, rationnellement, conventionnellement. Le corps de la Documentation (Corpua documentarium) donne armature et soutien à la matière bibliologique (Materia bibUologica), laquelle se confond elle-même avec la science, l'art, la littérature, la technique et toute l'action. Il importe de ne détruire que ce qu'on a remplacé, de ne réformer que dans un cadre général, de savoir reconnaître avec tact et subtilité ce qu’il faut laisser à la vie propre et ce qu'il faut, au contraire, placer directement dans un cadre logique et naturel. En conséquence, toute l'organisation définie et conventionnelle doit procéder suivant les étapes déterminées par les circonstances. Il faut savoir préparer et mûrir l'action et considérer qu'en organisant certains îlo’s dans le vaste fleuve, on donne déjà une direction au flot lui-même.
+La différence est grande entre une création de toute pièce, avec des puissants moyens d'idées, d’hommes, d argent et une organisation reliant des éléments existants et qui ont chacun leurs propres moyens d existence et de direction. On peut obtenir tout de la contrainte dans le premier cas ; il faut attendre tout de la bonne volonté dans le second cas. L’analogie est frappante ici entre l'organisation scientifique et la synthèse scientifique. Celle-ci s'opère constamment et spontanément dans la liberté avec, à la base, les myriades de résultats analytiques, particuliers et, au sommet, les directives générales, et les principes formulés par les esprits synthétiseurs. Cette synthèse s’opère ainsi en quelque sorte d’elle-même. Le Livre, qu'il faut organiser, est une réalité vivante et ¿es organismes fonctionnent à la manière de tous les organes sociaux, partie spontanément, partie délibérément, rationnellement, conventionnellement. Le corps de la Documentation (Corpua documentarium) donne armature et soutien à la matière bibliologique (Materia bibUologica), laquelle se confond elle-même avec la science, l'art, la littérature, la technique et toute l'action. Il importe de ne détruire que ce qu'on a remplacé, de ne réformer que dans un cadre général, de savoir reconnaître avec tact et subtilité ce qu’il faut laisser à la vie propre et ce qu'il faut, au contraire, placer directement dans un cadre logique et naturel. En conséquence, toute l'organisation définie et conventionnelle doit procéder suivant les étapes déterminées par les circonstances. Il faut savoir préparer et mûrir l'action et considérer qu'en organisant certains îlo’s dans le vaste fleuve, on donne déjà une direction au flot lui-même.
 
 412 Méthodes.
 --------------
 
-Le» méthode» comprennent : I“ le» règle» unifiée» et codifiées; 2" le collectionnement systématique de» document» eux-mêmes ; 3* 11 la classification, offrant un cadre commun à toute» les division» de l'organisme et sous les numéros desquels figure tout sujet susceptible de l'intéresser ; 4° le système de rédaction analytique et synthétique, monographie et polygraphie; 5° le système de» formats ; 6“ le système des fiche» et feuilles k classement vertical ; 7° le système de» duplicata et référence» consis-
+Les méthodes comprennent : 1° les règles unifiées et codifiées; 2° le collectionnement systématique des document» eux-mêmes ; 3° 11 la classification, offrant un cadre commun à toutes les divisions de l'organisme et sous les numéros desquels figure tout sujet susceptible de l'intéresser ; 4° le système de rédaction analytique et synthétique, monographie et polygraphie; 5° le système des formats ; 6° le système des fiches et feuilles k classement vertical ; 7° le système des duplicata et références consis-
 
 
 ====
 
-*378* ORGANISATION RATIONNELLE DU LIVRE 412
+*378*  ORGANISATION RATIONNELLE DU LIVRE  412
 
-tant à faire figurer un, meme document dans les diverses séries fondamentale» de la classification auxquelles ils se réfèrent ; 8" le système des répertoires et celui des dossiers disposés dans les classeurs verticaux formant des ensembles organisés. 9° Méthodes documentaires universelles et applications particulières.
+tant à faire figurer un, meme document dans les diverses séries fondamentales de la classification auxquelles ils se réfèrent ; 8° le système des répertoires et celui des dossiers disposés dans les classeurs verticaux formant des ensembles organisés. 9° Méthodes documentaires universelles et applications particulières.
 
 Dans l'élaboration des méthodes universelles, il a été procédé par l'Institut International et dans ce traité de deux manières différentes :
 
@@ -17682,7 +17690,7 @@ Dans l'élaboration des méthodes universelles, il a été procédé par l'Insti
 
 11 faut des règles précisant et coordonnant les formes des documents et les ensembles qu'ils constituent: régies susceptibles de perfectionnement, formes et ensembles pouvant être conçus selon des types fondamentaux, les uns traditionnels, les autres nouveaux. Les règles bibliographiques et documentaires internationales ont à faire l'objet d'un « Code coordonné de la Documentation
 
-La question des méthodes domine l'art du Livre, de la Bibliographie, des Bibliothèques, comme elle domine l'art de toutes les autres disciplines. Par les méthodes, celui qui traite le livre est nanti des moyens qui lui donnent 6a compétence et sa technicité. U y a une Technique générale du classement des documents, une Technique bibliologique, une Bibliotechnie.
+La question des méthodes domine l'art du Livre, de la Bibliographie, des Bibliothèques, comme elle domine l'art de toutes les autres disciplines. Par les méthodes, celui qui traite le livre est nanti des moyens qui lui donnent 6a compétence et sa technicité. Il y a une Technique générale du classement des documents, une Technique bibliologique, une Bibliotechnie.
 
 La technique repose sur ce principe fondamental : appeler à l’existence réelle des conceptions et des idées, en tenant compte des conditions de l'espace et du temps. Les opérations dans les organismes documentaires s'inspirent de ce principe et peuvent ainsi être définies une distribution adéquate des objets, des ressources et des énergies, selon le lieu et le moment. « A vrai dire, dit Coyecque, tout est technique, en d autres
 termes, pour faire une chose et pour la bien faire, il faut avoir appris à la faire Toute technique, pqur guider efficacement l’action, doit être fondée sur la science de l’objet dont elle » occupe. Il y a une technique du Livre et du Document, une Bibliotechnie; et elle doit reposer sur la science du livre et du document, la Bibliologie.
@@ -17690,7 +17698,7 @@ termes, pour faire une chose et pour la bien faire, il faut avoir appris à la f
 412.2 Collections systématiques.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Le collectionnement est l'action de réunir en collections. Le» documents existants formant des séries, on est naturellement conduit à les réunir tous et à former ainsi en corps réel, ce qui n'a jusque là d’existence que comme ensemble idéal.
+Le collectionnement est l'action de réunir en collections. Les documents existants formant des séries, on est naturellement conduit à les réunir tous et à former ainsi en corps réel, ce qui n'a jusque là d’existence que comme ensemble idéal.
 
 Les catalogues universels sont des préfigurations des collections universelles. Ainsi le catalogue des livres existants f bibliographie) figure en avance l’ensemble que sera un jour la collection des livres réunis en bibliothèque ; le catalogue des objets préfigure la collection des choses ou le musée. L’exemple typique est celui des collections de timbres-poste. Chacun, par le catalogue édité de toutes les émissions timbrophiliques, peut connaître à l’avance sur quoi doit porter son effort de collectionneur. Et il en est ainsi de toute série de pièces, documents compris, dont on poursuit systématiquement la réunion, soit par la concentration de pièces inconnues recherchées, soit par la mise ensemble de pièces connues et décrites d’avance.
 
@@ -17717,11 +17725,11 @@ B. Lieux; C. Temps: D. Formes; E. Langues.
 412.31 Notion de la classification.
 """"""""""""""""""""""""""""""""""""
 
-On entend par classement bibliographique, l art de disposer ie# ouvrages d'après leur matière (sujet ou contenu) et par classification, le tableau ou les tables qui disposent les connaissances dans l'ordre où doivent 1 être l.*s ouvrages eux-mêmes.
+On entend par classement bibliographique, l'art de disposer les ouvrages d'après leur matière (sujet ou contenu) et par classification, le tableau ou les tables qui disposent les connaissances dans l'ordre où doivent 1 être l.*s ouvrages eux-mêmes.
 
 La classification bibliographique est un ordre de suite. Elle se développe en une série linéaire unique dont tous les termes occupent, les uns par rapport aux autres, une place ou rang désigné par un signe (mots, nombres ou symboles quelconques ordonnés en système).
 
-La classification est l'armature de l'organisme nteflec-tuel qu'est la bibliothèque ou une collection de documents. Elle a de multiples utilités: Io elle sert au choix des ouvrages, car elle constitue un véritable plan d acquisition ; 2Ü elle est utile à la lecture car elle présente le plan d'un cycle de lectures fondamentales (autodidaxie) ; elle sert aussi pour l'étude de la terminologie, pour 1 ordonnancement des matières de l'encyclopédie; 3° le catalogue méthodique de la bibliothèque et des collections est fondé sur elle ; 4° le placement des ouvrages sur les rayons et des documents dans les classeurs est opéré dans son ordre ; 5° elle constitue un classement des connaissances dans l'esprit.
+La classification est l'armature de l'organisme intellec-tuel qu'est la bibliothèque ou une collection de documents. Elle a de multiples utilités: Io elle sert au choix des ouvrages, car elle constitue un véritable plan d acquisition ; 2Ü elle est utile à la lecture car elle présente le plan d'un cycle de lectures fondamentales (autodidaxie) ; elle sert aussi pour l'étude de la terminologie, pour l'ordonnancement des matières de l'encyclopédie; 3° le catalogue méthodique de la bibliothèque et des collections est fondé sur elle ; 4° le placement des ouvrages sur les rayons et des documents dans les classeurs est opéré dans son ordre ; 5° elle constitue un classement des connaissances dans l'esprit.
 
 I. — Division de Vétude.
 
@@ -17729,7 +17737,7 @@ Une étude complète de la classification embrasserait les questions suivantes :
 
 A. — La classification en général. — Taxonomie.
 
-1. Préliminaires. Définition. Importance. Rapports et corrélations avec la Science en général, la Logique, le Langage, l'Ecriture et la Notation, la Documentation, les objets et les arts. 2. Notions fondamentales. Réalité et conception, l'individu et la classe, les catégories. Les ordres taxonomiques fondamentaux. 3. Degrés dans I» classification : Classification d’une chose, d'une science, d- l'ensemble des sciences. 4. Espèces de classification • naturelle et conventionnelle. 5. Notation, expression de la classification : mots-matières, symboles. 6. Formes de la classification: alphabétique (analytique), méthodique
+1. Préliminaires. Définition. Importance. Rapports et corrélations avec la Science en général, la Logique, le Langage, l'Ecriture et la Notation, la Documentation, les objets et les arts. 2. Notions fondamentales. Réalité et conception, l'individu et la classe, les catégories. Les ordres taxonomiques fondamentaux. 3. Degrés dans la classification : Classification d’une chose, d'une science, d- l'ensemble des sciences. 4. Espèces de classification • naturelle et conventionnelle. 5. Notation, expression de la classification : mots-matières, symboles. 6. Formes de la classification: alphabétique (analytique), méthodique
 
 (synthétique).
 
@@ -17740,7 +17748,7 @@ L Notions, Historique et Développement. 2, Caractéristiques et Plan de la clas
 
 Classer est la plus haute opération de l’esprit, celle qui Implique toutes les autres. L’esprit s'élève à mesure qu'il est susceptible d’abstraction, de systématisation et de synthèse. Classer donne l eu à quatre operations distinctes, quatre démarches successives de l'intelligence.
 
-a) De la multiplicité des choses (être, objets, phénomènes, événements) dégager par comparaison les classes ou types les plus généraux et établir ensuite les rapports entre eux selon Je« lignes d’une architecture intellectuelle d’ensemble (systématique, construction de la science).
+a) De la multiplicité des choses (être, objets, phénomènes, événements) dégager par comparaison les classes ou types les plus généraux et établir ensuite les rapports entre eux selon les lignes d’une architecture intellectuelle d’ensemble (systématique, construction de la science).
 
 b) Désigner chacune des divisions ou rubriques du Tableau de la Classification ainsi obtenu par une notation adéquate, cotes ou indices (Langage).
 
@@ -17754,7 +17762,7 @@ Cependant, dans l'état actuel d’avancement des connaissances :
 
 a) La Science dans sa plus grande partie n’est pas encore construite et les desiderata d'une structure logique (induction et déduction) ne sont pas satisfaits.
 
-b) Le langage usuel n'est pas adéquat pour dénommer le* concepts scientifiques car: a) ce langage est aussi multiple et varié qu’il est de nations, alors que la science elle, est universelle; b) ce langage consiste en un système de vocables reposant sur de superficielles et lointaines analogies remontant aux âges d’ignorance de l’Humanité. (Ex. : le nom Soleil dérivé d'une racine sanscrite qui signifie brillant sert à désigner un corps bien déterminé du système solaire); c) les vocables rangés selon l'arbitraire de l'ordre alphabétique des lettres qui les transcrivent ne révèle rien de l'ordre systématique des choses que révèle ou formule la science.
+b) Le langage usuel n'est pas adéquat pour dénommer les concepts scientifiques car: a) ce langage est aussi multiple et varié qu’il est de nations, alors que la science elle, est universelle; b) ce langage consiste en un système de vocables reposant sur de superficielles et lointaines analogies remontant aux âges d’ignorance de l’Humanité. (Ex. : le nom Soleil dérivé d'une racine sanscrite qui signifie brillant sert à désigner un corps bien déterminé du système solaire); c) les vocables rangés selon l'arbitraire de l'ordre alphabétique des lettres qui les transcrivent ne révèle rien de l'ordre systématique des choses que révèle ou formule la science.
 
 412.32 Types de classification bibliographique.
 """"""""""""""""""""""""""""""""""""""""""""""""
@@ -17785,14 +17793,14 @@ ORGANISATION RATIONNELLE DU LIVRE 412 *380*
 412.33 Classification alphabétique. Classification décimale.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-La classification alphabétique fait usage de mots, noms propres et noms communs, rangés dans 1 ordre de l'alpha-bet, à la manière du dictionnaire : elle est pratique parce qii’elle n’exige aucun instrument intermédiaire pour le classement.
+La classification alphabétique fait usage de mots, noms propres et noms communs, rangés dans l'ordre de l'alpha-bet, à la manière du dictionnaire : elle est pratique parce qu’elle n’exige aucun instrument intermédiaire pour le classement.
 
-Mais la classification alphabétique par matières a sur la classification décimale les désavantages suivants : 1° elle épurpille la matière sous des rubriques classées arbitrairement dans l’ordre des lettres et non point dans l’ordre des idées comme le fait la C. D. ; 2J elle oblige chacun à fixer soi-même son choix sur les rubriques à utiliser tandis que la C. D, offre un cadre tout prêt; 3° elle oblige h écrire des mots plus longs que les chiffres, il en < st surtout ainsi lorsqu’on désire diviser le mot principal par des mots secondaires ou ceux-ci par des mots tertiaires, alors qu’il suffit d’ajouter aux nombres décimaux un nu deux chiffres ; 4n les mots-matières n’ont de signification qu’en une seule langue, tandis que les indices de la C D. sont internationaux : 5° tout classement alphané tique par l’arbitraire du choix des mots a un caractère personnel, tandis que la C. D. a un caractère impersonnel et universel. Par elle est rendue possible la centralisation automatique de documents et de données émanant des sources les plus diverses; 6° dans l'échange des correspondances. si le correspondant A a eu soin d inscrire l’indice de classement des pièces sur la copie et sur l’original et cela par une seule frappe, il dispense le correspondant B de procéder lui-même au classement chez lui des originaux. D oit dans l’ensemble une économe de 50 % dans le classement de ces pièces.
+Mais la classification alphabétique par matières a sur la classification décimale les désavantages suivants : 1° elle épurpille la matière sous des rubriques classées arbitrairement dans l’ordre des lettres et non point dans l’ordre des idées comme le fait la C. D. ; 2J elle oblige chacun à fixer soi-même son choix sur les rubriques à utiliser tandis que la C. D, offre un cadre tout prêt; 3° elle oblige à écrire des mots plus longs que les chiffres, il en < st surtout ainsi lorsqu’on désire diviser le mot principal par des mots secondaires ou ceux-ci par des mots tertiaires, alors qu’il suffit d’ajouter aux nombres décimaux un nu deux chiffres ; 4n les mots-matières n’ont de signification qu’en une seule langue, tandis que les indices de la C D. sont internationaux : 5° tout classement alphané tique par l’arbitraire du choix des mots a un caractère personnel, tandis que la C. D. a un caractère impersonnel et universel. Par elle est rendue possible la centralisation automatique de documents et de données émanant des sources les plus diverses; 6° dans l'échange des correspondances. si le correspondant A a eu soin d inscrire l’indice de classement des pièces sur la copie et sur l’original et cela par une seule frappe, il dispense le correspondant B de procéder lui-même au classement chez lui des originaux. D oit dans l’ensemble une économe de 50 % dans le classement de ces pièces.
 
 412.34 Principales classifications systématique?.
 """"""""""""""""""""""""""""""""""""""""""""""""""
 
-Les classifications frança ses ont fort vieilli; telles celles de Brunet, de la Bibliographie de la France. — Dans les pays anglo-saxons on connaît les classifications de Dewcy (Décimal Classification), de Cutter (Expansive Classifica tion), de James Duff Brown (the Subject Classification). Ln Bibliothèque du Congrès, & Washington, a sa propre classification. H. E. Blisa (The Organization o/ Knouîfedge in Libraries, 1933) a présenté une critique des grands systèmes et formulé des propositions pour une classification nouvelle. ( I )
+Les classifications françaises ont fort vieillis telles celles de Brunet, de la Bibliographie de la France. — Dans les pays anglo-saxons on connaît les classifications de Dewcy (Décimal Classification), de Cutter (Expansive Classifica tion), de James Duff Brown (the Subject Classification). Ln Bibliothèque du Congrès, & Washington, a sa propre classification. H. E. Blisa (The Organization o/ Knouîfedge in Libraries, 1933) a présenté une critique des grands systèmes et formulé des propositions pour une classification nouvelle. ( I )
 (I) Ont spécialement traité de Classification bibliogra-graphique dans leurs écrits; Bishop, Bradford, Ch. Couh son, Charles A. Cutter, Cari Diesch, H. H. Field. Donker Duyvis, Rudolf Forke, Rudolf Gjelsness, Hanauer, E. Krelt, E. Wyndham Halme, H. Lafontaine, Margaret, Mann, Charles Martel, William Stetson, Mervil, Julia Petter, Ernest Cushing, Richardson, Ch, Richet, W. C. Bernwick Sägers, Georg Schneider, H. Sebert, A. R. Spofford, A. Law Voge, etc.
 
 412.35 Historique des systèmes existants.
@@ -17802,7 +17810,7 @@ Les classifications frança ses ont fort vieilli; telles celles de Brunet, de la
 
 L’histoire des classifications bibliographiques, dites aussi systèmes bibliographiques, est très ancienne et très longue. Elle permet de constater les influences diverses i»uc cessives qui se sont exercées sur elles. Sans entrer dans aucun détail, voici quelques faits généraux qui caractérisent les grandes étapes parcourues.
 
-On ne sait rien de bien précis sur les systèmes de l’antiquité, bien qu'il so^t certain qu’il aient existé. On connaît les systèmes du moyen âge basés sur le trivium et le quadrivium. Us servaient aux bibliothèques des monastères, des cathédrales et des châteaux. Au XVIe siècle, avec le développement de l’imprimerie et le progrès des doctrines de liberté religieuse et politique, il y eut des tentatives d'innovation. Gesner en donna le premier exemple.
+On ne sait rien de bien précis sur les systèmes de l’antiquité, bien qu'il soit certain qu’il aient existé. On connaît les systèmes du moyen âge basés sur le trivium et le quadrivium. Ils servaient aux bibliothèques des monastères, des cathédrales et des châteaux. Au XVIe siècle, avec le développement de l’imprimerie et le progrès des doctrines de liberté religieuse et politique, il y eut des tentatives d'innovation. Gesner en donna le premier exemple.
 
 Au XVIIe siècle, on vit apparaître les systèmes philosophiques fondés exclusivement sur un classement à priori dej connaissances humaines. C'est la suite des traités de Bacon et des autres réformateurs des méthodes scientifiques. Ces classifications, cependant, furent appliquées avec une extrême réserve. Au XVIIL siècle, au contraire, on remarqua parmi les systèmes bibliographiques les mêmes tendances à suivre la trad tion ou à appliquer de nouveaux classements à base philosophique. L ouvrage de Gabriel Peignot (1802) dit bien, par son titre même, toute l’influence exercée sur les systèmes par les progrès de la classification des sciences :
 
@@ -17810,7 +17818,7 @@ c Essai d'un système bibliographique calqué sur les ttois divisions de l'Encyc
 
 Au XVIIIe siècle et au commencement du XIXe siècle régnait l'idée, spéciaement chez les écrivains français, qu’il appartenait au bibliographe d’apprécier la valeur de tous les livres qu’il enregistrait et d'indiquer la place exacte que tout livre devait occuper dans une classification logique de toute la littérature basée sur une classification antérieure de toutes les connaissances. Mais, peu à peu, on en vint à condamner comme impossibles ces sortes de classifications et l’on revient aux anciennes méthodes. La classification de Brunet, dans son Manuel du Libraire (1810), marque ce retour. Cette classification était, au fond, celle créée par les libraires érudits du siècle précèdent et qui, longtemps fut utilisée en France et au dehors.
 
-Dans l'ensemble du mouvement bibliographique, la France s’est signalée par un très grand attachement a la tradition. L’Angleterre a produit des systèmes pratiques et presque toujours conformes aussi è la tradition. L'AHe- 1
+Dans l'ensemble du mouvement bibliographique, la France s’est signalée par un très grand attachement a la tradition. L’Angleterre a produit des systèmes pratiques et presque toujours conformes aussi à la tradition. L'AHe- 1
 (1) Peignot, Dictionnaire raisonné de Bibliographie,
 
 t I. pp. 256-289.
@@ -17829,7 +17837,7 @@ A côté des classifications bibliographiques, on a vu se former d’autres type
 412.36 La Classification décimale.
 """""""""""""""""""""""""""""""""""
 
-a) Principe. — L'Institut International de Bibliographie est passé outre à ces difficuités que le temps seul pourrait aplanir. Pour ’es fins de l’Organisat on de la Documentation. il a placé au-dessus de tout l’existence d’une classification qui soit universelle, standardisée et immédiatement formée, fût-elle meme conventionnelle et incomplète en son expression. Il a élaboré, en deux éditions successives (1095 et 1927/29 ) une Classification pratique.
+a) Principe. — L'Institut International de Bibliographie est passé outre à ces difficuités que le temps seul pourrait aplanir. Pour les fins de l’Organisation de la Documentation, il a placé au-dessus de tout l’existence d’une classification qui soit universelle, standardisée et immédiatement formée, fût-elle meme conventionnelle et incomplète en son expression. Il a élaboré, en deux éditions successives (1095 et 1927/29 ) une Classification pratique.
 
 b) Caractéristique. — La Classification décimale répond aux dix caractéristiques de la définition suivante :
 
@@ -17852,11 +17860,11 @@ Ir‘ Classification systématique dans sa disposition et encyclopédique dans s
 
 10° La Documentation conçue elle-même comme base de l’Organisation mondiale du Travail intellectuel (voir Publication n° 51 de l’Intitut International de Bibliographie).
 
-c. Fondement. —- L’unité de classification est indispensable pour mener à bien le travail documenta re. On avait élaboré jusqu’ici 170 classifications bibliographiques différentes. Or. aucune coopération n’est possible si chacun reste cantonné dans son système. Il a donc été nécessaire d’unifier le classement et de proposer l’adoption d’une Classification universelle, à la manière dont la Convention française conçut la nécessité d’un système universel de poids et mesures. En 1895 la première Conférence Bibliographique Internationale fit choix à cet effet de la Classification décimale en adoptant tout un plan pour son développement. En 1904 parut l’édition dts tables développées.
+c. Fondement. —- L’unité de classification est indispensable pour mener à bien le travail documentaire. On avait élaboré jusqu’ici 170 classifications bibliographiques différentes. Or. aucune coopération n’est possible si chacun reste cantonné dans son système. Il a donc été nécessaire d’unifier le classement et de proposer l’adoption d’une Classification universelle, à la manière dont la Convention française conçut la nécessité d’un système universel de poids et mesures. En 1895 la première Conférence Bibliographique Internationale fit choix à cet effet de la Classification décimale en adoptant tout un plan pour son développement. En 1904 parut l’édition dts tables développées.
 
 L’édition toute nouvelle de la Classification décimale, publiée par l’Institut International de Bibliographie a été achevée en 1933. Elle comprend en ses tables méthodiques 66,000 divisions et dans son index alphabétique environ 40,000 mots. L’œuvre est comprise dans un volume de 1.153 pages à 2 ou 3 colonnes. La Classification décimale a reçu à ce jour les plus larges applications en relation avec le Répertoire Bibliographique Universel. Due à Melvil Dewey en sa forme initiale, elle est maintenant le résultat d’une vaste coopération dirigée par l’Institut, coopération volontaire et anonyme offrande de pensée et de travail à la communauté humaine.
 
-Toutes les connaissances y sont représentées en leur cycle entier ; l’encyclopédie du savoir. Le principe en est très simple. Un classement alphabétique par mot matière est trop empirique pour satisfaire aux besoins de groupement et dr système de la science. C’est l’éparpillement ; c’eat la difficulté de manier les expressions complexes que l’on trouve dans la terminologie moderne de discipline telles que la médecine, la technique, les sciences sociales ; c’est surtout l’impossibilité d’asseoir la coopération internationale sur une base aussi étro terne rit nationale que les langues différentes pour chaque pays,
+Toutes les connaissances y sont représentées en leur cycle entier ; l’encyclopédie du savoir. Le principe en est très simple. Un classement alphabétique par mot matière est trop empirique pour satisfaire aux besoins de groupement et dr système de la science. C’est l’éparpillement ; c’est la difficulté de manier les expressions complexes que l’on trouve dans la terminologie moderne de discipline telles que la médecine, la technique, les sciences sociales ; c’est surtout l’impossibilité d’asseoir la coopération internationale sur une base aussi étro terne rit nationale que les langues différentes pour chaque pays,
 
 La Classification décimale, elle, se présente comme une vaste systématique des connaissances, sorte de «table de matières des tables de matières» de tous les traités et
 
@@ -17865,7 +17873,7 @@ La Classification décimale, elle, se présente comme une vaste systématique de
 
 ORGANISATION RATIONNELLE DU LIVRE 412 *382*
 
-périod que» spéciaux. Mais comme il serait impossible de retrouver dans semblables classifications la place assignée h un sujet par rapport à un autre sujet, un numérotage marquant l’ordre, s'impose. Ce numérotage est décimal, ce qu'un exemple fera bien comprendre. Voici 1 allotropie, elle sera classée ainsi :
+périod ques spéciaux. Mais comme il serait impossible de retrouver dans semblables classifications la place assignée à un sujet par rapport à un autre sujet, un numérotage marquant l’ordre, s'impose. Ce numérotage est décimal, ce qu'un exemple fera bien comprendre. Voici l'allotropie, elle sera classée ainsi :
 
 5° classe Sciences naturelles.
 
@@ -17876,9 +17884,9 @@ Iw division Théories chimiques.
 7" subdivision Allotropie.
 soit : 541.7.
 
-Ce nombre 541.7 est d't décimal car le savoir tout entier est constitué par l’unité, dont chaque science ~st une fraction, et chaque question particulière est une décimale d'un ordre plus ou moins subdivisé. Pour abréger, l’on a supprimé le zéro de la notation complète, qui serait 0.541.7, le zéro se serait répété devant tout nombre. Le nombre formé de chiffres, ici « cinq, quatre, un, sept » peut s'énoncer distinctement sous cette forme, ou encore **n groupant les chiffres par tranche de trois comme au téléphone on les groupe par deux, soit en énonçant ainsi : t cinq-cent-quarante et un, sept ». Le nombre demeure seul pour désigner un sujet, car on a laissé tomber naturellement les mots sous-entendus, et toujours les mêmes, cL ir classe, groupe, division et subdivision ».
+Ce nombre 541.7 est dit décimal car le savoir tout entier est constitué par l’unité, dont chaque science est une fraction, et chaque question particulière est une décimale d'un ordre plus ou moins subdivisé. Pour abréger, l’on a supprimé le zéro de la notation complète, qui serait 0.541.7, le zéro se serait répété devant tout nombre. Le nombre formé de chiffres, ici « cinq, quatre, un, sept » peut s'énoncer distinctement sous cette forme, ou encore **n groupant les chiffres par tranche de trois comme au téléphone on les groupe par deux, soit en énonçant ainsi : t cinq-cent-quarante et un, sept ». Le nombre demeure seul pour désigner un sujet, car on a laissé tomber naturellement les mots sous-entendus, et toujours les mêmes, cL ir classe, groupe, division et subdivision ».
 
-La classification est encore dite décimale, par ce que c'est en dix classes puis, dans chacune d'elles, en d:x groupes, ou moins puis dans chaque groupe en dix divisions ou moins que l'on répartit toutes les matières. Il suffira de traduire les mêmes tables dans toutes les langues pour que le même numéro 541.7 ait dans toutes la même signification ; il suffira de subdiviser ce nombre par de nouveaux chiffres décimaux, correspondant à des subdivisions de T* allotropie » (soit l'isomerie, la tauto-merie, la polymerle) pour suivre le développement scientifique futur dans toutes ses ramifications: il suffira enfin d'inscrire ce nombre sur tout document, livre, brochure, article, notice bibliographique, pièce quelconque qui concerne l'allotropie pour assurer son classement suivi dans l'universalité des questions scientifiques.
+La classification est encore dite décimale, par ce que c'est en dix classes puis, dans chacune d'elles, en dix groupes, ou moins puis dans chaque groupe en dix divisions ou moins que l'on répartit toutes les matières. Il suffira de traduire les mêmes tables dans toutes les langues pour que le même numéro 541.7 ait dans toutes la même signification ; il suffira de subdiviser ce nombre par de nouveaux chiffres décimaux, correspondant à des subdivisions de T* allotropie » (soit l'isomerie, la tauto-merie, la polymerle) pour suivre le développement scientifique futur dans toutes ses ramifications: il suffira enfin d'inscrire ce nombre sur tout document, livre, brochure, article, notice bibliographique, pièce quelconque qui concerne l'allotropie pour assurer son classement suivi dans l'universalité des questions scientifiques.
 
 L'index alphabétique de la table renvoie au numéro classif'cateur de chaque mot. comme l'index d'un livre renvoie aux pages. Et grâce à son indice le document se retrouvera avec la même facilité qu'un lieu désigné sur la sphère par des degrés de latitude et longitude.
 
@@ -17887,9 +17895,9 @@ A ce premier principe, très remarquable, de la classification décimale s'ajout
 Une convention admet que les nombres s'unissent par le simple signe: et l'on peut écrire.
 
 31 :66 Statistique des Industries chimiques.
-Ceci marque la relation générale mais un sujet a aussi une situation dans l'espace et dans le temps. Il peut s agir d'industries chimiques en France et ce limité à une période telle que le XIXe siècle (c’est-à-dire de 1800 à 1899). Le signe caractéristique des divisions de lieu étant la parenthèse et celui des divisions de temps les guillemets (doubles parenthèses) on pourra former l'indice composé 31:66 (44) «18» Statistique des Industries chimiques en France au XIXe siècle.
+Ceci marque la relation générale mais un sujet a aussi une situation dans l'espace et dans le temps. Il peut s'agir d'industries chimiques en France et ce limité à une période telle que le XIXe siècle (c’est-à-dire de 1800 à 1899). Le signe caractéristique des divisions de lieu étant la parenthèse et celui des divisions de temps les guillemets (doubles parenthèses) on pourra former l'indice composé 31:66 (44) «18» Statistique des Industries chimiques en France au XIXe siècle.
 
-Soit une expression de quatre nombres formés ensemble de 8 chiffres séparés par trois signes caractéristique# pour exprimer, en fonction de l’universalité du savoir, quatre rubriques subordonnées, exprimées en écriture courante par 53 lettres. Comme tous les termes de ces nombres sont réversibles, ils peuvent servir sans difficulté à un classement géographique ou chronologique aussi bien qu'idéologique. On dira par exemple :
+Soit une expression de quatre nombres formés ensemble de 8 chiffres séparés par trois signes caractéristiques pour exprimer, en fonction de l’universalité du savoir, quatre rubriques subordonnées, exprimées en écriture courante par 53 lettres. Comme tous les termes de ces nombres sont réversibles, ils peuvent servir sans difficulté à un classement géographique ou chronologique aussi bien qu'idéologique. On dira par exemple :
 
 (44 ) 31:66 «18» France-statistique — industrie chimique XIXe Siècle (classement à base de lieu).
 
@@ -17907,7 +17915,7 @@ Par exemple 546.52 Thallium.
 
 546.22.05 préparation du Soufre.
 
-En vertu de la loi des combinaisons et des permutations, les tables de classification existantes permettent de former à volonté des millions de nombres classificateur« composés. De même que In numération arithmétique ne nous donne pas tous le# nombres déjà formés, mais nous procure le moyen de les former quand nous en avons besoin ; de même la classification nous fournît le moyen de créer des nombres classificateurs au fur et à mesure que les documentations arrangées nous présentent des rubriques composées à traduire en notation chiffrée.
+En vertu de la loi des combinaisons et des permutations, les tables de classification existantes permettent de former à volonté des millions de nombres classificateurs composés. De même que In numération arithmétique ne nous donne pas tous les nombres déjà formés, mais nous procure le moyen de les former quand nous en avons besoin ; de même la classification nous fournît le moyen de créer des nombres classificateurs au fur et à mesure que les documentations arrangées nous présentent des rubriques composées à traduire en notation chiffrée.
 
 5. Progrès en voie de realisation.
 
@@ -17922,7 +17930,7 @@ Parallèlement se poursuit l'élaboration : a) d’une structure synthétique de
 
 b) d’une classification scientifique et philosophique (Taxonomie) ; c) d’un langage scientifique et d’une notation rationnelle ) (Terminologie et symbologie). De ln classification synthétique, une ou multiple, et en constante évolution, on peut se reporter, par voie de concordance, à la Classification décimale elle-même qui possède ainsi en elle un nouvel ordre d’entrées, complémentaire de celui qu'elle a déjà dans son index alphabétique.
 
-c) Concordance» entre classifications.
+c) Concordances entre classifications.
 
 Des concordances peuvent être établies entre la classification décimale considérée comme classification universelle auxiliaire et les classifications spéciales en usage. Exemples :
  Cîasv  décim. Intern.  Citai. Cut-  ter Halle  (Hanwig)
@@ -17941,11 +17949,11 @@ Un immense effort a été fait à travers les âges, et plus particulièrement a
 2° La systématique de chaque science, de chaque ordre de connaissance, énumération des êtres étudiés, leur
 sériation naturelle, cadre des études et des organisations d'études.
 
-3° La classification des sciences, ou relation entre elles de toutes les branches des connaissances devant satisfaire aux lois de la logique et se fonder sur toutes leg systématiques particulières, tout en s’abstenant des détails de
+3° La classification des sciences, ou relation entre elles de toutes les branches des connaissances devant satisfaire aux lois de la logique et se fonder sur toutes les systématiques particulières, tout en s’abstenant des détails de
 
 celles-ci.
 
-4° La classification bibliographique et documentaire, dont l’objet tout utilitaire est la mise en ordre et la récupération rapide et sûre des pièces et documnets de toute nature. Elle vise à être aussi pratique et complète que possible. Elle se conforme aux lois de la logique, elle utilise les systématiques particulières et la classification des sciences. Mais elle renonce à être une œuvre de la raison théorique pour se borner à en être une de la raison pratique. La continuité, la stabilité, ses desiderata principaux, justifient le» discordances avec l’ordre scientifique rigoureux. Et son caractère propre dérive encore d’un autre fait. Devant servir à l’ordre dans les documents et non dans les idées, il ne lui suffit pas d’énumérer, dans ses divisions, des êtres et des phénomènes ; elle doit énumérer aussi des documents et la manière dont les notions y sont combinées et incorporées. Ce fait influence le groupement même des rubriques. La classification, en effet, doit pouvoir servir au classement des ouvrages anciens comme à celui des ouvrages modernes, à ceux qui développent leur sujet selon des plans traditionnels comme à ceux qui les développent seon des vue nouvelles. La classification bibliographique et documentaire est donc semblable, dans son développement, à une langue. On y a constamment ajouté, abandonnant au temps le soin de laisser tomber en désuétude quelques parties, mais ne procédant jamais par refonte radicale ni synthèse nouvelle. La langue possède des mots et des formes de tous les âges ; elle multiplie ses exceptions selon les besoins, elle n’a d’autre but que d’être expressive, c’est-à-dire de pouvoir tout dire et être sûre d'être comprise. Ainsi la classification, fleuve sans cesse accru de rivières, de ruisseaux, s’est constituée d’additions successives et a conservé dans son lit tout ce que le temps a charrié vers elle. Elle a cherché à tout classer et à permettre, à tout moment, de tout retrouver. Mais quoique désormais bien distinctes, la théorie logique des classes, la systématique, la classification des sciences et la classification documentaire s’influencent étroitement et les progrès de l’une profitent à toutes les autres.
+4° La classification bibliographique et documentaire, dont l’objet tout utilitaire est la mise en ordre et la récupération rapide et sûre des pièces et documnets de toute nature. Elle vise à être aussi pratique et complète que possible. Elle se conforme aux lois de la logique, elle utilise les systématiques particulières et la classification des sciences. Mais elle renonce à être une œuvre de la raison théorique pour se borner à en être une de la raison pratique. La continuité, la stabilité, ses desiderata principaux, justifient les discordances avec l’ordre scientifique rigoureux. Et son caractère propre dérive encore d’un autre fait. Devant servir à l’ordre dans les documents et non dans les idées, il ne lui suffit pas d’énumérer, dans ses divisions, des êtres et des phénomènes ; elle doit énumérer aussi des documents et la manière dont les notions y sont combinées et incorporées. Ce fait influence le groupement même des rubriques. La classification, en effet, doit pouvoir servir au classement des ouvrages anciens comme à celui des ouvrages modernes, à ceux qui développent leur sujet selon des plans traditionnels comme à ceux qui les développent seon des vue nouvelles. La classification bibliographique et documentaire est donc semblable, dans son développement, à une langue. On y a constamment ajouté, abandonnant au temps le soin de laisser tomber en désuétude quelques parties, mais ne procédant jamais par refonte radicale ni synthèse nouvelle. La langue possède des mots et des formes de tous les âges ; elle multiplie ses exceptions selon les besoins, elle n’a d’autre but que d’être expressive, c’est-à-dire de pouvoir tout dire et être sûre d'être comprise. Ainsi la classification, fleuve sans cesse accru de rivières, de ruisseaux, s’est constituée d’additions successives et a conservé dans son lit tout ce que le temps a charrié vers elle. Elle a cherché à tout classer et à permettre, à tout moment, de tout retrouver. Mais quoique désormais bien distinctes, la théorie logique des classes, la systématique, la classification des sciences et la classification documentaire s’influencent étroitement et les progrès de l’une profitent à toutes les autres.
 
 412.38 Taxonomie générale. Science de la classification.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -17965,7 +17973,7 @@ Il convient de le réserver a l’étude historique, comparée, théorique et te
 
 D’une manière générale toute classification est une création consciente. A ce point de vue, il est difficile de distinguer ici, comme dans la langue, entre ce qui est inconscient et conscient, naturel et artificiel, (Bien que dans la langue même il fallut dès l'origine reconnaître ce4 élément conscient.) Cependant entre le propos délibéré d’une classification universelle et la simple élaboration d’une classification empirique pouvant répondre à des besoins pratiques, il y a une distance telle qu’il importe de distinguer pour en traiter, comme dans la langue elle-même, trois disciplines distinctes.
 
-1° La Taxonomie historique et comparée, consacrée n 13 description des classifications existantes aux lois de leur production, h leur confrontation systématique. Dire C3 qui est, doit être ici la préoccupation exclusive.
+1° La Taxonomie historique et comparée, consacrée n 13 description des classifications existantes aux lois de leur production, à leur confrontation systématique. Dire C3 qui est, doit être ici la préoccupation exclusive.
 
 2° La Taxonomie constructive. — Elle s’attache a diriger l'évolution et la transformation des classifications existantes. (Depuis 1912, Ph. Karblinger a proposé une linguistique constructive ayant en vue de faire que 'es linguistes s'occupent des langues naturelles et de leur * évolution dirigée, de la même manière que les académies interlinguistiques s’occupent des langues artificielles).
 
@@ -17975,7 +17983,7 @@ L’aptitude logique est un attribut de la classification. Plus une classificati
 
 Il y a lieu également de placer les études de taxonomie dans le cadre plus général des études connexes : antécédentes, conséquentes ou parallèles • La classification a les rapports les plus étroits avec: 1° La Documentation.
 
-2° L'histoire des sciences. 3° La Philosophie générale des sciences. 4° La Logique : 5° Les études sur la langue et en particulier « l'interlinguïstique n ou études des langues artificielles. 6° Les données relatives à la notation en général (Symbolic, pasigraphie). 7° Celles relatives à la représentation graphique : schéma. 8° Les données relatives aux mesures (métrologie).
+2° L'histoire des sciences. 3° La Philosophie générale des sciences. 4° La Logique : 5° Les études sur la langue et en particulier « l'interlinguistique » ou études des langues artificielles. 6° Les données relatives à la notation en général (Symbolic, pasigraphie). 7° Celles relatives à la représentation graphique : schéma. 8° Les données relatives aux mesures (métrologie).
 
 412.4 Documents analytiques et synthétiques. Monographie et polygraphie.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -17993,11 +18001,11 @@ b) Formata appliqués par l'Institut International de liibtiographie.
 
 Ces formats, déterminés, en centimètres, sont :
 
-1° Format fiche: 7.5 X 12.5 posée dans le sens de la largeur. Ce format a été adopté par les Conférences Internationales de Bibliographie. C'est le format de l’nncienne carte postale universelle. Il y a concordance entre les mesures métriques {7.5 X 12.5) et les mesure* anglaises (3" x 5").
+1° Format fiche: 7.5 X 12.5 posée dans le sens de la largeur. Ce format a été adopté par les Conférences Internationales de Bibliographie. C'est le format de l’nncienne carte postale universelle. Il y a concordance entre les mesures métriques {7.5 X 12.5) et les mesures anglaises (3" x 5").
 
-2° Le format quarto (dit machine ou coquille) : 21.5 X 27.5. Format appliqué au* dossiers des archives documentaires. Les publications faites en ce format se recommandent particulièrement pour les motifs suivants :
+2° Le format quarto (dit machine ou coquille) : 21.5 X 27.5. Format appliqué aux dossiers des archives documentaires. Les publications faites en ce format se recommandent particulièrement pour les motifs suivants :
 
-a) In division en deux colonnes donne la justification conforme aux desiderata de la physiologie de 1' oeil ; b) la disposition des marge» apporte une économie aux frais d'impression à égalité de matière imprimée; c) l'identité de formats avec celui de la correspondance et des notes dactylographiées facilite l'insertion dans les dossiers des fascicules ou des feuillets qui en sont détachés.
+a) In division en deux colonnes donne la justification conforme aux desiderata de la physiologie de l'œil ; b) la disposition des marges apporte une économie aux frais d'impression à égalité de matière imprimée; c) l'identité de formats avec celui de la correspondance et des notes dactylographiées facilite l'insertion dans les dossiers des fascicules ou des feuillets qui en sont détachés.
 
 3° Le format carte postale, à raison du grand nombre de documents photographiques édités à cette grandeur (9 X 14) posé dans le sens de la largeur.
 
@@ -18024,7 +18032,7 @@ La préférence doit aller à la série A et on ne doit passer aux séries suiva
 
 d) Aux Etats-Unis et en Grande-Bretagne les essais
 ont porté sur la simplification du nombre de formats
-existants. Constatant que le format DIN entraîne une dépense supplémentaire de papier d'environ 10 %, on a élaboré en France tn nouveau système basé sur les nombres Renard, dits aussi ■ nombres normaux » déjà appliqués internationalement dans diverses industries, notamment la métallurgie et l’électricité et applicables à tous les problèmes, formats, poids et tolérances diverses. Le principe est celui-ci: clans l’établissement d’une série rationnelle de nombres ooiasants, représentant des dim rn-sions, poids, surfaces, volumes, vitesse, puissances, mesures quelconques, les écarts séparant deux nombres consécutifs de cette *érie doivent être progressifs et calculés proportionnellement aux nombres qui les encadrent. Le format français proposé est une série principale : carré 45 X 56 cm. (format actuel) deux séries complémentaires, Raisin 50 X 64 cm.. Jésus 56 X 72 cm. (I)
+existants. Constatant que le format DIN entraîne une dépense supplémentaire de papier d'environ 10 %, on a élaboré en France tn nouveau système basé sur les nombres Renard, dits aussi « nombres normaux » déjà appliqués internationalement dans diverses industries, notamment la métallurgie et l’électricité et applicables à tous les problèmes, formats, poids et tolérances diverses. Le principe est celui-ci: clans l’établissement d’une série rationnelle de nombres ooiasants, représentant des dim rn-sions, poids, surfaces, volumes, vitesse, puissances, mesures quelconques, les écarts séparant deux nombres consécutifs de cette *érie doivent être progressifs et calculés proportionnellement aux nombres qui les encadrent. Le format français proposé est une série principale : carré 45 X 56 cm. (format actuel) deux séries complémentaires, Raisin 50 X 64 cm.. Jésus 56 X 72 cm. (I)
 
 Pratiquement on obtient pour l'in-quarto carré soit le papier machine ou format feuille opposé au format fiche. 1° Format DIN A4. 21 X 29,7 cm. 2° Format traditionnel français in~4° coquille 21 X 27 cm. 3° Format en dimension Renard 21.5 X 27 cm.
 
@@ -18032,18 +18040,18 @@ e) On a cherché aussi une standardisation du poids du papier selon une gamme no
 
 Pratiquement et approximativement on divise le poids en grammes au mètre carré par 8 pour le carré et en obtient en chiffres arrondis le poids en kilogrammes à la rame correspondante. Inversement on multiplie par 8 le poids en kilogrammes de la rame pour obtenir le poids en grammes au mètre carré. Les papiers seraient désormais livrés et facturés au poids net.
 (1) Voir rapport de M. J. Danguin à la XII8 Conférence de TI. I. D.
-f) Dans l’édition (procédé de l’Offset par ex.) de formulaires, aides-mémoires des ingénieurs, etc., notamment dans les bureaux d’études, on est appelé à reproduire des dessins, croquis, pions, formules, composition quelconque. La commodité et le minimum de perte exigent que les rapports de dimensions (largeur et longueur) de» formats des documents à reproduire et de ceux destinés à recevoir la reproduction soient identiques ou très rapprochés. Les systèmes DIN et Renard y répondent.
+f) Dans l’édition (procédé de l’Offset par ex.) de formulaires, aides-mémoires des ingénieurs, etc., notamment dans les bureaux d’études, on est appelé à reproduire des dessins, croquis, pions, formules, composition quelconque. La commodité et le minimum de perte exigent que les rapports de dimensions (largeur et longueur) des formats des documents à reproduire et de ceux destinés à recevoir la reproduction soient identiques ou très rapprochés. Les systèmes DIN et Renard y répondent.
 
-g) En résumé la noimalisation du papier est en voie de s’opérer sans être encore acquise. Pour la réaliser, il faudra tenir compte de ces deux facteurs: 1° Les rapports plus ou moins étroits mais indéniables qu'ont entr’elles des industries qui paraissent à première vue totalement indépendantes et les fabrications correspondantes ; par ex. : éléments de machines à fabriquer le papier, éléments de machines d’imprimerie, caractères d'imprimerie, emballages, réceptacles. 2° Les desiderata de tous les intéressés doivent être pris en considération: ceux des usagers, la consommation, doit av)ir le primat sur la production en premier lieu et en tenant compte des efforts antérieurs accumulés dans les bibliothèques, dans les offices de documentation, dans l’I. I. B. ; en tenant compte aussi des gros utilisateurs Je papier, tels que administrations publiques, banques, compagnies de chemins de fer, grosses industries ; des intérêts des producteurs : fabricants de papier, le» imprimeurs, les constructeurs de machines à imprimer, les transformateurs du papier, les constructeurs de machines à transformer le papier.
+g) En résumé la noimalisation du papier est en voie de s’opérer sans être encore acquise. Pour la réaliser, il faudra tenir compte de ces deux facteurs: 1° Les rapports plus ou moins étroits mais indéniables qu'ont entr’elles des industries qui paraissent à première vue totalement indépendantes et les fabrications correspondantes ; par ex. : éléments de machines à fabriquer le papier, éléments de machines d’imprimerie, caractères d'imprimerie, emballages, réceptacles. 2° Les desiderata de tous les intéressés doivent être pris en considération: ceux des usagers, la consommation, doit av)ir le primat sur la production en premier lieu et en tenant compte des efforts antérieurs accumulés dans les bibliothèques, dans les offices de documentation, dans l’I. I. B. ; en tenant compte aussi des gros utilisateurs Je papier, tels que administrations publiques, banques, compagnies de chemins de fer, grosses industries ; des intérêts des producteurs : fabricants de papier, les imprimeurs, les constructeurs de machines à imprimer, les transformateurs du papier, les constructeurs de machines à transformer le papier.
 
 412.6 Le système de fiches ou feuilles et le système des livres, fascicules ou registres.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. — Le livre traditionnel est formé de feuillets reliés portant chacun un texte en lignes à lire de gauche à droite et successivement de haut en bas (les Orientaux écrivent et lisent des ligne» de haut en bas : les ancirn» avaient de» ■ volumes » où le texte était enroulé).
+1. — Le livre traditionnel est formé de feuillets reliés portant chacun un texte en lignes à lire de gauche à droite et successivement de haut en bas (les Orientaux écrivent et lisent des lignes de haut en bas : les ancirn» avaient des « volumes » où le texte était enroulé).
 
 2. — En fait, le contenu d’un livre peut être représenté par une seule ligne continue mais sectionnée en parties égales qui correspondent chacune à une page et ensuite n une ligne de page. Ce sect'onnement est matériel : il ne concorde pas avec le sectionnement selon les divisions intellectuelles de l'idée (chapitres, sections, paragraphe», alinéas).
 
-3. — l a disposition sous forme de feuilles ou fiches mobiles qui ne soient pas fixées par brochage ou reliure, permet d’obtenir les avantages des trois principes suivants :
+3. — La disposition sous forme de feuilles ou fiches mobiles qui ne soient pas fixées par brochage ou reliure, permet d’obtenir les avantages des trois principes suivants :
 
 a) Principe de la monographie. Chaque élément intellectuel d’un livre est (après avoir été sectionné de l’ensemble du texte) incorporé en un élément matériel correspondant.
 
@@ -18072,13 +18080,13 @@ Un même document ne peut figurer en même temps qu’à une seule place, et cep
 412.8 Le système des répertoires et classement.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Le Répertoire a grandi petit à petit à côté du livre et ses"perfectionnements tendent à créer un type nouveau qui modifie radicalement notre conception traditionnelle.
+Le Répertoire a grandi petit à petit à côté du livre et ses perfectionnements tendent à créer un type nouveau qui modifie radicalement notre conception traditionnelle.
 
 Un livre, au point de vue de sa forme, peut être défini un ensemble de pages coupées de même format et rattachées ensemble de manière à former un tout. Il n’en a pas été toujours ainsi. Longtemps le livre fut un rouleau, un volume (volumen). Sur la matière qui remplaçait alors le papier, papyrus et parchemin, on écrivait alors sans discontinuité, du commencement à la fin. Pour lire un
 
 412 I
 
-tel livre, il fallait le dérouler. C'était assurément peu pratique pour la consultation de tels ou tels passages et pour l’écriture au verso. Le Codex, qui fut introduit dès les premiers siècles de notre ère, et qui est la base de notre livre actuel, obvie à ces inconvénients. Il est formé de feuilles pliées, disposées en pages qui se superposent. pivotant autour de l’axe du dos engagé dans la reliure ou le brochage et pouvant recevoir l'écriture au recto et au verso. Mais ses défauts sont nombreux. Il constitue une chose finie, terminée, non susceptible d’accroissement. La Revue, avec scs fascicules successifs, est venue donner à la science un moyen continu de concentrer ses résultats ; mais, à son tour, le recueil qu’elle forme a rencontré l'obstacle du désordre. Impossible de rassembler les notices portant sur des matières similaires ou connexes ; elles s'ajoutent pêle-mêle les unes aux autres dans les numéros successifs de la publication, et quand il s’agit d’y opérer des recherches, force est de manipuler des masses volumineuses et lourdes de papier. Les Tables y aident sans doute -t de là les améliorations qu'on y a apportées : tables de rentière», les unes systématiques, les autres analytiques; tables des noms de personnes et de lieux. Les tables annuelles sont précédées de sommaires mensuels et suivies de tables générales, refondues tous les cinq, dix ou vingt-cinq ans. C’est un progrès, mais le Répertoire en est un plus grand encore.
+tel livre, il fallait le dérouler. C'était assurément peu pratique pour la consultation de tels ou tels passages et pour l’écriture au verso. Le Codex, qui fut introduit dès les premiers siècles de notre ère, et qui est la base de notre livre actuel, obvie à ces inconvénients. Il est formé de feuilles pliées, disposées en pages qui se superposent. pivotant autour de l’axe du dos engagé dans la reliure ou le brochage et pouvant recevoir l'écriture au recto et au verso. Mais ses défauts sont nombreux. Il constitue une chose finie, terminée, non susceptible d’accroissement. La Revue, avec ses fascicules successifs, est venue donner à la science un moyen continu de concentrer ses résultats ; mais, à son tour, le recueil qu’elle forme a rencontré l'obstacle du désordre. Impossible de rassembler les notices portant sur des matières similaires ou connexes ; elles s'ajoutent pêle-mêle les unes aux autres dans les numéros successifs de la publication, et quand il s’agit d’y opérer des recherches, force est de manipuler des masses volumineuses et lourdes de papier. Les Tables y aident sans doute -t de là les améliorations qu'on y a apportées : tables de rentière», les unes systématiques, les autres analytiques; tables des noms de personnes et de lieux. Les tables annuelles sont précédées de sommaires mensuels et suivies de tables générales, refondues tous les cinq, dix ou vingt-cinq ans. C’est un progrès, mais le Répertoire en est un plus grand encore.
 
 Le Répertoire a pour principe de dissocier ce que le livre a amalgamé, de ramener tout complexe à ses éléments et de consacrer une page à chacun de ceux-ci. Les pages sont ici, suivant le format, des feuilles ou des fiches. C’est le principe de la monographie poussé jusqu’à ses dernières limites. Plus de reliure, ou s'il en existe une elle est mobile, c’est-à-dire qu'à tout moment les fiches rassemblées par une broche, une tringle de fixation, un anneau, une ligature quelconque, peuvent reprendre leur indépendance ; jn peut y intercaler des fiches nouvelle», déplacer les anciennes et procéder à un reclassement.
 
@@ -18114,7 +18122,7 @@ d) Les ouvrages et articles seront analysés et il y a des règles à cet effet,
 e) On pourra dans l'organisation de ta Bibliothèque et de Collections de documents eux-mêmes disposer les pièces dans l'ordre strict de la classification, intercaler à leur place, quand les ouvrages ont des références multiples, des cartons repérés à tel nombre comme il est fait des Eches de références dans les catalogues, on pourra même diviser une grande Bibliothèque encyclopédique en sections correspondant aux principales divisions de la classification, de manière à rapprocher les travailleurs eux-mêmes des ouvrages et à leur donner libre accès aux rayons; mais on peut n'appliquer le principe du classement systématique sur les rayons qu’à la salle de lecture et y donner libre accès aux rayons, tandis que dans les magasins l'ordre suivi serait celui des numéros d'accession ou d'inventaire, avec éventuellement respect des divers fonds antérieurement constitués.
 413 Moyens matériels;Matières et outillage; Mobilier; Installations.
 
-a) Tandis que les méthodes sont des moyens intellectuels de réaliser des œuvres et des ensembles. Il est indispensable aussi de disposer de moyens matériels: 1° outillage; 2" mobilier; 3° installation; 4° matières.
+a) Tandis que les méthodes sont des moyens intellectuels de réaliser des œuvres et des ensembles. Il est indispensable aussi de disposer de moyens matériels: 1° outillage; 2° mobilier; 3° installation; 4° matières.
 
 413.0 Généralités.
 ^^^^^^^^^^^^^^^^^^^
@@ -18125,11 +18133,11 @@ La main de l’homme est et reste le premier des outils et, quels que soient les
 
 2. — But • Le but de la machine est d’aider, remplacer ou intensifier la puissance de l'homme dans ces trois directions.
 
-3. — Opération : La machine est ap*>elée à s'appliquer
+3. — Opération : La machine est appelée à s'appliquer
 
 aux trois opérations : a) Ecrire (machines à écrire, à imprimer, à photographier), b) Lire (gramophone, machines à projeter), c) Pensée (enregistrer les observations: thermomètre, baromètre-enregistreur : combiner les don-
 
-nées : machines à calculer et h résoudre les équat'ons, faisant les quatre opérations arithmétiques fondamentales, établissant les moyennes et les proportions).
+nées : machines à calculer et à résoudre les équations, faisant les quatre opérations arithmétiques fondamentales, établissant les moyennes et les proportions).
 
 413.1 Outillage. Les machines du travail intellectuel.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -18152,31 +18160,31 @@ Pour marquer ou nous ont conduit les perfectionnements les plus récents, il con
 
 La première fonction est l'enregistrement.
 
-413.121.1 Dicter. — Machin« pour la fixation de la parole. Le dictaphone enregistre selon les principes du phonographe. Il a été inventé une machine h sténographier en écriture lisible, la sténotype.
+413.121.1 Dicter. — Machine pour la fixation de la parole. Le dictaphone enregistre selon les principes du phonographe. Il a été inventé une machine à sténographier en écriture lisible, la sténotype.
 
-413.121.2 Ecrire. — Les machines à écrire sont devenues de» instruments ultra-perfectionnés. Le clavier s'universalise ; les machines sont sans bruit ; on peut leB emporter en de petites valises de peu de poids ; on en a rendu interchangeables les parties de manière à remplacer les éléments visés sans devoir sacrifier tout le bâti.
+413.121.2 Ecrire. — Les machines à écrire sont devenues des instruments ultra-perfectionnés. Le clavier s'universalise ; les machines sont sans bruit ; on peut leB emporter en de petites valises de peu de poids ; on en a rendu interchangeables les parties de manière à remplacer les éléments visés sans devoir sacrifier tout le bâti.
 
 413.122 MULTIPLICA TION.
 .........................
 
-A la machine à écrire par frappe à plat, on obtient eti une fois jusque 20 copies carbone (Elliot Fisher). Les duplicateurs se sont fort perfectionnés depuis le minéo-graphe Edison. Leur stensil se conserve longtemps et peut servir plusieurs fois. On a dans la « roto-métal » une véritable petite imprimerie permettant d'obtenir des texte» cl des dessins ci de conserver indéfiniment les clichés obtenus sur plaoue métallique. Pour certains éléments fréquemment employés, on a les clichés formés par les adressographes, clichés qui peuvent se relier les uns aux autres en longues chaînes.
+A la machine à écrire par frappe à plat, on obtient eti une fois jusque 20 copies carbone (Elliot Fisher). Les duplicateurs se sont fort perfectionnés depuis le minéo-graphe Edison. Leur stensil se conserve longtemps et peut servir plusieurs fois. On a dans la « roto-métal » une véritable petite imprimerie permettant d'obtenir des textes cl des dessins ci de conserver indéfiniment les clichés obtenus sur plaoue métallique. Pour certains éléments fréquemment employés, on a les clichés formés par les adressographes, clichés qui peuvent se relier les uns aux autres en longues chaînes.
 
 413.123 OPERATIONS ET TRANSFORMATIONS.
 .......................................
 
 413.123.1 Calculer. - Les plus fondamentales des opérations intellectuelles se font aujourd'hui par machines; ce sont les opérations du calcul : additionner, soustraire, multiplier, diviser, est. aire les racines. Le choix des machines est grand, depuis la simple règle à calcul jusqu'à la machine agencée.
 
-413.123.2 Comptabiliser. Il s'agit ici de réaliser en liaison trois opérations écrire, calculer, répéter l’écriture selon les divers ordres de classement adoptés : opération par ordre chronologique ou journal, opérations par entités, physiques ou juridico'économique*. opérations par comptes internes représentant des ensembles. On a imaginé le principe de récriture ou de ta frappe à la machine unique, » opérer non plu» par »impie copie, mai» par superposition des divers documents comptables qui ont à recevoir la même inscription, mais chacune dans leurs cadres appropriés. Des systèmes divers existent, modalité du même principe, dont le papier carbone est le médium. Mais il y a du carbone plus ou moins bon, sensible, ineffaçable, ne salissant pas ; il y a des dispositions ingénieuses pour rendre plus rapide et plus sûre l’intercalation des documents qui doivent recevoir les mêmes mentions.
-Il y a le principe de la machine Elliot Fisher qui procède dactylographlquement, qui opère simultanément les calculs en colonnes, horizontales et verticales, retient et transcrit séparément le» totaux seulement, facilite le» inscriptions multiples nui pièces diverses et procède éventuellement avec des papiers en bobines dont le découpage ne peut se faire qu’ultérieurement.
+413.123.2 Comptabiliser. Il s'agit ici de réaliser en liaison trois opérations écrire, calculer, répéter l’écriture selon les divers ordres de classement adoptés : opération par ordre chronologique ou journal, opérations par entités, physiques ou juridico'économique*. opérations par comptes internes représentant des ensembles. On a imaginé le principe de récriture ou de ta frappe à la machine unique, » opérer non plus par »impie copie, mai» par superposition des divers documents comptables qui ont à recevoir la même inscription, mais chacune dans leurs cadres appropriés. Des systèmes divers existent, modalité du même principe, dont le papier carbone est le médium. Mais il y a du carbone plus ou moins bon, sensible, ineffaçable, ne salissant pas ; il y a des dispositions ingénieuses pour rendre plus rapide et plus sûre l’intercalation des documents qui doivent recevoir les mêmes mentions.
+Il y a le principe de la machine Elliot Fisher qui procède dactylographlquement, qui opère simultanément les calculs en colonnes, horizontales et verticales, retient et transcrit séparément les totaux seulement, facilite les inscriptions multiples nui pièces diverses et procède éventuellement avec des papiers en bobines dont le découpage ne peut se faire qu’ultérieurement.
 
-413.123.3 Sélectionner. — Cette opération est réalisée par les machines Power et Hollerith. Le principe est l'emploi des fiches perforées selon les lignes des colonnes allant jusqu’à 44 et même 85 et représentant chacune les dix chiffres. Qu’il s'agisse des quantités et des nombres qui les représentent, ou des caractéristiques avec leur degré traduit en nombre, les perforations y relatives sont opérées par perforateur à clavier. De toutes les fiches mise» au hasard en paquet, la sélectionneuse écarte seulement celles qui répondent à une ou à plusieurs conditions (categorie ou classement). La calculatrice installée sur la sélectionneuse même opère les additions et groupements de chiffres. La machine à écrire, qui y est également adjointe, enregistre les résultats. Certes, ces machines merveilleuses laissent entrevoir un vaste avenir pour le travail de la documentation. Elles reposent essentiellement sur la réduction des données caractéristiques d’une matière que’conque en un code chiffré, la transcription des données de toute feuille d’information sur des fiches perforées ayant maintenant 85 colonnes, la réunion et la conservation de ces fiches dans n’importe quel ordre. L machine à sélectionner pouvant à tout moment extraire des tas celles qui répondent à des questions données. Deux applications peuvent être entrevues, l'une aux fiches (ratalographique*. bibliographiques, signalétiques). l’autre aux feuilles mobiles servant à toute documentation et même correspondance et dont le talon serait disposé en tableau de nombre à perforer. Ces nombres seraient ceux d~ la classification décimale.
+413.123.3 Sélectionner. — Cette opération est réalisée par les machines Power et Hollerith. Le principe est l'emploi des fiches perforées selon les lignes des colonnes allant jusqu’à 44 et même 85 et représentant chacune les dix chiffres. Qu’il s'agisse des quantités et des nombres qui les représentent, ou des caractéristiques avec leur degré traduit en nombre, les perforations y relatives sont opérées par perforateur à clavier. De toutes les fiches mises au hasard en paquet, la sélectionneuse écarte seulement celles qui répondent à une ou à plusieurs conditions (categorie ou classement). La calculatrice installée sur la sélectionneuse même opère les additions et groupements de chiffres. La machine à écrire, qui y est également adjointe, enregistre les résultats. Certes, ces machines merveilleuses laissent entrevoir un vaste avenir pour le travail de la documentation. Elles reposent essentiellement sur la réduction des données caractéristiques d’une matière que’conque en un code chiffré, la transcription des données de toute feuille d’information sur des fiches perforées ayant maintenant 85 colonnes, la réunion et la conservation de ces fiches dans n’importe quel ordre. L machine à sélectionner pouvant à tout moment extraire des tas celles qui répondent à des questions données. Deux applications peuvent être entrevues, l'une aux fiches (ratalographique*. bibliographiques, signalétiques). l’autre aux feuilles mobiles servant à toute documentation et même correspondance et dont le talon serait disposé en tableau de nombre à perforer. Ces nombres seraient ceux d~ la classification décimale.
 
 413.124 CONSERVATION ET CONSULTATION ULTERIEURE DES DONNEES.
 .............................................................
 
-413.124.1 Individualiser lez donnée*. — Le principe des fiches a été généralisé. Il réalise le principe de la « monographie * (inscription d une seule espèce), la mobilité (intercalation à volonté), l’accumulation des données sans retranscription ni recouvrement, la coopération, les fiches, établies n'importe où. pouvant se rejoindre ensuite pour former un seul ensemble.
+413.124.1 Individualiser les données. — Le principe des fiches a été généralisé. Il réalise le principe de la « monographie » (inscription d'une seule espèce), la mobilité (intercalation à volonté), l’accumulation des données sans retranscription ni recouvrement, la coopération, les fiches, établies n'importe où. pouvant se rejoindre ensuite pour former un seul ensemble.
 
-413.124.2 Conserver. — Des meubles dits c classeurs »
+413.124.2 Conserver. — Des meubles dits « classeurs »
 
 ou * fichiers » ont été réalisés aux fins de conservation des fiches et des feuilles isolées ou groupées. Ce sont des tiroirs à classement vertical ; on y forme des groupes à l'aide de fiches divisionnaires et des dossiers. On dispose
 
@@ -18185,18 +18193,18 @@ ou * fichiers » ont été réalisés aux fins de conservation des fiches et des
 
 413 OUTILLAGE *389*
 
-de « cavalier« » de toute couleur pour présenter k la vue les caractéristiques à n.ettre en évidence en fin du classe* ment principal.
+de « cavaliers c de toute couleur pour présenter à la vue les caractéristiques à n.ettre en évidence en fin du classe* ment principal.
 
-Il y a aussi les livres à reliure de feuillets mobiles, qu'il» soient à anneaux ou du type Kolonazo.
+Il y a aussi les livres à reliure de feuillets mobiles, qu'ils soient à anneaux ou du type Kolonazo.
 
 413.124.3 Classer. — La mise en ordre des fiches est assurée par la classification dont la classification décimale représente le type le plus avancé. Ses indices numériques une fois portés sur les fiches en facilitent le classement régulier.
 
 413.124.5 Consulter. Retrouver rapidement les données enregistrées, conservées et classées. Fiches, fichiers ou livre mobile, classification, sont déjà des moyens de faciliter considérablement la consultation. Mais on a été plus loin en $’ avança ni dans deux directions, la visibilité et l'accessibilité.
 
-a) Pour assurer la visibilité, devant T impossibilité de tout étaler, on a cherché à faire voir de chaque fiche une petite surface sui laquelle puissent être portées les inscriptions essentielles (appareils cardcx, (index, etc.). On a ainsi des dispositifs où les fiches sont placées horizontalement en des tiroirs plats et y sont superposées, sauf sur la largeur d'une bande, et sont individuellement fixées par quelque système. Comme il faut pouvoir retirer les fiches rapidement afin d'y porter les inscriptions des comptes selon la méthode de la frappe unique, on a perfectionné les premiers dispositifs ; les fiches sont placées verticalement dans des baquets ayant forme de tiroirs, mais selon un échelonnement répété. En outre la fiche est distincte du porte-fiche; tandis que celui-ci demeure fixé la fiche peut s’enlever pour toute écriture nécessaire, pour tout traitement à l'aide de la sélectionneuse-trieuse. D'autre p*rt le livre à reliure mobile est à volonté placé, lui aussi, dans un baquet où après c reliure » les feuilles reprennent le caractère de fiches mobiles et peuvent être lues de haut en bas sans déplacement, ou bien être enlevées pour n'importe quelle manipulation complémentaire.
+a) Pour assurer la visibilité, devant l'impossibilité de tout étaler, on a cherché à faire voir de chaque fiche une petite surface sui laquelle puissent être portées les inscriptions essentielles (appareils cardcx, (index, etc.). On a ainsi des dispositifs où les fiches sont placées horizontalement en des tiroirs plats et y sont superposées, sauf sur la largeur d'une bande, et sont individuellement fixées par quelque système. Comme il faut pouvoir retirer les fiches rapidement afin d'y porter les inscriptions des comptes selon la méthode de la frappe unique, on a perfectionné les premiers dispositifs ; les fiches sont placées verticalement dans des baquets ayant forme de tiroirs, mais selon un échelonnement répété. En outre la fiche est distincte du porte-fiche; tandis que celui-ci demeure fixé la fiche peut s’enlever pour toute écriture nécessaire, pour tout traitement à l'aide de la sélectionneuse-trieuse. D'autre p*rt le livre à reliure mobile est à volonté placé, lui aussi, dans un baquet où après c reliure » les feuilles reprennent le caractère de fiches mobiles et peuvent être lues de haut en bas sans déplacement, ou bien être enlevées pour n'importe quelle manipulation complémentaire.
 
-b) L'accessibilité des fiches est rendue plus facile par ce» divers dispositifs. Il advient cependant que si le* documents deviennent très nombreux, la multiplication nécessaire des classeurs ou des livres mobiles exige des déplacements pour la consultation. S’il s'agit d’une simple intercalation, il n’y a guère de difficultés. Mais il n en est plus de même s'il s’agit de la récupération des documents pour y apporter une écriture complémentaire qui doit se faire sur une machine fixe (par ex. la frappe multiple, ou même, la contfrontation rapide des pièces qu'il faut avoir sou» le» yeux pour déterminer ou vérifier quelques rapports entre données fixes). L'idéal serait d'avoir tout document k portée de la main. De Ik des tables de travail avec tiroirs divers, des dispositifs de tables circulaires avec siège rotatif au centre, des meubles classeurs k la portée de la main et des yeux et installés
-sur roues. Un principe nouveau vient d'être réalisé : le classeur sur rail à moteur électrique. On le place sur le sol perpendiculaire à la table de travail. Il avance ou recule sous l'action de« doigts opérées sur une simple roulette. Sans déplacement de la personne, le document désiré vient s'offrir À la main et A 1 oeil.
+b) L'accessibilité des fiches est rendue plus facile par ces divers dispositifs. Il advient cependant que si les documents deviennent très nombreux, la multiplication nécessaire des classeurs ou des livres mobiles exige des déplacements pour la consultation. S’il s'agit d’une simple intercalation, il n’y a guère de difficultés. Mais il n en est plus de même s'il s’agit de la récupération des documents pour y apporter une écriture complémentaire qui doit se faire sur une machine fixe (par ex. la frappe multiple, ou même, la contfrontation rapide des pièces qu'il faut avoir sous les yeux pour déterminer ou vérifier quelques rapports entre données fixes). L'idéal serait d'avoir tout document à portée de la main. De Ik des tables de travail avec tiroirs divers, des dispositifs de tables circulaires avec siège rotatif au centre, des meubles classeurs à la portée de la main et des yeux et installés
+sur roues. Un principe nouveau vient d'être réalisé : le classeur sur rail à moteur électrique. On le place sur le sol perpendiculaire à la table de travail. Il avance ou recule sous l'action de« doigts opérées sur une simple roulette. Sans déplacement de la personne, le document désiré vient s'offrir à la main et à l'œil.
 
 413.125 TRANSPORT DES DOCUMENTS.
 .................................
@@ -18205,7 +18213,7 @@ Le transport des documenta nécessite des dispositions et des classeurs spéciau
 
 1° Le carnet de fiches. — (Petit format, voir sa description). Le portefeuille pour les pièces précieuses (format en harmonie avec le carnet). Eventuellement le carnet de fiches peut contenir la carte d'identité et la monnaie de papier.
 
-2° La serviette ou portefeuille (grand format). — Trois types possibes : a) serviette n deux poches, avec soufflets se repliant l’une sur l'autre; b) serviette K une poche avec fermeture k clé; c) portefuille pouvant se pincer verticalement sur la table et offrant les documents dans un ordre classé.
+2° La serviette ou portefeuille (grand format). — Trois types possibes : a) serviette n deux poches, avec soufflets se repliant l’une sur l'autre; b) serviette K une poche avec fermeture à clé; c) portefuille pouvant se pincer verticalement sur la table et offrant les documents dans un ordre classé.
 
 3° Les sacs de toile pour le voyage, petit et grand format, couleur grise ou noire. — ils ne pèsent pas et permettent! de maintenir distincts les papiers, de les transporter en un ordre classé, car il suffit d'enlever, dans leur ordre, fiches et dossiers des classeurs et de les placer dans les sacs. Ceux-ci n'importe où, sur une table, une cheminée, une planche d'armoire, permettront de reconstituer un classement vertical. Les livres a emporter pourront éventuellement être emballés dans des sacs en toile analogues.
 
@@ -18214,25 +18222,25 @@ Le transport des documenta nécessite des dispositions et des classeurs spéciau
 413.13 INVENTIONS A FAIRE.
 """""""""""""""""""""""""""
 
-Les inventions ne sont pas dues exclusivement aux inventeurs. Les usagers des inventions peuvent utilement agir *ui leur production en faisant connaître ce qu’iU désireraient voir inventer. Un problème bien posé est à moitié résolu, dit l'adage. Cette moitié revient en tache notamment aux organisations internationales qui rendent service k tous leurs membres en concentrant chacune en une liste permanente, révisée et tenue à jour, le» principaux desiderata proposés k l’attention des inventeurs. (I) (I)
-(I) 11 y a une vingtaine d'années une liste d’inventions-clé* fut dressée et publiée en. liaison avec le» Office» de Brevets (M. Michel). Ces Inventions étaient celles sur
+Les inventions ne sont pas dues exclusivement aux inventeurs. Les usagers des inventions peuvent utilement agir *ui leur production en faisant connaître ce qu’iU désireraient voir inventer. Un problème bien posé est à moitié résolu, dit l'adage. Cette moitié revient en tache notamment aux organisations internationales qui rendent service à tous leurs membres en concentrant chacune en une liste permanente, révisée et tenue à jour, les principaux desiderata proposés à l’attention des inventeurs. (I) (I)
+(I) Il y a une vingtaine d'années une liste d’inventions-clé* fut dressée et publiée en. liaison avec les Offices de Brevets (M. Michel). Ces Inventions étaient celles sur
 
 
 ====
 
-*390*  ORGANISATION RATIONNELLE DuTlVRE 413
+*390*  ORGANISATION RATIONNELLE DU LlVRE 413
 
-fi n’est question ci-après que des inventions désirées dans le domaine de la Bibliographie et de la Documen-talion. L’invention est la mise en oeuvre de l'imagination créatrice guidée par les principes scientifiques. Elle peut porter soit sur une machine ou appareil, sur un dispositif, sur une méthode ou sur un mode d'organisation et de coopération.
+fi n’est question ci-après que des inventions désirées dans le domaine de la Bibliographie et de la Documen-tation. L’invention est la mise en œuvre de l'imagination créatrice guidée par les principes scientifiques. Elle peut porter soit sur une machine ou appareil, sur un dispositif, sur une méthode ou sur un mode d'organisation et de coopération.
 
-1. Impression. — Un procédé pour impressionner les feuilles de papier en masse sans avoir h les déployer et à les passer sous la presse. (Suggestion : impression au rayon X de papier coupé h dimension et disposé en tas.)
+1. Impression. — Un procédé pour impressionner les feuilles de papier en masse sans avoir à les déployer et à les passer sous la presse. (Suggestion : impression au rayon X de papier coupé à dimension et disposé en tas.)
 
 2. Clichés. — Moyen économique et rapide de produire les clichés à insérer dans les textes imprimes. (Suggestion : s'inspirer de ce qui a été fait pour la musique où la continuité de la portée de ses notes a é’é réalisée au moyen d éléments distincts. Une « police » de ligne courbes cl bridées, de surfaces polygonales et circulaires, unités élémentaires de tout diagrammes, figures, dessins simplifiés qui pourraient être composés a la main.)
 
 3. Photographie. — a) Un papier sensible (photographie) bon marché permettant sans grandes dépenses la reproduction des textes et des images extraits des livres et documents (une substance moins coûteuse que l'argent),
 
-b) Un appareil de poche permettant de photographier instantanément cl économiquement tout passage ou image d un livre à consulter dans une bibliothèque ou en lecture sur la table de travail, c) Un moyen de fixer sur papier transparent les photographies projetées en grand afin d obtenir ainsi un cliché ou calque pouvant servir à Ja multiplication héliographique.
+b) Un appareil de poche permettant de photographier instantanément et économiquement tout passage ou image d'un livre à consulter dans une bibliothèque ou en lecture sur la table de travail, c) Un moyen de fixer sur papier transparent les photographies projetées en grand afin d obtenir ainsi un cliché ou calque pouvant servir à Ja multiplication héliographique.
 
-4. tenture. — a) Combiner un stylet avec des crayons de plusieurs couleurs et la gomme à effacer, b) Intensifier la rapidité d'écriture à l aide des machines. (Suggestion : écrire des mots entiers, voire des phrases. Voie ouverte par la machine de l'inventeur C. C. Bolston.)
+4. tenture. — a) Combiner un stylet avec des crayons de plusieurs couleurs et la gomme à effacer, b) Intensifier la rapidité d'écriture à l'aide des machines. (Suggestion : écrire des mots entiers, voire des phrases. Voie ouverte par la machine de l'inventeur C. C. Bolston.)
 
 3. I.eciurc. — Imaginer une machine, un dispositif ou une méthode permettant d’accroître la rapidité soit de la lecture ou soit de la prise de connaissance du contenu d'un texte, d'un livre, d'un document quelconque.
 
@@ -18246,7 +18254,7 @@ d) Pouvoir sélectionner, parmi un ensemble de fiches diverses, celles qui porte
 
 7. écriture et lecture directe. — Transformation mécanique de la parole en écriture lisible et inversement de l’écriture en parole. (Suggestion : se baser sur une écriture phonétique, photographie d'une part, gramophone d'autre part. Transformer les inscriptions sur les disques en lettres et les lettres en sons.)
 
-8. I éléleciure. — Comme application particulière de la télévision. 1° Donner* des textes en lecture h distance. 2“ Permettre à chacun par un dispositif approprié de prendre connaissance à distance de textes publiquement exposés à cet effet. 3° Permettre la vision à distance des textes de livres disposés sur les rayons d’une bibliothèque ou des feuilles réunies en dossiers dans les classeurs. (Service: accroître ainsi la diffusion des collections des Bibliothèques et des Offices de documentation.)
+8. I éléleciure. — Comme application particulière de la télévision. 1° Donner* des textes en lecture à distance. 2° Permettre à chacun par un dispositif approprié de prendre connaissance à distance de textes publiquement exposés à cet effet. 3° Permettre la vision à distance des textes de livres disposés sur les rayons d’une bibliothèque ou des feuilles réunies en dossiers dans les classeurs. (Service: accroître ainsi la diffusion des collections des Bibliothèques et des Offices de documentation.)
 
 9. I éléscription. — Comme application particulière de la télémécanique, réaliser la possibilité : a) d’écrire facilement à distance ; b) d'ajouter à distance des inscriptions à des textes existants ; c) d’opérer ces inscriptions sans déplacer les textes des livres ou des classeurs. (Suggestion : le télépbotograpbe ; le téléphonographe Zoller qui permet à tout téléphoneur d écrire en chiffres à distance le message destiné à son correspondant qui ne répond pas).
 
@@ -18265,14 +18273,14 @@ d) Pouvoir sélectionner, parmi un ensemble de fiches diverses, celles qui porte
 
 Une méthode nouvelle est possible pour la traduction instantanée et simultanée en plusieurs langues des discours dans les assemblées et les congrès internationaux.
 
-Le développement normal des Réunions Internationales rend urgente la solution du problème des langues. £n attendant la généralisation de l'esperanto, force est de recourir à des traducteurs. Mais que de perte de temps, quel ennui aussi pour les membres d'un congrès que la traduction en deux, souvent en trois langues de tous Jes discours et interventions. Nous proposons une méthode nouvelle : à mesure que parle l'orateur, les traducteurs, au heu de résumer oralement les paroles entendues, feraient le résumé analytique par écrit sur des bandes de papier qui seraient immédiatement projetées sur un écran. Le dispositif est simple. Derrière le bureau de l'assembée, ou de la tribune des orateurs, est placée une toile blanche dans un encadrement avec Je recul nécessaire pour la projection en pleine lumière (méthode connue). Les traducteurs sont assis devant le bureau en tel nombre qu'il est désiré avoir de traductions en langues différentes. Chacun est installé à son écritoire sur lequel se déroule automatiquement une bande de papier transparent ou de celluloïde et cela à une vitesse qu’il peut régler selon qu’il est nécessaire pour suivre la parole. Les bandes passent immédiatement dans la lanterne qui les projettent sur la toile. Le texte peut venir s'y accumuler en plusieurs lignes en disposant h cet effet de plusieurs lanternes ou d’une. Il y aurait autant d'écrans que de langues traduites. Le télautographe peut venir en aide. L’appareil ici décrit e*t utilisable aussi pour les professeurs et conférenciers et destiné alors h remplacer l’écriture ou le dessin au tableau noir.
+Le développement normal des Réunions Internationales rend urgente la solution du problème des langues. En attendant la généralisation de l'esperanto, force est de recourir à des traducteurs. Mais que de perte de temps, quel ennui aussi pour les membres d'un congrès que la traduction en deux, souvent en trois langues de tous les discours et interventions. Nous proposons une méthode nouvelle : à mesure que parle l'orateur, les traducteurs, au heu de résumer oralement les paroles entendues, feraient le résumé analytique par écrit sur des bandes de papier qui seraient immédiatement projetées sur un écran. Le dispositif est simple. Derrière le bureau de l'assembée, ou de la tribune des orateurs, est placée une toile blanche dans un encadrement avec Je recul nécessaire pour la projection en pleine lumière (méthode connue). Les traducteurs sont assis devant le bureau en tel nombre qu'il est désiré avoir de traductions en langues différentes. Chacun est installé à son écritoire sur lequel se déroule automatiquement une bande de papier transparent ou de celluloïde et cela à une vitesse qu’il peut régler selon qu’il est nécessaire pour suivre la parole. Les bandes passent immédiatement dans la lanterne qui les projettent sur la toile. Le texte peut venir s'y accumuler en plusieurs lignes en disposant à cet effet de plusieurs lanternes ou d’une. Il y aurait autant d'écrans que de langues traduites. Le télautographe peut venir en aide. L’appareil ici décrit e*t utilisable aussi pour les professeurs et conférenciers et destiné alors à remplacer l’écriture ou le dessin au tableau noir.
 
 413.14 Desideratum général.
 """"""""""""""""""""""""""""
 
 Aujourd’hui toutes les machines se présentent séparément. Chaque inventeur, chaque constructeur a eu en vue de mécaniser ou de rendre plus facile une opération. Quelles soient groupées en une seule unité et voilé leur rendement singulièrement amplifié. Il y a évidemment à cela des obstacles: les hommes sont plus portés à la spécialisation qu’aux ensembles. Attendu que les brevets
 391 ???
-maintiennent les cloisons étanches, le mercantilisme se porte vers ce qui est d'un rendement immédiat. Il faut cependant envisager semblable unité, le bureau organisé à la manière de l'atelier, avec en perspective le travail, divisé, continu, en série, à la chaîne, le • tablier de Ford ». Nous devons avoir un complexe de machines associées qui réalise simultanément ou à la suite les opérations suivantes: I" t’ansformation du son en écriture;
+maintiennent les cloisons étanches, le mercantilisme se porte vers ce qui est d'un rendement immédiat. Il faut cependant envisager semblable unité, le bureau organisé à la manière de l'atelier, avec en perspective le travail, divisé, continu, en série, à la chaîne, le « tablier de Ford ». Nous devons avoir un complexe de machines associées qui réalise simultanément ou à la suite les opérations suivantes: I" t’ansformation du son en écriture;
 
 2’ multiplication de cette écriture tel nombre de fois qu il est utile ; 3' établissement des documents de manière que chaque donnée ait son individualité propre et dans sus relations avec celles de tout l'ensemble, qu elle y soit rappelée là où il est nteessaire ; 4° index de classement attaché à chaque donnée ; perforation du document en corrélation avec ces indices; 5° classement automatique de ces documents et mise en place dans les classeurs; 6" récupération automatique des documents à consulter et présentation, soit sous les yeux ou sous la partie d'une machine ayant à y faire des inscriptions additionnelles ; 7" manipulation mécanique à volonté de toutes les données enregistrées pour obtenir de nouvelles combinaisons ae faits, de nouveaux rapports d'idées, de nouvelles opérations à l'aide des chiffres.
 
@@ -18283,7 +18291,7 @@ La machinerie qui réaliserait ces sept desiderata serait un véritable cerveau 
 
 Aujourd'hui les entreprises industrielles, commerciales, financières sont à peu près les seules à bénéficier des admirables moyens mécaniques qui existent, pour aider et régler le travail intellectuel. Seules cet entreprises ont l'argent nécessaire. Mais demain il n'en sera plus ainsi. Les besoins de la rationalisation généraliseront cet emploi des machines et, par là même, bâteront les inventions qui sont à faire :
 
-A .— Dons le domaine pratique: 1° les organes économiques ; 2“ les administrations publiques (Communes, Provinces. Etats, Société des Nattons) ; 3° les œuvres sans but lucratif,
+A .— Dons le domaine pratique: 1° les organes économiques ; 2° les administrations publiques (Communes, Provinces. Etats, Société des Nattons) ; 3° les œuvres sans but lucratif,
 
 B. — Dan» te domaine théorique ; il y a les Instituts scientifiques, locaux, rat.onaux, internationaux.
 
@@ -18294,7 +18302,7 @@ OUTILLAGE
 
 *392* ORGANISATION RATIONNELLE DU LIVRE 414
 
-combine, la volonté qui transmet le» ordres aux organes d'exécution représentés par des usines, des magasina, des services, des administrations, des instituts scientifiques. Ces grandes centrales seraient, répétona le, des cerveaux collectifs fondés largement sur des cerveaux mécaniques.
+combine, la volonté qui transmet les ordres aux organes d'exécution représentés par des usines, des magasina, des services, des administrations, des instituts scientifiques. Ces grandes centrales seraient, répétona le, des cerveaux collectifs fondés largement sur des cerveaux mécaniques.
 
 413.3 Installations.
 ^^^^^^^^^^^^^^^^^^^^^
@@ -18310,7 +18318,7 @@ L’agencement des installations est capitale. A l’existence autonome et disti
 413.4 Matières.
 ^^^^^^^^^^^^^^^^
 
-Les opérations du Livre et du Document nécessitent dv* matières. C’est, en premier lieu, le papier, mais c'est aussi le carton, la toile, le celluloïd, le verre, la gomme, les encres, les couleurs, etc. Le perfectionnement de ci s matières, leur choix, la manière de les préparer et de s’en servir ont grande importance quant aux objets finalement produits. La bonne organisation veut que rien n" •oit négligé à ce sujet, que les conditions optima des matières soient déterminées, connues et appliquées. On peut mettre à profit dans ce but le travail accompli pour la spécification des grandes adjudications publiques et les normes arrêtées par les corporations industrielles.
+Les opérations du Livre et du Document nécessitent des matières. C’est, en premier lieu, le papier, mais c'est aussi le carton, la toile, le celluloïd, le verre, la gomme, les encres, les couleurs, etc. Le perfectionnement de ci s matières, leur choix, la manière de les préparer et de s’en servir ont grande importance quant aux objets finalement produits. La bonne organisation veut que rien ne soit négligé à ce sujet, que les conditions optima des matières soient déterminées, connues et appliquées. On peut mettre à profit dans ce but le travail accompli pour la spécification des grandes adjudications publiques et les normes arrêtées par les corporations industrielles.
 
 414 Les Locaux. Architecture.
 ==============================
@@ -18318,15 +18326,15 @@ Les opérations du Livre et du Document nécessitent dv* matières. C’est, en 
 1. Situation. — 1. Situation centrale. — 2. Exposition à l’Est : le Midi favorise l’éclosion des insectes et l’Ouest engendre l’humidité. — 3. Eviter le voisinage de la poussière et ce qui peut la faire naître. —
 
 4. Eviter un voisinage bruyant. —* 5. Eviter, pour les dépôts de livres et de documents, les rayons du soleil qui abîment les reliures et jaunissent le papier et par la dessiccation le rendent friable.
-2. Architecture et décoration. — L’architecture moderne repose sur l’adaptation de la forme à la destination, Un organisme documentaire est un ensemble de fonctions qui ont besoin de s’exercer en une espace. L’architecture est la technique qui divise, répartie ... organe l’espace. L’aspect extérieur et intérieur doit être riant. La décoration des salles, l’aspect architectural des bâtiments doivent retenir toute l’attention. Importance d’une ornementation artistique de bon goût. Des oeuvres admirables ont été réalisées en Angleterre et en Amérique. (Voir les ouvrages spéciaux). L’idéal est un immeuble séparé, dans un jardin. Prévoir l’avenir, les agrandissements.
+2. Architecture et décoration. — L’architecture moderne repose sur l’adaptation de la forme à la destination, Un organisme documentaire est un ensemble de fonctions qui ont besoin de s’exercer en une espace. L’architecture est la technique qui divise, répartie ... organe l’espace. L’aspect extérieur et intérieur doit être riant. La décoration des salles, l’aspect architectural des bâtiments doivent retenir toute l’attention. Importance d’une ornementation artistique de bon goût. Des œuvres admirables ont été réalisées en Angleterre et en Amérique. (Voir les ouvrages spéciaux). L’idéal est un immeuble séparé, dans un jardin. Prévoir l’avenir, les agrandissements.
 
 3. Types des locaux. —- Selon les lignes d’un développement progressif, on peut passer par les stades suivants :
 
 1° Simples rayons dans une salle ayant une autre destination (par ex.: un Bureau, une salle d’Ecole); 2° Salle unique mais exclusivement consacrée à la bibliothèque ou à l’office; 3° Appartement (Salir de lecture, magasin, vestiaire) ; 4° Bâtiment spécial
 
-entièrement consacré à la bibliothèque; 5° Complexe de bâtiments affectés à toutes les institutions similisires et dont la bibliothèque soit le centre. (Ex.: Ensemble de bâtiments scientifiques et éducatifs réuni dans U rayon d’une Université, ensemble de bâtiments consacré à la science, aux arts et aux lettres; ensemble d’édifices consacrés aux administrations ou ministères, La maison de tous, le mémorial de la guerre aux Etats-Unis, réunissant toutes les institutions postscolaires et sociales).
+entièrement consacré à la bibliothèque; 5° Complexe de bâtiments affectés à toutes les institutions similisires et dont la bibliothèque soit le centre. (Ex.: Ensemble de bâtiments scientifiques et éducatifs réuni dans le rayon d’une Université, ensemble de bâtiments consacré à la science, aux arts et aux lettres; ensemble d’édifices consacrés aux administrations ou ministères, La maison de tous, le mémorial de la guerre aux Etats-Unis, réunissant toutes les institutions postscolaires et sociales).
 
-4. Composition de* locaux. — Il y a lieu, selon l’importance de l’organe documentaire, de prévoir une ou plusieurs salles de lecture, de salles de dépôt, de manutention (arrivage et, éventuellement catalogage), d’élaboration de travail (ateliers), de direction et d’administration, de vestiaires pour les lecteurs et pour le personnel, avec remisage de bicyclettes, autos, etc.; installations sanitaires et lavabos (importance de la propreté).
+4. Composition des locaux. — Il y a lieu, selon l’importance de l’organe documentaire, de prévoir une ou plusieurs salles de lecture, de salles de dépôt, de manutention (arrivage et, éventuellement catalogage), d’élaboration de travail (ateliers), de direction et d’administration, de vestiaires pour les lecteurs et pour le personnel, avec remisage de bicyclettes, autos, etc.; installations sanitaires et lavabos (importance de la propreté).
 
 5. Rayons et magasin de livres. — Système divers suivant l’étendue des collections : 1° Rayons disposés dans la salle de lecture; en hémicycle, pour permettre l’accès libre des rayons tout en facilitant le contrôle; 2° Rayons placés dans une salle voisine, à l’abri du vol et de la poussière; 3° Rayons placés dans des salles éloignées, des magasins, s il est nécessaire, mais mis alors en communication facile par monte-charges, appareil électrique de transport intérieur, téléphone, tube pneumatique, etc.
 
@@ -18337,11 +18345,11 @@ entièrement consacré à la bibliothèque; 5° Complexe de bâtiments affectés
 
 414  LOCAUX. ARCHITECTURE  *393*
 
-misée, (verre mat ou abat-jour), ou gaz avec bec A incandescence. La meilleure lumière est l'électricité: le gaz endommage le» livre». — Arranger le» tables de» lecteur» de manière qu elle» reçoivent le maximum de lumière sur toute leur surface. La lumière venant de gauche ou d'en haut est la meilleure. Eviter que l'ombre d'un lecteur soit projetée sur la place occupée par un autre lecteur. Laisser assez de place pour que les lecteurs, en passant, ne dérangent personne. — Eviter de placer les rayon» à contre-jour. Quand la lumière vient de côté, le» rayon» doivent être placés le long des mur» ; si la lumière vient d'en haut, on peut le» placer en alcôve ou perpendiculairement aux murs. Des rideaux doivent intercepter 1rs rayon» du soleil trop fort.
+misée, (verre mat ou abat-jour), ou gaz avec bec A incandescence. La meilleure lumière est l'électricité: le gaz endommage les livres. — Arranger les tables des lecteurs de manière qu'elles reçoivent le maximum de lumière sur toute leur surface. La lumière venant de gauche ou d'en haut est la meilleure. Eviter que l'ombre d'un lecteur soit projetée sur la place occupée par un autre lecteur. Laisser assez de place pour que les lecteurs, en passant, ne dérangent personne. — Eviter de placer les rayon» à contre-jour. Quand la lumière vient de côté, les rayon» doivent être placés le long des mur» ; si la lumière vient d'en haut, on peut les placer en alcôve ou perpendiculairement aux murs. Des rideaux doivent intercepter les rayons du soleil trop fort.
 
 7. Le Chauffage et l’Aération. — Précautions contre l'incendie, la poussière, l'air trop sec. Température élevée préjudiciable au travailleur intellectuel ( 18,J maximum). Le chauffage par radiateurs à eau chaude e»t le meilleur. Les feux ouverts sont dommageables pour les livres.
 
-L'aération se fait par les fenêtres pour les salles occupées par le» personnes. Trous d'aérage et ventilateurs électriques. On a construit récemment des magasins hermétiquement clos, dont l'air est renouvelé seulement par des ventilateurs (envoi d'air purifié de toute poussière.)
+L'aération se fait par les fenêtres pour les salles occupées par les personnes. Trous d'aérage et ventilateurs électriques. On a construit récemment des magasins hermétiquement clos, dont l'air est renouvelé seulement par des ventilateurs (envoi d'air purifié de toute poussière.)
 
 8, Nettoyage. — Précautions contre la poussière. Avantages des aspirateurs de poussière par le vide. (Voir
 
@@ -18350,19 +18358,19 @@ n° 273.)
 415 Personnel de la Documentation.
 -----------------------------------
 
-a) Aux diverses branches de la documentation, A se» différents stades et moments, est attaché un personnel nombreux et excessivement spécialisé, depuis l'écrivain, l'imprimeur et l'éditeur jusqu'au libraire, au bibliothécaire, aux agents des Offices de documentation. Parmi ces personne» on pourrait même ranger \es usagers de la documentation, les lecteurs et ceux qui se livrent à des consultations et à des recherches.
+a) Aux diverses branches de la documentation, A ses différents stades et moments, est attaché un personnel nombreux et excessivement spécialisé, depuis l'écrivain, l'imprimeur et l'éditeur jusqu'au libraire, au bibliothécaire, aux agents des Offices de documentation. Parmi ces personnes on pourrait même ranger les usagers de la documentation, les lecteurs et ceux qui se livrent à des consultations et à des recherches.
 
-b) Lu terminologie est en retard sur les faits. On avait besoin d'un terme générique exprimant toutes les catégories de personnes qui ont intérêt aux livres et aux documents. On a essayé le néologisme de « Documentateur » ou « Documentaliste ». Il y a diverses manières de s’occuper du livre et il faudrait pouvoir les désigner chacune en particulier et toutes en général. Le cas est analogue A celui de l’art dont ¡1 est diverse» manière» de s'occuper : artistes et artisans (créateurs, interprètes, copistes) ; critiques et experts ; amateurs, connaisseurs, collectionneurs ; mécènes et protecteurs; marchands, antiquaires, éditeur» d’art, directeur» de spectacles, impres-sario; il y a aussi les pouvoirs public», haut» protecteur».
+b) Lu terminologie est en retard sur les faits. On avait besoin d'un terme générique exprimant toutes les catégories de personnes qui ont intérêt aux livres et aux documents. On a essayé le néologisme de « Documentateur » ou « Documentaliste ». Il y a diverses manières de s’occuper du livre et il faudrait pouvoir les désigner chacune en particulier et toutes en général. Le cas est analogue à celui de l’art dont il est diverses manières de s'occuper : artistes et artisans (créateurs, interprètes, copistes) ; critiques et experts ; amateurs, connaisseurs, collectionneurs ; mécènes et protecteurs; marchands, antiquaires, éditeur» d’art, directeur» de spectacles, impres-sario; il y a aussi les pouvoirs public», haut» protecteur».
 
-c) Il a été question précédemment de diverse» catégorie» de personne» en rapport avec le livre. On se limitera ici au Bibliothécaire, ce qui en est dit pourrait largement »’étendre A d’autres catégories.
+c) Il a été question précédemment de diverses catégories de personnes en rapport avec le livre. On se limitera ici au Bibliothécaire, ce qui en est dit pourrait largement »’étendre A d’autres catégories.
 
 ----
 
 415.1 Le Bibliothécaire.
 ^^^^^^^^^^^^^^^^^^^^^^^^^
 
-1. *Conception de la fonction*. — Le Bibliothécaire a pour fonction d'organiser et d’administrer la Bibliothèque. Le Bibliothécaire est une combinaison d’éducateur, d homme d’étude, d’homme d’oeuvre, d'administrateur, d'organisateur. Le but suprême qu’il doit se proposer c est de taire connaître le» possibilités du livre. Le Bibliothécaire sera animé d'un triple esprit : 1° L'esprit qui anime
-l'intellectuel : se souvenir constamment que le livre et, par conséquent, la Bibliothèque, relève du domaine de» forces scientifique», esthétiques, morale», spirituelles. 
+1. *Conception de la fonction*. — Le Bibliothécaire a pour fonction d'organiser et d’administrer la Bibliothèque. Le Bibliothécaire est une combinaison d’éducateur, d'homme d’étude, d’homme d’œuvre, d'administrateur, d'organisateur. Le but suprême qu’il doit se proposer c'est de taire connaître les possibilités du livre. Le Bibliothécaire sera animé d'un triple esprit : 1° L'esprit qui anime
+l'intellectuel : se souvenir constamment que le livre et, par conséquent, la Bibliothèque, relève du domaine des forces scientifique», esthétiques, morale», spirituelles. 
 
 2° L'esprit technique : faire que toute action, toute opé * ration, soit effectuée sans cesse avec le maximum de technicité selon les meilleures méthodes, avec la meilleure matière, le meilleur outillage, le meilleur personnel, afin 
 d’atteindre le maximum de rendement. 3° L'esprit 
@@ -18371,7 +18379,7 @@ sociale, vouloir l’utilité pour le grand nombre, travailler à l’améliorat
 
 Le chef d’une bibliothèque est aidé de collaborateurs : Bibliothécaire-adjoint, rédacteurs, copistes, gens de service.
 
-2. *Qualités requises du bibliothécaire*. — Le Bibliothécaire aura une culture générale sérieuse et une formation professionnelle. Il aura des qualités morales notamment le tact, un bon tempérament qui dérive en grande partie d'une lionne santé, entretenue hygiéniquement, la patience, l'initiative, 1 ordre, la méthode, l’exactitude, la mémoire, le désintéressement.
+2. *Qualités requises du bibliothécaire*. — Le Bibliothécaire aura une culture générale sérieuse et une formation professionnelle. Il aura des qualités morales notamment le tact, un bon tempérament qui dérive en grande partie d'une lionne santé, entretenue hygiéniquement, la patience, l'initiative, l'ordre, la méthode, l’exactitude, la mémoire, le désintéressement.
 
 Toutes les qualités générales requises par un travail intellectuel sont demandés au Bibliothécaire: l'attitude
 
@@ -18379,9 +18387,9 @@ résolue ; être décidé à réussir, à triompher des difficultés.
 
 — La persévérance : achever ce qu'on a commencé. •— La continuité: l’un:formité dans les efforts, la régularité.
 
-— La concentration dans le travail. — L’enthousiasme qui n'est autre chose que l'intérêt intensifié; le c feu sacré ». — L’ambition: désirer intensément atteindre un résultat c’est se rapprocher du résultat. — La largeur de vue : tolérance, curiosité intellectuelle, désir de progrès.
+— La concentration dans le travail. — L’enthousiasme qui n'est autre chose que l'intérêt intensifié; le « feu sacré ». — L’ambition: désirer intensément atteindre un résultat c’est se rapprocher du résultat. — La largeur de vue : tolérance, curiosité intellectuelle, désir de progrès.
 
-Le Bibliothécaire remplira son rôle social en faisant remplir pleinement sa fonction A la Bibliothèque elle-même. Il sera un agent actif de la culture intellectuelle dans son milieu. Il aura l'amour de son métier et sera l'auxiliaire de la science, le « Serüus Scrvorum Scicntiœ ». Le «. Serviteur des Serviteur» de la Science ». Il aura aussi l'amour du progrès de sa Bibliothèque: enrichir toujours ses collections, perfectionner leur agencement, les faire connaître, les faire utiliser.
+Le Bibliothécaire remplira son rôle social en faisant remplir pleinement sa fonction à la Bibliothèque elle-même. Il sera un agent actif de la culture intellectuelle dans son milieu. Il aura l'amour de son métier et sera l'auxiliaire de la science, le « Serüus Scrvorum Scicntiœ ». Le «. Serviteur des Serviteur» de la Science ». Il aura aussi l'amour du progrès de sa Bibliothèque: enrichir toujours ses collections, perfectionner leur agencement, les faire connaître, les faire utiliser.
 
 3. hormaiion professionnelle. — Le Bibliothécaire acquerra une formation professionnelle. Ce sera le résultat de la fréquentation d’un cours de bibliothèque, d'exercices pratiques, éventuellement d'un stage, et toujours de lectures. La formation une fois commencée, le Bibliothécaire aura A la continuer indéfiniment car il aura A se perfec-' donner et A se tenir au courant.
 
@@ -18404,7 +18412,7 @@ doit être un érudit. Quel programme d'étude lui assigner
 sinon celui d approlondir et développer le programme 
 scolaire, collégiaire, universitaire lui-même. Il doit avoir 
 des notions étendues d'histoire (les événements dans le 
-temps), de géographie (les choses dans l'espace), de sciences (la réalité même en ses trois divisions : la Nature, l'Homme, la Société), de littérature et d’art (ils expriment les impressions, émotions, réactions humaines au contact des choses et des idées). Le Bibliothécaire doit avoir une idée des applications des sciences à la vie pratique et ne pas être incapable de s'élever jusqu'à la compréhension des grandes synthèses philosophiques. Le Bibliothécaire doit être un encyclopédiste; il doit s'intéresser à l'ensemble des connaissances humaines. Dans une société nu travail intellectuel spécialisé comme la nôtre, la Bibliothèque, avec l'Ecole et l'Université, est la seule Institution qui présente l ensemble des connaissances et qui se préoccupe de leurs liaisons,
+temps), de géographie (les choses dans l'espace), de sciences (la réalité même en ses trois divisions : la Nature, l'Homme, la Société), de littérature et d’art (ils expriment les impressions, émotions, réactions humaines au contact des choses et des idées). Le Bibliothécaire doit avoir une idée des applications des sciences à la vie pratique et ne pas être incapable de s'élever jusqu'à la compréhension des grandes synthèses philosophiques. Le Bibliothécaire doit être un encyclopédiste; il doit s'intéresser à l'ensemble des connaissances humaines. Dans une société nu travail intellectuel spécialisé comme la nôtre, la Bibliothèque, avec l'Ecole et l'Université, est la seule Institution qui présente l'ensemble des connaissances et qui se préoccupe de leurs liaisons,
 
 5. *Travaux du Bibliothécaire*. — Le Bibliothécaire saura 
 « travailler ». La conception du travail s'est modifiée en 
@@ -18416,15 +18424,16 @@ ces mêmes préoccupations
 
 Le Bibliothécaire doit lire. Sans doute cette lecture ne doit être faite au détriment de ses fonctions qui ont à s'exercer dans l’intérêt des lecteurs. Le Bibliothécaire est tout d'abord un agent chargé de faire fonctionner un service et ses fonctions ne doivent pas être conçues par lui comme une sinécure, une retraite intellectuelle. Mais cette réserve faite, il doit lui-même donner l'exemplet de l'étude et de la lecture.
 
-6. Assistance au lecteur et au chercheur, — Le Bibliothécaire, en tou* temps, prêtera assistance au lecteur, surtout au lecteur inexpérimenté. Afin d'être le plus utile, il s efforcera de bien connaître l'état intellectuel et les besoins du milieu où la bibliothèque est placée. Une distinction sera faite entre l'assistance intellectuelle et l'assistance morale. La première consiste à aider le lecteur à mieux se diriger vers ce qu'il cherche réellement. La seconde tend à se substituer à lui dans sa direction morale et à l'influencer dans un certain sens. — Le personnel des bibliothèques publiques donnera sa pleine assistance intellectuelle, technique, mais s'abstiendra de toute assis-
+6. Assistance au lecteur et au chercheur, — Le Bibliothécaire, en tout temps, prêtera assistance au lecteur, surtout au lecteur inexpérimenté. Afin d'être le plus utile, il s efforcera de bien connaître l'état intellectuel et les besoins du milieu où la bibliothèque est placée. Une distinction sera faite entre l'assistance intellectuelle et l'assistance morale. La première consiste à aider le lecteur à mieux se diriger vers ce qu'il cherche réellement. La seconde tend à se substituer à lui dans sa direction morale et à l'influencer dans un certain sens. — Le personnel des bibliothèques publiques donnera sa pleine assistance intellectuelle, technique, mais s'abstiendra de toute assis-
 
 tance morale qui pourrait porter ombrage à la liberté de conscience du lecteur ou transformer la bibliothèque en auxiliaire de propagande politique, philosophique ou religieuse. Une bibliothèque publique doit être essentiellement une institution impartiale et neutre.
 
-7. Devoir scientifique du Bibliothécaire. — Toutes les professions, des plus humbles aux plus élevées, ont un double devoir scientifique. I" La pratique de chacun de ceux qui les exercent doit s'appuyer sur la science qui fonde la profession. 2,J Chacun aussi doit s'efforcer d'apporter, à la science commune, une contribution d observation, de réflexion, d expérience, d invention. Une conception scientifique de la profession élève et agrandit ; elle fait sortir de l'isolement et « socialise » 1 intelligence.
+7. Devoir scientifique du Bibliothécaire. — Toutes les professions, des plus humbles aux plus élevées, ont un double devoir scientifique. 1° La pratique de chacun de ceux qui les exercent doit s'appuyer sur la science qui fonde la profession. 2,J Chacun aussi doit s'efforcer d'apporter, à la science commune, une contribution d observation, de réflexion, d expérience, d invention. Une conception scientifique de la profession élève et agrandit ; elle fait sortir de l'isolement et « socialise » l'intelligence.
 
 416 Opérations.
+----------------
 
-a) Le* opérations relatives aux Livres et aux Document* »’enchaînent et forment un cycle; le* une* conduisant à la préparation de» travaux (manuscrit») et à leur publication)* le» autres intervenant âpre» que 1 œuvre est née, qu’elle a revêtu les condition» nécessaire» à »on existence individuelle. Ce »ont le» opérations nécessaire» à sa diffusion et à son incorporation dans le total de la Documentation, l'Encyclopédie ou le Livre Universel.
+a) Les opérations relatives aux Livres et aux Documents s’enchaînent et forment un cycle; les unes conduisant à la préparation des travaux (manuscrits) et à leur publication)* les autres intervenant âpres que 1 œuvre est née, qu’elle a revêtu les conditions nécessaires à son existence individuelle. Ce sont les opérations nécessaires à sa diffusion et à son incorporation dans le total de la Documentation, l'Encyclopédie ou le Livre Universel.
 
 b) Il est opportun de considérer dans leur ensemble les 
 diverses opérations et manipulations auxquelles donnent 
@@ -18445,9 +18454,9 @@ au point.
 
 Parmi les autres facteurs d'organisation il y a à ranger la finance, les conventions, la réglementation.
 
-1. *Finance*. — Chaque organisme, chaque travail »e développe dans le milieu économique de la société. Il y a donc lieu à financement c’est-à-dire à disposition de moyen d'argent nécessaire pour payer personnel., matières et premier établissement.
+1. *Finance*. — Chaque organisme, chaque travail se développe dans le milieu économique de la société. Il y a donc lieu à financement c’est-à-dire à disposition de moyen d'argent nécessaire pour payer personnel., matières et premier établissement.
 
-Les conditions de financiement sont particulière» à chacun. Mais il serait désirable de voir constituer un Fonds mondial pour subvenir aux insuffisance» de fond» spéciaux et leur assurer des complément» en vue de dispositions et lâche» onéreuses nécessitée» par 1 organisation internationale.
+Les conditions de financiement sont particulières à chacun. Mais il serait désirable de voir constituer un Fonds mondial pour subvenir aux insuffisances de fonds spéciaux et leur assurer des complément» en vue de dispositions et lâches onéreuses nécessitées par l'organisation internationale.
 
 2. *Convention*. — C’est par une Convention générale.
 
@@ -18498,9 +18507,9 @@ b) La rédaction du Document (livre, article, simple pièce) est à l'origine du
 
 nient dites, à commencer par les dispositions matérielles. 2° Les espèces littéraires qui s'expriment dans les formes intellectuelles des diverses catégories d’exposés. 3° Les espèces scientifiques, c'est-à-dire le fond lui-même. Ces regles doivent prescrire, en chaque matière et conformément aux besoins de l'analyse et de la synthèse, la manière régulière, rapide et largement aidée de moyens automatiques de procéder à l'édification continue de chaque science par concentration et comparaison des données.
 
-Ci Les règles de la documentation doivent v ser : Io la rédaction des textes scientifiques (précision, intégralité et comparabilité des descriptions scientifiques; composition, division et distribution des diverses parties des publications, certification de ces dates; mode de citation des divers éléments rapportés, illustration, etc.),* 2“ la forme interne des publications qui comprennent et donnent structure à un ensemble de textes (terminologie et langues, abréviation et notation, emploi de l'illustration et du schéma, table et index, etc.); 3* la forme matérielle -et dimension des publications (caractères, unification des formats, publication en fascicules et en feuilles détachées, moyens de découper les revues et d’en incorporer les numéros dans les dossiers des répertoires de documentation); 4° la diffusion (édition, lecture, conservation dans les bibliothèques).
+Ci Les règles de la documentation doivent v ser : 1° la rédaction des textes scientifiques (précision, intégralité et comparabilité des descriptions scientifiques; composition, division et distribution des diverses parties des publications, certification de ces dates; mode de citation des divers éléments rapportés, illustration, etc.),* 2“ la forme interne des publications qui comprennent et donnent structure à un ensemble de textes (terminologie et langues, abréviation et notation, emploi de l'illustration et du schéma, table et index, etc.); 3* la forme matérielle -et dimension des publications (caractères, unification des formats, publication en fascicules et en feuilles détachées, moyens de découper les revues et d’en incorporer les numéros dans les dossiers des répertoires de documentation); 4° la diffusion (édition, lecture, conservation dans les bibliothèques).
 
-d) Ces règles documentaires, utiles pour chaque publication considérée isolément, sont précieuses, surtout si 1 on envisage leur ensemble. Elles doivent s'inspirer du principe qui a été formulé en ces termes. Considérer que toute publication, si minime soit-elle, est une contribution à l’oeuvre scientifique totale. A cette fin, il faut : a) que toute publication en tant que contenant des resultáis soit faite sous une forme comparable, utilisable, susceptible d’etre intégrée à l’ensemble du corps documentaire de la science; b) que les collections systématiques soient établies par addition et juxtaposition d'éléments partiels; c) que l'entente intervienne pour la coopération aux publications générales. En conséquence, tout en constituant en lui-même une oeuvre indépendante ayant sa fin propre, et tout en subordonnant sa rédaction à cette fin, chaque travail doit pouvoir également être considéré comme une
+d) Ces règles documentaires, utiles pour chaque publication considérée isolément, sont précieuses, surtout si l'on envisage leur ensemble. Elles doivent s'inspirer du principe qui a été formulé en ces termes. Considérer que toute publication, si minime soit-elle, est une contribution à l’œuvre scientifique totale. A cette fin, il faut : a) que toute publication en tant que contenant des resultáis soit faite sous une forme comparable, utilisable, susceptible d’etre intégrée à l’ensemble du corps documentaire de la science; b) que les collections systématiques soient établies par addition et juxtaposition d'éléments partiels; c) que l'entente intervienne pour la coopération aux publications générales. En conséquence, tout en constituant en lui-même une œuvre indépendante ayant sa fin propre, et tout en subordonnant sa rédaction à cette fin, chaque travail doit pouvoir également être considéré comme une
 
 
 ====
@@ -18513,25 +18522,25 @@ L'immense travail qui s'accomplit de cette manière n'est qu’un travail indire
 
 1° Extraire des publications le texte même auquel se rapportent les références bibliographiques, les diviser et les disséquer, en redistribuer les données dans le cadre d’un ordre unique, celui adopté par leur catalographie, de manière a rassembler directement tout ce qui concerne un même sujet, à faciliter la confrontation des textes par leur juxtaposition. 2° Conformer les textes eux-mêmes au moment où ils se rédigent. Il s’agit des règles et à des formes rationalisées et unifiées, il s'agit de substituer des normes à l'arbitraire, à l'incohérent, et à l’inutile, à substituer à une individualisation des écrits qui ne tiendrait pas compte des autres écrits similaires et complémentaires, des modes de rédaction apportant une économie au travail ultérieur de classement, catalographie, analyse, redistribution et codification synthétique.
 
-On objectera que c'est là une atteinte grave à la liberté d écrire, intolérable joug imposé à la pensée qui entend se mouvoir dans les directions et sous les formes que détermine lui-méine quiconque écrit.
+On objectera que c'est là une atteinte grave à la liberté d'écrire, intolérable joug imposé à la pensée qui entend se mouvoir dans les directions et sous les formes que détermine lui-méine quiconque écrit.
 
-Nous répondrons qu'il nous faut maintenant un double système d écrire, celui de la vie et celui de la science. L’un, le système littéraire pouvant être fait de concisions, d'ellypses, de fantaisies, d originalité, d’à-peu-près même. L'autre, le système scientifique, tout en rigueur, qui use d’une terminologie précise alors même qu'elle serait longue et peu musicale; qui construit la phrase toujours de la même manière, qui répète des lieux communs et des faits élémentaires parce que c'est la vérité et qu’il faut être complet : qui loin de dissimuler l'échafaudage du raisonnement, celui de la composition s’efforce de le mettre en lu* mière pour mieux s'assurer que les conditions de vérité ont réalisé le système scientifique; enfin, qui, délibérément accepte s'il le faut d’être pédant.
+Nous répondrons qu'il nous faut maintenant un double système à écrire, celui de la vie et celui de la science. L’un, le système littéraire pouvant être fait de concisions, d'ellypses, de fantaisies, d'originalité, d’à-peu-près même. L'autre, le système scientifique, tout en rigueur, qui use d’une terminologie précise alors même qu'elle serait longue et peu musicale; qui construit la phrase toujours de la même manière, qui répète des lieux communs et des faits élémentaires parce que c'est la vérité et qu’il faut être complet : qui loin de dissimuler l'échafaudage du raisonnement, celui de la composition s’efforce de le mettre en lu* mière pour mieux s'assurer que les conditions de vérité ont réalisé le système scientifique; enfin, qui, délibérément accepte s'il le faut d’être pédant.
 
 ----
 
-guindé, et même ridicule à 1 égard du premier, le système littéraire. (1)
+guindé, et même ridicule à l'égard du premier, le système littéraire. (1)
 
 e) L’immense travail qui s’accomplit de cette manière, n’est qu’un travail indirect et un travail de seconde main.
 
 11 doit nous conduire à deux autres espèces de travaux :
 
-f) Le travail scientifique tend à une connaissance de plus en plus complète, de plus en plus exacte. C est par approximation successive, « à coups de provisoire », nue l'on avance. La théorie est le centre de toute science.
+f) Le travail scientifique tend à une connaissance de plus en plus complète, de plus en plus exacte. C'est par approximation successive, « à coups de provisoire », nue l'on avance. La théorie est le centre de toute science.
 
-Les savants additionnent leurs efforts pour réduire les principes le plus possible, pour leur donner une forme plus pure, plus vigoureuse, plus simple, pour en préciser le véritable sens et le défendre contre des objections trop rapides. On a pu parler dans ce sens de la « lignée » d'une théorie et suivre celle-ci, en tant que méthode appliquée, dans une série d oeuvres traitant de points particuliers ou concrets.
+Les savants additionnent leurs efforts pour réduire les principes le plus possible, pour leur donner une forme plus pure, plus vigoureuse, plus simple, pour en préciser le véritable sens et le défendre contre des objections trop rapides. On a pu parler dans ce sens de la « lignée » d'une théorie et suivre celle-ci, en tant que méthode appliquée, dans une série d œuvres traitant de points particuliers ou concrets.
 
-En certains domaines, telle I économie, la théorie en est encore au simple dégrossissement. Le progrès ues sciences consiste à évoluer de I état qualitatif et descriptif à l'état quantitatif et causal. Les sc.ences offrent trois types: I" parfaitement quantitative, l’astronome de position ; 2° imparfaitement quantitative, la physique et encore plus la chimie, multiplie té colossale de petits phénomènes enchevêtrés; 3° la science imparfaite, dont les phénomènes bien que statisticables. échappent à une théorie quantitative. (2)
+En certains domaines, telle l'économie, la théorie en est encore au simple dégrossissement. Le progrès ues sciences consiste à évoluer de l'état qualitatif et descriptif à l'état quantitatif et causal. Les sc.ences offrent trois types: I" parfaitement quantitative, l’astronome de position ; 2° imparfaitement quantitative, la physique et encore plus la chimie, multiplie té colossale de petits phénomènes enchevêtrés; 3° la science imparfaite, dont les phénomènes bien que statisticables. échappent à une théorie quantitative. (2)
 
-Le raisonnement mathématique sert d instrument auxiliaire et provisoire, pour déduire plus commodément et avec plus de sûreté des conséquences qualitatives de pré-mises qualitatives. Car notre capacité de déduire en Un* gage ordinaire est incomparablement plus faible qu'en langage mathématique.
+Le raisonnement mathématique sert d'instrument auxiliaire et provisoire, pour déduire plus commodément et avec plus de sûreté des conséquences qualitatives de pré-mises qualitatives. Car notre capacité de déduire en Un* gage ordinaire est incomparablement plus faible qu'en langage mathématique.
 
 Mais la difficulté mathématique subsiste. Pareto (Manuel) cite le cas, relativement très simple, d’un marché de cent individus et de 700 marchandises. Il y aurait 70.699 conditions à considérer, et par conséquent un système de 70,699 équations à résoudre. Cela dépasse pratiquement la puissance de l’analyse algébrique et cela la dépasserait encore davantage si l'on prenait en considération le nombre fabuleux d'équations que donnerait une population de
 
@@ -18550,7 +18559,7 @@ Aux Conférences internationales de Documentation de 1932 et 1933 des rapports o
 
 quarante millions d'habitants et quelques milliers de marchandises.
 
-h) Le tableau suivant résume les distinctions qui s'imposent h tout exposé et au sujet desquels des règles sont nécessaires.
+h) Le tableau suivant résume les distinctions qui s'imposent à tout exposé et au sujet desquels des règles sont nécessaires.
 
 1. *Quant au fond*.
 
@@ -18679,12 +18688,12 @@ n) Reliure : ou tout au moins cartonnage protégeant les livres. Rognage des feu
 o) Indication bibliographique : ajouter aux ouvrages Ce qui peut faciliter leur rapide catalogage et aider aux recherches bibliographiques, notamment :
 
 I* Au verso intérieur du titre, imprimer dans un encadrement de la grandeur d’une fiche, la notice bibliographique de l'ouvrage (avec indice de classement) qu’il suffira ensuite de copier pour le catalogue de toute bibliothèque publique et privée; 2° encarter dans l'ouvrage cette même notice reproduite en trois exemplaires sur trois fiches libres ou répétées trois fois sur le même feuillet et destinés à être collés sur fiches pour former automatiquement les catalogues et répertoires; 3° établir ces divisions et celles de la classification bibliographique universelle (tables suc-
-cinctes, mettant simplement en regard les numérotages correspondant des deux tables sans spécifier la traduction des divisions)t Semblable concordance, si elle recevait une large application, faciliterait extraordinairement la consultation des ouvrages, car il suffirait pour une même recherche de se reporter au même numéro classificateur dans les divers ouvrages; en outre, cette table fournit le moyen de multiplier les références bilbiographiques dans les répertoires et facilite l'utilisation du livre par le moyen de découpage dans les dossiers documentaires; 4° faire les annonces bibliographiques de l'ouvrage dans les bibliographies courantes; rédiger le prospectus du livre de manière a en faire une notice donnant une idée, objective du contenu et méritant d'être conservée à défaut de l'ouvrage même; y reproduire la table des matières; 5° dé poser les exemplaires prévus au dépôt légal ou à la bibliothèque nationale du pays. Faire d'autres dépôts, notamment un dépôt international facultatif pour assurer la diffusion de l’ouvrage et s'assurer contre les risques et la destruction; 6° indiquer sur la couverture ou ailleurs les autres ouvrages du même auteur et de brèves indications biographiques; 7° donner des références bibliographiques aussi exactes et complètes que possible en note au bas de» pages, à la fin des chapitres ou à la fin de l’ouvrage.
+cinctes, mettant simplement en regard les numérotages correspondant des deux tables sans spécifier la traduction des divisions)t Semblable concordance, si elle recevait une large application, faciliterait extraordinairement la consultation des ouvrages, car il suffirait pour une même recherche de se reporter au même numéro classificateur dans les divers ouvrages; en outre, cette table fournit le moyen de multiplier les références bilbiographiques dans les répertoires et facilite l'utilisation du livre par le moyen de découpage dans les dossiers documentaires; 4° faire les annonces bibliographiques de l'ouvrage dans les bibliographies courantes; rédiger le prospectus du livre de manière a en faire une notice donnant une idée, objective du contenu et méritant d'être conservée à défaut de l'ouvrage même; y reproduire la table des matières; 5° dé poser les exemplaires prévus au dépôt légal ou à la bibliothèque nationale du pays. Faire d'autres dépôts, notamment un dépôt international facultatif pour assurer la diffusion de l’ouvrage et s'assurer contre les risques et la destruction; 6° indiquer sur la couverture ou ailleurs les autres ouvrages du même auteur et de brèves indications biographiques; 7° donner des références bibliographiques aussi exactes et complètes que possible en note au bas des pages, à la fin des chapitres ou à la fin de l’ouvrage.
 
 421.12. Recommandations concernant les publications périodiques.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
-Il serait désirable d'obtenir de tous les périodiques l'observance d’un certain nombre de principes et de règles, es qui faciliterait grandement leur usage et les opérations subséquentes à la publication. Si pour 1 éditeur d une revue, la tâche s'achève quand elle est imprimée ou distribuée, une autre tâche commence pour ceux qui ont à la conserver, à la cataloguer et à l'utiliser. Ceux-là ne sont plu» en présence d'une seule publication, mais d’un nombre considérable de publications différentes. Us ont à les traiter comme des collections et. à cette fin, il importe qu'ils puissent autant que possible retrouver en chacune certains éléments sous formes de dispositions identiques facilitant la formation des ensembles et de» totaux. A cet effet les dispositions suivantes sont recommandées, Elles complètent les dispositions précédentes communes à toutes les espèces de publications.
+Il serait désirable d'obtenir de tous les périodiques l'observance d’un certain nombre de principes et de règles, es qui faciliterait grandement leur usage et les opérations subséquentes à la publication. Si pour l'éditeur d une revue, la tâche s'achève quand elle est imprimée ou distribuée, une autre tâche commence pour ceux qui ont à la conserver, à la cataloguer et à l'utiliser. Ceux-là ne sont plus en présence d'une seule publication, mais d’un nombre considérable de publications différentes. Ils ont à les traiter comme des collections et. à cette fin, il importe qu'ils puissent autant que possible retrouver en chacune certains éléments sous formes de dispositions identiques facilitant la formation des ensembles et des totaux. A cet effet les dispositions suivantes sont recommandées, Elles complètent les dispositions précédentes communes à toutes les espèces de publications.
 
 1" Contenu, matières traitées.
 
@@ -18701,26 +18710,26 @@ d) Bibliographie: titre, résumés tenant au courant de ce qui est publié dans 
 
 421  REGLES CONCLUANT LES PUBLICATIONS  *399*
 
-e) Calendrier de» tait» futur».
+e) Calendrier des tait» futurs.
 
-f) Information »ur le» mouvement» de» Institutions, des Associations et des Personne».
+f) Information sur les mouvements des Institutions, des Associations et des Personne».
 
-2° Titre* : Toute liberté est laissée quant au choix du titre des périodique». Il arrivera fatalement que dans plusieurs pays, mais traduits en langue» différentes, soit adopté un même titre. Avoir soin d'éviter de» titres trop longs, difficiles à retenir et encombrants dans le» citation». Mieux vaut un sous-titre. Un titre parlant indiquant bien l'exacte matière traitée e»t désirable dan» les science».
+2° Titres : Toute liberté est laissée quant au choix du titre des périodiques. Il arrivera fatalement que dans plusieurs pays, mais traduits en langues différentes, soit adopté un même titre. Avoir soin d'éviter des titres trop longs, difficiles à retenir et encombrants dans les citations. Mieux vaut un sous-titre. Un titre parlant indiquant bien l'exacte matière traitée e»t désirable dans les science».
 
-3° Abréviation» des titres : Des travaux importants, des discussions ont mis en lumière l'intérêt qui s'attache à la bonne désignation en abrégé de» titres des pério diquc». ( I ) De toutes manières il est désirable que le périodique porte bien lui-même en évidence le signe abréviatif par lequel il est désigné.
+3° Abréviation» des titres : Des travaux importants, des discussions ont mis en lumière l'intérêt qui s'attache à la bonne désignation en abrégé des titres des périodiques. ( I ) De toutes manières il est désirable que le périodique porte bien lui-même en évidence le signe abréviatif par lequel il est désigné.
 
-4° Dates : La date doit figurer bien en évidence »ur chaque fascicule. L'année bibliographique des Périodiques commence le 1er janvier et non pas au cour» de l’année. On trouve dans les revues allemandes une date précédée des mots mentions : « Redaktionsschluss »
+4° Dates : La date doit figurer bien en évidence »ur chaque fascicule. L'année bibliographique des Périodiques commence le 1er janvier et non pas au cours de l’année. On trouve dans les revues allemandes une date précédée des mots mentions : « Redaktionsschluss »
 
 3° Citation des périodiques : On a proposé la désignation du périodique par un numéro et par un sigle combiné. (I)
 
-Tomaison, numérotation, pagination ; Les références dans les périodiques sont k faire d’après l'année et la tomaison (et non seulement d’après la date et la page). Ceci est utile après que les fascicules ont été reliés. La pagination se fait parfois continue à travers plusieurs années. Ceci abrège le mode de référence. Le Bulletin de rünion de la Presse Périodique porte: 41e année sociale (3® du Bulletin juillet-août-septembre 1931, n° 1176 de la collection).
+Tomaison, numérotation, pagination ; Les références dans les périodiques sont à faire d’après l'année et la tomaison (et non seulement d’après la date et la page). Ceci est utile après que les fascicules ont été reliés. La pagination se fait parfois continue à travers plusieurs années. Ceci abrège le mode de référence. Le Bulletin de rünion de la Presse Périodique porte: 41e année sociale (3® du Bulletin juillet-août-septembre 1931, n° 1176 de la collection).
 
 6° Format : Adopter un des formats usuels. L’unification des formats a tait l'objet d'études et de discus »ions. Le Congrès International de la Presse Technique et Professionnelle s'en est occupé en les sessions de 1929 et 1930. Le format D. I. N. commence à être très généralement accepté. Il comporte la composition en deux colonnes. Celles-ci se recommande parce qu’elle est de lecture facile (repérage des yeuv après chaque ligne), parce que si on use de la composition mécanique, les lignes à rejeter pour corriger les épreuves sont moins longues, donc économie d argent ; enfin parce que l’on dispose de larges surfaces pour la présentation des illustrations, et qu'on évite deux marges sur quatre.
 
-7“ Justification et mise en page: Eviter les justifications trop larges. Elles fatiguent l'œil par la difficulté de* repérages après chaque fin de ligne. Elles empêchent aussi le découpage et collage sur fiche des extraits. 1
+7“ Justification et mise en page: Eviter les justifications trop larges. Elles fatiguent l'œil par la difficulté des repérages après chaque fin de ligne. Elles empêchent aussi le découpage et collage sur fiche des extraits. 1
 (1) Travaux de la Commission de Coopération Intellectuelle.
 
-Hanauer a proposé un n" d’ordre permanent. Pollard a publié dans son « World List » des sigles abréviatifs. Arundele Esdaille propose de combiner les deux.
+Hanauer a proposé un n° d’ordre permanent. Pollard a publié dans son « World List » des sigles abréviatifs. Arundele Esdaille propose de combiner les deux.
 8" Caractère typographique : Employer des caractères bien lisibles, agréables à l'œil.
 
 9° Pagination : Chaque page constitue un tout
@@ -18729,16 +18738,16 @@ repéré, éventuellement détachable,
 
 a) En haut de chaque page l'indication du sujet, de l'article ou de la rubrique générale avec l’indice décimal (indication repérée si l’article est en continuation).
 
-b) Au bas de chaque page le titre de la revue, sa date et la pagination. Celle-ci en grands caractères très lisible» et placé» vers la marge extérieure pour faciliter la consultation »ans devoir ouvrir les pages entièrement (exemple: 1a revue Le Papier).
+b) Au bas de chaque page le titre de la revue, sa date et la pagination. Celle-ci en grands caractères très lisibles et placés vers la marge extérieure pour faciliter la consultation »ans devoir ouvrir les pages entièrement (exemple: la revue Le Papier).
 
 10° Grandes rubriques ou titres collectifs: Indiquer le sujet de la rubrique en mots matières avec indice décimal correspondant. On obtient un titre d'aspect agréable en le plaçant dans un encadrement au haut de la page de départ de chaque grande rubrique avec au milieu les mots, à droite l'indice décimal et o gauche répétition du nom ou de quelque vignette appropriée (ex. : Le Papier, 1930.01.15). (I)
 vignette du nom  Commerce extérieur  382
   OU  
 676.106  Les Pâtes  676.106
 
-I I* Parties officielle» ou non officielles : Dans les organes d’associations on distingue avec soin la partie officielle de la partie non officielle. Dans les revue» allemandes, par ex., on trouve la mention c Schluss des Redaktionellen Teils ».
+I I* Parties officielles ou non officielles : Dans les organes d’associations on distingue avec soin la partie officielle de la partie non officielle. Dans les revues allemandes, par ex., on trouve la mention c Schluss des Redaktionellen Teils ».
 
-12° Le Périodique et le Traité : Le périodique ayant des rapports avec le traité exposant les matières similaires, li liaison est désirable: 1° En faisant dan» le Périodique des références constantes au traité. 2° En taisant du périodique un substitut du traité. En ce cas s’efforcer :
+12° Le Périodique et le Traité : Le périodique ayant des rapports avec le traité exposant les matières similaires, li liaison est désirable: 1° En faisant dans le Périodique des références constantes au traité. 2° En taisant du périodique un substitut du traité. En ce cas s’efforcer :
 
 a) d’indexer en détail chaque partie;
 
@@ -18746,16 +18755,16 @@ b) de se référer constamment de l’une à l'autre;
 
 c) d’établir des tables systématiques détaillées ;
 
-d) de rendre facile la séparation de chacun des articles pour en former dans les dossier» une Encyclopédie Documentaire.
-(I) Le Papier, revue technique de» industrie» du papier et du livre (Paris) applique la C. D, sous quatre formes (voir n° de janvier 1930) :
+d) de rendre facile la séparation de chacun des articles pour en former dans les dossiers une Encyclopédie Documentaire.
+(I) Le Papier, revue technique des industries du papier et du livre (Paris) applique la C. D, sous quatre formes (voir n° de janvier 1930) :
 
 Io Les articles portent les indices de la C. D.
 
-2° Les pages de la revue portent les indices de la C. D. conjointement avec les chiffres de 1a pagination.
+2° Les pages de la revue portent les indices de la C. D. conjointement avec les chiffres de la pagination.
 
 3° Le sommaire est divisé en trois colonnes : Titres, pages, rubriques en C. D.
 
-4' • Fiches documentaires » indications en forme de fiches incorporées k la revue de» articles parus dans les années antérieures sur un même sujet indiqué en rubrique et en indice décimal.
+4' « Fiches documentaires » indications en forme de fiches incorporées à la revue des articles parus dans les années antérieures sur un même sujet indiqué en rubrique et en indice décimal.
 
 
 ====
@@ -18768,19 +18777,19 @@ I 3“ Calendrier des réunions et faits à venir : Objet, organisme, date, indi
 
 I 5° Résumé des articles en d’autres langues : Exemple : Revue Economique Internationale.
 
-Bref résumé (conteru, analyse, thèse ou conclusion) ajouté h chaque article et destiné à être reproduit et éventuellement traduit.
+Bref résumé (conteru, analyse, thèse ou conclusion) ajouté à chaque article et destiné à être reproduit et éventuellement traduit.
 
-16° Sommaires : Le sommaire portera notices bibliographiques complètes : sujet, page, rubriques sous forme d'indice décimal (ex.: Le Papier, 15 janvier 1930). La Société Française d'Electriciens publie mensuellement un résumé en espéranto de se# publications et l’envoie h des personnalités et institutions du pays et de l’étranger.
+16° Sommaires : Le sommaire portera notices bibliographiques complètes : sujet, page, rubriques sous forme d'indice décimal (ex.: Le Papier, 15 janvier 1930). La Société Française d'Electriciens publie mensuellement un résumé en espéranto de ses publications et l’envoie à des personnalités et institutions du pays et de l’étranger.
 
 Adjonction à chaque numéro d’un Sommaire de son contenu, avec indice classificateur et analyse sommaire, publié de manière à pouvoir servir aux Répertoires par simple découpage et collage sur fiches.
 
-17° Tables: La forme des Tables de Périodiques la plus recommandables est: I) une Table systématique
+17° Tables: La forme des Tables de Périodiques la plus recommandables est: 1) une Table systématique
 
 selon la classification décimale avec référence à la pagination ou a la numérotation des Analyses: 2) un Index Alphabétique se référant seulement aux nombres classificateurs employés. (1)
 
 Etablissement des tables de matières, tables annuelles et tables cumulatives sous une forme permettant leur utilisation directe pour les fiches bibliographiques.
 
-Autant que possible, impression des articles séparés les uns des autres et placés de façon & pouvoir être découpés sans nuire aux articles voisins et versés dans les dossiers de l'Encyclopédie documentaire, en n'utilisant a cet effet qu'un seul exemplaire du périodique. Ce desideratum est réalisable en commençant les articles en belle page et, dans le cas où ils prendraient fin sur une page impaire, en partageant cette fin par moitié pour en placer, dans la mise en page, la dernière moitié au verso a la page paire.
+Autant que possible, impression des articles séparés les uns des autres et placés de façon à pouvoir être découpés sans nuire aux articles voisins et versés dans les dossiers de l'Encyclopédie documentaire, en n'utilisant a cet effet qu'un seul exemplaire du périodique. Ce desideratum est réalisable en commençant les articles en belle page et, dans le cas où ils prendraient fin sur une page impaire, en partageant cette fin par moitié pour en placer, dans la mise en page, la dernière moitié au verso a la page paire.
 
 On peut simplement établir, sous une Îormp concise, un Index Décimal des Matières: Indices décimaux avec la pagination (ex. : Revue La Vie Internationale,
 
@@ -18788,13 +18797,13 @@ On peut simplement établir, sous une Îormp concise, un Index Décimal des Mati
 
 19e Publicité-Annonces: La publicité est une condition financière d'existende pour un grand nombre de périodiques :
 
-a) Il importe de donner a la publicité un caractère documentaire au maximum : publicité concernant les matières traitées, exposés des desiderata généraux et de li manière dont les produits, appareils et services y
-(!) Voir : Le type pratique du Rritiah Power and Fuels Bulletin : Pollard AFC and Bradford S. C. 1932. Sytfe-matic subiect Index to periodical volume» : Report of Proc. 9th Conf. A. S. L. I. B. pp. 20-40.
+a) Il importe de donner a la publicité un caractère documentaire au maximum : publicité concernant les matières traitées, exposés des desiderata généraux et de la manière dont les produits, appareils et services y
+(!) Voir : Le type pratique du Rritiah Power and Fuels Bulletin : Pollard AFC and Bradford S. C. 1932. Sytfe-matic subiect Index to periodical volumes : Report of Proc. 9th Conf. A. S. L. I. B. pp. 20-40.
 donnent satisfaction, explication à leur occasion des principes généraux : classement et indexation des annonces.
 
 b) Possibilité du découpage et conservation dans les dossiers et fichiers.
 
-c) Annonces placées éventuellement au verso des feuilles contenant les notices bibliographiques afin de faciliter le découpage et collage. Annonce éventuellement sous li forme de fiche a découper prête à être intercalée dans les fichiers. (Feuille d'annonces intercalée avec verso rt recto consacrés aux annonces ou avec au verso seulement des annonces, le verso étant réservé h du texte documentaire).
+c) Annonces placées éventuellement au verso des feuilles contenant les notices bibliographiques afin de faciliter le découpage et collage. Annonce éventuellement sous li forme de fiche a découper prête à être intercalée dans les fichiers. (Feuille d'annonces intercalée avec verso et recto consacrés aux annonces ou avec au verso seulement des annonces, le verso étant réservé à du texte documentaire).
 
 d) Indexation décimale des annonces.
 
@@ -18804,20 +18813,20 @@ e) Certaines revues publient des « Tables de la publicité par matière » et �
 
 1) Classement du périodique lui-même dans les Bibliothèques :
 
-2) Aide h l’établissement des tables des matières et è Ih bibliographie générale ;
+2) Aide à l’établissement des tables des matières et à la bibliographie générale ;
 
 3) Classement automatique des articles dans les dossiers après découpage ;
 
-4) Sur les notes prises lors de ?a lecture de l'article, on peut porter directement l'indice qu’on a *ous les yeux sans autres recherches dans les tables.
+4) Sur les notes prises lors de ?a lecture de l'article, on peut porter directement l'indice qu’on a sous les yeux sans autres recherches dans les tables.
 
-21° a) Indiquer les indices sur chaque article, également sur chaque information d:stincte d'une chronique, sur chaque notice bibliographique des comptes rendus ou des listes bibliographiques; b) Si le sujet traité est complexe, indiquer les indices composés (matières, points de vue, lieux, temps, forme, langue) ; c) S’il est traité de plusieurs sujets, indiquer plusieurs indices.
+21° a) Indiquer les indices sur chaque article, également sur chaque information distincte d'une chronique, sur chaque notice bibliographique des comptes rendus ou des listes bibliographiques; b) Si le sujet traité est complexe, indiquer les indices composés (matières, points de vue, lieux, temps, forme, langue) ; c) S’il est traité de plusieurs sujets, indiquer plusieurs indices.
 
-22° Organisation interne du Périodique : Il n’est question ici de ce point que pour mémoire. La rédaction et l’administration du Périodique participe comme celle du Journal d'une double nature, celles d’un Institut Intellectuel (scientifique ou social) et celles d’une Administration industrielle et commerciale. La loi américaine du 24 août 1912 distingue, nettement pour les périodiques, le « Publisher », 1* « Editor ». le « Managing Editor • et le # Business Manager ».
+22° Organisation interne du Périodique : Il n’est question ici de ce point que pour mémoire. La rédaction et l’administration du Périodique participe comme celle du Journal d'une double nature, celles d’un Institut Intellectuel (scientifique ou social) et celles d’une Administration industrielle et commerciale. La loi américaine du 24 août 1912 distingue, nettement pour les périodiques, le « Publisher », 1* « Editor ». le « Managing Editor » et le # Business Manager ».
 
 421.2 Publication des Livres et Documents. L’Edition mondiale.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-Notre temps renouvelle toutes les formes. Quelles nouveautés apporte-t-il dans celles de l’Edition : nouveauté réalisées, entrevues ou désirables >
+Notre temps renouvelle toutes les formes. Quelles nouveautés apporte-t-il dans celles de l’Edition : nouveauté réalisées, entrevues ou désirables?
 
 Les quatre grands facteurs qui agissent sur toutes les activités contemporaines sont ici à l’œuvre : commercial, scientifique, politique, social. Tout se commercialise, tout devient objet de science objective; tout, directement ou indirectement, retentit sur l'Etat, organisme de la vie politique; tout doit s’adapter à une
 
@@ -18828,7 +18837,7 @@ Les quatre grands facteurs qui agissent sur toutes les activités contemporaines
 
 situation qui consacre le droit de la masse, la démocratie.
 
-L'Edition évolue dans le cercle de ce* quatre facteurs ; à elle de les coordonner en elle h scs propres fins : produire des livres efficients quant a la quantité et à la qualité.
+L'Edition évolue dans le cercle de ces quatre facteurs ; à elle de les coordonner en elle à ses propres fins : produire des livres efficients quant a la quantité et à la qualité.
 
 Qu'il s'agisse de travail intellectuel ou de travail social, on a vu se multiplier les Associations. Celles-ci sont reliées entr'elles par les liens de la fédération allant des Fédérations locales, régionales, nationales, aux Fédérations internationales. Et toutes, constamment, produisent des publications qui vont, prenant chaque Jour plus d'importance et de développement. En particulier, il faut tenir comme organes publica-leurs de premier ordre les grandes Associations internationales de toutes spécialités. Elles sont la représentation des effets et efforts collectifs mondiaux en chaque domaine; elles incorporent en elles la souveraineté nécessaire pour statuer à l'instance supérieure sur les intérêts dont elles sont dépositaires et défenseurs. Elles entendent demeurer indépendantes du Pou. voir et de ses censures, de la Finance et de ses influences déformatrices. Leur action, leurs décisions, leurs travaux sont déterminants dans leur domaine respectif. Comme il y a actuellement en vie dans le Monde environ 400 Associations internationales, plus ou moins développées, mais ayant toutes, en germe tout au moins, un service de publication; elles constituent dans leur ensemble une force éditoriale de première importance. Mais celle-ci n'est pas organisée.
 
@@ -18840,28 +18849,28 @@ L'Editeur collectif A serait constitué par toutes les Associations Internationa
 
 1° un Traité général systématique;
 
-2” un Dictionnaire alphabétique;
+2° un Dictionnaire alphabétique;
 
-3* une Revue;
-4,k un Annuaire renseignant sur les personnes, et les institutions;
+3° une Revue;
+4° un Annuaire renseignant sur les personnes, et les institutions;
 
 5° un Recueil de bibliographie : Titres et analyses;
 
-6" une Année relatant les progrès des douze mois écoulés;
+6° une Année relatant les progrès des douze mois écoulés;
 
-7a un Recueil inconographique des tables des données numériques;
+7° un Recueil inconographique des tables des données numériques;
 
-8* un Atlas de tableaux synoptiques;
+8° un Atlas de tableaux synoptiques;
 
-9" un Recueil des textes anciens ou classiques;
+9° un Recueil des textes anciens ou classiques;
 
 10° un système de Catalogue-Inventaire.
 
-11 s'agirait donc, sous le haut contrôle des Associations de chacun des secteurs du cercle encyclopédique que couvtent en son entier ces Associations toutes ensemble, de voir se produire la véritable Encyclopédie de chaque Science, et, en totalisant, l’Encyclopédie Universelle des Connaissances.
+Il s'agirait donc, sous le haut contrôle des Associations de chacun des secteurs du cercle encyclopédique que couvtent en son entier ces Associations toutes ensemble, de voir se produire la véritable Encyclopédie de chaque Science, et, en totalisant, l’Encyclopédie Universelle des Connaissances.
 
 Hors la spécialisation d’une part, la synthèse d'autre part, on ne saurait plus parler maintenant d'Encyclo-pédie.
 
-Les temps révolus ont connu des formes de celle-ci. Les Traités d'Aristote ont t encyclopédifié  la science du temps. Les Hommes du Moyen Age y ont procédé à leur tour. Quand les Encyclopédies du XVIIIe siècle produisaient leur œuvre, le savoir avait tellement grandi qu'ils le répartirent non plus en traités, tomes et chapitres, mais en articles disposés alphabétiquement. Encore produisirent-ils une œuvre originale, enregistrant pour la première fois des données qui, sans eux, n'auraient été écrites si tôt et ai bien. Après eux. on procéda à des dictionnaires, à des Encyclopédies de vulgarisation. Mais notre époque se ressaisit, elle veut aussi l’œuvre centralisée de haute envergure et de portée intellectuelle fondamentale; elle veut à sa manière réaliser le rêve séculaire de la concentration, du Biblion ou Livre universel.
+Les temps révolus ont connu des formes de celle-ci. Les Traités d'Aristote ont été encyclopédifié  la science du temps. Les Hommes du Moyen Age y ont procédé à leur tour. Quand les Encyclopédies du XVIIIe siècle produisaient leur œuvre, le savoir avait tellement grandi qu'ils le répartirent non plus en traités, tomes et chapitres, mais en articles disposés alphabétiquement. Encore produisirent-ils une œuvre originale, enregistrant pour la première fois des données qui, sans eux, n'auraient été écrites si tôt et ai bien. Après eux. on procéda à des dictionnaires, à des Encyclopédies de vulgarisation. Mais notre époque se ressaisit, elle veut aussi l’œuvre centralisée de haute envergure et de portée intellectuelle fondamentale; elle veut à sa manière réaliser le rêve séculaire de la concentration, du Biblion ou Livre universel.
 
 Pour y parvenir, les Associations fédérées, l'entité A a la possibilité de s'adresser à l'entité collective B constituée en fait par toutes les Bibliothèques du monde. Si les Associations sont des coopératives, de producteurs intellectuels, les Bibliothèques sont des coopératives de consommateurs intellectuels. A elles d’acquérir. de classer, de cataloguer, de conserver de communiquer les livres aux chercheurs, aux lecteurs. Mais le devoir s'indique aussi pour elles d'aider à produire de meilleurs livres. Les Bibliothèques constitueraient donc chacune chez elles, en leur entier si elles sont générales, pour telle ou telle partie si elles sont spéciales, le dépôt de la Collection B ; l'Encyclopédie coopérative mondiale. Elles deviendraient ainsi les stations organisées d'un grand réseau de distribution de l'information scientifique la plus complète, la plus récente, la plus autorisée. Chaque travailleur de l'intelligence serait certain de trouver chez elles l'expression à jour des connaissances organisées et ce qu'elles
 
@@ -18902,7 +18911,7 @@ a) Avec les livres et les documents considérés comme autant d’unités, on fo
 
 b) Il y a lieu de constituer les collections en système mondial.
 
-En principe, le système s'étendra aux grandes catégories de collections: 1° Livres (Bibliothèques). 2" Revues (Périodicothèque). 3° Journaux (Hémérothèque). 4° Documents officiels. 5° Brevets. 6° Manuscrits. 7° Cartes et plans (Mappothèques). 8° Images, estampes, dessins, photographies (Iconotbèque). 9° Archives administratives. 10° Archives documentaires (extraits, découpures, encyclopédie documentaire). 11° Collections de modèles graphiques (technique du Livre). 12° Collections de spécimens de journaux et de périodiques. 13° Catalogue des notices et des catalogues commerciaux. 14° Disques, livre sonore (Discothèque). 15° Films (Cinémathèque). 16*’ Objet*. modèles, échantillons, œuvres d’art (Musée: Stéréo thèque).
+En principe, le système s'étendra aux grandes catégories de collections: 1° Livres (Bibliothèques). 2° Revues (Périodicothèque). 3° Journaux (Hémérothèque). 4° Documents officiels. 5° Brevets. 6° Manuscrits. 7° Cartes et plans (Mappothèques). 8° Images, estampes, dessins, photographies (Iconotbèque). 9° Archives administratives. 10° Archives documentaires (extraits, découpures, encyclopédie documentaire). 11° Collections de modèles graphiques (technique du Livre). 12° Collections de spécimens de journaux et de périodiques. 13° Catalogue des notices et des catalogues commerciaux. 14° Disques, livre sonore (Discothèque). 15° Films (Cinémathèque). 16*’ Objet*. modèles, échantillons, œuvres d’art (Musée: Stéréo thèque).
 
 c) Réseau des grands organismes. Le réseau général se divise en autant de réseaux que d'espèces d’organismes déterminant les espèces de collections.
 
@@ -18916,12 +18925,12 @@ c) Réseau des grands organismes. Le réseau général se divise en autant de r�
 m
 Ainsi il y aura des organisations relatives A la production et à la diffusion des journaux, des périodiques, des brevets, des images, des films, des informations par T .S. F., des musées,
 
-d) On a traité ci-après des six formes principales : 1° Bibliographie; 2" Bibliothèques; 3° Encyclopédie ; 4" Documentation administrative ; 5“ Archives anciennes ; 6" Musée.
+d) On a traité ci-après des six formes principales : 1° Bibliographie; 2° Bibliothèques; 3° Encyclopédie ; 4° Documentation administrative ; 5° Archives anciennes ; 6° Musée.
 
 422.1 Système mondial.
 ^^^^^^^^^^^^^^^^^^^^^^^
 
-a) Il y a lieu de retenir spécialement l'attention sur quatre points : 1° établissement d’un type universel de notices bibliographiques; 2° règles catalographiques universelle» ; 3n système général de Bibliographie et Catalogue ; 4° le Répertoire Bibliographique Universel. Les deux premiers points ont été traités sous n° 255.85, p. 302 et p. 304.
+a) Il y a lieu de retenir spécialement l'attention sur quatre points : 1° établissement d’un type universel de notices bibliographiques; 2° règles catalographiques universelles ; 3n système général de Bibliographie et Catalogue ; 4° le Répertoire Bibliographique Universel. Les deux premiers points ont été traités sous n° 255.85, p. 302 et p. 304.
 
 422.11 Système général de bibliographie et catalogue.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -18930,45 +18939,45 @@ a) On constate quatre phases dans le travail de la Bibliographie :
 
 1" Il a été commencé autrefois dans les Bibliothèques par les grands catalogues de celles-ci. (I)
 
-2° 11 a pris ultérieurement un caractère autonome et propre avec les grands développements des périodiques et l'extension de le littérature scientifique et technique (Fondation de Y). 1. B.).
+2° Il a pris ultérieurement un caractère autonome et propre avec les grands développements des périodiques et l'extension de le littérature scientifique et technique (Fondation de Y). 1. B.).
 
-3*' 11 s'est progressivement développé plus tard sous les formes de la documentation générale par la multiplication des Offices et services de documentation.
+3° Il s'est progressivement développé plus tard sous les formes de la documentation générale par la multiplication des Offices et services de documentation.
 
 4° Un rapprochement s’opère maintenant entre le travail des organismes proprement bibliographiques et celui des Bibliothèques? Les premiers tendant à comprendre
 
-( I ) On a imprimé le Catalogue général des manuscrits. A la Révolution les biens des congrégations et ceux des émigrés ayant été décimé» bien» nationaux, leur» livre« et manuscrits furent destinés a fonder dans tout le pays rie grandes bibliothèques pour l’instruction populaire. Un inventaire était nécessaire. On eut l'idée de le faire servir à la confection d’un catalogue général de toutes les bibliothèques de Paris et des départements. A la suite d’instructions de 1790 et 1791, 1.200.000 fiches, représentant environ 3 millions parvinrent a Paris. C'était peu. En 1794. le conventionnel Grégoire présenta son Rapport sur la Bibliographie. On dut renoncer à l'idée du catalogue imprimé. On imprima plus tard le Catalogue gé néral des livres imprimés de la Bibliothèque Nationale. Dam son introduction. Léopold Delisle fait allusion simplement a un catalogue collectif des Bibliothèques nationales de Paris (p. LXXVII). — La Commission internationale de coopération internationale ayant demandé que, dans chaque pays, fut fondé un centre d'orientation pour l'ensemble des collections publiques. M. Roland Marcel tenta d'abord de constituer a la Bibliothèque Nationale un catalogue sur fiches de» fonds spéciaux et des Unie» des bibliothèques de provinces, finalement il résolut d’élargir son enquête (confiée à M. Pol Neveux) et d'en
-ètussi des collections de livre»; les secondes se complètent en centres dr documentation.
+( I ) On a imprimé le Catalogue général des manuscrits. A la Révolution les biens des congrégations et ceux des émigrés ayant été décimés biens nationaux, leurs livres et manuscrits furent destinés a fonder dans tout le pays rie grandes bibliothèques pour l’instruction populaire. Un inventaire était nécessaire. On eut l'idée de le faire servir à la confection d’un catalogue général de toutes les bibliothèques de Paris et des départements. A la suite d’instructions de 1790 et 1791, 1.200.000 fiches, représentant environ 3 millions parvinrent a Paris. C'était peu. En 1794. le conventionnel Grégoire présenta son Rapport sur la Bibliographie. On dut renoncer à l'idée du catalogue imprimé. On imprima plus tard le Catalogue gé néral des livres imprimés de la Bibliothèque Nationale. Dam son introduction. Léopold Delisle fait allusion simplement a un catalogue collectif des Bibliothèques nationales de Paris (p. LXXVII). — La Commission internationale de coopération internationale ayant demandé que, dans chaque pays, fut fondé un centre d'orientation pour l'ensemble des collections publiques. M. Roland Marcel tenta d'abord de constituer a la Bibliothèque Nationale un catalogue sur fiches des fonds spéciaux et des Unies des bibliothèques de provinces, finalement il résolut d’élargir son enquête (confiée à M. Pol Neveux) et d'en
+ètussi des collections de livres; les secondes se complètent en centres dr documentation.
 
 b) Le système complet de Bibl ographie doit s'étendre aux catégories de Bibliographie suivantes :
 
-1° Bibliographie des Bibliographies, avec les Bibl ogra-phies de» bibliographies de» bibliographies.
+1° Bibliographie des Bibliographies, avec les Bibl ogra-phies des bibliographies des bibliographies.
 
-2° Bibliographie universelle et internationale en géné ral ; a) histo'.re de la littérature universelle embrassant tou» les pays et toutes le» époque»; b) limité à quelque pays ou quelque époque.
+2° Bibliographie universelle et internationale en général ; a) histoire de la littérature universelle embrassant tout les pays et toutes les époques; b) limité à quelque pays ou quelque époque.
 
-31’ Bibliographie» spéciales.
+31’ Bibliographies spéciales.
 
-4" Bibliographie nationale et Bibliograph e de publications en une langue déterminée.
+4° Bibliographie nationale et Bibliograph e de publications en une langue déterminée.
 
-5” Bibliographie d'ouvrage» de groupes d'auteur» ou de certains faits : a) publication des sociétés savantes;
+5° Bibliographie d'ouvrages de groupes d'auteur» ou de certains faits : a) publication des sociétés savantes;
 
-b) thèses et écrits académique» : c) publications officielles; d! ouvrage» anonymes; e) pseudonymes, supercheries littéraires ; f ) périodiques et journaux.
+b) thèses et écrits académiques : c) publications officielles; d'ouvrages anonymes; e) pseudonymes, supercheries littéraires ; f ) périodiques et journaux.
 
-6r Catalogue de certains fonds: a) catalogues d’éditeurs; h) cata^gues de bibliothèques; c) catalogues de libraires;
+6° Catalogue de certains fonds: a) catalogues d’éditeurs; h) cata^gues de bibliothèques; c) catalogues de libraires;
 
 d) catalogues de ventes,
 
-7" Bibliographie choisie: a) bibliographie générale choi-s'e : bons livres, livres recommandés; b) catalogues de livres défendus par certaines autorité»' civiles et religieuses.
+7° Bibliographie choisie: a) bibliographie générale choi-s'e : bons livres, livres recommandés; b) catalogues de livres défendus par certaines autorité»' civiles et religieuses.
 
 8° Revues d'analyse et de critique dite « littéraire ».
 
-9” Encyclopédies en général (contenant des références biographiques).
+9° Encyclopédies en général (contenant des références biographiques).
 
 10° Biographies (contenant l'indication des œuvres des auteurs).
 
-c) L'indexation décimale peut se faire en cinq moments différents : 1° Sur l'œuvre elle-même (le livre ou l'article paraissant dans les périodique»). 2° Sur 1rs bibliographies primaires qui sont les Bibliographies nationales respon-
-miblier les résultats. « Les richesses des Bibliothèque» provinciales dr France». Le répertoire est classé par ordre alphabétique de villes, et ne dit rien des Bibliothèques rlles-mêmr». — Charles Martel, en 18%, (Les Caatloguca collectifs ou communa à plusieurs bibliothèques) déclara que « ce serait une vaine et dangereuse entreprise d’essayer, actuellement du moins, un catalogue de toutes les bibliothèques publiques ».
+c) L'indexation décimale peut se faire en cinq moments différents : 1° Sur l'œuvre elle-même (le livre ou l'article paraissant dans les périodiques). 2° Sur les bibliographies primaires qui sont les Bibliographies nationales respon-
+miblier les résultats. « Les richesses des Bibliothèques provinciales de France ». Le répertoire est classé par ordre alphabétique de villes, et ne dit rien des Bibliothèques elles-mêmes. — Charles Martel, en 18%, (Les Caatloguca collectifs ou communa à plusieurs bibliothèques) déclara que « ce serait une vaine et dangereuse entreprise d’essayer, actuellement du moins, un catalogue de toutes les bibliothèques publiques ».
 
-La publication photographique du Catalogue de la Nationale de Paris a été facilitée par suite de l'action d'une commission désignée par ('American Librar y Association : 40 bibliothèques américaine» ont décidé de souscrire au catalogue à raison de 250 fr. au lieu de 125. Par ce supplément d’environ 2 millions de francs le catalogue devra être achevé en 11 années au lieu de 25 années prévues.
+La publication photographique du Catalogue de la Nationale de Paris a été facilitée par suite de l'action d'une commission désignée par ('American Librar y Association : 40 bibliothèques américaines ont décidé de souscrire au catalogue à raison de 250 fr. au lieu de 125. Par ce supplément d’environ 2 millions de francs le catalogue devra être achevé en 11 années au lieu de 25 années prévues.
 
 Voir aussi Marcel Godet, directeur de la Bibliothèque Nationale (Suisse). Mémoire concernant la création d'un catalogue général et d'un service de renseignements de Bibliothèques suisses (Association des Bibliothécaires Suisses). Berne 1927 (17 s.). 8°.
 
@@ -18977,16 +18986,16 @@ Voir aussi Marcel Godet, directeur de la Bibliothèque Nationale (Suisse). Mémo
 
 *404*  ORGANISATION RATIONNELLE DU LIVRE  422
 
-sable* du catalogue national de chaque pays. Sur les Bibliographies nationales ou internationales qui publient 1rs dépouillements primaires des périodiques. 3° Sur les Bibliographies empruntant leurs éléments aux bibliographies primaires. 4" Sur les catalogue» et répertoires de» bibliothèques en général. 5° Sur les notes et documents des fichiers et classeurs des travailleurs scientifiques.
+sables du catalogue national de chaque pays. Sur les Bibliographies nationales ou internationales qui publient les dépouillements primaires des périodiques. 3° Sur les Bibliographies empruntant leurs éléments aux bibliographies primaires. 4" Sur les catalogues et répertoires des bibliothèques en général. 5° Sur les notes et documents des fichiers et classeurs des travailleurs scientifiques.
 
-Suivant celui des cinq moments sousdits auxquels intervient l’indexation, elle a une sphère d'utilité plus grande. Faite à la source sur les œuvres elles-mêmes, ou tout au moins sur les bibliographies primaires, elle suit le sort des œuvres et de leurs notices bibliographiques et cata lographiques à travers toute leur circulation et distribution ultérieure. Un double effort doit donc être fait en vue à cette indexation. Il faut décider: a) les auteurs et Us éditeurs; b) les publicateurs de bibliographies primaires.
+Suivant celui des cinq moments sousdits auxquels intervient l’indexation, elle a une sphère d'utilité plus grande. Faite à la source sur les œuvres elles-mêmes, ou tout au moins sur les bibliographies primaires, elle suit le sort des œuvres et de leurs notices bibliographiques et cata lographiques à travers toute leur circulation et distribution ultérieure. Un double effort doit donc être fait en vue à cette indexation. Il faut décider: a) les auteurs et les éditeurs; b) les publicateurs de bibliographies primaires.
 
 422.12 Sur le Répertoire bibliographique universel.
 """"""""""""""""""""""""""""""""""""""""""""""""""""
 
-1. Définition et contenu. — Le Répertoire Bibliographique Universel R. U. P. ou (Bibliographie UniversaJis) est conçu comme un catalogue dans lequel doit être enregistré intégralement et classée toute la production intellectuelle, sous une forme qui en constitue l'inventaire, et qui la rende largement accessible a tous et à toutes fins. Il doit s’étendre aux œuvres, comprendre les écrits de tous le» temps, produits en tous pays, sous toutes les forme» de toutes les matières. En doivent faire partie les livres, brochures, feuilles volantes, les périodiques, les journaux, les publications officielles, les ouvrages scolaires. En seront exclus la musique, les estampes, la nu-mistatique, l’épigraphie. les pièces d’archives.
+1. Définition et contenu. — Le Répertoire Bibliographique Universel R. U. P. ou (Bibliographie Universalis) est conçu comme un catalogue dans lequel doit être enregistré intégralement et classée toute la production intellectuelle, sous une forme qui en constitue l'inventaire, et qui la rende largement accessible a tous et à toutes fins. Il doit s’étendre aux œuvres, comprendre les écrits de tous les temps, produits en tous pays, sous toutes les formes de toutes les matières. En doivent faire partie les livres, brochures, feuilles volantes, les périodiques, les journaux, les publications officielles, les ouvrages scolaires. En seront exclus la musique, les estampes, la nu-mistatique, l’épigraphie. les pièces d’archives.
 
-On ne se bornera pas à y mentionner les ouvrages comme unités. Quand ils formeront des collections, ils y figureront avec tous leurs éléments composants, c’est le cas de» œuvres po)ygraphiques. C'est le cas surtout des périodiques. Le Répertoire contiendra leurs dépouillements, c’est-à-dire les notices de tous les articles qui composent chacun de leurs fascicules.
+On ne se bornera pas à y mentionner les ouvrages comme unités. Quand ils formeront des collections, ils y figureront avec tous leurs éléments composants, c’est le cas des œuvres po)ygraphiques. C'est le cas surtout des périodiques. Le Répertoire contiendra leurs dépouillements, c’est-à-dire les notices de tous les articles qui composent chacun de leurs fascicules.
 
 2. Organisation du Travail. — Le Répertoire Bibliographique Universel est conçu comme la somme des Bibliographies particulières. Le travail d’élaboration doit en être réparti sur une double base : nationale et internationale.
 
@@ -18995,46 +19004,46 @@ tion nationale, aussi large de but, et fédérative de constitution, doit assure
 
 b) Les Associations Internationales spécialisées doivent accepter chacune d’assurer le dpouillement intégral des priodiques de leur spécialité, soit par elles-mêmes. soit par quelque tiers organe placé sous leur contrôle. Les Associations Internationales évoluent rapidement vers un stade où elles assument les fonctions d'organisation internationale du travail intellectuel, dont fait partie la Documentation. Elles deviennent des fédérations groupant les Associations nationales de leur spécialité et dès lors leur est possible de procéder elles-mêmes à une répartition du travail par pays entre leurs diverses sections. Le dépouillement des périodiques est une œuvre qui dépasse les forces d une Bibliothèque nationale, à moins qu’il s’agisse de petits pays à faible production. Les articles en général portent sur des sujets très particuliers et ils exigent, pour leur classement adéquat et détaillé, les connaissances de spécialistes aussi nombreux qu’il y a de sciences. Les Associations Internationales peuvent facilement recourir à la coopération de ces spécialistes. Ce sont leurs membres, les travailleurs intellectuels dan* tous les domaines, qui sont les premiers intéressés soit à faire connaître leurs travaux dans ces périodiques, soit à connaître eux-mêmes les travaux qui se poursuivent partout.
 
-3. Centralisation, décentralisation. — Si l’Institut disposait des ressources nécessaires, il serait possible d’opérer à son siège centrai de dépouillement de tous les périodiques, le classement des notices et leurs publications, l’envoi régulier à toutes les Bibliothèques, à tous les centres et particuliers intéressés. L’Institut constituerait dans son sein, des bureaux, se divisant la tâche entr eux d'après les matières et il s'attacherait la collaboration de spécialistes qualifiés.
+3. Centralisation, décentralisation. — Si l’Institut disposait des ressources nécessaires, il serait possible d’opérer à son siège centrai de dépouillement de tous les périodiques, le classement des notices et leurs publications, l’envoi régulier à toutes les Bibliothèques, à tous les centres et particuliers intéressés. L’Institut constituerait dans son sein, des bureaux, se divisant la tâche entr'eux d'après les matières et il s'attacherait la collaboration de spécialistes qualifiés.
 
 Une telle organisation permettrait de donner à 1 œuvre entière l’ampleur, la régularité et l’efficience qu on peut attendre d’un travail réalisé en grand par des méthodes standardisées et conduit en séries bien ordonnées, avec l'aide maximum d’un outillage technique. Une collection centrale de périodiques serait formée en connexion avec la Bibliothèque internationale. Ce serait sur le vu même des articles qu'il serait opéré. Il va de soi que tous, corps savants, éditeurs et particulier mêmes, seraient directement intéressé» à envoyer gratuitement leurs périodiques à un enregistrement universel.
 
-Comme pareille organisation, faute de ressource» et d’accords pour les obtenir, n’a pu être réalisée jusqu'ici, c’est à la méthode décentralisée qu’il a fallu recourir. Celle-ci consiste essentiellement à faire supporter la charge du travail par les unités intéressées, et à opérer la corrélation des résultats de ce travail.
+Comme pareille organisation, faute de ressources et d’accords pour les obtenir, n’a pu être réalisée jusqu'ici, c’est à la méthode décentralisée qu’il a fallu recourir. Celle-ci consiste essentiellement à faire supporter la charge du travail par les unités intéressées, et à opérer la corrélation des résultats de ce travail.
 
 4. Principes.
 
-a) Le R B U. est établi sur fiches de format universel. Il est divisé en deux parties 1 une par auteur, 1 autre par
+a) Le R. B. U. est établi sur fiches de format universel. Il est divisé en deux parties l'une par auteur, l'autre par
 
 ====
 
 422  LES ENSEMBLES  *405*
 
-matière, cette dernière classée d’après la classification décimale, susceptible d’être largement distribuée. L’essentiel, c’est rétablissement, au siège central de l'Institut, d'un Répertoire prototype, que les travailleurs puissent consulter sur place ou dont iis puissent, sur demande par correspondance, recevoir des extrait» répondant aux questions posées. Ceci réduit la dépense au minimum et, pour les copies, n'engage des dépenses qu à mesure qu'elles sont couvertes par les intéressés. Peu de capital est donc nécessaire. Mais en même temps, on établit toute une échelle de moyens de reproduction de plus en plus mat is faisant* et pouvant être employés simultanément suivant que des circonstances s'en présentent, reproduction photographique ou microphotographique (1) multiplication au duplicateur, impression dans des recueils spéciaux verso blanc ou en annexes, à des publications existantes, ou finalement impression directe sur fiches. Une collection de contributions du R. B. U, a été constituée.
+matière, cette dernière classée d’après la classification décimale, susceptible d’être largement distribuée. L’essentiel, c’est rétablissement, au siège central de l'Institut, d'un Répertoire prototype, que les travailleurs puissent consulter sur place ou dont iis puissent, sur demande par correspondance, recevoir des extraits répondant aux questions posées. Ceci réduit la dépense au minimum et, pour les copies, n'engage des dépenses qu à mesure qu'elles sont couvertes par les intéressés. Peu de capital est donc nécessaire. Mais en même temps, on établit toute une échelle de moyens de reproduction de plus en plus mat is faisant* et pouvant être employés simultanément suivant que des circonstances s'en présentent, reproduction photographique ou microphotographique (1) multiplication au duplicateur, impression dans des recueils spéciaux verso blanc ou en annexes, à des publications existantes, ou finalement impression directe sur fiches. Une collection de contributions du R. B. U, a été constituée.
 
-d) On a distingué entre le Répertoire Prototype établi au siège de l'Institut (actuellement à Bruxelles) et »es Répertoires dérivés et organisés d'après les mêmes méthodes dans les Centres d'études. Le premier, par définition, doit tendre à être complet. La conception des autres en fait des Répertoires limités à certaines parties déterminées par l'usage même qu'en peuvent avoir Us organismes qui les établissent (Bibliothèques nationales, générales, spéciales, locales, ou internationales ; Instituts et laboratoires; Universités, administrations publique«, associations, etc.). Ces répertoires sont appelés à concentrer dans chaque organisme ou service documentaire a) l'ensemble des fiches reçues du dehors de différentes sources, et en premier l eu du Répertoire Bibliographique Universel; b) l'ensemble des fiches rédigées sur place, avec éventuellement la combinaison en un seul ordre d» * notices relatives à la Bibliographie et de celles relatives au catalogue de la Bibliothèque de 1 établissement.
+d) On a distingué entre le Répertoire Prototype établi au siège de l'Institut (actuellement à Bruxelles) et »es Répertoires dérivés et organisés d'après les mêmes méthodes dans les Centres d'études. Le premier, par définition, doit tendre à être complet. La conception des autres en fait des Répertoires limités à certaines parties déterminées par l'usage même qu'en peuvent avoir les organismes qui les établissent (Bibliothèques nationales, générales, spéciales, locales, ou internationales ; Instituts et laboratoires; Universités, administrations publique«, associations, etc.). Ces répertoires sont appelés à concentrer dans chaque organisme ou service documentaire a) l'ensemble des fiches reçues du dehors de différentes sources, et en premier lieu du Répertoire Bibliographique Universel; b) l'ensemble des fiches rédigées sur place, avec éventuellement la combinaison en un seul ordre d» * notices relatives à la Bibliographie et de celles relatives au catalogue de la Bibliothèque de l'établissement.
 
-5. Modes divers de coopération. — L’Organisation et b méthode du R. B. U. rend possible de nombreux modes de coopération par une infinité de coopérateurs. Un tableau en est dressé. Les auteurs, associations, corps savants, corps administratifs officiels: Envoi par ceux-ci d*- la liste complète de leurs écrits sur fiches dans la forme descriptive arrêtée. Les Bibliothèques: établissement de leur catalogue d’après les règles minimum, et envoi de copies, imprimées ou manuscrites. Les Editeurs: établissement. d'après ces mêmes règles, de leur catalogue et publication du prospectus des nouveautés sur fiches du format universel. Organismes ou particuliers, éditeurs de bibliographies nationales ou internationales, de guides, index ou liste bibliographiques : publication de leurs travaux en observant les desiderata minima. Editeurs de oé-riodiques : publication, dans les mêmes conditions drs 1
-(1) Sur les procédés microphotographiques. voir Publication n" 14' de 1*1. 1. B.
-tables de matières et de sommaires. Tous ces modes de coopération mis en oeuvre simultanément et s'exerçant continuellement apporteront au R. B. U. d importantes contributions. Ils s’ajouteront aux travaux poursuivis au siège central de l’institut et hâteront l’achèvement de l’œuvre.
+5. Modes divers de coopération. — L’Organisation et la méthode du R. B. U. rend possible de nombreux modes de coopération par une infinité de coopérateurs. Un tableau en est dressé. Les auteurs, associations, corps savants, corps administratifs officiels: Envoi par ceux-ci de la liste complète de leurs écrits sur fiches dans la forme descriptive arrêtée. Les Bibliothèques: établissement de leur catalogue d’après les règles minimum, et envoi de copies, imprimées ou manuscrites. Les Editeurs: établissement. d'après ces mêmes règles, de leur catalogue et publication du prospectus des nouveautés sur fiches du format universel. Organismes ou particuliers, éditeurs de bibliographies nationales ou internationales, de guides, index ou liste bibliographiques : publication de leurs travaux en observant les desiderata minima. Editeurs de oé-riodiques : publication, dans les mêmes conditions drs 1
+(1) Sur les procédés microphotographiques. voir Publication n° 14' de 1*1. 1. B.
+tables de matières et de sommaires. Tous ces modes de coopération mis en œuvre simultanément et s'exerçant continuellement apporteront au R. B. U. d'importantes contributions. Ils s’ajouteront aux travaux poursuivis au siège central de l’institut et hâteront l’achèvement de l’œuvre.
 
-6. Etat actuel des travaux et de la coopération. Le Répertoire Bibliographique Universel a été fondé par la première Conférence Bibliographique Universelle, réunie en 1895. Il s’est développé par les efforts conjugués de l’Institut et de l’Office International de Bibliographie. créées cette année par celte même conférence. Au l°r avril 1934. le R. U. B., comprenait 15,646,346 fiches. Il avait répondu à 27,000 demandes de renseignements ; dans 142 contributions imprimées avaient été publiées environ un demi million de not’ess portant les indices de la classification décimale.
+6. Etat actuel des travaux et de la coopération. Le Répertoire Bibliographique Universel a été fondé par la première Conférence Bibliographique Universelle, réunie en 1895. Il s’est développé par les efforts conjugués de l’Institut et de l’Office International de Bibliographie. créées cette année par celte même conférence. Au 1er avril 1934. le R. U. B., comprenait 15,646,346 fiches. Il avait répondu à 27,000 demandes de renseignements ; dans 142 contributions imprimées avaient été publiées environ un demi million de not’ess portant les indices de la classification décimale.
 
-a) Catalogue collectif général des grandes Bibliothèques du monde. La Bibliographie renseigne sur l’existence des ouvrages, le catalogue sur leur possession par des Bibliothèques déterminées. Mais il va de soi que Us notices sont fondamentalement les mêmes dans les deux cas II suffirait donc de porter sur les fiches bibliographiques le» indications relatives au catalogue. En fait, db aujourd'hui, le Répertoire a commencé à être combiné avec semblable Catalogue.
+a) Catalogue collectif général des grandes Bibliothèques du monde. La Bibliographie renseigne sur l’existence des ouvrages, le catalogue sur leur possession par des Bibliothèques déterminées. Mais il va de soi que les notices sont fondamentalement les mêmes dans les deux cas il suffirait donc de porter sur les fiches bibliographiques les indications relatives au catalogue. En fait, db aujourd'hui, le Répertoire a commencé à être combiné avec semblable Catalogue.
 
-b) Répertoires portant sur des séries particulières de données contenues dans des documents bibliographiques. Ainsi les Répertoires des comptes rendus, des lois, des brevets, de la statistique, des constantes théoriques et pratiques, des illustrations documentaires. Ainsi encore l *s Répertoires à établir à l’usage spécial de 1a librairie ancienne et qui devraient servir à faciliter la rencontre di- l’offre et de la demande des ouvrages à vendre de seconde main.
+b) Répertoires portant sur des séries particulières de données contenues dans des documents bibliographiques. Ainsi les Répertoires des comptes rendus, des lois, des brevets, de la statistique, des constantes théoriques et pratiques, des illustrations documentaires. Ainsi encore les Répertoires à établir à l’usage spécial de la librairie ancienne et qui devraient servir à faciliter la rencontre de l’offre et de la demande des ouvrages à vendre de seconde main.
 
-c) Répertoire des analyses. En principe le R. B. U. ne concerne que la bibliographe-titre (ou primaire). Mais il est tout désigné pour concentrer les notices bibliographiques analytiques (abstracts). Les notices de base sont identiques dans les deux cas. Il y a intérêt h voir se multiplier les informations sur le contenu des travaux, **t même des notes sur leur valeur et éventuellement les critiques dont ils sont l’objet en ayant bien soin toutefois que ces deux dernières espèces d’élément», de caractère personnel et subjectif, soient présentés sous la responsabilité d’un critique signant la notice. Enfin, dès aujourd’hui, le Répertoire Universel contient de nombreuses notices analytiques et l’I. I. B. a demandé, aux auteurs •t éditeurs de telles notices, d’appliquer les recommandations générale« relatives au format, aux fiches et è la classification décimale.
+c) Répertoire des analyses. En principe le R. B. U. ne concerne que la bibliographe-titre (ou primaire). Mais il est tout désigné pour concentrer les notices bibliographiques analytiques (abstracts). Les notices de base sont identiques dans les deux cas. Il y a intérêt à voir se multiplier les informations sur le contenu des travaux, et même des notes sur leur valeur et éventuellement les critiques dont ils sont l’objet en ayant bien soin toutefois que ces deux dernières espèces d’élément», de caractère personnel et subjectif, soient présentés sous la responsabilité d’un critique signant la notice. Enfin, dès aujourd’hui, le Répertoire Universel contient de nombreuses notices analytiques et l’I. I. B. a demandé, aux auteurs et éditeurs de telles notices, d’appliquer les recommandations générales relatives au format, aux fiches et à la classification décimale.
 
-d) Le R. B. U. doit naturellement devenir le noyau central d’un Répertoire Universel de Documentation composé d’un ensemble de Répertoires Universels, chacun d’eux étant consacré & l'inventaire d'une des autres
+d) Le R. B. U. doit naturellement devenir le noyau central d’un Répertoire Universel de Documentation composé d’un ensemble de Répertoires Universels, chacun d’eux étant consacré à l'inventaire d'une des autres
 
 
 ====
 
 *406*  ORGANISATION RATIONNELLE DU LIVRE  422
 
-espèces de documents, ou du contenu de certaines publications envisagées dans leur détail ou dans le choix oe certains de leurs éléments, en se basant sur les besoins constatés, ou sur les premières réalisations déjà opérées de divers côtés. Les mêmes principes d’organisation et de méthode sont applicables à ces différents inventaires et il va de soi que leur concentration dans une meme organisation réaliserait les avantages d'une bonne coordination des forces. Ces inventaires devraient porter sur les matières suivantes : manuscrits, musiques, estampes, photographies et films, cartes et plans, oeuvres d art. objets conservés dans les collections et musées, archives, médaille* et sceaux, épigraphes, phonogrammes, index des espèces naturelles et des monuments de l'homme.
+espèces de documents, ou du contenu de certaines publications envisagées dans leur détail ou dans le choix oe certains de leurs éléments, en se basant sur les besoins constatés, ou sur les premières réalisations déjà opérées de divers côtés. Les mêmes principes d’organisation et de méthode sont applicables à ces différents inventaires et il va de soi que leur concentration dans une meme organisation réaliserait les avantages d'une bonne coordination des forces. Ces inventaires devraient porter sur les matières suivantes : manuscrits, musiques, estampes, photographies et films, cartes et plans, œuvres d art. objets conservés dans les collections et musées, archives, médailles et sceaux, épigraphes, phonogrammes, index des espèces naturelles et des monuments de l'homme.
 
-e) Le Répertoire Bibliographique universel est. par avarice. le catalogue dressé de la Bibliothèque mondiale idéale, formé aujourd’hui (à raison d'un exemplaire de chaque édition) par les livres existant dans toutes les Bibliothèque* du monde. La Bibliothèque mondiale cil en principe appelée à concentrer en un même lieu '.es exemplaires de tous les livres ou leur reproduction photographique.
+e) Le Répertoire Bibliographique universel est. par avarice. le catalogue dressé de la Bibliothèque mondiale idéale, formé aujourd’hui (à raison d'un exemplaire de chaque édition) par les livres existant dans toutes les Bibliothèques du monde. La Bibliothèque mondiale cil en principe appelée à concentrer en un même lieu '.es exemplaires de tous les livres ou leur reproduction photographique.
 
 C’est la description et le classement des documents (livres, périodiques et articles de revues, etc.) en distinguant la Bibiographie titre et la Bibliographie analytique. 1° Utilisation directe des bibliographies spéciales existantes. 2° Dépouillement, au point de vue des répertoires à former, des bibliographies générales, et dépouillement des comptes rendus d’ouvrages paraissant dans les revues. 3° Re-
 levé systématique des articles paraissant dans les revues de la spécialité et des articles se rattachant à cette spécialité paraissant dans les revues générales. 4" Analyse interne des publications (Livtes, tapporta, articles, comptes rendus, etc.), catalographie, indexation des éléments distincts contenus dans ces publications en se plaçant au point de vue des questions
@@ -19047,9 +19056,9 @@ a) Dans chaque pays une Bibliographie nationale comprenant : 1° livres ; 2° p�
 
 3° articles de périodiques, b) Dans chaque science une Bibliographie spéciale comprenant deux parties: 1° bibliographie titre; 2° bibliographie analytique (résumé),
 
-c) Une Bibliographie des bibliographies'. 1° courante-, 2 rétrospective, d) Le Répertoire Bibliographique Universel.
+c) Une Bibliographie des bibliographies'. 1° courante-, 2° rétrospective, d) Le Répertoire Bibliographique Universel.
 
-B. Catalogue» collectif».
+B. Catalogues collectifs.
 
 Dans chaque pays un catalogue collectif notamment des ouvrages possédés par le pays. Eventuellement catalogues collectifs locaux. Le Répertoire Bibliographique Universel par auteurs combiné avec des indications sur le lieu de dépôt des ouvrages et faisant fonction de catalogue collectif des grandes Bibliothèques du monde.
 
@@ -19071,7 +19080,7 @@ b) Kepetroire International des Périodiques.
 
 c} Répertoire International des Offices de Documentation existants.
 
-d) Répertoire International des collections, services rt travaux continus.
+d) Répertoire International des collections, services et travaux continus.
 
 e) Répertoire International des positifs pour projections (a. Verres ou celluloids, b. Microfims).
 
@@ -19112,9 +19121,9 @@ soit institué un service postal de Bibliothèques permettant à tout habitant d
 422.23 Réseau mondial international de Bibliothèques.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""
 
-La Commission de Coopération Intellectuelle »’est occupée de la coordination des Bibliothèques : 1° Elle a demandé l’institution, dans tous les pays qui possèdent une bibliothèque nationale ou centrale, d’un « Centre National » qui serait outillé de manière à fournir aux travailleurs intellectuels toutes les indications propres à les orienter sur les bibliothèques ainsi que les offices spéciaux, où ils seraient assurés de trouver la Documentation dont ils ont besoin. Ce c Centre » posséderait en outre, tous les instruments de travail nécessaires : collections de catalogues, imprimés, bibliographies, biographies; répertoires de fonds spéciaux. 2° Les experts ont préconisé la création d’un « Centre International » destiné à servir de lien entre els différents centres nationaux.
+La Commission de Coopération Intellectuelle s’est occupée de la coordination des Bibliothèques : 1° Elle a demandé l’institution, dans tous les pays qui possèdent une bibliothèque nationale ou centrale, d’un « Centre National » qui serait outillé de manière à fournir aux travailleurs intellectuels toutes les indications propres à les orienter sur les bibliothèques ainsi que les offices spéciaux, où ils seraient assurés de trouver la Documentation dont ils ont besoin. Ce c Centre » posséderait en outre, tous les instruments de travail nécessaires : collections de catalogues, imprimés, bibliographies, biographies; répertoires de fonds spéciaux. 2° Les experts ont préconisé la création d’un « Centre International » destiné à servir de lien entre els différents centres nationaux.
 
-11 aurait pour tâche de multiplier les contacts entre les divers organismes nationaux en même temps qu’ils se chargeraient de leur faire parvenir toute demande et information.
+Il aurait pour tâche de multiplier les contacts entre les divers organismes nationaux en même temps qu’ils se chargeraient de leur faire parvenir toute demande et information.
 
 C’est la collection des documents eux-mêmes, maintenus chacun dans leur intégrité individuelle (livres et publications diverses de toutes espèces). La collection est disposée en des réceptables adéquats et rendue facilement accès sibles.
 
@@ -19133,7 +19142,7 @@ II y a lieu de constituer les Bibliothèques en un Réseau mondial, selon les qu
 
 Les raisons d’être et les bases de la Bibliothèque mondiale sont les suivantes :
 
-L Valeur symbolique de ¡a Bibliothèque mondiale. — Etablir par l’effort commun un monument au Livre, à !a fo s expression et instrument de l’intelligence. Honorer le Livre en soi comme on honore les oeuvres d’art et les grandes manifestations du génie humain. Ce motif serait suffisant pour justifier l’existence de la Bibliothèque mondiale. Ici, c’est collectivement l’Humanité qui doit rendre cet hommage au Livre comme tant de Nations l’ont rendu dans leurs Bibliothèques nationales.
+L Valeur symbolique de ¡a Bibliothèque mondiale. — Etablir par l’effort commun un monument au Livre, à la fois expression et instrument de l’intelligence. Honorer le Livre en soi comme on honore les œuvres d’art et les grandes manifestations du génie humain. Ce motif serait suffisant pour justifier l’existence de la Bibliothèque mondiale. Ici, c’est collectivement l’Humanité qui doit rendre cet hommage au Livre comme tant de Nations l’ont rendu dans leurs Bibliothèques nationales.
 
 2. Utilité pratique de la Bibliothèque. — Constituer progressivement, au cours des années, un Centre du
 
@@ -19144,22 +19153,22 @@ L Valeur symbolique de ¡a Bibliothèque mondiale. — Etablir par l’effort co
 
 Livre pour lea études et les recherches et obvier ainsi aux difficultés inhérentes à l'exrême dispersion des ouvrages. Mettre cet instrument de travail à la disposition des organismes mondiaux, tant officiels que privés, qui eux-mêmes se sont rapprochés a Genève par les nécessités de la concentration et dont les bibliothèques particulières, purement administratives, ne sauraient satisfaire complètement à leurs besoins.
 
-Mettre à l'abri, à l’endroit tenu comme le plus protégé du monde contre les guerres et les révolutions, un prototype de tous les ouvrages paraissant dans le monde. Par cet exemplaire de réserve, assurer les livres contre Vs ai très dangers de destruction qui les menacent. Rendre aussi possible leur accès en tou» temps, quelles que puissent être les prohibitions qui le» frapperaient dans leur pays d'origine ou de dépôt.
+Mettre à l'abri, à l’endroit tenu comme le plus protégé du monde contre les guerres et les révolutions, un prototype de tous les ouvrages paraissant dans le monde. Par cet exemplaire de réserve, assurer les livres contre Vs ai très dangers de destruction qui les menacent. Rendre aussi possible leur accès en tout temps, quelles que puissent être les prohibitions qui les frapperaient dans leur pays d'origine ou de dépôt.
 
 3. Composition générale de la Bibliothèque — La Bibliothèque recevrait : 1° toutes les publications officielles des Etats et de leurs administrations ; 2° celles des corps savants, éducatifs et sociaux ; 3« les revues ; 4° 1< s principaux journaux quotidiens. Toutes ces publications doivent être reçues presque sans frais. Un exemplaire de contrôle de toutes les publication» échangées par l’intermédiaire du service des échanges internationaux y serait déposé. De même, les auteurs y doivent envoyer leurs ouvrages, eux-mêmes ou leurs héritiers ; des collections privées doivent être sollicitées ou données en legs. Les Associations Internationales doivent être invitées a y déposer leur» propres fonds. Et les doubles ouvrages résultant d’une meilleure coordination des Bibliothèques nationales devraient servir avant tout à alimenter les collections et éventuellement à faciliter par elles le prêt international.
 
-Au sein de la Bibliothèque mondiale doivent être constitués des Fonds Internationaux et Collections Internationales pour les brevets d'invention, les recueils des lo s promulguées, les statistiques, les manuscrits et papiers d'archives modernes, les musiques, les photographies, *cs gravures, les films cinématographiques, les disques de phonographe, etc.
+Au sein de la Bibliothèque mondiale doivent être constitués des Fonds Internationaux et Collections Internationales pour les brevets d'invention, les recueils des lois promulguées, les statistiques, les manuscrits et papiers d'archives modernes, les musiques, les photographies, *cs gravures, les films cinématographiques, les disques de phonographe, etc.
 
-4. Organisation et Coopération. — L'organisation doit être celle d’une Fondation autonome, coopérative, administrant tous les fonds possédés ou déposés; chaque participation doit pouvoir éventuellement conserver la propriété d** ses ouvrages ou collections, mais en mettre en commun la jouissance. Le* intéressés ont a être représentés au sein du Conseil d'administration de la Fondation.
+4. Organisation et Coopération. — L'organisation doit être celle d’une Fondation autonome, coopérative, administrant tous les fonds possédés ou déposés; chaque participation doit pouvoir éventuellement conserver la propriété d** ses ouvrages ou collections, mais en mettre en commun la jouissance. Les intéressés ont a être représentés au sein du Conseil d'administration de la Fondation.
 
 F.n particulier, l'Association Internationale des Editeurs et celle des Auteurs et Editeurs devraient coopérer à l’Institution afin de réaliser au poiat de vue mondial, ce que lea Editeurs allemands ont déjà fait à Leipzig pour lr livre allemand (Deutsche Bücherei).
 
-5. intérêt spécial pour les petits et moyens pays. — Les grands pays ont pu réaliser des ensembles documentaires de haute valeur, tant ?>our leurs bibliothèques que pour
+5. intérêt spécial pour les petits et moyens pays. — Les grands pays ont pu réaliser des ensembles documentaires de haute valeur, tant pour leurs bibliothèques que pour
 leurs offices de législation étrangères, etc.) mais les petits pays ne peuvent espérer de longtemps réaliser par leurs seules forces des ensembles équivalents. Il ne leur reste donc qu'à accepter pour leurs ressortissants une situation infériorisée, ce qu'ils ne sauraient consentir sans déchéance, ou à être tributaires des grandes nations. Cette dernières solution n'est pas sans danger. Car la grande nation organise ses institutions documentaires à l'avantage de ses nationaux avant tout : langues em-
 
-ployées, matières des collections développée», facilités d'accession, privilège dans l'ordre des services, mesures quant au secret des communications et à l'exercice des censures, etc. Dans l'état politique incertain des conventions bilaterales à ce sujet ne constituent pas une garantie absolue. En cas de guerre, de blocus, de révolution, de neutralité, de changement de régime intérieur, que deviendraient ces accords ? Dans ces conditions, la solution coopérative offre la solution la meilleure. La Bibliothèque mondiale, en tous ses départements, se présente comme un organisme coopératif et fédératif et chaque nation en étant membre, c'est sa chose pour partie indivise qu elle est appelée à gérer dans son intérêt propre en même temps que dans celui des autres nations coopératrices.
+ployées, matières des collections développées, facilités d'accession, privilège dans l'ordre des services, mesures quant au secret des communications et à l'exercice des censures, etc. Dans l'état politique incertain des conventions bilaterales à ce sujet ne constituent pas une garantie absolue. En cas de guerre, de blocus, de révolution, de neutralité, de changement de régime intérieur, que deviendraient ces accords ? Dans ces conditions, la solution coopérative offre la solution la meilleure. La Bibliothèque mondiale, en tous ses départements, se présente comme un organisme coopératif et fédératif et chaque nation en étant membre, c'est sa chose pour partie indivise qu elle est appelée à gérer dans son intérêt propre en même temps que dans celui des autres nations coopératrices.
 
-6. Bibliothèque des Associations Internationales. — 11 existe au moins une centaine d" Associations Internationales qui ont commencé des collections. Et toutes les Associations Internationales, sans distinction, sont en devoir et en situation d’en former, si les facilités à cet effet leur étaient données. La Bibliothèque mondiale est n même de les fournir dans les conditions les plus économiques et les plus avantageuses en réalisant simultanément un double objectif ; mettre les Associations à même d'organiser leur propre bibliothèque et assurer en même temps l'accroissement des collections mondiales.
+6. Bibliothèque des Associations Internationales. — Il existe au moins une centaine d'Associations Internationales qui ont commencé des collections. Et toutes les Associations Internationales, sans distinction, sont en devoir et en situation d’en former, si les facilités à cet effet leur étaient données. La Bibliothèque mondiale est n même de les fournir dans les conditions les plus économiques et les plus avantageuses en réalisant simultanément un double objectif ; mettre les Associations à même d'organiser leur propre bibliothèque et assurer en même temps l'accroissement des collections mondiales.
 
 7. Centre des Bibliothèques du monde et d un Réseau Universel de Documentation. — Il y a dans le monde aujourd'hui un millier de grandes bibliothèques et des dizaines de mille moyennes et petites.
 
@@ -19176,7 +19185,7 @@ cas de conflit, de même faut-il préparer un asile temporaire pour les Trésors
 
 9. Réalisation. — Au sein des Instituts du Falais mondial, Mundaneum, la Bibliothèque mondiale a été commencée.
 
-En principe toutes les Bibliothèques générales sont en puissance des Bibliothèques Universelle», et toutes doivent comprendre des fonds de tous pays. La Bibliothèque mondiale, à l'usage de la Bibliographie et de 1 Encyclopédie mondiale doit être conçue comme un réseau faisant partie elle-même du Réseau Universel de Documentation. Au centre la Bibliothèque mondiale dans le réseau même Bibliothèque Collective services mondiaux au sein des Bibliothèques nationales. Le système des échanges de prêt et dépôt légal sont à développer en fonction de tels objectifs.
+En principe toutes les Bibliothèques générales sont en puissance des Bibliothèques Universelles, et toutes doivent comprendre des fonds de tous pays. La Bibliothèque mondiale, à l'usage de la Bibliographie et de 1 Encyclopédie mondiale doit être conçue comme un réseau faisant partie elle-même du Réseau Universel de Documentation. Au centre la Bibliothèque mondiale dans le réseau même Bibliothèque Collective services mondiaux au sein des Bibliothèques nationales. Le système des échanges de prêt et dépôt légal sont à développer en fonction de tels objectifs.
 
 Des Bibliothèques Universelles de chaque science sont à constituer, possédant chaque écrit sur n'importe quel sujet ayant traité de la science. L'ensemble de ces Bibliothèques en des emplacements dispersés ou réunis en un même lieu constituerait d’elle-même la Bibliothèque comme le total de telles Bibliothèques.
 
@@ -19187,9 +19196,9 @@ On pourrait concevoir que la Bibliothèque mondiale un jour comme la Bibliothèq
 
 a) Tandis que la Bibliographie donne le catalogue des Livres et des Documents, que la Bibliothèque en constitue des collections, l'Encyclopédie opère sur leurs éléments pour en former de nouveaux ensembles où ils sont distribués. coordonnés et disposés dans les cadres de formats unifiés et d'une classification unique.
 
-b) L’œuvre d*Encyclopédie s’opère sous cinq grandes formes :
+b) L’œuvre d'Encyclopédie s’opère sous cinq grandes formes :
 
-1° Dossiers encyclopédiquea documentaires. Ils «ont formés de parties de documents, d'extraits de publications, sans transformation ni altération : on y insère aussi les petits imprimés ne pouvant prendre place dans la Bibliothèque.
+1° Dossiers encyclopédiquea documentaires. Ils sont formés de parties de documents, d'extraits de publications, sans transformation ni altération : on y insère aussi les petits imprimés ne pouvant prendre place dans la Bibliothèque.
 
 2" Répertoires cncyclopédiquca ou fichiers. Ils sont formés des mêmes éléments que les dossiers documentaires cl ne s'en différencient que par le format.
 
@@ -19202,7 +19211,7 @@ directement en vue d'être utilisées dans les dossiers organisés.
 
 c) L'œuvre d'Encyclopédie peut être réalisée fragmen-taireinent et par parties, mais elle se caractérise essentiellement par son caractère d'universalité. Toute sa méthode a pour but d atteindre un jour cette universalité et de l'entrevoir idéalement des maintenant.
 
-d) Comme la Bibliographie et la Bibliothèque, l’Encyclopédie sous ces cinq formes présente ces trois degrés : I" méthode d'organisation en gnérnl utilisable par chacun, abstraction faite de toute liaison de coopération avec autrui ; 2” application génraliséc des méthode» de telle sorte que des ensembles puissent être réalisé, facilitant les travaux indivuduela; 3" irganisation formelle de cettte coopération à l'intermédiaire d'un organisme général, élaborant ou dirigeant des travaux et formant des collection» centrales, assurant le fonctionnement du réseau. Celui-ci est h rattacher au Réseau Universel de la Documentation. 1 e nom d e Encyclopedia Universalis » lui serait réservé.
+d) Comme la Bibliographie et la Bibliothèque, l’Encyclopédie sous ces cinq formes présente ces trois degrés : 1° méthode d'organisation en gnérnl utilisable par chacun, abstraction faite de toute liaison de coopération avec autrui ; 2” application génraliséc des méthodes de telle sorte que des ensembles puissent être réalisé, facilitant les travaux indivuduela; 3" irganisation formelle de cettte coopération à l'intermédiaire d'un organisme général, élaborant ou dirigeant des travaux et formant des collection» centrales, assurant le fonctionnement du réseau. Celui-ci est à rattacher au Réseau Universel de la Documentation. Le nom de  Encyclopedia Universalis » lui serait réservé.
 
 .. image:: ./pics_small/pg409_encyclo_documentaire.png
    :width: 60 %
@@ -19210,7 +19219,7 @@ d) Comme la Bibliographie et la Bibliothèque, l’Encyclopédie sous ces cinq f
 422.31 Dossiers encyclopédiques documentaires.
 """""""""""""""""""""""""""""""""""""""""""""""
 
-Le» Archives ou dossiers comprennent le» pièces originales et les petits documents dans leur intégrité ou par fragments. Elles sont disposées en dossiers. Leur formation donne lieu au découpage des publications pour en redistribuer les éléments selon un ordée différent et former des ensembles de tout ce qui relève des mêmes questions. Les dossiers comprennent les extraits ou découpures de livres, de périodiques, de journaux, les notes manuscrites dactylographiées ou ronéographiées. Ainsi constitués, ils ont deux grands avantages : 1° Ces dossiers groupent les pièces réduisant ainsi au minimum l'effort de la consultation, 2° Ils permettent pour ainsi dire d’une
+Les Archives ou dossiers comprennent les pièces originales et les petits documents dans leur intégrité ou par fragments. Elles sont disposées en dossiers. Leur formation donne lieu au découpage des publications pour en redistribuer les éléments selon un ordée différent et former des ensembles de tout ce qui relève des mêmes questions. Les dossiers comprennent les extraits ou découpures de livres, de périodiques, de journaux, les notes manuscrites dactylographiées ou ronéographiées. Ainsi constitués, ils ont deux grands avantages : 1° Ces dossiers groupent les pièces réduisant ainsi au minimum l'effort de la consultation, 2° Ils permettent pour ainsi dire d’une
 
 
 ====
@@ -19222,43 +19231,43 @@ manière automatique de saisir les choses plus objectivement et dans leur totali
 422.32 Répertoire encyclopédique ou fichier.
 """"""""""""""""""""""""""""""""""""""""""""""
 
-Ces répertoires sont formés des mêmes éléments que ics dossiers documentaires. Ils ne s’en différencient que par le format (125 X 75 mm.). Us sont constitués par découpage de publications, par extraits recopiés, par inscription directe sur les fiches, par dépouillement des données contenues dans les rapports et correspondances.
+Ces répertoires sont formés des mêmes éléments que les dossiers documentaires. Ils ne s’en différencient que par le format (125 X 75 mm.). Ils sont constitués par découpage de publications, par extraits recopiés, par inscription directe sur les fiches, par dépouillement des données contenues dans les rapports et correspondances.
 
 L'Encyclopédie est formée avec des Répertoires de faits sur fiches. Ces répertoires se rapportent soit aux questions, choses, objets, produits, soit aux pays, soit à l'historique, soit aux personnes et aux organismes. Ils sont disposés d’après les divers ordres fondamentaux de classification systématique (matière), historique (date), géographique (lieu).
 
-422.33 Feuille» encyclopédiques et fiche».
+422.33 Feuilles encyclopédiques et fiche».
 """""""""""""""""""""""""""""""""""""""""""
 
-Une foi» admis le type de dossier et de fichier de {’Encyclopedia Universalis, il devient possible de publier et de distribuer des éléments destinés a les alimenter automatiquement. Ainsi, en premier lieu, les périodiques (levues, magazines, bulletins) sous la forme mobile; le recueil de pièces et documents (par ex. les rapports de conférences et congrès, les brevets, les statistiques, les lois, les conventions. Ainsi encore, comme fiches, les documents de toute nature : annonces d ouvrages, élé-
+Une foi» admis le type de dossier et de fichier de l'Encyclopedia Universalis, il devient possible de publier et de distribuer des éléments destinés a les alimenter automatiquement. Ainsi, en premier lieu, les périodiques (levues, magazines, bulletins) sous la forme mobile; le recueil de pièces et documents (par ex. les rapports de conférences et congrès, les brevets, les statistiques, les lois, les conventions. Ainsi encore, comme fiches, les documents de toute nature : annonces d ouvrages, élé-
 
 ments d’annuaires, calendriers futurs, cartes de visite, etc.
 
 422.34 Atlas encyclopédique.
 """""""""""""""""""""""""""""
 
-Sou» le nom d’ « Atlas Universalis Muudaneum », les Instituts du Palais Mondial se sont attachés a établir un vaste ensemble de tableaux consacrés chacun à un sujet déterminé et répondant ensemble au plan d'un exposé synthétique des données relatives au monde, à la nature, à l'homme, à la société, à l’histoire, à la géographie et a l’organisation universelle. (I)
+Sous le nom d’ « Atlas Universalis Muudaneum », les Instituts du Palais Mondial se sont attachés a établir un vaste ensemble de tableaux consacrés chacun à un sujet déterminé et répondant ensemble au plan d'un exposé synthétique des données relatives au monde, à la nature, à l'homme, à la société, à l’histoire, à la géographie et a l’organisation universelle. (I)
 
 Des ententes coopérat:ves sont intervenues avec îe Geseîlschafts und Wischaftmuseum de Vienne (Ozbis Mundaneum). L’œuvre répond aux données suivantes :
 (I) Paul Otlet, A. Oderfeld. Atlas de la Civilisation Universelle. Conception, organisation, méthode de la préparation du matériel didactique en coopération inteVnatio-nale. 1929. Public, n" 132 de l’Union des Associations internationales.
 10 L’atlas e«t composé de tableaux qui peuvent prendre place aussi dans les Expositions e$ Musées et servent de matériel didactique dans l’Enseignement.
 
-2" L’atlas est composé d’autant de planches qu’il y a de points à traiter d'après le plan d’études communes (ou classification).
+2° L’atlas est composé d’autant de planches qu’il y a de points à traiter d'après le plan d’études communes (ou classification).
 
 3° Les tableaux sont standardisés dans leurs dimensions physiques, unifiés, harmonisés, coordonnés dans leurs dispositions graphiques.
 
 4° L.’atlas et les tableaux réalisent autant que possible la comparabilité des données, les diverses données d'un ensemble, d’un pays, des divers pays, les données des divers pays avec celles des sciences et celles de l’histoire.
 
-5" Le tableau est le moyen graphique de présenter des données à l'esprit sous le mode le plus facile, le plus rapide, le plu» complet. Le tableau doit épargner a qui le considère la tension de l'esprit résultant de la difficulté de comprendre, de saisir le sens, de rattacher ce sens à celui des autres données comprises antérieurement, il y a 1 art de distribuer les données en groupes bien distincts. clairs, harmonisés, de leur donner forme, grandeur, couleur adéquate (style du tableau)*
+5° Le tableau est le moyen graphique de présenter des données à l'esprit sous le mode le plus facile, le plus rapide, le plus complet. Le tableau doit épargner a qui le considère la tension de l'esprit résultant de la difficulté de comprendre, de saisir le sens, de rattacher ce sens à celui des autres données comprises antérieurement, il y a l'art de distribuer les données en groupes bien distincts. clairs, harmonisés, de leur donner forme, grandeur, couleur adéquate (style du tableau)*
 
-&• Avec le tableau un mode d'expression nouveau des idées sc crée. Les formes créées peuvent être généralisées et engendrer d’autres tableaux. L’ensemble des tableaux ainsi produits offre déjà une très grande variété de forme. On y trouve maints moyens d’exprimer des idées générales ou abstraites, qu’au premier abord on ne songerait pas à « tabulîser » ou dont on ne saurait comment le faire.
+6° Avec le tableau un mode d'expression nouveau des idées se crée. Les formes créées peuvent être généralisées et engendrer d’autres tableaux. L’ensemble des tableaux ainsi produits offre déjà une très grande variété de forme. On y trouve maints moyens d’exprimer des idées générales ou abstraites, qu’au premier abord on ne songerait pas à « tabulîser » ou dont on ne saurait comment le faire.
 
-7" Chaque tableau de l'Atlas Universel sera soumis à révision successive des meilleures autorités, soit individuelles, soit collectives (associations, académies, congrès, agissant par leurs comités spéciaux). Chacun apportera les corrections désirables s’il y a lieu et le tableau sera ensuite revêtu de leur signature. Ces signatures ajouteront à sa valeur autoritative.
+7° Chaque tableau de l'Atlas Universel sera soumis à révision successive des meilleures autorités, soit individuelles, soit collectives (associations, académies, congrès, agissant par leurs comités spéciaux). Chacun apportera les corrections désirables s’il y a lieu et le tableau sera ensuite revêtu de leur signature. Ces signatures ajouteront à sa valeur autoritative.
 
-8° La matière de 1 atlas est déjà largement existante et elle sera utilisée. Mais cette matière est dispersée à l’intérieur d'ouvrages souvent difficiles à se procurer ou elle est présentée à l'état de document séparé, mais de différentes grandeurs, à des échelles variées, sans lien systé* ensemble ou selon des parties homogènes.
+8° La matière de l'atlas est déjà largement existante et elle sera utilisée. Mais cette matière est dispersée à l’intérieur d'ouvrages souvent difficiles à se procurer ou elle est présentée à l'état de document séparé, mais de différentes grandeurs, à des échelles variées, sans lien systé* ensemble ou selon des parties homogènes.
 
-Ainsi les atlas géographiques donnent les cartes, les matique, sans facilités par conséquent pour les acquérir panoramas géographiques donnent les sites, les albums historiques donnent le» images des monuments, des objets usuels, des œuvres d'art. Mais ces recueils à eux seuls sont insuffisants, car ils sont séparés et non réunis et coordonnés. Il est ensuite d’autres formes de représentation que celles qu’ils mettent en œuvre, tels les schémas, les diagrammes, les tableaux synoptiques. En outre»
+Ainsi les atlas géographiques donnent les cartes, les matique, sans facilités par conséquent pour les acquérir panoramas géographiques donnent les sites, les albums historiques donnent les images des monuments, des objets usuels, des œuvres d'art. Mais ces recueils à eux seuls sont insuffisants, car ils sont séparés et non réunis et coordonnés. Il est ensuite d’autres formes de représentation que celles qu’ils mettent en œuvre, tels les schémas, les diagrammes, les tableaux synoptiques. En outre»
 
-11 faut la coopération dans l’établissement des tableaux»
+Il faut la coopération dans l’établissement des tableauxs.
 
 ====
 
@@ -19268,7 +19277,7 @@ la mobilité des feuilles pour faire facilement les combinaisons, la couleur.
 
 9° L'analyse (division) consiste à établir séparément chaque élément aussi spécialisé soit-il. La synthèse (composition) consiste à regrouper les éléments. Le fait que les tableaux sont sur feuilles mobiles (fiches) permet la combinaison : ordre des parties et du tout, ordre de répartition selon l’espace ou lieu, ordre de succession dans le temps, etc. Les indices de classement facilitent ces utilisations diverses. Des notices spéciales indiquent et suggèrent les combinaisons possibles, les unes fondamentales, les autres secondaires.
 
-10" Le principe de la synthèse doit présider aux tableaux, à savoir que toute donnée nouvelle acquise, en quelque domaine que ce soit, doit immédiatement exercer ses répercussions sur toutes les parties intéressées. A ce point de vue l’enregistrement de la science doit être construit à la manière de la comptabilité qui suit et enregistre tout le mouvements des valeurs, ainsi que les répercussions de ce mouvement. Chacun pour l’expression de sa pensée doit être invité à se servir des tableaux universels existants. S’il y fait objection, ce ne peut être qu’en raison de l'insuflisance de ces tableaux (incomplets ou incoordon-nés) ou par le fait que lui-même n'est pas à la hauteur de la science récente. (1)
+10° Le principe de la synthèse doit présider aux tableaux, à savoir que toute donnée nouvelle acquise, en quelque domaine que ce soit, doit immédiatement exercer ses répercussions sur toutes les parties intéressées. A ce point de vue l’enregistrement de la science doit être construit à la manière de la comptabilité qui suit et enregistre tout le mouvements des valeurs, ainsi que les répercussions de ce mouvement. Chacun pour l’expression de sa pensée doit être invité à se servir des tableaux universels existants. S’il y fait objection, ce ne peut être qu’en raison de l'insuflisance de ces tableaux (incomplets ou incoordon-nés) ou par le fait que lui-même n'est pas à la hauteur de la science récente. (1)
 
 422.35 La Codification.
 """"""""""""""""""""""""
@@ -19277,16 +19286,16 @@ a) faille comprend l’œuvre de codification et de coordination des données el
 
 Les données elles-mêmes sont bien distinctes des documents dans lesquels ils sont relatés. Il s agit d’organiser systématiquement des ensembles de ces faits et données. Pour chacun de leur ordre est établie une notice systématique type déterminant : I. les élé-
 
-(1) La fLicner Méthode (méthode de représentation statistique mise en œuvre par le Gesellschafts und Wirt-schaLn Muséum iu Wien) a été résumée ainsi -. L visualiser le* données statistiques par un nombre répété de figures et non pas de plus grandes figures ; 2. au lieu des cercles et des carrés, des rectangles qui rendent la comparaison plus facile; 3. emploi d’images coloriées, de dessins en noir et blanc dits « Magnet-bildcr » (pour exprimer les phénomènes de masse variables), diapositives mobiles et films dits de dessins ; 4. les couleurs claires réservées h la représentation des données déterminées, les grises pour les indéterminées, par ex. ce qui est organisé et inorganisé ; 5. symboles de couleur: vert agriculture, blanc -forces hydrauliques (bouille blanche). La repiésentation par images des données statistiques est une urgente nécessité si l'on veut mettre en œuvre la grande force populaire que contient la statistique.
+(1) La fLicner Méthode (méthode de représentation statistique mise en œuvre par le Gesellschafts und Wirt-schaLn Muséum iu Wien) a été résumée ainsi -. L visualiser les données statistiques par un nombre répété de figures et non pas de plus grandes figures ; 2. au lieu des cercles et des carrés, des rectangles qui rendent la comparaison plus facile; 3. emploi d’images coloriées, de dessins en noir et blanc dits « Magnet-bildcr » (pour exprimer les phénomènes de masse variables), diapositives mobiles et films dits de dessins ; 4. les couleurs claires réservées à la représentation des données déterminées, les grises pour les indéterminées, par ex. ce qui est organisé et inorganisé ; 5. symboles de couleur: vert agriculture, blanc -forces hydrauliques (bouille blanche). La repiésentation par images des données statistiques est une urgente nécessité si l'on veut mettre en œuvre la grande force populaire que contient la statistique.
 
-La méthode a aussi reçu le nom de méthode Neuratb ; des événements ont dû faire transporter h Lahaye le centre du travail commencé à Vienne. (International Foundation for the Promotion of Visual Education).
+La méthode a aussi reçu le nom de méthode Neuratb ; des événements ont dû faire transporter à Lahaye le centre du travail commencé à Vienne. (International Foundation for the Promotion of Visual Education).
 ment* qui sont à relever pour chaque catégorie des faits; 2. 1«? mode selon lequel il y a lieu de les disposer sur la notice (Règles documentaires).
 
 Pour l'établissement de ces notices, on met à contribution toutes les sources recueillies. Les documents de la bibliothèque, les dossiers sont dépouillés et on utilise aussi les données documentaires recueillies par voie d'enquête. On a soin d'indiquer sur chaque notice la source des données.
 
 b) La codification est la forme ultime de la documentation qui s attache aux ensembles. Le jour où tout le sevoir sera codifié, l'esprit sera en possession d’un instrument incomparable, venant en aide a toutes ses opérations intellectuelles.
 
-La codification consiste: !" à ne dire les choses qu’une lois; 2° à les dire en termes tels que l’idée générale précède l’idée particulière et s'élève ainsi au rang de principes, normes, lois, règles; 3° à dire les choses d'une manière systématique et classée.
+La codification consiste: 1° à ne dire les choses qu’une lois; 2° à les dire en termes tels que l’idée générale précède l’idée particulière et s'élève ainsi au rang de principes, normes, lois, règles; 3° à dire les choses d'une manière systématique et classée.
 
 c) Il s'agit de ramener à l'unité élémentaire les multiplications et les complexités. L'opération présente des analogies avec la réduction des fractions à un même dénominateur et avec les transformations successives des expressions algébriques. L'opération revient à réduira les documents et leurs éléments documentaires et à intégrer ensuite les données de ces éléments, c’est-à-dire à les fusionner en éliminant les répétitions,
 
@@ -19296,7 +19305,7 @@ tableau (tabulation) d’une donnée disposée selon les
 
 formes bibliologiques les plus adéquates (schémas, illustration) en original ou provenant du dépouillement systématique du contenu des publications.
 
-e) l.a codification peut être puissamment aidée par des procédés mécaniques.
+e) La codification peut être puissamment aidée par des procédés mécaniques.
 
 f) La codification doit être conçue en évolution cons-
 
@@ -19309,7 +19318,7 @@ tenant compte des nouveaux points de vue.
 
 Le, Archive, administrative, : Elle, comprenne.it
 
-3 pièces, les lettres, rapports, statistiques, comptes relatifs à un organisme. Elles donnent lieu à la formation : I" de dossiers consacrés chacun à une personne ou entité, à une affaire ou question; 2" de répertoires ou fichiers réunissant selon des cadres unifiés les données analytiques de l’administration (Répertoire administratif général); 3° de tableaux avec texte, colonnes, schémas, images, condensant ces mêmes données sous une forme synthétique
+3 pièces, les lettres, rapports, statistiques, comptes relatifs à un organisme. Elles donnent lieu à la formation : 1° de dossiers consacrés chacun à une personne ou entité, à une affaire ou question; 2° de répertoires ou fichiers réunissant selon des cadres unifiés les données analytiques de l’administration (Répertoire administratif général); 3° de tableaux avec texte, colonnes, schémas, images, condensant ces mêmes données sous une forme synthétique
 
 Par l'organisation de la documentation administrative, un
 
@@ -19321,11 +19330,11 @@ ensemble de dispositions est à arrêter aux degrés local, régional, national,
 
 1. Objet de la documentation administrative.
 
-La Documentation Administrative moderne repose d une part sur un certain nombre de principes formant corps de doctrine (Théorie) et d’autre part sur un certain nombre d’instruments qu’il y a lieu de voir mettre en œuvre (Pratique). La Documentation Administrative ert assimilable à la comptabilité. Celle-ci a trait à l’enregistrement et aux calculs des données, relatives aux valeurs de chaque organisme comptable envisagé ; elle a sa théorie ; elle a ses livres et ses fiches essentielles ou auxiliaires. La Documentation Administrative procède à 1 enregistrement des données d’ordre administratif tant intérieures qu’extérieures. Au sens large, elle comprend la comptabilité qui ne traite que d’un des aspects de l'administration, l’aspect économique.
+La Documentation Administrative moderne repose d une part sur un certain nombre de principes formant corps de doctrine (Théorie) et d’autre part sur un certain nombre d’instruments qu’il y a lieu de voir mettre en œuvre (Pratique). La Documentation Administrative ert assimilable à la comptabilité. Celle-ci a trait à l’enregistrement et aux calculs des données, relatives aux valeurs de chaque organisme comptable envisagé ; elle a sa théorie ; elle a ses livres et ses fiches essentielles ou auxiliaires. La Documentation Administrative procède à l'enregistrement des données d’ordre administratif tant intérieures qu’extérieures. Au sens large, elle comprend la comptabilité qui ne traite que d’un des aspects de l'administration, l’aspect économique.
 
 2. Importance,
 
-Le problème de { administration s’est posé de notre temps avec une acuité qu’il n’a jamais eu. Les populations devenues immenses, leurs besoins et leurs moyens se complexifiant, leur interpénétration et leur interdépendance étant accrues, force est de réaliser plus d’ordre dans ce qui a vite dégénéré en chaos. Administration des hommes et des choses des intérêts publics et privés, des affaires civiles et militaires, à toute 1 administration il faut de la documentation : pour collecter les informations et pour les coordonner, pour en calculer tes decisions, pour les transmettre ensuite et en contrôler 1 exécution. Il faut de la documentation à la fois fine et massive, sur papier ou en substituts du papier, mais encore et toujours de la documentation. Doit être aidée et soulagée la triple bureaucratie de l'Etat, du Capital et des Associations. Et la documentation pour toutes les trois, par au-delà les frontières, doit tendre vers l’unification et l’internationalisation. Pour les administrations communales l’Union Internationale des Villes a commencé à le faire; pour les organismes d'affaires, la tâche en devra être assumée par la Chambre de Commerce internationale; pour les gouvernements, par la Société des Nations.
+Le problème de { administration s’est posé de notre temps avec une acuité qu’il n’a jamais eu. Les populations devenues immenses, leurs besoins et leurs moyens se complexifiant, leur interpénétration et leur interdépendance étant accrues, force est de réaliser plus d’ordre dans ce qui a vite dégénéré en chaos. Administration des hommes et des choses des intérêts publics et privés, des affaires civiles et militaires, à toute l'administration il faut de la documentation : pour collecter les informations et pour les coordonner, pour en calculer tes decisions, pour les transmettre ensuite et en contrôler l'exécution. Il faut de la documentation à la fois fine et massive, sur papier ou en substituts du papier, mais encore et toujours de la documentation. Doit être aidée et soulagée la triple bureaucratie de l'Etat, du Capital et des Associations. Et la documentation pour toutes les trois, par au-delà les frontières, doit tendre vers l’unification et l’internationalisation. Pour les administrations communales l’Union Internationale des Villes a commencé à le faire; pour les organismes d'affaires, la tâche en devra être assumée par la Chambre de Commerce internationale; pour les gouvernements, par la Société des Nations.
 
 3. Principes fondamentaux de la documentation administrative.
 
@@ -19349,13 +19358,13 @@ d) Principe de l’efficience. — Tout le travail dit de bureau par opposition 
 
 Ces instruments sont :
 
-a) Le plan général de l'organisation : — Direction, Personnel, Services, Opérations, Travaux types et Plan en constante transformation et modification comme 1 entreprise elle-même.
+a) Le plan général de l'organisation : — Direction, Personnel, Services, Opérations, Travaux types et Plan en constante transformation et modification comme l'entreprise elle-même.
 
 b) La Classification générale des matières. — La Classification décimale universele de l’Institut International de Bibliographie actuellement publiée en une édition nouvelle et comprenant dans un seul ordre systématique les indices numériques de l'ensemble des choses naturelles et humaines, notamment toutes les industries, tous les commerces, toutes les institutions juridiques, toutes les sciences techniques et questions sociales. De ses 66,000 divisions, réserve quasi inépuisable, sont utilisées celles qui sont utiles à la manière dont, au fur et mesure des besoins, on se sert des mots du dictionnaire, des cartes de l'atlas, des numéros du guide téléphonique.
 
 c) Le Manuel général. — Il centralise dans l'ordre même de la classification, les exposés, règlements et instructions, rapports qui ont un caractère durable. Il contient aussi les cléments nécessaire pour diriger l'action toute en coopération du personnel.
 
-d) Les Formules. — Elles comprennent en un seul système, dont toutes les parties sont coordonnées les unes aux autres, l'ensemble des documents imprimés ou poly-graphiés d'usage courant, dont les blancs sont remplis lors de l'emploi. Les formules sont établies en application de» instructions du Manuel où elles se trouvent décrites et commentées; elles portent un numéro d'ordre, l'indice de classement et la date d'établissement.
+d) Les Formules. — Elles comprennent en un seul système, dont toutes les parties sont coordonnées les unes aux autres, l'ensemble des documents imprimés ou poly-graphiés d'usage courant, dont les blancs sont remplis lors de l'emploi. Les formules sont établies en application des instructions du Manuel où elles se trouvent décrites et commentées; elles portent un numéro d'ordre, l'indice de classement et la date d'établissement.
 
 ====
 
@@ -19365,7 +19374,7 @@ e) Les Classeurs, Fichiers el Chemises. — Ce sont les contenants ou réceptabl
 
 5. Operations de la Documentation administrative.
 
-Le travail s’effectue selon la méthode que définissent ces principes, avec les instruments que leur servent d auxiliaire. à l'aide aussi d'agents formé, et de machines et appareils qui viennent rendre de plus en plus mécaniques les opérations intellectuelles. A son origine, le travail a les documents pour matière première. A la fin. il a comme produit ou ces memes documents transformés et complétés ou des documents nouveaux. Le tout est tantôt à l’état statique, c’est-à-dire à l’état de conser vation et de repos, rangé dans les Répertoires et Collée tions, tantôt a l’état dynamique, c’est-à-dire en voie d'élaboration, de circulation et d’utilisation.
+Le travail s’effectue selon la méthode que définissent ces principes, avec les instruments que leur servent d'auxiliaire. à l'aide aussi d'agents formé, et de machines et appareils qui viennent rendre de plus en plus mécaniques les opérations intellectuelles. A son origine, le travail a les documents pour matière première. A la fin. il a comme produit ou ces memes documents transformés et complétés ou des documents nouveaux. Le tout est tantôt à l’état statique, c’est-à-dire à l’état de conser vation et de repos, rangé dans les Répertoires et Collée tions, tantôt a l’état dynamique, c’est-à-dire en voie d'élaboration, de circulation et d’utilisation.
 
 6. Liaison entre les Documentations scientifiques et administratives.
 
@@ -19400,7 +19409,7 @@ L organisation des Musées doit s’opérer selon les trois formes suivantes :
 422.62 Le Musée Mondial.
 """""""""""""""""""""""""
 
-Dans le Plan général, le Musée mondial, une des institutions du • Mundaneum >, fondé en 1910, a pour Lut de ■ visualiser » les données relatives au monde et à son contenu. Il se divise en cinq séries de sections: 1° Sections nationales ou géographiques. Représenter chaque nation sous les divers aspects de son existence et de sa vie : le territoire, la population : la vie économique intellectuelle et politique ; l'histoire du pays. 2° Sections historiques. Représenter une synthèse de Vbistoire un vereeUe : ce qui s'est passé au cours du temps et des âges. L'exposer non seulement comme l’enchaînement des grands faits qui ont déterminé les destinées de l’Humanité, mais comme l'évolution constante des decs, des mœurs et des forces sociales, comme la suite des civilisations du passé. 3° Sections scientifiques. Représenter le cycle des sciences et des activités pratiques, les représenter dans leurs données essentielles. leur développement historique et leurs progrès les plus récents. S'attacher à ce qui est d’importance humaine et mondiale: montrer chaque élément
+Dans le Plan général, le Musée mondial, une des institutions du « Mundaneum », fondé en 1910, a pour Lut de « visualiser » les données relatives au monde et à son contenu. Il se divise en cinq séries de sections: 1° Sections nationales ou géographiques. Représenter chaque nation sous les divers aspects de son existence et de sa vie : le territoire, la population : la vie économique intellectuelle et politique ; l'histoire du pays. 2° Sections historiques. Représenter une synthèse de Vbistoire un vereeUe : ce qui s'est passé au cours du temps et des âges. L'exposer non seulement comme l’enchaînement des grands faits qui ont déterminé les destinées de l’Humanité, mais comme l'évolution constante des decs, des mœurs et des forces sociales, comme la suite des civilisations du passé. 3° Sections scientifiques. Représenter le cycle des sciences et des activités pratiques, les représenter dans leurs données essentielles. leur développement historique et leurs progrès les plus récents. S'attacher à ce qui est d’importance humaine et mondiale: montrer chaque élément
 
 comme partie de l'Universalité; faire voir les corrélations, interdépendances et répercussions de toutes les parties de l’Univers: la Nature. l’Homme, la Société, la Vie devenue mondiale. 4° Section des problèmes mondiaux et de l’organisation mondiale. 5° Section d’art.
 
@@ -19411,36 +19420,36 @@ comme partie de l'Universalité; faire voir les corrélations, interdépendances
 423  Organismes documentaires (3* échelon de l’organisation générale)
 ----------------------------------------------------------------------
 
-L'organisme documentaire est formé de 1 ensemble des diverses collections, constituant elles-mêmes des ensembles de documents. Il réalise ainsi le troisième échelon de l’organisation internationale.
+L'organisme documentaire est formé de l'ensemble des diverses collections, constituant elles-mêmes des ensembles de documents. Il réalise ainsi le troisième échelon de l’organisation internationale.
 
-Il s’agit ici de la manière de constituer l'organisme documentaire lui-même, destiné h réaliser Vunité organique entre le personnel, les travaux et les collections.
+Il s’agit ici de la manière de constituer l'organisme documentaire lui-même, destiné à réaliser l'unité organique entre le personnel, les travaux et les collections.
 
-a) Il y a lieu de tenir pour les organismes de la documentation les organismes suivants (dont il a été traité déjà sous le n° 26) : 1° Les Bibliothèques (générales ou spéciales, des types dits scientifiqoes ou publics). 2° Les Archives anciennes. 3° Les Musées. 4°) Les Bureaux administratifs. 5° Les Offices de documentation qui participent de la nature des divers organismes précédents ci qui sont eux-mêmes de deux sortes; a) les Offices un Services de documentation soit indépendants, soit rattachés a des institutions scientifiques, des administrations publiques, des établissements ayant de buts sociaux; b) les Offices ou Services d'information et de documentation des organismes industriels, commerciaux ou financiers. 6° Les cabinets des travail, les bibliothèques privées, les studios des travailleurs intellectuels où l'on trouve aménagés Us collection» de livres, les documents et répertoires en vue de l’étude et de l'élaboration des travaux intellectuels.
+a) Il y a lieu de tenir pour les organismes de la documentation les organismes suivants (dont il a été traité déjà sous le n° 26) : 1° Les Bibliothèques (générales ou spéciales, des types dits scientifiqoes ou publics). 2° Les Archives anciennes. 3° Les Musées. 4° Les Bureaux administratifs. 5° Les Offices de documentation qui participent de la nature des divers organismes précédents ci qui sont eux-mêmes de deux sortes; a) les Offices un Services de documentation soit indépendants, soit rattachés a des institutions scientifiques, des administrations publiques, des établissements ayant de buts sociaux; b) les Offices ou Services d'information et de documentation des organismes industriels, commerciaux ou financiers. 6° Les cabinets des travail, les bibliothèques privées, les studios des travailleurs intellectuels où l'on trouve aménagés les collections de livres, les documents et répertoires en vue de l’étude et de l'élaboration des travaux intellectuels.
 
-b) Quant à leur objet, ils sont généraux (encyclopédie) ou spéciaux. Quant à leur action et leur organisation, ils •ont locaux, régionaux, nationaux, internationaux (mondiaux). Quant h leur caractère, ils sont les uns officiels, les autres privés, et certains sont mixtes.
+b) Quant à leur objet, ils sont généraux (encyclopédie) ou spéciaux. Quant à leur action et leur organisation, ils sont locaux, régionaux, nationaux, internationaux (mondiaux). Quant à leur caractère, ils sont les uns officiels, les autres privés, et certains sont mixtes.
 
-c) La Documentation intéresse tous, mais à des titre» et dans des proportions différentes. Deux sortes d'organismes y sont relatifs: les organismes proprement documentaires, ceux dont la documentation est la fonction principale et les organes accessoirement documentaires. Le concours de ces derniers est précieux comme producteur. distributeur ou utilisateur.
+c) La Documentation intéresse tous, mais à des titres et dans des proportions différentes. Deux sortes d'organismes y sont relatifs: les organismes proprement documentaires, ceux dont la documentation est la fonction principale et les organes accessoirement documentaires. Le concours de ces derniers est précieux comme producteur. distributeur ou utilisateur.
 
-d) Organe> accessoirement documentaires. — 1° Les Académies, les Sociétés scientifiques sont des centre» de documentation. Elles sc réunissent pour entendre des communications de leurs membres et les discuter. Elles ont des correspondants avec lesquels elles entretiennent des relations et qui les mettent à même de recevoir beaucoup d’informations. Elles font des publications et orga nisent une bibliothèque, souvent des archives.
+d) Organes accessoirement documentaires. — 1° Les Académies, les Sociétés scientifiques sont des centres de documentation. Elles se réunissent pour entendre des communications de leurs membres et les discuter. Elles ont des correspondants avec lesquels elles entretiennent des relations et qui les mettent à même de recevoir beaucoup d’informations. Elles font des publications et orga nisent une bibliothèque, souvent des archives.
 
-2° Les Laboratoires et Instituts de recherches. — Ils possèdent généralement une documentation dans le domaine de leur objet. Il en est d’espèces assez différente». Les Laboratoires biologiques, les laboratoires physiques et chimiques, les laboratoires industriels consacrés à l'étude des matières premières, des produits et de» machines. Les Instituts de Sciences humaines et sociales.
+2° Les Laboratoires et Instituts de recherches. — Ils possèdent généralement une documentation dans le domaine de leur objet. Il en est d’espèces assez différentes. Les Laboratoires biologiques, les laboratoires physiques et chimiques, les laboratoires industriels consacrés à l'étude des matières premières, des produits et des machines. Les Instituts de Sciences humaines et sociales.
 
 ----
 
-3° Les Universités, établissements d'enseignement, écoles doivent être tenus aussi comme des centres de documentation. Us procèdent en principe par la transmission orale de l'enseignement. Mais d'une part, les maîtres s'acquittent volontiers des fonctions d'informateur individuel et d'autre part, des bibliothèques, musées, archives et des collections de livres, d'objet*, de documents, sont presque toujours annexées à ces institutions.
+3° Les Universités, établissements d'enseignement, écoles doivent être tenus aussi comme des centres de documentation. Ils procèdent en principe par la transmission orale de l'enseignement. Mais d'une part, les maîtres s'acquittent volontiers des fonctions d'informateur individuel et d'autre part, des bibliothèques, musées, archives et des collections de livres, d'objets, de documents, sont presque toujours annexées à ces institutions.
 
-4° Associations internationales. — Elles sont nombreuses et certaines fort puissante». On en a televé 520 depuis 1842, la première en date. (I) Elles commencent par un Comité, puis un Congrès, un Bureau permanent, une transformation en association, finalement une organisation avec offices et services multiples. Chaque science, chaque branche d’actualité doit avoir son association internationale propre. On distingue trois types d’assocation internationale : celle qui s'occupe de la science du sujet et à qui appartient l’organe; celle qui s’occupe des hommes qui professent la profession (protection, droit, défense économique et syndicale) ; celle qui s’occupe de donner son statut à la fonction sociale. Les associations internationales sont actives dans le domaine de lu documentation (publication, collection, classification, etc.).
+4° Associations internationales. — Elles sont nombreuses et certaines fort puissantes. On en a televé 520 depuis 1842, la première en date. (I) Elles commencent par un Comité, puis un Congrès, un Bureau permanent, une transformation en association, finalement une organisation avec offices et services multiples. Chaque science, chaque branche d’actualité doit avoir son association internationale propre. On distingue trois types d’assocation internationale : celle qui s'occupe de la science du sujet et à qui appartient l’organe; celle qui s’occupe des hommes qui professent la profession (protection, droit, défense économique et syndicale) ; celle qui s’occupe de donner son statut à la fonction sociale. Les associations internationales sont actives dans le domaine de la documentation (publication, collection, classification, etc.).
 
-e) Office de documentation. — Un type nouveau d’institution est né : l’office de renseignement, d’information, de documentation. Des noms très divers lui ont été donnés (Service d’information. Bureau de renseignements, etc.). L.’office est-il un type sui generis à côté de la Bibliothèque, du Musée, des Archives? Il ne semble pas. L’office est né d’une carence quadruple des bibliothèques 1° carence en ce qui concerne le collectîonnement des nouvelles espèces de documents sortant du cadre traditionnel ; 2° carence en ce qui concerne les méthodes les plus avancées pour le collectîonnement. la mise en place, le classement et le catalogue ; 3° carence en ce qui concerne la spécialisation de la documentation ; 4° carence en ce qui concerne les services divers A rendre aux utilisateurs de documents (bibliographie, analyse, copie, etc.). Sur ces quatre points le» bibliothèques du type traditionnel ont été débordées et la vie plus forte a, avec des organes nouveaux, pu s’adapter A des fonctions nouvelles ou élargie». Mai» beaucoup de bibliothèques A leur tour ont suivi le mouvement, tandis que dans la conception théorique de In documentation, la ligne de démarcation est impossible A tracer. Il est donc désirable que les deux mouvements (Bibliothèques et Offices de documentation! se rejoignent, s’allient, se fusionnent même dans le cadre d’une organisation universelle.
+e) Office de documentation. — Un type nouveau d’institution est né : l’office de renseignement, d’information, de documentation. Des noms très divers lui ont été donnés (Service d’information. Bureau de renseignements, etc.). L.’office est-il un type sui generis à côté de la Bibliothèque, du Musée, des Archives? Il ne semble pas. L’office est né d’une carence quadruple des bibliothèques 1° carence en ce qui concerne le collectîonnement des nouvelles espèces de documents sortant du cadre traditionnel ; 2° carence en ce qui concerne les méthodes les plus avancées pour le collectîonnement. la mise en place, le classement et le catalogue ; 3° carence en ce qui concerne la spécialisation de la documentation ; 4° carence en ce qui concerne les services divers A rendre aux utilisateurs de documents (bibliographie, analyse, copie, etc.). Sur ces quatre points les bibliothèques du type traditionnel ont été débordées et la vie plus forte a, avec des organes nouveaux, pu s’adapter A des fonctions nouvelles ou élargie». Mai» beaucoup de bibliothèques A leur tour ont suivi le mouvement, tandis que dans la conception théorique de In documentation, la ligne de démarcation est impossible A tracer. Il est donc désirable que les deux mouvements (Bibliothèques et Offices de documentation! se rejoignent, s’allient, se fusionnent même dans le cadre d’une organisation universelle.
 
-L’Office de Documentation aura été nécessaire puisqu'il y a eu un moment de stagnation dans le développement de la Bibliothèque, Mais maintenant que l’oeuvre d'excitation. de propulsion et de création a été effectuée, les deux
+L’Office de Documentation aura été nécessaire puisqu'il y a eu un moment de stagnation dans le développement de la Bibliothèque, Mais maintenant que l’œuvre d'excitation. de propulsion et de création a été effectuée, les deux
 (I) Voir Annuaire de la Vie Internationale, publication n° 47 de l'Union des Associations Internationales,
 
 ====
 
 424  Réseau Universel d’Information  *415*
 
-organismes ont » se rejoindre, l'Office doit se fondre dans je plus ancien et le plus important, la bibliothèque désormais entraînée dans le mouvement de croissance et dç réforme. La duplication peut être cause de trouble et de gaspillage.
+organismes ont » se rejoindre, l'Office doit se fondre dans le plus ancien et le plus important, la bibliothèque désormais entraînée dans le mouvement de croissance et de réforme. La duplication peut être cause de trouble et de gaspillage.
 
 424 Le Réseau Universel d’Information et Documentation (4° échelon de l’Organisation internationale).
 ------------------------------------------------------------------------------------------------------
@@ -19452,13 +19461,13 @@ De l’enquête sur les faits, de l'étude sur les travaux et des organes exista
 
 1° Il sera organisé un Réseau Universel mettant en rapport coopératif tous les organismes particuliers de documentation, tant publics que privés, à la fois pour la production et pour l'utilisation.
 
-Le Réseau, de quelque manière que ce soit, doit relier les uns aux autres les centres producteurs, distributeurs, utilisateur, de toute spécialisation et de tout lieu. Il s’agit pratiquement que tout producteur ayant quelque donnée a faire connaître, quelque proposition h présenter ou à défendre — tout utilisateur ayant quelque information à recueillir pour avancer son travail théorique ou pratique — toute personne enfin puisse au moindre effort et avec un maximum de sûreté et d’abondance, entrer en possession de ce qui leur est offert.
+Le Réseau, de quelque manière que ce soit, doit relier les uns aux autres les centres producteurs, distributeurs, utilisateur, de toute spécialisation et de tout lieu. Il s’agit pratiquement que tout producteur ayant quelque donnée a faire connaître, quelque proposition à présenter ou à défendre — tout utilisateur ayant quelque information à recueillir pour avancer son travail théorique ou pratique — toute personne enfin puisse au moindre effort et avec un maximum de sûreté et d’abondance, entrer en possession de ce qui leur est offert.
 
 Pour réaliser le Réseau, expression de l'organisation, il y aura un organisme universel de la documentation.
 
 2° L'organisation couvrira le champ entier des matières de connaissances et d'activité, ainsi que l’ensemble des formes et des fonctions de la documentation.
 
-3° Le Réseau s’organisera par le moyen d'une Convention internationale, comprenant autant d’objets particu liers qu'il existe d'ordres divers dans la documentation. Chacun déterminera ceux de ces objets auxquels il adhère. I^a Convention consacre la libre entrée et la libre sortie, en tous temps, de tous organismes existant qui répondront à des conditions minimum d’agréation. Le Réseau dispo «eia d’un Office mondial, gardien de la Convention, organe promouvant h la coopération, la dirigeant, la rendant possible, organisant et administrant en son siège les collections centrales communes.
+3° Le Réseau s’organisera par le moyen d'une Convention internationale, comprenant autant d’objets particu liers qu'il existe d'ordres divers dans la documentation. Chacun déterminera ceux de ces objets auxquels il adhère. I^a Convention consacre la libre entrée et la libre sortie, en tous temps, de tous organismes existant qui répondront à des conditions minimum d’agréation. Le Réseau dispo «eia d’un Office mondial, gardien de la Convention, organe promouvant à la coopération, la dirigeant, la rendant possible, organisant et administrant en son siège les collections centrales communes.
 
 4° L’organisation impliquera la mise en œuvre des principes d'un plan général de coopération, coordination, concentration et spécialisation du travail, répartition des tâches entre organismes existants ou création d organes nouveaux aux fins d'assurer des tâches anciennes. L organisation se réalisera par concentration verticale, horizontale, longitudinale.
 
@@ -19474,7 +19483,7 @@ Afin de rationaliser leurs activités et de les rendre plus efficientes, il sera
 
 a) de la matière (répartition verticale) (sujet ou science) ;
 
-b) du lieu (répartition horizontale) ; c) de l'espèce de fonction ou opération deumentaire (répartition longitudinale.) [Pu dication, bibliothèque, bibliographie, archives, encyclopédie ou muséographie: locaux régionaux, nationaux ou internationaux ; généraux ou spéciaux] ; la solution comporte approximativement cent matières, soixante pays, six formes de documentation, sous les deux modalités, production ou utilisation, soit un bloc ou réseau de 72.000 alvéoles. Au centre, au siège de l’Office mondial, seront rassemblées les collections générales ainsi que les services centraux d'échanges et de prêts, placés sous un régime de propriété commune et de gestion coopérative.
+b) du lieu (répartition horizontale) ; c) de l'espèce de fonction ou opération deumentaire (répartition longitudinale.) [Publication, bibliothèque, bibliographie, archives, encyclopédie ou muséographie: locaux régionaux, nationaux ou internationaux ; généraux ou spéciaux] ; la solution comporte approximativement cent matières, soixante pays, six formes de documentation, sous les deux modalités, production ou utilisation, soit un bloc ou réseau de 72.000 alvéoles. Au centre, au siège de l’Office mondial, seront rassemblées les collections générales ainsi que les services centraux d'échanges et de prêts, placés sous un régime de propriété commune et de gestion coopérative.
 
 7° Relation. — Le Réseau général sera organiquement et Hiérarchiquement constitué de telle manière qu’en cha que matière les organismes locaux seront reliés aux régionaux, ceux-ci aux nationaux, ces derniers aux internationaux et ceux-ci à l’organisme mondial. Mais à tous les degrés et dans tous les sens, les organismes ad libitum; pourront entre eux coopérer, s'utiliser.
 
@@ -19485,7 +19494,7 @@ L’Organisation internationale sera confiée à des organes internationaux sous
 424.2 Eléments existant de l’organisation.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-b) I .es noyaux d’une telle organisation existent déjà a) Les Bibliothèques nationales avec leurs services de catalogues collectifs et de prêts: V>) Les Offices de documentation, les œuvres d’information, les bibliothèques spéciales en certains pays; c) Les Unions nationales de Documentation; d) Le Service international des échanges; e) Les organismes qui produisent des catalogues et des bibliographies; f) Les Bureaux des grandes publications périodiques ou à édition renouvelée : Journaux, Revue», degrés ; b) Les organismes de documentation, information et publication qui fonctionnent au sein des Associations sein de la Société des Nations ou en liaison avec elle :
+b) Les noyaux d’une telle organisation existent déjà a) Les Bibliothèques nationales avec leurs services de catalogues collectifs et de prêts: b) Les Offices de documentation, les œuvres d’information, les bibliothèques spéciales en certains pays; c) Les Unions nationales de Documentation; d) Le Service international des échanges; e) Les organismes qui produisent des catalogues et des bibliographies; f) Les Bureaux des grandes publications périodiques ou à édition renouvelée : Journaux, Revue», degrés ; b) Les organismes de documentation, information et publication qui fonctionnent au sein des Associations sein de la Société des Nations ou en liaison avec elle :
 
 (privées, mixtes ou officielles ; les services de cet ordre au Secrétariat, Bureau International du Travail, Commission
 
@@ -19500,12 +19509,12 @@ Tons ces organismes fonctionnent. Ils tépondent déjà largement aux conditions
 425 Corrélations avec le Travail intellectuel et l'Organisation mondiale en général (5° échelon de l’Organisation).
 --------------------------------------------------------------------------------------------------------------------
 
-Le Réseau Universel de Documentation lui-même doit prendre place dans l’organisat on générale du Travail intellectuel et celle-ci dans l’Organisation mondiale elle-même. Ainsi le 4e échelon de l'organisation se complète par un 5r échelon qui le dépasse et le déborde, dont U tache incombe h d’autres mais qui peut être largement aide et orienté par lui.
+Le Réseau Universel de Documentation lui-même doit prendre place dans l’organisat on générale du Travail intellectuel et celle-ci dans l’Organisation mondiale elle-même. Ainsi le 4e échelon de l'organisation se complète par un 5r échelon qui le dépasse et le déborde, dont la tache incombe à d’autres mais qui peut être largement aide et orienté par lui.
 
 425.1 Organisation internationale du travail intellectuel.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-a) Dan» la presque totalité des cas, le travail intellectuel a son origine et sa source dans les documents et, une fois accompli, il donne lieu à l'élaboration d'un document nouveau. C’est dire le lien étroit qui unit l’organisation de la documentation à celle plu» générale du Travail intellectuel {\). Toute amélioration dans l'une se représente dans l'autre. Quant à la documentation, toute initiative qui y est prise dans le domaine voisin, en entraîne d’autres corrélatifs. C'est pourquoi son établissement et «a réforme doivent se poursuivre dans le cadre le plus large conçu par l'organisation du travail intellectuel lui-même. ,
+a) Dan» la presque totalité des cas, le travail intellectuel a son origine et sa source dans les documents et, une fois accompli, il donne lieu à l'élaboration d'un document nouveau. C’est dire le lien étroit qui unit l’organisation de la documentation à celle plus générale du Travail intellectuel {\). Toute amélioration dans l'une se représente dans l'autre. Quant à la documentation, toute initiative qui y est prise dans le domaine voisin, en entraîne d’autres corrélatifs. C'est pourquoi son établissement et «a réforme doivent se poursuivre dans le cadre le plus large conçu par l'organisation du travail intellectuel lui-même. ,
 
 b) La Documentation prend place dans la chaîne des opérations intellectuelles organisées : la recherche scientifique; l'enseignement; la documentation; l'Information; le Conseil (les conseils des services techniques ; l'Expertise; l'Administration; la Direction; l'Exécution, l'action.
 
@@ -19516,12 +19525,12 @@ c) La science et le travail ont besoin d’une organisation qui, à la fois, s'�
 (I) Sur ta place de la documentation dans l’organisation du travail intellectuel voir les Publications de l’Union des Associations Internationales n° 97. 98. 105, 107.
 les parties du savoir 1 3° à toutes ses fonctions. Cette organisation doit être internationale et universelle.
 
-Cette organisation implique : I* la coopération dts
+Cette organisation implique : 1° la coopération des
 
-inst tutions libres (sociétés scientifiques, académies, universités et associations internaitonaîse) ; 2° la coopération des gouvernements; 3° l’établissement d’un centre international.
+institutions libres (sociétés scientifiques, académies, universités et associations internationales) ; 2° la coopération des gouvernements; 3° l’établissement d’un centre international.
 
-Les fonctions du travail intellectuel (but, activité) et les organes qui y correspondent (structure, institution) som le» suivants :
-A) Recherche* scientifiques et inventions :
+Les fonctions du travail intellectuel (but, activité) et les organes qui y correspondent (structure, institution) som les suivants :
+A) Recherches scientifiques et inventions :
 
 Aa. Programme des recherches; Ab. Inventaire des recherches intellectuelles; Ac. Travaux. (Par les instituts, laboratoires, missions d études, explorations),
 
@@ -19529,11 +19538,11 @@ B) Méthodes: unification et standardisation:
 
 Bu Terminologie, nomenclature, notation, schéma; Bb. Classification, systématique; Bc. Système d’unités. C) Discussion :
 
-Ca. Conclusions scientifiques : Ch Décisions d’organisation ; Ce. Recommandations d'ordre pratique et social. (Par les associations, académies, fédération*.)
+Ca. Conclusions scientifiques : Ch Décisions d’organisation ; Ce. Recommandations d'ordre pratique et social. (Par les associations, académies, fédérations.)
 
 D) Con<eruafton de la science :
 
-Da. Publication*. Dd. Bibliographie; De. Bibliothèque ; Dd. Encyclopédie ; De. Archives, dossiers documentaires ; D/. Muséographie; Dg. Synthèse, codification.
+Da. Publications. Dd. Bibliographie; De. Bibliothèque ; Dd. Encyclopédie ; De. Archives, dossiers documentaires ; D/. Muséographie; Dg. Synthèse, codification.
 
 E) Enseignement et diffusion de la science :
 
@@ -19544,8 +19553,8 @@ F) Utilisation et application de la science ;
 Fa. Santé publique; Fb. Industrie et vie économique; Fc. Administration et organisation juridique ; Fd. Développement social, moral, esthétique.
 Fonctions du Ttavail intellectuel
 
-Semblable organisation a besoin que ses organes permanents soient reliés à un organe central. Un tel organe a été défini et dénommé Mundancum, et c'est è le développer que du côté des libres associations internationales ©ut commencé à oeuvrer celles qui se sont groupées dans l’Union des Associations internationales et dans son Foyer, le Palais Mondial. Du côté officiel il y a tout le travail poursuivi par la Commission internationale de Coopération intellectuelle et par son Institut. l’Institut international de Coopération intellectuelle. ( I )
-(1) Voir le plan présenté par l'Union des Associations Internationales de la Conférence de la Paix de Paris (1919 et h la Société des Nations (Publications de 1*1-A !.).
+Semblable organisation a besoin que ses organes permanents soient reliés à un organe central. Un tel organe a été défini et dénommé Mundaneum, et c'est à le développer que du côté des libres associations internationales ©ut commencé à œuvrer celles qui se sont groupées dans l’Union des Associations internationales et dans son Foyer, le Palais Mondial. Du côté officiel il y a tout le travail poursuivi par la Commission internationale de Coopération intellectuelle et par son Institut. l’Institut international de Coopération intellectuelle. ( I )
+(1) Voir le plan présenté par l'Union des Associations Internationales de la Conférence de la Paix de Paris (1919 et à la Société des Nations (Publications de 1*1-A !.).
 
 
 ====
@@ -19559,7 +19568,7 @@ Semblable organisation a besoin que ses organes permanents soient reliés à un 
 
 Le Mundaneum, centre scientifique, documentaire, éducatif et social, se développe en trois directions : comme Idée, comme Institution et comme Corps physique de collections et de services. ( I )
 
-A. L’Idée : C’est la conception que, le monde étant reconnu un et interdépendant en toutes ses parties il faut maintenant chercher à l’observer et À comprendre cette unité, en déduire et faire connaître les conséquence pratiques pour la conduite individuelle et collective. Parallèlement À la multiplicité des sciences particulières, spécialisées et analytiques, est nécessaire une science générale, encyclopédique et synthétique ; parallèlement à la multiplicité des organisations, des constitutions et des plans particuliers, sont nécessaires une Organisation, une Constitution et un Plan mondial Ainsi, la pensée de chacun pourra atteindre la conception du lout; l’humanisme poursuivi par l’éducation pourra devenir le bien de tous; \a civilisation devenant universelle et dirigée par des moyens rationnels, pourra enfin opposer victorieusement aux horreurs et aux confusions de la crise, de la guerre et de la révolution l’idéal et le bien de la prospé-rité, de la paix, de la justice et de 1 ascension des hommes vers une plus haute destinée.
+A. L’Idée : C’est la conception que, le monde étant reconnu un et interdépendant en toutes ses parties il faut maintenant chercher à l’observer et À comprendre cette unité, en déduire et faire connaître les conséquence pratiques pour la conduite individuelle et collective. Parallèlement À la multiplicité des sciences particulières, spécialisées et analytiques, est nécessaire une science générale, encyclopédique et synthétique ; parallèlement à la multiplicité des organisations, des constitutions et des plans particuliers, sont nécessaires une Organisation, une Constitution et un Plan mondial Ainsi, la pensée de chacun pourra atteindre la conception du lout; l’humanisme poursuivi par l’éducation pourra devenir le bien de tous; \a civilisation devenant universelle et dirigée par des moyens rationnels, pourra enfin opposer victorieusement aux horreurs et aux confusions de la crise, de la guerre et de la révolution l’idéal et le bien de la prospé-rité, de la paix, de la justice et de l'ascension des hommes vers une plus haute destinée.
 
 B. L’Insiitution : C’est un libre groupement des forces de l’esprit, une fédérat;on d’organismes, une Union d'Associations nationales et internationales. Celles-ci conservent chacune leur autonomie mais pour la grande coopération intellectuelle, elles se rejoignent par les lien», soit de l’adhésion formelle en qualité de membre, soit d’accords précis formant convention, soit de la simple sympathie exprimée à raison de la communauté des buts et des efforts.
 
@@ -19568,19 +19577,19 @@ C. Le Corps physique : C'est l'ensemble des collections et des services destiné
 Cet ensemble vaste et complexe a été conçu et sa réalisation commencée selon les principes de totalité, simultanéité, gratuité, volontarité, universalité et mondialité.
 
 (1) Sur le Mundaneum, voir les publications 116, 124, 128, 134 et 144 de l’Union des Associations Internationale.
-Evidemment il faut des d4cades pour qu’une telle œuvre arrive à suffisance de réalisation pour que sans conteste tous puissent la reconnaître et l’utiliser. En ce moment elle peut déjà offrir le faisceau de ceux qui {a reconnaissent et qui l’aident : individualités éclairées et estimées ; associations d’avant-garde, gouvernement» soucieux de progrès général ; la Société de» Nation» vouée en principe à des objectifs similaires mais appelée à les atteindre par les voies administratives et officielles.
+Evidemment il faut des d4cades pour qu’une telle œuvre arrive à suffisance de réalisation pour que sans conteste tous puissent la reconnaître et l’utiliser. En ce moment elle peut déjà offrir le faisceau de ceux qui {a reconnaissent et qui l’aident : individualités éclairées et estimées ; associations d’avant-garde, gouvernements soucieux de progrès général ; la Société des Nation» vouée en principe à des objectifs similaires mais appelée à les atteindre par les voies administratives et officielles.
 
 2. HISTORIQUE.
 
-L’œuvre du « Mundaneum ■ remonte à 1895. C’est alors que fut fondé l'Institut International de Bibliographie, avec le but d’élaboref le Répertoire Bibliographique Universel. Ce fut la première création internationale d'ordre purement scientifique qui se proposât d’élaborer en collaboration un travail continu et d'en faire une propriété commune qui n*appartienne à aucune nation.
+L’œuvre du « Mundaneum » remonte à 1895. C’est alors que fut fondé l'Institut International de Bibliographie, avec le but d’élaboref le Répertoire Bibliographique Universel. Ce fut la première création internationale d'ordre purement scientifique qui se proposât d’élaborer en collaboration un travail continu et d'en faire une propriété commune qui n*appartienne à aucune nation.
 
 En 1898 furent jetés les premiers fondements de la Bibliothèque internationale, en 1907 ceux de l’Union des Associations Internationales définitivement fondée en 1910. au moment où se tint le premier Congrès mondial. Cette même année fut institué le Musée mondial.
 
-Survint la guerre qui interrompit tout développement et plaça l’œuvre entière dans des conditions fort critiques. Des travaux furent cependant poursuivis en Hollande et en Suisse et, sous les auspices de l'Union, parurent en 1914, 1916, 1918. des travaux fondamentaux sut les événement» considéré» au point de vue international et sur l'organisation qu’il était désirable de voir donner aux rapporta entre peuples sous le nom de Société des Nation».
+Survint la guerre qui interrompit tout développement et plaça l’œuvre entière dans des conditions fort critiques. Des travaux furent cependant poursuivis en Hollande et en Suisse et, sous les auspices de l'Union, parurent en 1914, 1916, 1918. des travaux fondamentaux sut les événements considérés au point de vue international et sur l'organisation qu’il était désirable de voir donner aux rapporta entre peuples sous le nom de Société des Nation».
 
-En 1920, immédiatement après la guerre les Associations internationales firent un grand effort d’organisation et de coopération concentrant des œuvres existantes, en Créant de nouvelles. Elles installèrent alors le centre intellectuel dan» un vaste édifice provisoire mis généreusement à leur disposition par le Gouvernement belge, comprenant cent salles et couvrant environ un hectare. A ce moment fut créée l’Umversité Internationale.
+En 1920, immédiatement après la guerre les Associations internationales firent un grand effort d’organisation et de coopération concentrant des œuvres existantes, en Créant de nouvelles. Elles installèrent alors le centre intellectuel dans un vaste édifice provisoire mis généreusement à leur disposition par le Gouvernement belge, comprenant cent salles et couvrant environ un hectare. A ce moment fut créée l’Umversité Internationale.
 
-En 1921 se tint au Palais mondial le Congrès interfia tional des Travailleur» intellectuels et. sur le plan qu’il arrêta, furent immédiatement poursuivies les négociations déjà engagées avec la Société des Nations, en vue de voir créer dans son sein, en coopération avec le» Associations internationales, une organisation générale du travail intellectuel. Ce fut l’origine de la Commission de coopération intellectuelle.
+En 1921 se tint au Palais mondial le Congrès interfia tional des Travailleurs intellectuels et. sur le plan qu’il arrêta, furent immédiatement poursuivies les négociations déjà engagées avec la Société des Nations, en vue de voir créer dans son sein, en coopération avec les Associations internationales, une organisation générale du travail intellectuel. Ce fut l’origine de la Commission de coopération intellectuelle.
 
 En août 1922, des délégués officiels de vingt gouvernements arrêtèrent le salut érigeant le centre de Bruxelles «u Fondation Internationale. En 1924, le Gouvernement belge reprit la disposition des locaux concédés pour les affecter à une destination d'ordre commercial. Après deux ans. un nouveau gouvernement consacra à nouveau
 
@@ -19595,15 +19604,15 @@ les aecords antérieurs. Le Palais Mondial put alors continuer A ae développer.
 
 Cadre dc la Documentation, du Musée et de l'Enseignement,
 
-A) Le* Sciences. (Données générales et synthétiques).
+A) Les Sciences. (Données générales et synthétiques).
 
-1. La quantité et l'étendue: Nombre et espace. Les Mathématiques. — 2. La matière et l'énergie : Les éléments et les forces, les corps célestes et la terre. La Physique, la Chimie, l'Astronomie et la Géologie. — 3. La vie, ses formes et variétés, sa continuité. La Biologie et 1 Histoire naturelle. — L'esprit et son mécanisme, 1 âme et scs facultés. La Psychologie. — 6. L'explication des choses et des systèmes. La Philosophie. — 7. La Divinité.
+1. La quantité et l'étendue: Nombre et espace. Les Mathématiques. — 2. La matière et l'énergie : Les éléments et les forces, les corps célestes et la terre. La Physique, la Chimie, l'Astronomie et la Géologie. — 3. La vie, ses formes et variétés, sa continuité. La Biologie et 1 Histoire naturelle. — L'esprit et son mécanisme, 1 âme et ses facultés. La Psychologie. — 6. L'explication des choses et des systèmes. La Philosophie. — 7. La Divinité.
 
 B. Les Pays, tes Nations. (Vue d ensemble. — Transformations récentes).
 
 I. Pays d’Amérique. — Pays d’Asie. — 3. Pays d'Afrique. — 4, Pays d’Océanie. -— 5. Pays d Europe. — 6. Géographie générale, humaine et sociale.
 
-C. U Histoire, (Les grandes époques de la Civilisation et leur signification pour le moment présent).
+C. L'Histoire, (Les grandes époques de la Civilisation et leur signification pour le moment présent).
 
 1. Les origines de l'Humanité: La Préhistoire. 2. Ce que nous devons aux Egyptiens, aux Babyloniens, aux Perses et aux Juifs : Les peuples de l'Antiquité. — 3. Les origines de la civilisation occidentale : Les Grecs et les Romains. — 4. Ce qui s’est passé du IVe au XIVe siècle :
 
@@ -19624,7 +19633,7 @@ I. Les Milieux de la Nature nuisibles ou utiles à l’homme. La protection cont
 
 4. STATISTIQUE.
 
-(Etat des travaux et collections au I" avril 1934).
+(Etat des travaux et collections au 1??? avril 1934).
 
 1. Bibliographie (15.646.346 fiches), 27.000 consultations. — 2. Bibliothèque (175,000 unités). — 3. Hémé* rothèque (80.000 spécimens). — 4. Archives encyclopédiques documentaires (10,000 dossiers. — I million de
 
@@ -19666,7 +19675,7 @@ L'Organisation mondiale du Travail intellectuel.
 
 425  ORGANISATION MONDIALE EN GENERAL  *419*
 
-pièces. — 5. Atlas Universel (6,000 tableaux). — 6. Classification (Tables décimales : 66,000 divisions. — 7. Films micropbotograpbiques (4,500 images). — 8. Ciné-Munda-ncum ; Séances documentaires et éducatives en liaison avec les cinémas. — 9. Enseignement (4 quinzaines internationales ; 552 conférences par 117 conférenciers en cycle triennal). — 10. Codification. (Résolution et conclusions des Associations Internationales). — II. Publications originales: Série U. A. I. (141 numéros); Série I. I. B. (170 numéros). — 12. Etudes et travaux; développement des six points du programme du Congrès des Associations Internationales. — 13. Musée : 60 salles,
+pièces. — 5. Atlas Universel (6,000 tableaux). — 6. Classification (Tables décimales : 66,000 divisions. — 7. Films microphotographiques (4,500 images). — 8. Ciné-Munda-neum ; Séances documentaires et éducatives en liaison avec les cinémas. — 9. Enseignement (4 quinzaines internationales ; 552 conférences par 117 conférenciers en cycle triennal). — 10. Codification. (Résolution et conclusions des Associations Internationales). — II. Publications originales: Série U. A. I. (141 numéros); Série I. I. B. (170 numéros). — 12. Etudes et travaux; développement des six points du programme du Congrès des Associations Internationales. — 13. Musée : 60 salles,
 
 15,030 numéros. — Des dizaines de mille visiteurs, dont 640 écoles.
 
@@ -19676,24 +19685,24 @@ pièces. — 5. Atlas Universel (6,000 tableaux). — 6. Classification (Tables 
 425.21 Principe.
 """""""""""""""""
 
-Le désordre survenu par la guerre mondiale et par tes suites, crise et révolution, ont amené graduellement Us esprits à concevoir la nécessité d une intervention rationnelle dans les rapports internationaux. Il semble donné à notre temps de travailler, bien qu'au milieu des plus grandes difficultés, à l’avenir d’une civilisât on nouvel'e. h base universelle, embrassant l’ensemble des nations entre lesquelles se distribuent les deux milliards d’humains. Semblable civilisation a besoin d’être organisée, J'être orientée et quant à ses facteurs essentiels, d’être dirigées. L'Intelligence, la Raison, la Science, la Technique. le Bien de l'Humanité, ont à y prendre la place occupée de nos jours par les Passions, l'Ignorance, l'Empirisme, les Egoïsmes et les Intérêts particuliers. Dès lors l'organisation du travail intellectuel doit elle-même être mise en corrélation avec l’organisation mondiale, et par «lie l’organisation de la Documentât Ton, institut de l'Intelligence. Ainsi les forces du Livre et du Document sont appelées à se mettre au service des plus hauts besoins de l'Humanité. (I)
+Le désordre survenu par la guerre mondiale et par les suites, crise et révolution, ont amené graduellement les esprits à concevoir la nécessité d'une intervention rationnelle dans les rapports internationaux. Il semble donné à notre temps de travailler, bien qu'au milieu des plus grandes difficultés, à l’avenir d’une civilisation nouvelle, à base universelle, embrassant l’ensemble des nations entre lesquelles se distribuent les deux milliards d’humains. Semblable civilisation a besoin d’être organisée, J'être orientée et quant à ses facteurs essentiels, d’être dirigées. L'Intelligence, la Raison, la Science, la Technique. le Bien de l'Humanité, ont à y prendre la place occupée de nos jours par les Passions, l'Ignorance, l'Empirisme, les Egoïsmes et les Intérêts particuliers. Dès lors l'organisation du travail intellectuel doit elle-même être mise en corrélation avec l’organisation mondiale, et par «lie l’organisation de la Documentât Ton, institut de l'Intelligence. Ainsi les forces du Livre et du Document sont appelées à se mettre au service des plus hauts besoins de l'Humanité. (I)
 
-L'organisation mondiale doit s’étendre aux six domaines «le la vie sociale : la santé, I économique, le social, le politique, intell?ctuel. le spirituel; elle doit se rattacher de degré en degré au continental, au national, au régional, au local. Elle doit reposer sur les individus, libres mais disciplinés; sur les associations privées prolongées en Associations internationales, celles-ci fédérées en Union des Associations internationales; sur les pouvoirs publics et les gouvernements, ceux-ci unis en Société universelle des Nations ou République mond'ale.
-(I) Paul Otlet. l-es Problèmes internationaux et la Xucrrc (1916), dans la collection des Publications de rUnion des Associations internationales. — Constitution Mondiale (1917). — La Cité Mondiale (1927 et 1930).. — Le Plan Mondial.
+L'organisation mondiale doit s’étendre aux six domaines de la vie sociale : la santé, l'économique, le social, le politique, intellectuel, le spirituel; elle doit se rattacher de degré en degré au continental, au national, au régional, au local. Elle doit reposer sur les individus, libres mais disciplinés; sur les associations privées prolongées en Associations internationales, celles-ci fédérées en Union des Associations internationales; sur les pouvoirs publics et les gouvernements, ceux-ci unis en Société universelle des Nations ou République mond'ale.
+(I) Paul Otlet. Les Problèmes internationaux et la Guerre (1916), dans la collection des Publications de rUnion des Associations internationales. — Constitution Mondiale (1917). — La Cité Mondiale (1927 et 1930).. — Le Plan Mondial.
 
 425.22 Instruments de l’Organisation mondiale. La Cité mondiale.
 """""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""""
 
 Les instruments à mettre en œuvre sont la Constitution mondiale, le Plan mondial la Cité mondiale.
 
-La Cité mondiale est conçue comme devant avoir trois buts principaux. 1° Etre un instrument pratique pour .a coopération internationale, dans tous les domaines, à la manière dont, dans chaque pays, la Capitale facilite des coopérations au degré national. 2" Offrir l'occas on, toute» forces unies, de réaliser une cité modèle parce qu’elle serait réalisée selon un plan, en une fois, et soustraite ainsi aux contingences des cités anciennes difficiles à transformer. 3" Enfin constituer une représentation et un symbole permanent de l’unité Humaine-
+La Cité mondiale est conçue comme devant avoir trois buts principaux. 1° Etre un instrument pratique pour la coopération internationale, dans tous les domaines, à la manière dont, dans chaque pays, la Capitale facilite des coopérations au degré national. 2" Offrir l'occas on, toutes forces unies, de réaliser une cité modèle parce qu’elle serait réalisée selon un plan, en une fois, et soustraite ainsi aux contingences des cités anciennes difficiles à transformer. 3" Enfin constituer une représentation et un symbole permanent de l’unité Humaine-
 L’ACTION DU CENTRE MONDIAL.
 
 Tels des rayons, les idées, les sentiments, les intérêts, et aussi les documents et les objets s'y rapportant sont collectés par les Associations internationales. Là, ils reçoivent une élaboration spécialisée. Ils sont ensuite dirigés vers le Centre mondial pour y être coordonnés, enrichis, synthétisé». Finalement, du Centre, ils sont renvoyés aux Associations de son degré et, diffusés de par le monde, ils contribuent partout à soutenir et développer
 
 la Civilisation universelle.
 
-La Cité mondiale peut encore se définir une Exposition universelle permanente, un grande Foire, un grand Mur-ché ; une grande Bours«* d'affaires de toutes espèces, une Institution centrale d’informations et d’enseignement agis sont en véritable Université vivante. Chaque nation v aurait son Pavillon, chaque assoc ation internationale sa maison, chaque organe de In vie mondiale son Institut. I-a Cité mondiale, observatoire et miroir de la vie nou velle du monde, serait établi en un lieu extcrritorialisé. Eli e serait pour les affaires temporelles ce que sont la Cité Vaticane et les cités religieuses de La Mecque, Jérusahun et Benarcs pour les affaires siriturllr*.
+La Cité mondiale peut encore se définir une Exposition universelle permanente, un grande Foire, un grand Mar-ché ; une grande Bourse d'affaires de toutes espèces, une Institution centrale d’informations et d’enseignement agis sont en véritable Université vivante. Chaque nation v aurait son Pavillon, chaque assoc ation internationale sa maison, chaque organe de In vie mondiale son Institut. I-a Cité mondiale, observatoire et miroir de la vie nou velle du monde, serait établi en un lieu extcrritorialisé. Eli e serait pour les affaires temporelles ce que sont la Cité Vaticane et les cités religieuses de La Mecque, Jérusahun et Benarcs pour les affaires siriturllr*.
 
 Selon sa conception théorique, et le temps aidant, la
 
@@ -19702,7 +19711,7 @@ Selon sa conception théorique, et le temps aidant, la
 
 425  ORGANISATION MONDIALE EN GENERAL  *419*
 
-pièces. — 5. Atlas Universel (6,000 tableaux). — 6. Classification (Tables décimales : 66,000 divisions. — 7. Films micropbotograpbiques (4,500 images). — 8. Ciné-Munda-ncum ; Séances documentaires et éducatives en liaison avec les cinémas. — 9. Enseignement (4 quinzaines internationales ; 552 conférences par 117 conférenciers en cycle triennal). — 10. Codification. (Résolution et conclusions des Associations Internationales). — II. Publications originales: Série U. A. I. (141 numéros); Série I. I. B. (170 numéros). — 12. Etudes et travaux; développement des six points du programme du Congrès des Associations Internationales. — 13. Musée : 60 salles,
+pièces. — 5. Atlas Universel (6,000 tableaux). — 6. Classification (Tables décimales : 66,000 divisions. — 7. Films microphotographiques (4,500 images). — 8. Ciné-Munda-ncum ; Séances documentaires et éducatives en liaison avec les cinémas. — 9. Enseignement (4 quinzaines internationales ; 552 conférences par 117 conférenciers en cycle triennal). — 10. Codification. (Résolution et conclusions des Associations Internationales). — II. Publications originales: Série U. A. I. (141 numéros); Série I. I. B. (170 numéros). — 12. Etudes et travaux; développement des six points du programme du Congrès des Associations Internationales. — 13. Musée : 60 salles,
 
 15,030 numéros. — Des dizaines de mille visiteurs, dont 640 écoles.
 
@@ -19712,9 +19721,9 @@ pièces. — 5. Atlas Universel (6,000 tableaux). — 6. Classification (Tables 
 425.21 Principe.
 """""""""""""""""
 
-Le désordre survenu par la guerre mondiale et par tes suites, crise et révolution, ont amené graduellement Us esprits à concevoir la nécessité d une intervention rationnelle dans les rapports internationaux. Il semble donné à notre temps de travailler, bien qu'au milieu des plus grandes difficultés, à l’avenir d’une civilisât on nouvel'e. h base universelle, embrassant l’ensemble des nations entre lesquelles se distribuent les deux milliards d’humains. Semblable civilisation a besoin d’être organisée, J'être orientée et quant à ses facteurs essentiels, d’être dirigées. L'Intelligence, la Raison, la Science, la Technique. le Bien de l'Humanité, ont à y prendre la place occupée de nos jours par les Passions, l'Ignorance, l'Empirisme, les Egoïsmes et les Intérêts particuliers. Dès lors l'organisation du travail intellectuel doit elle-même être mise en corrélation avec l’organisation mondiale, et par «lie l’organisation de la Documentât Ton, institut de l'Intelligence. Ainsi les forces du Livre et du Document sont appelées à se mettre au service des plus hauts besoins de l'Humanité. (I)
+Le désordre survenu par la guerre mondiale et par les suites, crise et révolution, ont amené graduellement les esprits à concevoir la nécessité d'une intervention rationnelle dans les rapports internationaux. Il semble donné à notre temps de travailler, bien qu'au milieu des plus grandes difficultés, à l’avenir d’une civilisation nouvelle, à base universelle, embrassant l’ensemble des nations entre lesquelles se distribuent les deux milliards d’humains. Semblable civilisation a besoin d’être organisée, J'être orientée et quant à ses facteurs essentiels, d’être dirigées. L'Intelligence, la Raison, la Science, la Technique. le Bien de l'Humanité, ont à y prendre la place occupée de nos jours par les Passions, l'Ignorance, l'Empirisme, les Egoïsmes et les Intérêts particuliers. Dès lors l'organisation du travail intellectuel doit elle-même être mise en corrélation avec l’organisation mondiale, et par «lie l’organisation de la Documentât Ton, institut de l'Intelligence. Ainsi les forces du Livre et du Document sont appelées à se mettre au service des plus hauts besoins de l'Humanité. (I)
 
-L'organisation mondiale doit s’étendre aux six domaines «le la vie sociale : la santé, I économique, le social, le politique, rintell?<?ctuel. le spirituel; elle doit se rattacher de degré en degré au continental, au national, au régional, au local. Elle doit reposer sur les individus, libres mais disciplinés; sur les associations privées prolongées en Associations internationales, celles-ci fédérées en Union des Associations internationales; sur les pouvoirs publics et les gouvernements, ceux-ci unis en Société universelle des Nations ou République mond'ale.
+L'organisation mondiale doit s’étendre aux six domaines de la vie sociale : la santé, l'économique, le social, le politique, l'intellectuel. le spirituel; elle doit se rattacher de degré en degré au continental, au national, au régional, au local. Elle doit reposer sur les individus, libres mais disciplinés; sur les associations privées prolongées en Associations internationales, celles-ci fédérées en Union des Associations internationales; sur les pouvoirs publics et les gouvernements, ceux-ci unis en Société universelle des Nations ou République mond'ale.
 (I) Paul Otlet. l-es Problèmes internationaux et la Xucrrc (1916), dans la collection des Publications de rUnion des Associations internationales. — Constitution Mondiale (1917). — La Cité Mondiale (1927 et 1930).. — Le Plan Mondial.
 
 425.22 Instruments de l’Organisation mondiale. La Cité mondiale.
@@ -19722,7 +19731,7 @@ L'organisation mondiale doit s’étendre aux six domaines «le la vie sociale :
 
 Les instruments à mettre en œuvre sont la Constitution mondiale, le Plan mondial la Cité mondiale.
 
-La Cité mondiale est conçue comme devant avoir trois buts principaux. 1° Etre un instrument pratique pour .a coopération internationale, dans tous les domaines, à la manière dont, dans chaque pays, la Capitale facilite des coopérations au degré national. 2" Offrir l'occas on, toute» forces unies, de réaliser une cité modèle parce qu’elle serait réalisée selon un plan, en une fois, et soustraite ainsi aux contingences des cités anciennes difficiles à transformer. 3" Enfin constituer une représentation et un symbole permanent de l’unité Humaine.
+La Cité mondiale est conçue comme devant avoir trois buts principaux. 1° Etre un instrument pratique pour .a coopération internationale, dans tous les domaines, à la manière dont, dans chaque pays, la Capitale facilite des coopérations au degré national. 2" Offrir l'occas on, toutes forces unies, de réaliser une cité modèle parce qu’elle serait réalisée selon un plan, en une fois, et soustraite ainsi aux contingences des cités anciennes difficiles à transformer. 3" Enfin constituer une représentation et un symbole permanent de l’unité Humaine.
 
 
 .. image:: ./pics_small/pg419_action_centre_mondiale.png
@@ -19743,8 +19752,8 @@ Selon sa conception théorique, et le temps aidant, la
 
 *420*  CORRELATIONS  425
 
-Cite Mondiale offrirait de chaque ordre des fonctions plus coordonnée. Elle l’offrirait donc aussi quant h la l’expression, la plus rationnelle, la plus développée, la Documentation dont elle serait la Cité du Livre, la * Bibliopolis ». Mais toute entière, comme symbole et représentation, elle aurait a exprimer, à figurer, à démontrer, Aussi, son architecture toute entière serait^elle fone-
-tion de l'idée. La Cité Mondiale sera un Livre colossal, dont les édifices et leurs dispositions — et non seulement leur contenu —, se liront, à la manière dont les pierres des cathédrales se • lisaient » par le peuple au moyen
+Cite Mondiale offrirait de chaque ordre des fonctions plus coordonnée. Elle l’offrirait donc aussi quant à la l’expression, la plus rationnelle, la plus développée, la Documentation dont elle serait la Cité du Livre, la * Bibliopolis ». Mais toute entière, comme symbole et représentation, elle aurait a exprimer, à figurer, à démontrer, Aussi, son architecture toute entière serait^elle fone-
+tion de l'idée. La Cité Mondiale sera un Livre colossal, dont les édifices et leurs dispositions — et non seulement leur contenu —, se liront, à la manière dont les pierres des cathédrales se « lisaient » par le peuple au moyen
 
 âge.
 
@@ -19757,7 +19766,7 @@ Et ainsi vraiment une édification immense s’élèverait avec le temps: * de l
 
 ORGANISATION MONDIALE.
 
-Secteurs par fonction de la vie générale, — Organisme# locaux. tcgionaux. nationaux, internattonaux de ce* diverses sentences; Réseau de communication, de coopération et d'échanges à l'intervention d’un Centre Mondial.
+Secteurs par fonction de la vie générale, — Organismes locaux. tcgionaux. nationaux, internattonaux de ces diverses sentences; Réseau de communication, de coopération et d'échanges à l'intervention d’un Centre Mondial.
 
 
 ====
@@ -19768,19 +19777,19 @@ Secteurs par fonction de la vie générale, — Organisme# locaux. tcgionaux. na
 5 Synthèse Bibliographique
 ****************************
 
-De l'ensemble des données bihliologique» ¡1 faut pouvoir dégager quelques rapports ou lois générales; et, posant les problèmes fondamentaux, esquissés des solu-lions, fussent-elles anticipées et d'un avenir lointain. C'est l'oeuvre de la synthèse, après celle de l’analyse.
+De l'ensemble des données bihliologiques il faut pouvoir dégager quelques rapports ou lois générales; et, posant les problèmes fondamentaux, esquissés des solu-lions, fussent-elles anticipées et d'un avenir lointain. C'est l'œuvre de la synthèse, après celle de l’analyse.
 
 51 LES LOIS BIBLIOGRAPHIQUES.
 ==============================
 
-Il y a lieu d'abord d'examiner s’i y a des lois bibliolo giques et comment il faut les concevoir. Puis quelles sont ces lois. Les lois émises pour universelles s appliquent-elles aux livres? Les lois étiblies dans d autres domaines par diverses sciences ont-elles leur prolongement dans les domaines du livre et du document? Y a-t-il en outre des lois propres aux livres, des lois qui se superposent aux premières lois, qui les prolongent ou en sont indépendantes.
+Il y a lieu d'abord d'examiner s’il y a des lois bibliolo giques et comment il faut les concevoir. Puis quelles sont ces lois. Les lois émises pour universelles s'appliquent-elles aux livres? Les lois étiblies dans d autres domaines par diverses sciences ont-elles leur prolongement dans les domaines du livre et du document? Y a-t-il en outre des lois propres aux livres, des lois qui se superposent aux premières lois, qui les prolongent ou en sont indépendantes.
 
 511. Des Lois en général.
 --------------------------
 
 a) Toute science se constitue en plusieurs étapes. Dans l'une on en amorce l'étude par la récolte des matériaux et la confrontation des résultats des faits. Dans l'autre on établit les rapports permanents entre les faits, c'est-à-dire les lois. En Bibliclogie i faut entendre des faits généraux. communs à tous les livres considérés comme un tout organique dont chaque livre est une partie.
 
-b) Devant la synthèse, les systèmes sont deux. Pour le premier système, U synthèse n'est que l'exposé du changement de l’univers et des causes immédiates qui président à ces changements ; elle ne pourra à tout jamais être que cela. Pour l’autre système la synthèse est possible, ou il sera tout au moins possible de connaître la raison première des choses.
+b) Devant la synthèse, les systèmes sont deux. Pour le premier système, la synthèse n'est que l'exposé du changement de l’univers et des causes immédiates qui président à ces changements ; elle ne pourra à tout jamais être que cela. Pour l’autre système la synthèse est possible, ou il sera tout au moins possible de connaître la raison première des choses.
 
 Or. la synthèse du livre et du document, doit provisoirement se maintenir dans le cadre du premier système car leurs raisons ultimes nous échappent.
 
@@ -19793,7 +19802,7 @@ L'on est d’accord, de nos jours, pour reconnaître le rôle nécessaire de l'h
 
 Les grandes lois, formulées même à l'état d'hypothèse, sont fécondes en découvertes ultimes et surtout en applications dans l’ordre des inventions.
 
-e) Dans toutes les parties de ce iraité, des faits généraux ont été présentés. On y renvoie. Ce qui est dit ici *n crt le complément et, en quelque sorte, la superstructure.
+e) Dans toutes les parties de ce traité, des faits généraux ont été présentés. On y renvoie. Ce qui est dit ici *n crt le complément et, en quelque sorte, la superstructure.
 
 512. Les Lois universellès et celles des diverses sciences prolongées dans la Bibliologie.
 -------------------------------------------------------------------------------------------
@@ -19814,9 +19823,9 @@ Les lois scient fiques en général sont des explications des choses. Transport�
 
 Les lois qui sont tenues pour universelles se vérifient pour le Livre et le Document.
 
-A) Loi du changement et de l’évolution est universelle. I outes les choses de la nature sont dans un perpétuel changement et portent en elles un éternel avenir. Chaque chose se développe toujours en passant graduellement par une série d’états de complexité croissante se continuant par des transitions insensibles. Pour concevoir clairement leur état présent, il faut toujours les étudier dans la série de leurs états antérieurs en remontant k leurs origines et les suivre pas h pas dans leurs développements successifs. Cette loi, on a pu le constater, se vérifie dans le Livre.
+A) Loi du changement et de l’évolution est universelle. Toutes les choses de la nature sont dans un perpétuel changement et portent en elles un éternel avenir. Chaque chose se développe toujours en passant graduellement par une série d’états de complexité croissante se continuant par des transitions insensibles. Pour concevoir clairement leur état présent, il faut toujours les étudier dans la série de leurs états antérieurs en remontant à leurs origines et les suivre pas à pas dans leurs développements successifs. Cette loi, on a pu le constater, se vérifie dans le Livre.
 
-B) I -es lois d’adaptation, de répétition et d'opposition. On peut les ramener aux tableaux de corrélation suivants.
+B) Les lois d’adaptation, de répétition et d'opposition. On peut les ramener aux tableaux de corrélation suivants.
  i. Orele physique a. Orcle vital j. Cercle sociologique
 A. adaptation Combinaison  chimique fécondation invention
 B. répétition ondulation generation imitation
@@ -19824,7 +19833,7 @@ C. opposition choc meurtre guerre
 
 Le Livre prend sa place dans ce tableau. Il est adapta-t on, répétition, opposition.
 
-C) La loi de répétition amplifiante. En physique toute onde, toute vibration, tout mouvement tend à rayonner dans tous les sens où il peut théoriquement se propager, sous forme de son. lumière, chaleur. En chimie. les forces consistent en une circulation de mouvements enchaînés. En biologie chaque cellule, chaque animal, chaque plante a tendance k se propager suivant une progression géométrique. En sociologie, étant donné un groupe d'esprits en contact mental, si l'un d’eux conçoit une idée, une action nouvelle ou paraissant telle, et que cette idée ou cette action se montre avec une apparence de vérité ou d’utilité supérieure, elle se communiquera autour de cet esprit à trois, quatre, dix personnes et chacune d elles à son tour la répandra autour de soi et ainsi de suite. ( 1 )
+C) La loi de répétition amplifiante. En physique toute onde, toute vibration, tout mouvement tend à rayonner dans tous les sens où il peut théoriquement se propager, sous forme de son. lumière, chaleur. En chimie. les forces consistent en une circulation de mouvements enchaînés. En biologie chaque cellule, chaque animal, chaque plante a tendance à se propager suivant une progression géométrique. En sociologie, étant donné un groupe d'esprits en contact mental, si l'un d’eux conçoit une idée, une action nouvelle ou paraissant telle, et que cette idée ou cette action se montre avec une apparence de vérité ou d’utilité supérieure, elle se communiquera autour de cet esprit à trois, quatre, dix personnes et chacune d elles à son tour la répandra autour de soi et ainsi de suite. ( 1 )
 
 il y a répétition, expansivité universelle selon une loi géométrique. L’action du Livre est similaire, et sa loi est géométrique.
 (I) G. Tarde. — Psychologie économique, 1902. p. 5,
@@ -19832,25 +19841,25 @@ il y a répétition, expansivité universelle selon une loi géométrique. L’a
 512.2 Mathématiques.
 ^^^^^^^^^^^^^^^^^^^^^
 
-Des mathématiques, il y a lieu de retenir surtout l'algorithme. Plusieurs aspects généraux de la réalité, la quantité, (a forme, le mouvement, sont parvenus à s’exprimer sans mots, sans figures même, par une simple notation. La notation joue un rôle croissant dans iea livres, dont on peut dire qu’ils sont des algorithmes. Ceci a été exposé antérieurement (n“" 222.21 et 222.24) H)
+Des mathématiques, il y a lieu de retenir surtout l'algorithme. Plusieurs aspects généraux de la réalité, la quantité, la forme, le mouvement, sont parvenus à s’exprimer sans mots, sans figures même, par une simple notation. La notation joue un rôle croissant dans iea livres, dont on peut dire qu’ils sont des algorithmes. Ceci a été exposé antérieurement (n“" 222.21 et 222.24) H)
 
 512.3 Mécanique.
 ^^^^^^^^^^^^^^^^^
 
-a) Le mécanisme qui étudie ou qui produit /’application de la mécanique est une combinaison d’organes ou de parties disposées pour la production d'un fonctionnement d’ensemble. Le Livre est un mécanisme, un dynamisme et k lui aussi on est amené a appliquer le mot d’Archimède ;
+a) Le mécanisme qui étudie ou qui produit l'application de la mécanique est une combinaison d’organes ou de parties disposées pour la production d'un fonctionnement d’ensemble. Le Livre est un mécanisme, un dynamisme et à lui aussi on est amené a appliquer le mot d’Archimède ;
 
 « Da mihi uhi consistant et terram loco dimouebo .»
 
 « Donne-moi un point d’appui, et je ferai mouvoir la terre. »
 
-b) La Bibliologie établit un rapport entre le temps et l’espace. Selon Einstein et Oupensky. le temps serait la quatrième dimension de l’espace. Le livre est avant tout une corporalisation de l’idée à 1 aide d une surface gra-phisée. La dimension est quasi inexistante à raison de la faible épaisseur du papier. Or, tout l’effort qui consiste k améliorer les formes bibiologiques a pour but de rea liser un gain de temps ou il y aboutit. Ainsi, réduire matériellement les surfaces du livre, comme dans le livre microphotographique, c'est agir sur le temps en réduisant la durée des maniements ; réduire intellectuellement les difficultés de compréhension, c’est agir mêmement. Les données et les problèmes du continuum espace-temps sont implicitement inclus dans le Livre et c est a la Bibliologie k les mettre en lumière.
+b) La Bibliologie établit un rapport entre le temps et l’espace. Selon Einstein et Oupensky. le temps serait la quatrième dimension de l’espace. Le livre est avant tout une corporalisation de l’idée à l'aide d une surface gra-phisée. La dimension est quasi inexistante à raison de la faible épaisseur du papier. Or, tout l’effort qui consiste à améliorer les formes bibiologiques a pour but de rea liser un gain de temps ou il y aboutit. Ainsi, réduire matériellement les surfaces du livre, comme dans le livre microphotographique, c'est agir sur le temps en réduisant la durée des maniements ; réduire intellectuellement les difficultés de compréhension, c’est agir mêmement. Les données et les problèmes du continuum espace-temps sont implicitement inclus dans le Livre et c'est a la Bibliologie à les mettre en lumière.
 
 512.4 Physico-Chimie.
 ^^^^^^^^^^^^^^^^^^^^^^
 
 La Physique, la Chimie, leur union en Physico-Chimie ont formulé entr’autres quatre grandes lois dont on trouve la vérification dans le livre.
 
-A) La loi de la conservation de 1 énergie, rien ne *e perd, rien ne se crée, tout est transformation. Dans le livre aussi : les livres conservent l’énergie mentale, le contenu
+A) La loi de la conservation de l'énergie, rien ne se perd, rien ne se crée, tout est transformation. Dans le livre aussi : les livres conservent l’énergie mentale, le contenu
 
 (I) Voir notamment: 131 Généralité de la méthode. 132. Analyse et synthèse. 133 Pluralité des systèmes biblio-logiques. 15 Rapports de la Biblologie avec les autres connaissances. 154 Science générale comparée.
 
@@ -19861,13 +19870,13 @@ Chez le musicien la notation musicale est l'aide presque indispensable de sa con
 
 512 LES LOIS UNIVERSELLES *423*
 
-des livres passe à d’autres livres quand eux-même» cnt été détruits ; et toute création bibliologiquc, si originale et si puissante soit-elle implique redistribution, combinaison et amalgames nouveaux des données anterieures.
+des livres passe à d’autres livres quand eux-mêmes ont été détruits ; et toute création bibliologiquc, si originale et si puissante soit-elle implique redistribution, combinaison et amalgames nouveaux des données anterieures.
 
 B) La loi du moindre effort. Elle régit aussi l'évolution du livre.
 
-C) 1-a loi des cycles naturels. I -a nature offre de grands cycles fermés et sans cesse renouvelés, tel celui des eaux, fleuves et rivières se déversant dans les mers ; nuages formés par l'élévation des eaux sur les océans ; vents, arrêts de nuages par les montagnes, condensant pluie, alimentation des ruisseaux, rivières et fleuves. Dans le livre aussi ou observe un tel cycle fermé et universel ; la chaîne des opération» de production, distribution, conservation, utilisation et destruction ; car en masse, journaux, périodiques. livres, vont au pilon et de là. à la papeterie, pour servir à d'autres publications.
+C) 1-a loi des cycles naturels. La nature offre de grands cycles fermés et sans cesse renouvelés, tel celui des eaux, fleuves et rivières se déversant dans les mers ; nuages formés par l'élévation des eaux sur les océans ; vents, arrêts de nuages par les montagnes, condensant pluie, alimentation des ruisseaux, rivières et fleuves. Dans le livre aussi ou observe un tel cycle fermé et universel ; la chaîne des opération» de production, distribution, conservation, utilisation et destruction ; car en masse, journaux, périodiques. livres, vont au pilon et de là. à la papeterie, pour servir à d'autres publications.
 
-D) La loi du comportement. Bien que fort contestée, celte loi se formule ainsi, il n'y a dans les êtres vivants que des phénomènes d'ordre uniquement physico-chimique auxquels l'animal n'a pas de part volontaire et consciente. On ne saurait méconnaître qu il n y ait 1 analogie d’un comportement. Bien que fort contestée celle-ci se formule ainsi. Il n’y a dans les êtres vivants que de* phénomènes d'ordre uniquement physico-chimique auxquels l'animal n’a pas de part volontaire et consciente et on .•'e saurait méconnaître que dans le phénomène du Livre pris dans son ensemble, il n'y ait l analogie d'une répétition quasi automatique : production des journaux, des revues, vente par la librairie, prêt par les bibliothèques.
+D) La loi du comportement. Bien que fort contestée, cette loi se formule ainsi, il n'y a dans les êtres vivants que des phénomènes d'ordre uniquement physico-chimique auxquels l'animal n'a pas de part volontaire et consciente. On ne saurait méconnaître qu il n y ait l'analogie d’un comportement. Bien que fort contestée celle-ci se formule ainsi. Il n’y a dans les êtres vivants que des phénomènes d'ordre uniquement physico-chimique auxquels l'animal n’a pas de part volontaire et consciente et on ne saurait méconnaître que dans le phénomène du Livre pris dans son ensemble, il n'y ait l'analogie d'une répétition quasi automatique : production des journaux, des revues, vente par la librairie, prêt par les bibliothèques.
 
 512.5 Biologie.
 ^^^^^^^^^^^^^^^^
@@ -19876,7 +19885,7 @@ Diverses lois de la biologie se retrouvent aussi être des lois de la Bibliologi
 
 E) l-a loi de phylogénie. Les individus constituent Its espèces et ils s’enchaînent en longues lignées. Ainsi des livres.
 
-F) La loi d'ontogénie ou loi de répétition abrégée tt non amplifiée de la phylogénie. Elle se formule ainsi : Dan» son développement embryologique chaque individu revêt successivement les formes par lesquelles a passé son espèce ». Cette loi e»t modifiée par celle de la I aebygé-nèse. « Certains individus sautent des stades entiers de I évolution » (récapitulation acquisitive et accélération dans In récapitulation). Dans l’élaboration du Livre on constate qu'avant d’acquérir la forme qu’il présente à sa naissance publique, le livre a, chez l'auteur, traversé les phases de l'cntogénie bibitoiogique. Et dans certain» cas d'élaboration ultra-rapide, directe il n y a l'équivalent de la 1 achygénëse. Les ouvrages fondamentaux (traités, premiers principes) vont d'édition en édition à se répéter et souvent en s'abrégeant. Le terme récapitulation lui-même est emprunté à la documentation.
+F) La loi d'ontogénie ou loi de répétition abrégée tt non amplifiée de la phylogénie. Elle se formule ainsi : Dans son développement embryologique chaque individu revêt successivement les formes par lesquelles a passé son espèce ». Cette loi e»t modifiée par celle de la I aebygé-nèse. « Certains individus sautent des stades entiers de I évolution » (récapitulation acquisitive et accélération dans In récapitulation). Dans l’élaboration du Livre on constate qu'avant d’acquérir la forme qu’il présente à sa naissance publique, le livre a, chez l'auteur, traversé les phases de l'cntogénie bibitoiogique. Et dans certain» cas d'élaboration ultra-rapide, directe il n y a l'équivalent de la l'achygénëse. Les ouvrages fondamentaux (traités, premiers principes) vont d'édition en édition à se répéter et souvent en s'abrégeant. Le terme récapitulation lui-même est emprunté à la documentation.
 
 D) Loi d’hérédité et de sélection. L’hérédité est le phé-
 nomène de la reproduction des êtres et de la formation, de la conservation ou de la disparition de leurs diverses fonctions vitales. ( I )
@@ -19885,22 +19894,22 @@ A) Loi d'organisation. Tous les phénomènes de la vie forment une sorte de rés
 
 B) Loi d’adaptation. Effort des êtres vivants pour s'ajuster à leur milieu. Le monde de la pensée qui s exprime dans les livres est aussi perpétuellement en mouvement. Et les moindres variations sur un point obligent J esprit à de¿ adaptations ; de là une mise au point perpétuelle vies idées; de là ces livre», ces écrits, qui pèsent à nouveau les questions qui les désétiquettent, les synthétisent différemment. Aussi quel corps de science pourrait se maintenir stable devant la necesaité de cette adaptation intellectuelle.
 
-C) La loi de survivance du plus fort (struggle for life) ; cette loi est à interpréter très largement dans le sens d'une survivance des plus ■intelligentes» assurée chez les êtres les plus évolués par l’intelligence avide de combat.
+C) La loi de survivance du plus fort (struggle for life) ; cette loi est à interpréter très largement dans le sens d'une survivance des plus « intelligentes » assurée chez les êtres les plus évolués par l’intelligence avide de combat.
 
 Parmi les livres aussi, il y a large lutte pour la vie. lutte pour se faire lire, triomphe et survivance du plus fort, la valeur intrinsèque étant qualité de force.
 
 512.6 Psychologie. (2)
-^^^^^^^^^^^^^^^^^^^^^^^^
+^^^^^^^^^^^^^^^^^^^^^^^
 
 Le livre est un « Psychisme ». L'enregistrement qu'il réalise est comparable à la conscience humaine qui perçoit les rapports et relie les événements successifs, rapports dont l'ensemble et les interventions constituent aux yeux de beaucoup la conscience elle-même.
 
-Le point a été traité sous le n" 155 Psychologie biblio-logique. ü est simplement mentionné ici pour mémoire.
+Le point a été traité sous le n° 155 Psychologie biblio-logique. Il est simplement mentionné ici pour mémoire.
 
 A) La loi d'équilibre. Lu psychologie la plus subtile conçoit l’intelligence comme une information du dehors, et la conscience comme une synthèse de ces informations. Posant en but de la vie, la liberté, elle tient celle-ci comme fonction à tout moment de l'équilibre le plus délicat entre le milieu interne et le milieu externe. Le Livre est une prolongation de l'information et celle-ci en s'amplifiant
 
 (1) Johanssen : Exaktc Vererbungslehre. (Science exacte de l'hérédité).
 
-(2) Remarques complémentaires. I. Il faut s'occuper du livre dans ses résultats psychologiques sur le lecteur. A quoi doit servir le livre? comment atteint-il le résultat cherché et aussi d'autres résultats? 2. Il existe des types intellectuels que l’on peut dégager par l’observ«tion. 3. Ces types constiuent des types sociaux variables d après les races, les milieux et les temps et que l'enquête aux fins bibliologiques. complétée par une statistique des grands nombres permet de déterminer (psycho-sociologie bibliologique). 4. Les livres sont les équivalents des textes ou moyens imaginés par les psychologues pour déceler, mesurer et classer les caractéristiques mentale» des individus. 5. Les résultats de la réaction de la lecture sur les individus permet d'établir une appréciation de la va-
+(2) Remarques complémentaires. I. Il faut s'occuper du livre dans ses résultats psychologiques sur le lecteur. A quoi doit servir le livre? comment atteint-il le résultat cherché et aussi d'autres résultats? 2. Il existe des types intellectuels que l’on peut dégager par l’observ«tion. 3. Ces types constiuent des types sociaux variables d après les races, les milieux et les temps et que l'enquête aux fins bibliologiques. complétée par une statistique des grands nombres permet de déterminer (psycho-sociologie bibliologique). 4. Les livres sont les équivalents des textes ou moyens imaginés par les psychologues pour déceler, mesurer et classer les caractéristiques mentales des individus. 5. Les résultats de la réaction de la lecture sur les individus permet d'établir une appréciation de la va-
 
 
 ====
@@ -19909,7 +19918,7 @@ A) La loi d'équilibre. Lu psychologie la plus subtile conçoit l’intelligence
 
 impose un effort accru de synthèse pour réaliser un état accru de conscience et de liberté.
 
-B) La loi d'association. Le propre de l'esprit est de pouvoir associer le plu* grand nombre d'idées; de percevoir le plus nettement et le plus rapidement leurs rapports d’analogie et de différences; de pouvoir les accumuler dans la mémoire. Le Livre et le document sont des instruments qui aident directement h l'exercice de ces fonctions.
+B) La loi d'association. Le propre de l'esprit est de pouvoir associer le plus grand nombre d'idées; de percevoir le plus nettement et le plus rapidement leurs rapports d’analogie et de différences; de pouvoir les accumuler dans la mémoire. Le Livre et le document sont des instruments qui aident directement à l'exercice de ces fonctions.
 
 512.7 Sociologie. (I)
 ^^^^^^^^^^^^^^^^^^^^^^^
@@ -19918,21 +19927,21 @@ a) La Sociologie a ramené à dix les lois du développement de l'organ sation d
 
 On retrouve ces lois dans le Livre dont on peut dire qu’il est un « souslogisme ».
 
-I' La loi des dimension» ou désir de s'étendre. Le Livre tend constamment à grandir ses dimensions en étendant les matières dont il traite.
+1° La loi des dimension» ou désir de s'étendre. Le Livre tend constamment à grandir ses dimensions en étendant les matières dont il traite.
 
-2° La loi de la forme ou fonction de l’entrée continue df. nouveaux éléments qui s'amalgament aux éléments antérieurs. Le Livre aussi voit entrer sans cesse dans sa structure de nouveaux éléments qui ne supplan'ent pas les premiers, mais donnent lieu à des formes synthétiques nouvelles, des structures franches, qui s'ajoutent aux structures anciennes.
+2° La loi de la forme ou fonction de l’entrée continue des nouveaux éléments qui s'amalgament aux éléments antérieurs. Le Livre aussi voit entrer sans cesse dans sa structure de nouveaux éléments qui ne supplan'ent pas les premiers, mais donnent lieu à des formes synthétiques nouvelles, des structures franches, qui s'ajoutent aux structures anciennes.
 
 3° La loi des groupes organaplastiques qui sont, en Sociologie. l'union familiale et l'union sociale, tous deux antagonismes durant toute l'histoire. En Bibliologie on constate la coexistence et l’opposition du Livre monographique et du livre d'ensemble (traité, encyclopédie).
-leur d’un livre au point de vue de son assimiliation. Il est des ouvrages, plus ou moins assimilables par tel ou tel type de lecteurs. 6. En conséquence on peut déduire des règles scientifique» auxquelles, en se plaçant au seul point de vue de cette assimilation, devraient obéir les auteurs afin d’obtenir le maximum de « lisibilité ». Ces règles devraient constituer comme un développement de* règles de l’ancienne rhétorique; elles devraient synthétiser, en un seul corps de doctrine, outre ces règles, celles que l’on a commencé à élaborer, les unes empiriquement, les autres scientifiquement, pour capter et retenir l'attention. produire des émotions, détourner des volontés et des résolutions, faire comprendre des notions et cela qu'il s'agisse d’individu, de groupe ou de masse. C’est la pédagogie ou manière de s'adresser à l’enfant ; l’art du propagandiste religieux. ?>olitiquc. du moraliste ou ethicien ; l'art du conférencier, de I orateur, et de tous ceux qui parlent en public; l'art du directeur et du conseiller religieux; l'art qui intervient dans la critique scientifique.
+leur d’un livre au point de vue de son assimiliation. Il est des ouvrages, plus ou moins assimilables par tel ou tel type de lecteurs. 6. En conséquence on peut déduire des règles scientifiques auxquelles, en se plaçant au seul point de vue de cette assimilation, devraient obéir les auteurs afin d’obtenir le maximum de « lisibilité ». Ces règles devraient constituer comme un développement des règles de l’ancienne rhétorique; elles devraient synthétiser, en un seul corps de doctrine, outre ces règles, celles que l’on a commencé à élaborer, les unes empiriquement, les autres scientifiquement, pour capter et retenir l'attention. produire des émotions, détourner des volontés et des résolutions, faire comprendre des notions et cela qu'il s'agisse d’individu, de groupe ou de masse. C’est la pédagogie ou manière de s'adresser à l’enfant ; l’art du propagandiste religieux. ?>olitiquc. du moraliste ou ethicien ; l'art du conférencier, de I orateur, et de tous ceux qui parlent en public; l'art du directeur et du conseiller religieux; l'art qui intervient dans la critique scientifique.
 
-(1) La Sociologie Bihliologique, dont il a été traité sous le N° 153, a pour objet de considérer, dans l'explication sociologique totale les faits se rapportant au facteur «livre» ; et réciproquement de chercher à expliquer les phénomènes du livre par des explications d’ordre socio-logique.
+(1) La Sociologie Bihliologique, dont il a été traité sous le N° 153, a pour objet de considérer, dans l'explication sociologique totale les faits se rapportant au facteur «livres ; et réciproquement de chercher à expliquer les phénomènes du livre par des explications d’ordre socio-logique.
 
 (2) Miiller-Lyer. History of social development, p, 255.
 4" Loi de coopération : La loi de coopération s'accroît aussi dans l'élaboration de toutes les parties et dans le fonctionnement de toutes les branches du Livre.
 
-5° Loi de différenciation. Les Livres vont en se spécial i sant et se différenciant de plu» en plus.
+5° Loi de différenciation. Les Livres vont en se spécial i sant et se différenciant de plus en plus.
 
-6° Loi d*intégration. Parallèlement à la différenciation, 1rs Livres vont en s'intégrant de plus en plus en un grand corps bibliographique qui s’étend à toute la matière (matière bihliologique) et en constitue une expression supérieure.
+6° Loi d*intégration. Parallèlement à la différenciation, les Livres vont en s'intégrant de plus en plus en un grand corps bibliographique qui s’étend à toute la matière (matière bihliologique) et en constitue une expression supérieure.
 
 7° La loi de centralisation qui s’exprime par le désir d'uniformité dans la production. Le Livre tend aussi à s’unifier, sa production tend à s'amalgamer et à «c trus-tifier.
 
@@ -19940,12 +19949,12 @@ leur d’un livre au point de vue de son assimiliation. Il est des ouvrages, plu
 
 9° Loi d’imitation. — Dès qu'une forme de livres est créée, les auteurs s'empressent d’en faire des imitations.
 
-10° La loi d’associaion. — Elle résume en une seule toutes les lois précédentes de développement et en vertu de laquelle il y a tendance croissante à accroître \u » socialité », la « socialisation ». Dans le livre la même tendance est à l'œuvre. Tout ce qui originairement était individuel, isolé, dispersé, *e rapproche et entre en î apport d'association,
+10° La loi d’associaion. — Elle résume en une seule toutes les lois précédentes de développement et en vertu de laquelle il y a tendance croissante à accroître la « socialité », la « socialisation ». Dans le livre la même tendance est à l'œuvre. Tout ce qui originairement était individuel, isolé, dispersé, *e rapproche et entre en î apport d'association,
 
 b) La société est un tissu d'action « interspirituelle », d'états mentaux agissant les uns sur tes autres. (1) Elle est un accord intermental, une connexion mentale, un groupe de jugements et de desseins qui se contredisent ou se contrarient le moins possible, qui se confirment ou s'entr’aident le plus possible. La société ainsi est un système qui diffère d'un système philosophique, en ce qu le,; états mentaux dont il st compose sont dispersé* entre ur grand nombre de cerveaux distincts au lieu d être ramassés dans le même cerveau. Le livre est le moyen de régulariser, de généraliser, d'amplifier ces actions interspirituelles. (2) (G. Tarde. Psychologie économique.
 
 P. U
-(1) Les sociologue» ont d'abord cherché à la science des soe'étés un fondement de l’ordre mécanique. Pour Quetelet (Le système social), le monde social est une sorte de système oolaire. Comte emprunte les divisions de la sociologie, à la mécanique (partie statique, partie dynamique) et il parle de physique sociale. Carey imagine une chimie sociale. Spencer fait de la société un organisme et en tetrouve chez elle toutes les fonctions. Tarde voit dans la société une fonction psychique.
+(1) Les sociologues ont d'abord cherché à la science des sociétés un fondement de l’ordre mécanique. Pour Quetelet (Le système social), le monde social est une sorte de système oolaire. Comte emprunte les divisions de la sociologie, à la mécanique (partie statique, partie dynamique) et il parle de physique sociale. Carey imagine une chimie sociale. Spencer fait de la société un organisme et en tetrouve chez elle toutes les fonctions. Tarde voit dans la société une fonction psychique.
 
 (2) Ibidem, chapitre 11 : La valeur et les sciences sociales, p. 63.
 
@@ -19954,30 +19963,30 @@ P. U
 
 512 LES LOIS UNIVERSELLES *425*
 
-c) La Sociologie a mis en lumière le caractère général d 2 la notion de valeur. La valeur embrasse tout ce qui est humain et soc al. Elle est une qualité que nous attribuons aux choses comme la couleur, mais qui en réalité, n'existe qu'en nous, d'une vie toute objective. La valeur consiste dans l'accord des jugements collectifs que nous portons sur l’attitude des objets a être, plus ou moins, et par un plus ou moins grand nombre de personnes, cru, désiré ou goûté. La valeur se divise en trois grandes catégories qui sont les notions originales et capitales de la vie en commun ; la valeur-vérité, la valeur-utilité et I » valeur-beauté.
+c) La Sociologie a mis en lumière le caractère général de la notion de valeur. La valeur embrasse tout ce qui est humain et soc al. Elle est une qualité que nous attribuons aux choses comme la couleur, mais qui en réalité, n'existe qu'en nous, d'une vie toute objective. La valeur consiste dans l'accord des jugements collectifs que nous portons sur l’attitude des objets a être, plus ou moins, et par un plus ou moins grand nombre de personnes, cru, désiré ou goûté. La valeur se divise en trois grandes catégories qui sont les notions originales et capitales de la vie en commun ; la valeur-vérité, la valeur-utilité et I » valeur-beauté.
 
 Le livre participe à ces trois ordres de valeurs par le vrai de ce qu'il présente, l'information utile qu'il apporte, l’élément de beauté qu’il matérialise.
 
 512.8 Métaphysique. Métapsychique. Théologie.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-a) Le Livre peut aussi être dit un « Théologisme ». Comme enregistrement, il est comparable à la Conscience Universelle que définissent les spiritualistes de l'ancienne et de la nouvelle Ecole ; À la Conscience divine définie par la Théologie ou la Conscience collective définie par la métapsychique (conscience collective, pensée sans temps et sans espace où toute réalité est représentée; Dr. Osty).
+a) Le Livre peut aussi être dit un « Théologisme ». Comme enregistrement, il est comparable à la Conscience Universelle que définissent les spiritualistes de l'ancienne et de la nouvelle Ecole ; à la Conscience divine définie par la Théologie ou la Conscience collective définie par la métapsychique (conscience collective, pensée sans temps et sans espace où toute réalité est représentée; Dr. Osty).
 
-b) Toujours plus d'analyse est la loi de l'esprit. Et par là on a vu la physique globale d'Aristote dissoudre son propre objet en se heurtant à la physique mathématique des modernes. Et par là on voit de nos jour» la Sociologie dissoudre l'hypostase transcendant à la foule de ses membres au contact de U science statistique. A peine constituée avec sa conception et son objet propre, le Livre et le Document, la Bibliologie, science de *a même lignée que la physique, la psychologie et la sociologie voit cet objet s’atomiser lui même sous l'action de I » même analyse.
+b) Toujours plus d'analyse est la loi de l'esprit. Et par là on a vu la physique globale d'Aristote dissoudre son propre objet en se heurtant à la physique mathématique des modernes. Et par là on voit de nos jour» la Sociologie dissoudre l'hypostase transcendant à la foule de ses membres au contact de la science statistique. A peine constituée avec sa conception et son objet propre, le Livre et le Document, la Bibliologie, science de *a même lignée que la physique, la psychologie et la sociologie voit cet objet s’atomiser lui même sous l'action de I » même analyse.
 
-c) La Bibliologie, selon qu'on la prend, aboutit à un absolu ou s’en détourne. Pour elle également se pose la quest on de ses rapports avec la métaphysique. Par le biblion, représentation plus ou moins adéquate de la réalité, c'est au delà du langage que se pose le problème du nominalisme et du réalisme. « L'esprit, la science, le verbe, le document qu’il exprime, peuvent-ils saisir d'une étreinte intellectuelle l'absolu », ou bien, « les efforts du savant ne vont-ils qu’à donner de toutes choses, non pas une représentation adéquate, mais seulement une expression de plus en plus une et toujours commua-bîe d’un esprit à un autre, sur laquelle l’accord universel de» esprits puisse en fin de compte se réaliser > » \)) Voir, dans le livre, l'intelligence aux prises avec elle-
+c) La Bibliologie, selon qu'on la prend, aboutit à un absolu ou s’en détourne. Pour elle également se pose la quest on de ses rapports avec la métaphysique. Par le biblion, représentation plus ou moins adéquate de la réalité, c'est au delà du langage que se pose le problème du nominalisme et du réalisme. « L'esprit, la science, le verbe, le document qu’il exprime, peuvent-ils saisir d'une étreinte intellectuelle l'absolu », ou bien, « les efforts du savant ne vont-ils qu’à donner de toutes choses, non pas une représentation adéquate, mais seulement une expression de plus en plus une et toujours commua-bîe d’un esprit à un autre, sur laquelle l’accord universel des esprits puisse en fin de compte se réaliser > » \)) Voir, dans le livre, l'intelligence aux prises avec elle-
 
 (I) £. Dupreel. — Traité de Morale. 1932. Voir aussi critique de cet ouvrage par Marcel Dccort, Revue catholique des idées et des faits. 4 août 1933.
 même, avec ses doubles, apporter bien des clartés aux pins anciens problèmes de la métaphysique,
 
-d) La notion métaphysique et théologique de la béatitude (fin suprême, bien divin) distingue entre la béatitude objective de Dieu et la liéatitude subjective ou autre par laquelle l’homme atteint cette fin suprême. La vituon faciale, dans l'éternité, est affirmée ne pas devoir abolir les conditions individuelles qui lui sont compatibles. Car alors rien ne serait moins monotone, moins divers que T amour de Dieu, qui en réalité «épanche et fait retour à soi à travers les élus. ( I ) De ce même point d - vue ne serait pas vain tout l'effort des littératures, favorisées dès qu elles deviennent écrites, pour créer les formes, les espèces et les types représentés dans *e» livres et saisissables par eux. En conséquence, tout ce qui aura été créé d'individuel par le truchement ou Biblion n’aurait pas à disparaître quelque jour, résorbé dans l'infini.
+d) La notion métaphysique et théologique de la béatitude (fin suprême, bien divin) distingue entre la béatitude objective de Dieu et la liéatitude subjective ou autre par laquelle l’homme atteint cette fin suprême. La vituon faciale, dans l'éternité, est affirmée ne pas devoir abolir les conditions individuelles qui lui sont compatibles. Car alors rien ne serait moins monotone, moins divers que T amour de Dieu, qui en réalité «épanche et fait retour à soi à travers les élus. ( I ) De ce même point d - vue ne serait pas vain tout l'effort des littératures, favorisées dès qu elles deviennent écrites, pour créer les formes, les espèces et les types représentés dans les livres et saisissables par eux. En conséquence, tout ce qui aura été créé d'individuel par le truchement ou Biblion n’aurait pas à disparaître quelque jour, résorbé dans l'infini.
 
-Au contraire, la littérature aurait aidé à façonner la diversité des âmes et à s’opposer à la dénivellation ontologique qui existe entre l’objet supérieur et la possession d * cet objet. Ainsi trouverait un fondement l'immortalité rêvée par les poètes pour leurs oeuvres.
+Au contraire, la littérature aurait aidé à façonner la diversité des âmes et à s’opposer à la dénivellation ontologique qui existe entre l’objet supérieur et la possession d * cet objet. Ainsi trouverait un fondement l'immortalité rêvée par les poètes pour leurs œuvres.
 
 513. Les Lois propres aux Livres.
 ----------------------------------
 
-1. Le Livre, réalité nouvelle. — Le livre, le document, ont apporté une réalité nouvelle distincte de toutes les autres : la matérialisation de la pensée. Comme la pensée est une image des choses, le livre est venu donner une reproduction, une copie du monde, celui-ci étant tenu comme le modèle. En effet, trois grands résultats ou lois bibliologiques, dominent l'immense accroissement de do~ cuments de notre temps: a) Il se constitue par les livres un véritable dédoublement des esprits, le c double de l'humanité ». b) Ce « double documentaire va en s'affranchissant de plus en plus de ses générateurs les ¿cri-vains, se détachent d eux, il agit ensuite sans eux, et produit un effet en largeur par l'accumulation des données écrites et en profondeur par le processus toujours plus développé de l’abstraction et de la généralisation de» idées que rend possible le document, c) Partout, la con dition huma ne. en est toute modifiée.
+1. Le Livre, réalité nouvelle. — Le livre, le document, ont apporté une réalité nouvelle distincte de toutes les autres : la matérialisation de la pensée. Comme la pensée est une image des choses, le livre est venu donner une reproduction, une copie du monde, celui-ci étant tenu comme le modèle. En effet, trois grands résultats ou lois bibliologiques, dominent l'immense accroissement de do~ cuments de notre temps: a) Il se constitue par les livres un véritable dédoublement des esprits, le c double de l'humanité ». b) Ce « double documentaire va en s'affranchissant de plus en plus de ses générateurs les ¿cri-vains, se détachent d eux, il agit ensuite sans eux, et produit un effet en largeur par l'accumulation des données écrites et en profondeur par le processus toujours plus développé de l’abstraction et de la généralisation des idées que rend possible le document, c) Partout, la con dition huma ne. en est toute modifiée.
 
 L’homme primitif n’avait même pas le langage à sa disposition. Plus tard, sachant parler, il vécut néanmoins dans un silence relatif puisqu'il ne pouvait le rompre qu’en présence de ses semblables. Maintenant l’homme vit dans l'ambiance d’une conversation continue; des voix lui parlent directement, voix des documents, voix de la radio.
 
@@ -19990,9 +19999,9 @@ L’homme primitif n’avait même pas le langage à sa disposition. Plus tard, 
 
 *426*  LES LOIS PROPRES AUX LIVRES  513
  
-manière de la vapeur, l'électricité, la poudre, sous un faible volume matériel, après déflagration et déclanchement, produit dans le cerveau une expansion de force considérable. Le mécanisme du livre réalise le moyen de former les réserves de forces intellectuelles : c’est un accumulateur. Extériorisation du cerveau lui-même, il se développe au détriment du cerveau, comme l outillage se développe au détriment du corps. Dans son développement l'homme, au lieu d'acquérir de nouveaux sens, de nouveaux organes (par ex. trois yeux, six oreilles, quatre nez), a développé son cerveau par l'abstraction, celle-ci par le signe et le signe par le livre. ( 1 )
+manière de la vapeur, l'électricité, la poudre, sous un faible volume matériel, après déflagration et déclanchement, produit dans le cerveau une expansion de force considérable. Le mécanisme du livre réalise le moyen de former les réserves de forces intellectuelles : c’est un accumulateur. Extériorisation du cerveau lui-même, il se développe au détriment du cerveau, comme l'outillage se développe au détriment du corps. Dans son développement l'homme, au lieu d'acquérir de nouveaux sens, de nouveaux organes (par ex. trois yeux, six oreilles, quatre nez), a développé son cerveau par l'abstraction, celle-ci par le signe et le signe par le livre. ( 1 )
 
-L'histoire de l humanité montre sa marche progressive pour matérialiser et objectiver les idées. Les étapes sont celles-ci : 1. intelligence qui conçoit; 2. langage; 3. écriture; 4. livre; 5. modèle; 6. transformation technique par laquelle les choses deviennent ménagées et déterminées selon une fin huma ne, elles aussi deviennent des expressions de l'abstrait.
+L'histoire de l'humanité montre sa marche progressive pour matérialiser et objectiver les idées. Les étapes sont celles-ci : 1. intelligence qui conçoit; 2. langage; 3. écriture; 4. livre; 5. modèle; 6. transformation technique par laquelle les choses deviennent ménagées et déterminées selon une fin huma ne, elles aussi deviennent des expressions de l'abstrait.
 
 Le livre-signe a ceci de spécifique qu’il est le moyen d'enregistrement intégral de la pensée en vue de sa transmission ; au delà il est une notation ou inscription intégrale de la réalité.
 
@@ -20004,9 +20013,9 @@ Et comme instrument intellectuel le livre sert r.rn seulement à énoncer des th
 
 4 Le Livre, instrument d'illusion. — L'homme vit largement d illusion ; elle joue un trop grand rôle dans les mobiles de ses actions pour qu'il lui soit possible d'exister sans elle, c Une humanité à laquelle on enlèverait toutes ses croyances, dont on briserait tout idéal et qui verrait nettement la réalité des choses serait bientôt condamnée à périr. » (Gustave Lebon.) Le Livre, celui de la littérature, est largement un instrument générateur d’illusions. Le Livre ainsi répond à un besoin profond de l’être humain.
 
-5. Le Livre, instrument d'unité, de liberté, d'égalité sociales. — L'homme peut être ramené a trois éléments: pensée, sentiment, action. Ces trois éléments coexistent et fonctionnent simultanément. Par suite, la vie psychique — le moi intérieur ou mental de chaque individu — est essentiellement représentation ou tendance. D'autre part, diverses entités humaines semblables coexistent ; elles ont dei rapports entr’elles. soit à l’occasion de» choses utiles qui sont en nombre limité, soit à l'occasion des personnes susceptibles également d’utilité, et en nombre réduit. Li société est fondée sur le mutualisme ou le parasitisme, mais, dans les deux cas, avec au centre des buta, des organes et des moyens mis à leur disposition. C'est dans ce situa et ce processus que prend place le Livre-Document, C'est essentiellement une machine à produire des paroles et des images, et par conséquent une machine à reproduire la réalité. Son rôle se précise lorsqu'on l’intègre dans le cycle des opérations sociales qui se développe de la manière suivante :
+5. Le Livre, instrument d'unité, de liberté, d'égalité sociales. — L'homme peut être ramené a trois éléments: pensée, sentiment, action. Ces trois éléments coexistent et fonctionnent simultanément. Par suite, la vie psychique — le moi intérieur ou mental de chaque individu — est essentiellement représentation ou tendance. D'autre part, diverses entités humaines semblables coexistent ; elles ont dei rapports entr’elles. soit à l’occasion des choses utiles qui sont en nombre limité, soit à l'occasion des personnes susceptibles également d’utilité, et en nombre réduit. Li société est fondée sur le mutualisme ou le parasitisme, mais, dans les deux cas, avec au centre des buta, des organes et des moyens mis à leur disposition. C'est dans ce situa et ce processus que prend place le Livre-Document, C'est essentiellement une machine à produire des paroles et des images, et par conséquent une machine à reproduire la réalité. Son rôle se précise lorsqu'on l’intègre dans le cycle des opérations sociales qui se développe de la manière suivante :
 
-D'abord apparaissent les choses seules (la Réalité). Puis, à leur égard, et pour obtenir ce qu’ils se proposent, ici hommes y ajoutent (’extériorisation d'eux-mêmes et de leur intention, d'une part l’indication ou geste et la démonstration par l'exemple, d'autre part les exposés et les injonctions exprimées par la parole. Ensuite intervient le document, écrit et image qui dédouble les choses et dédouble les intentions des hommes à leur égard. Finalement des objets matériels se créent et des institutions sont établies, qui. les unes et les autres vont agir comme de nouvelles causes. Or. voici que notre temps donne au social un rang et une place qu'il n'a jamais connu dans le# états de civilisation intérieures. Notre temps est celui de la guerre, de la révolution, de la crise, trois grands maux qui atteignent chaque individu et sur lesquels, isolément celui-ci ne peut rien. Et la guerre a réalisé une concentration de forces extraordinaires à base
+D'abord apparaissent les choses seules (la Réalité). Puis, à leur égard, et pour obtenir ce qu’ils se proposent, ici hommes y ajoutent (’extériorisation d'eux-mêmes et de leur intention, d'une part l’indication ou geste et la démonstration par l'exemple, d'autre part les exposés et les injonctions exprimées par la parole. Ensuite intervient le document, écrit et image qui dédouble les choses et dédouble les intentions des hommes à leur égard. Finalement des objets matériels se créent et des institutions sont établies, qui. les unes et les autres vont agir comme de nouvelles causes. Or. voici que notre temps donne au social un rang et une place qu'il n'a jamais connu dans les états de civilisation intérieures. Notre temps est celui de la guerre, de la révolution, de la crise, trois grands maux qui atteignent chaque individu et sur lesquels, isolément celui-ci ne peut rien. Et la guerre a réalisé une concentration de forces extraordinaires à base
 (1) G. Tarde. — Psychologie économique, p. 95.
 
 
@@ -20016,24 +20025,24 @@ D'abord apparaissent les choses seules (la Réalité). Puis, à leur égard, et 
 
 de plan unique et d’unité, tandis qu’en ce moment s'affirme une volonté de plan et de subordination de l'individu à la société.
 
-C’est dans semblable milieu que se trouvent placés maintenant le Livre et le Document. De fait, et de par lei’r seule existence, ils aident ou ils entravent, ne pouvant être choses socialement indifférentes. D'intention et de finalité organisées, ils peuvent être util:sés dans un sens ou dans un autre :
+C’est dans semblable milieu que se trouvent placés maintenant le Livre et le Document. De fait, et de par leur seule existence, ils aident ou ils entravent, ne pouvant être choses socialement indifférentes. D'intention et de finalité organisées, ils peuvent être util:sés dans un sens ou dans un autre :
 
-A) Ou bien être les instruments d'un plan obligatoire, avec tout ce que cela implique, soit de création et de ditfus'on de documents favorablrs, soit d'élimination de documentation considérée comme contraire au but (jeu de? influences, des censures, des destructions).
+A) Ou bien être les instruments d'un plan obligatoire, avec tout ce que cela implique, soit de création et de diffusion de documents favorables, soit d'élimination de documentation considérée comme contraire au but (jeu de? influences, des censures, des destructions).
 
 B) Ou bien être les instruments de la liberté intellectuelle aidant à dégager les individus de toute soumission mentale et de tout type de vie imposé.
 
-Le Livre-Document est donc au cœur même de la bataille sociale; il est un auxiliaire de première importance pour la gagner ou la perdre, la faire gagner ou h faire perdre.
+Le Livre-Document est donc au cœur même de la bataille sociale; il est un auxiliaire de première importance pour la gagner ou la perdre, la faire gagner ou à faire perdre.
 
 Mais ne pourrait-il être davantage encore et faire que par lui le problème social lui-même soit posé en d’autres termes, évitant l'antinomie désespérante ou d’un plan producteur d'ordre, de sécurité, de grands avantages matériels, mais sacrifiant la liberté intellectuelle, ou de cette liberté mais en privant les individus de grands résultats à attendre du plan ?
 
 Il est permis de voir la conciliation et la synthèse dons une mise en œuvre plus profonde des caractères propres aux deux éléments qui sont en présence, la Personne humaine et le Livre-Document. En effet : Tandis que les biens matériels sont en nombres limités, les biens intellectuels sont illimités. Or, ces biens, le Livre-Document permettant de leur donner exstence corporelle, foi me d'accessibilité et multiplication à l'infini. Il aide ainsi à modifier les conditions de l'existence indiv dueJle et celle du lien social entre les individus. Quant à la personne humaine, la nature même de l'esprit, pourvu qu'il ait reçu son plein développement, l'incline vers le Vrai, le Beau et le Bien. Telle inclination est naturelle; elle s’opère irrésistiblement de par la seule force psychique et intérieure, sans intervention aucune de la force matérielle extérieure. L’unité de plan et de conduite nécessaires aux grandes œuvres communes peut donc être attendue du seul jeu de ta Science (le Vrai), de l'Art (le Beau), de la Moralité (le Bien). Et tous trois ont leur puissant auxiliaire dans le Livre.
 
-6. Le Livre instrument de bonheur. — Ce point ultime dr considérations est particulièrement prenant h urc heure de l'Histoire humaine où les maux soufferts, et plus encore l'angoisse des maux possibles, contraignent à une interrogation sur les fondements de la vie, sur ses
-fins, sur la valeur du processus individuel et social où l^a hommes sont engagés.
+6. Le Livre instrument de bonheur. — Ce point ultime de considérations est particulièrement prenant à une heure de l'Histoire humaine où les maux soufferts, et plus encore l'angoisse des maux possibles, contraignent à une interrogation sur les fondements de la vie, sur ses
+fins, sur la valeur du processus individuel et social où les hommes sont engagés.
 
 Or, ici se rencontrent sur un même terrain les hautes sciences, les hautes philosophies, les hautes croyances, comme conclusions pratiques au moins, sinon comme méthodes, faits et démonstrations.
 
-En effet, si l'homme est un ange déchu, il doit regagner son état pristine par un effort de perfectionnement et s'appliquer les promesses du salut. Et si l'homme au contraire, est un prolongement de la lignée naturelle des êtres, c'est vers un degré de progrès supérieur qu'il doit tendre en trouvant dans son ascension passée 1 assurance de ses possibilités futures. Perfectionnement, dans les deux cas est le catégorique impératif.
+En effet, si l'homme est un ange déchu, il doit regagner son état pristine par un effort de perfectionnement et s'appliquer les promesses du salut. Et si l'homme au contraire, est un prolongement de la lignée naturelle des êtres, c'est vers un degré de progrès supérieur qu'il doit tendre en trouvant dans son ascension passée l'assurance de ses possibilités futures. Perfectionnement, dans les deux cas est le catégorique impératif.
 
 Dans le second cas. c’est une évolution en deux temps. D'abord l’Humanité par de longs détours, par des luttes sans fin d’un état où elle n’avait ni la connaissance, ni la volonté, arrive à ses formes d’organisation actuelle.
 
@@ -20042,7 +20051,7 @@ Au cours des centaines de mille années de cette période, l'espèce humaine sut
 Mais dans les deux cas. bonheur éventuel au delà, bonheur éventuel en deçà, de toutes manières il y a, pour y arriver, lutte méthodique et consciente. Dans les deux cas il y a confiance, il y a aussi satisfaction organique et psychique dans le fait de l’effort lui-même en voie de s’accomplir, indépendamment de la valeur du but auquel s’attache l'effort.
 
 Telles étant les données de la destinée humaine, la grandeur du Livre apparaît dans l'une et l'autre des alternatives ; il contribue à résoudre le problème du bonheur pour chacun, soit qu'il apporte plus de moyens pour mener la lutte, — soit qu'il distribue la consolation, — soit qu'il permette à l’homme, quand il a, une fois payé son tribut aux taches sociales et acquis son droit aux loisirs sans autres compensations, de s'évader de la société, de la planète, de lui même, à travers les chemins innombrables de la Fiction et de la Fantaisie. (1)
-(1) Le tableau du bonheur a été décrit au cours de l'Humanité: Hésode dans Les Travaux et le» Jours; Fiduzi. dans le Livre des Rois. Platon parlait du royaume bienheureux de Kronos (Politique 169, Les Lois. liv. IV, où il est question de la cité future ; Aristote parlait de la vie parfaite ou de la félicité (eudaimonia) : (Ethique, liv, I, ch. IV, Rhétorique, liv. I et V). St-Augustin attesta le progrès (De Çiüitate Oei XXU, 24).
+(1) Le tableau du bonheur a été décrit au cours de l'Humanité: Hésode dans Les Travaux et les Jours; Fiduzi. dans le Livre des Rois. Platon parlait du royaume bienheureux de Kronos (Politique 169, Les Lois. liv. IV, où il est question de la cité future ; Aristote parlait de la vie parfaite ou de la félicité (eudaimonia) : (Ethique, liv, I, ch. IV, Rhétorique, liv. I et V). St-Augustin attesta le progrès (De Çiüitate Oei XXU, 24).
 
 
 ====
@@ -20054,15 +20063,15 @@ Telles étant les données de la destinée humaine, la grandeur du Livre appara�
 
 1. PROBLEMES PROCHES.
 
-Il y a les problèmes anciens et les problèmes nouveaux. Les problèmes des Bibliothèques et des Collections, celui de la Bibliographie et de la Catalogtaphie» tout théoriquement résolus. Méthodes et organisation ont été arretées ; seule l'application est en retard. Les nouveaux problèmes qui retiennent l’attention sont trois : 1° Comment publier des livres et documents répondant aux desiderata d'une documentation optimum. 2° Comment, de livres parus, faire la matière de livras plus généraux, traités et encyclopédies en élargissant la conception de ceux-ci jusqu'à concevoir un livre universel pour chaque science, encyclopédie à tableaux synthétiques et analytiques permanents, réalisée en dossiers-classeurs, et confié pour chaque branche à un organisme spécial dépendant de son association ou congrès international. 3° Comment organiser la lecture ou utilisation systématique et généralisée des livres et documents.
+Il y a les problèmes anciens et les problèmes nouveaux. Les problèmes des Bibliothèques et des Collections, celui de la Bibliographie et de la Catalogtaphies tout théoriquement résolus. Méthodes et organisation ont été arretées ; seule l'application est en retard. Les nouveaux problèmes qui retiennent l’attention sont trois : 1° Comment publier des livres et documents répondant aux desiderata d'une documentation optimum. 2° Comment, de livres parus, faire la matière de livras plus généraux, traités et encyclopédies en élargissant la conception de ceux-ci jusqu'à concevoir un livre universel pour chaque science, encyclopédie à tableaux synthétiques et analytiques permanents, réalisée en dossiers-classeurs, et confié pour chaque branche à un organisme spécial dépendant de son association ou congrès international. 3° Comment organiser la lecture ou utilisation systématique et généralisée des livres et documents.
 
 2. PROBLEME ULTIME. SOLUTIONS HYPOTHETIQUES OPTIMA.
 
 Pour mieux apprécier la valéur des solutions proposées, supposons un instant le problème résolu dans les conditions optima. Voici trois hypothèses :
 
-A. Le cas limite serait évidemment celui où il re serait plus nécessaire d avoir recours au livre et b la documentation. Ceci adviendrait dans l'hypothèse d’un pur esprit ayant à tout moment la connaissance intuitive et complète de toutes choses, telles qu'elles sont, ont été et seront. C’est l'hypothèse théologique de la Divinité et de tous les esprits qui participent à sa nature omnisciente, omniprésente cl éternelle. Pour Dieu, pour les anges et pour les élus, point nécessaire l'écrit et la documentation. (Il est vrai que la Bible, écrite pour les Hommes, révèle qu'il est dans le Ciel un grand livre sur lequel les anges vigilants inscrivent continuellement les mérites et démérites de chacun afin de faciliter l'oeuvre du Jugement dernier.) Cette première hypothèse deviendrait peut-être partiellement réalisable par l’Humanité si arrivaient a s affirmer et à se perfectionner h s découvertes de l'ordre dit aujourd'hui « métapsychique » Un état de clairvoyance et de prémonition généralisé enlèverait toute raison d’être au document.
+A. Le cas limite serait évidemment celui où il re serait plus nécessaire d'avoir recours au livre et à la documentation. Ceci adviendrait dans l'hypothèse d’un pur esprit ayant à tout moment la connaissance intuitive et complète de toutes choses, telles qu'elles sont, ont été et seront. C’est l'hypothèse théologique de la Divinité et de tous les esprits qui participent à sa nature omnisciente, omniprésente cl éternelle. Pour Dieu, pour les anges et pour les élus, point nécessaire l'écrit et la documentation. (Il est vrai que la Bible, écrite pour les Hommes, révèle qu'il est dans le Ciel un grand livre sur lequel les anges vigilants inscrivent continuellement les mérites et démérites de chacun afin de faciliter l'œuvre du Jugement dernier.) Cette première hypothèse deviendrait peut-être partiellement réalisable par l’Humanité si arrivaient à s'affirmer et à se perfectionner les découvertes de l'ordre dit aujourd'hui « métapsychique » Un état de clairvoyance et de prémonition généralisé enlèverait toute raison d’être au document.
 
-B. Une hypothèse moins absolue, mais très radicale encore, supposerait que toutes les connaissances, toutes les informations pourraient être rendues assez compactes pour être contenues en un certain nombre d’ouvrages d s posés sur la table de Travail même, donc h distance de la main, et indexés de manière à rendre la consultation aisée au maximum. Dans ce cas le Monde décrit dans l’ensemble des Livres serait réellement à portée
+B. Une hypothèse moins absolue, mais très radicale encore, supposerait que toutes les connaissances, toutes les informations pourraient être rendues assez compactes pour être contenues en un certain nombre d’ouvrages d s posés sur la table de Travail même, donc à distance de la main, et indexés de manière à rendre la consultation aisée au maximum. Dans ce cas le Monde décrit dans l’ensemble des Livres serait réellement à portée
 
 ----
 
@@ -20099,9 +20108,9 @@ l’écran (simples numéros de classification, de livres, de
 pages) ; automatique aussi la projection consécutive,
 pourvu que toutes les données aient été réduites en leurs
 éléments analytiques et disposées pour être mises en
-oeuvre par les machines à sélection.
+œuvre par les machines à sélection.
 
-De telles hypothèses, toutes imaginatives qu'elles soient, la Bïbliologie — science systématique et raisonnée du livre — doit leur faire une place. Toute science de nos jours n’arrive-t-elle pas à être guidée par quelque hypothèse limite qui apparut comme une finalité synthétique, protégeant contre la dispersion et l'égarement dans 1» dédale infini des petits progrès analytiques. Si la chimie est devenue une science formidable, l'hypothèse, gratuite au début, de l'unité de la matière y est bien pour beaucoup de choses. Et les progrès de l'aviation ont été déterminés par l’hypothèse mythologique d'Icare le Volant.
+De telles hypothèses, toutes imaginatives qu'elles soient, la Bibliologie — science systématique et raisonnée du livre — doit leur faire une place. Toute science de nos jours n’arrive-t-elle pas à être guidée par quelque hypothèse limite qui apparut comme une finalité synthétique, protégeant contre la dispersion et l'égarement dans le dédale infini des petits progrès analytiques. Si la chimie est devenue une science formidable, l'hypothèse, gratuite au début, de l'unité de la matière y est bien pour beaucoup de choses. Et les progrès de l'aviation ont été déterminés par l’hypothèse mythologique d'Icare le Volant.
 
 
 ====
@@ -20115,7 +20124,7 @@ De telles hypothèses, toutes imaginatives qu'elles soient, la Bïbliologie — 
 
 L'évolution de la Documentation se développe en six étapes. Au *premier stade*, l’Homme voit la Réalité de l’Univers par ses propres sens. Connaissance immédiate, intuitive, spontanée et irréfléchie. Au *deuxième stade*, il raisonne la Réalité et cumulant son expérience la généralisant, l'interprétant, il s’en fait une nouvelle représentation. Au *troisième stade*, il introduit le Document qui enregistre ce que ses sens ont perçu et ce qu'a construit sa pensée. Au quatrième stade, il crée l'instrument scientifique et la Réalité paraît alors grandie, détaillée, précisée, un autre Univers décèle successivement toutes ses dimensions. Au cinquième stade, le Document intervient à nouveau et c'est pour enregistrer directement la perception procurée par les instruments. Documents et instruments sont alors à ce point associés qu'il n'y a plus deux choses distinctes, mais une seule: le Document-Instrument. Au *sixième stade*, un stade de plus et tous les sens ayant donné lieu à un développement propre, une instrumentation enregistreuse ayant été établie pour chacun, de nouveaux sens étant sortis de l’homogénéité primitive et s’étant spécifiés, tandis que l'esprit perfectionne sa conception, s’entrevoit dans ces conditions l'Hyper-Intelligence.
 
-« Sens-Perception-Document » sont choses, notions soudées. Les documents visuels et les documents sonores se complètent d’autres documents, les tactiles, les gustatifs, les odorants et d’autres encore. A ce stade aussi l's insensible*, l'imperceptible, deviendront sensible et perceptible par l’intermédiaire concret de l'instrument-document. L'irrationnel à son tour, tout ce qui est intransmissible et (ut négligé, et qui à cause de cela se révolte et se soulève comme il advient en ces jours, l’irrationnel trouvera son a expression » par de» voies encore insoupçonnée». Et ce sera vraiment alors le stade de l'Hyper-Documentation.
+« Sens-Perception-Document » sont choses, notions soudées. Les documents visuels et les documents sonores se complètent d’autres documents, les tactiles, les gustatifs, les odorants et d’autres encore. A ce stade aussi l's insensible*, l'imperceptible, deviendront sensible et perceptible par l’intermédiaire concret de l'instrument-document. L'irrationnel à son tour, tout ce qui est intransmissible et (ut négligé, et qui à cause de cela se révolte et se soulève comme il advient en ces jours, l’irrationnel trouvera son a expression » par des voies encore insoupçonnée». Et ce sera vraiment alors le stade de l'Hyper-Documentation.
 
 2. — Le Livre universel.
 
@@ -20123,12 +20132,12 @@ a) Le livre futur (livre de demain, livre de l’avenir) est celui que par la pe
 
 Il faut distinguer le livre futur, produit naturel et spontané des forces existantes non contrôlées ni dirigées, et le livre futur, produit rationnel de l’observation, de l’induction, de la déduction, de l’imagination, de la création.
 
-La recherche concernant le livre à naître doit procéder comme celle du livre existant en envisageant successivement chacune des parties matérielles constitutives, chacun * des structures, chacune de scs fonctions, chacun de es aspects.
+La recherche concernant le livre à naître doit procéder comme celle du livre existant en envisageant successivement chacune des parties matérielles constitutives, chacun * des structures, chacune de ses fonctions, chacun de es aspects.
 
 Les transformations portent sur tous ces éléments à la fois et tous réagissent réciproquement sur tous.
 
 Le document type de l’avenir devra donc comporter en
-lui toutes les possibilités héritées, jointes à celles qu il lui sera possible d’acquérir encore; il sera une synthèse de caractéristiques acquises les plus efficientes, jointes au* finalités qui doivent lui être assignées.
+lui toutes les possibilités héritées, jointes à celles qu il lui sera possible d’acquérir encore; il sera une synthèse de caractéristiques acquises les plus efficientes, jointes aux finalités qui doivent lui être assignées.
 
 b) La Bibliologie qui déjà considère tous les Livres comme une Livre qui s’accroît sans cesse, se doit de donner à cette expression une réalisation plus complète.
 
@@ -20136,36 +20145,36 @@ Ce qu’il nous faut c’est la « Somme des Sommes »
 
 « Summa Summarum », « le Livre Universel ». Tout le savoir dans ce qu’il a d’essentiel, concentré, exposé une fois, ordonne suivant les possibilités maximum pour la recherche analytique et synthétique, dans ce qu il y a d’essentiel pour l’utilisation de toute la Documentation qui contient ce savoir dispersé, répété, inordonné.
 
-c) Supposons tous les progrès actuels du livre, ceux proposés et ceux possibles, supposons-les réalisés simultanément, dans les memes documents ou ensembles de documents et cela sur une large échelle, nous aurons ainsi à la fois un état d'intégration et un état d'optimum qu’il importe de toutes se# forces d'atteindre. Ce sera, pour lui donner une courte appellation, le Livre universel (ou par d’autres qualificatifs le livre idéal, pur. synthétique, intégral, optimum, futur, anticipé). Son élaboration théorique et pratique, constamment développée, revisée, renouvelée, devrait devenir une oeuvre commune, centrale, proposée constamment à tous les efforts. Elle implique que, selon la formule hypothèse, l'on puisse dire : « Le livre universel étant actuellement A (énoncé ici de toutes les caractéristiques), lorsque de ce livre seront réalisés aussi les éléments X ou V, alors l’élément 7 que nous proposons ici sera rendu possible. Exemple : « quand on aura le cinéma en couleur, on pourra établir des bandes de papier en couleur et par conséquent des livres cintiques coloriés à bon marché.
+c) Supposons tous les progrès actuels du livre, ceux proposés et ceux possibles, supposons-les réalisés simultanément, dans les memes documents ou ensembles de documents et cela sur une large échelle, nous aurons ainsi à la fois un état d'intégration et un état d'optimum qu’il importe de toutes ses forces d'atteindre. Ce sera, pour lui donner une courte appellation, le Livre universel (ou par d’autres qualificatifs le livre idéal, pur. synthétique, intégral, optimum, futur, anticipé). Son élaboration théorique et pratique, constamment développée, revisée, renouvelée, devrait devenir une œuvre commune, centrale, proposée constamment à tous les efforts. Elle implique que, selon la formule hypothèse, l'on puisse dire : « Le livre universel étant actuellement A (énoncé ici de toutes les caractéristiques), lorsque de ce livre seront réalisés aussi les éléments X ou V, alors l’élément 7 que nous proposons ici sera rendu possible. Exemple : « quand on aura le cinéma en couleur, on pourra établir des bandes de papier en couleur et par conséquent des livres cintiques coloriés à bon marché.
 
-d) Le progrès du livre se fait dans quatre directions : Ia les petits progrès inhérents au développement propre de chaque livre; 2° le progrès résultant de travaux de liaison avec l’ensemble des livres; 3° le progrès dans le# substituts du livre : 4° le progrès à résulter d'une conscience de tous les autres progrès et du príncipe selon lequel l’évolution do:t se poursuivre.
+d) Le progrès du livre se fait dans quatre directions : 1° les petits progrès inhérents au développement propre de chaque livre; 2° le progrès résultant de travaux de liaison avec l’ensemble des livres; 3° le progrès dans les substituts du livre : 4° le progrès à résulter d'une conscience de tous les autres progrès et du príncipe selon lequel l’évolution do:t se poursuivre.
 
-e) Sous sa forme nouvelle, le livre sera: î° en crois-
+e) Sous sa forme nouvelle, le livre sera: 1° en crois-
 
 sance continue (fiches, feuilles, dossiers) ; 2° en redistribution des éléments ; 3° en coopération ; 4° en analyse-synthèse (tableaux-schémas) ; 5° en abrégé-développe-
 
 ment ; 6° en contrôle autorisé exercé par les grandes associations : 7° en théorie et en application internationale ; 8° en un Livre-Institut ou Institut-Livre consacré à chaque science et joint à un Institut central,
 
-f) Comment parviendrons-nous à condenser, abréger, simplifier. tendre assinvlable la science de notre \emps> Elle e*t devenue si vaste qu’elle menace de dominer le
+f) Comment parviendrons-nous à condenser, abréger, simplifier. tendre assinvlable la science de notre temps> Elle e*t devenue si vaste qu’elle menace de dominer le
 
 
 ====
 
-*430* AVENIR DU LIVRE 53
+*430*  AVENIR DU LIVRE  53
 
-cerveau de l'homme alors que celui-ci devrait dominer la science. Descartes. Leibnitz encore connaissent toute la science. Le plus grand savant de nos jours. Poincaré, connaissait toute la mathématique, la physique et une partie des sciences naturelles Et c'était tout. De grands moyens sont devenus nécessaires et l’on doit noter les suivants : Io la d vision plus grande du travail; 2' le travail en coopération ; 3" l'établissement de centres d'informations spéciales où l'on aura le droit de s'adresser pour toutes questions spéciales ; 4" la systématisation ou synthèse qui remplace les millions de détails par quelques centaines de lois ou propositions générales ; 5° la mathématique qui fournit avec ses formules des moyens de condensation puissants ; 6" la visualisation par le développement des moyens instructifs de représentation et notamment schématiques ; 7° le développement des machines intellectuelles ; 8° le livre irradié fait pour la lecture par tous, soit par la lecture individuelle et l'audition d'un livre désiré, soit par la demande radio phonique de renseignements individuels ; 9" la télévision : !r livre, le document que sur demande on présentera t U lecture sur le. téléviseur, soit pour tous, fait pour chacun. On peut imaginer, en attendant la télévision, des livres transcrits sur plaque phonographique à mettre en débit constant : chaque livre aurait sa longueur d'onde et serait rendu audible. (I)
+cerveau de l'homme alors que celui-ci devrait dominer la science. Descartes. Leibnitz encore connaissent toute la science. Le plus grand savant de nos jours. Poincaré, connaissait toute la mathématique, la physique et une partie des sciences naturelles Et c'était tout. De grands moyens sont devenus nécessaires et l’on doit noter les suivants : Io la d vision plus grande du travail; 2' le travail en coopération ; 3" l'établissement de centres d'informations spéciales où l'on aura le droit de s'adresser pour toutes questions spéciales ; 4" la systématisation ou synthèse qui remplace les millions de détails par quelques centaines de lois ou propositions générales ; 5° la mathématique qui fournit avec ses formules des moyens de condensation puissants ; 6" la visualisation par le développement des moyens instructifs de représentation et notamment schématiques ; 7° le développement des machines intellectuelles ; 8° le livre irradié fait pour la lecture par tous, soit par la lecture individuelle et l'audition d'un livre désiré, soit par la demande radio phonique de renseignements individuels ; 9" la télévision : !r livre, le document que sur demande on présentera t Illecture sur le. téléviseur, soit pour tous, fait pour chacun. On peut imaginer, en attendant la télévision, des livres transcrits sur plaque phonographique à mettre en débit constant : chaque livre aurait sa longueur d'onde et serait rendu audible. (I)
 
-g) Le progrès intellectuel général dépendra au-si des conditions suivantes qui toutes se rattachent à la Docu» mentation ;
+g) Le progrès intellectuel général dépendra aussi des conditions suivantes qui toutes se rattachent à la Docu» mentation ;
 
-I® Une langue plus simple, plus puissante, plus générale.
+1° Une langue plus simple, plus puissante, plus générale.
 
-2° Une classification plus logique, plus universelle et d une notation plus intégrale.
+2° Une classification plus logique, plus universelle et d'une notation plus intégrale.
 
 3° Une écriture plus unifiée, plus rapide, plus lisible.
 
-4" Une illustration et une figuration plus générale.
+4° Une illustration et une figuration plus générale.
 
-y Une mécanisation plus complète : pouvoir parler
+5° Une mécanisation plus complète : pouvoir parler
 
 devant un appareil qui produise immédiatement la transcription écrite de la parole ; inversement pouvoir présenter un texte écrit à une machine qui le lira à haute et intelligible voix.
 
@@ -20178,7 +20187,7 @@ devant un appareil qui produise immédiatement la transcription écrite de la pa
 a) L’Humanité est à un tournant de son histoire. La masse des données acquises est formidable. Il faut de nouveaux instruments pour les simplifier, les condenser ou jamais l'intelligence ne saura ni surmonter les difficultés qui l'accablent, ni réaliser les progrès qu’elle entrevoit et auxquels elle aspire.
 
 (I) Sur les transformations du livre et son avenir, voir la mémoire Paul Otlet dans le Festchrift du Musée Gutenberg, Mayence 1925.
-b) La Connaissance primitive, l’Activité primitive, la Sensibilité primitive, étaient fort simples, et elles étaient étroitement liées. La Langue créée alors fut un moyen d'exprimer les unes et les autres. Elles ouvrent à l’homme l’horizon nouveau et la possibilité de vaincre les premières difficultés. 1-a langue en effet, lui donna un moyen de perfectionner la Pensée intérieure et la mémoire. Elle mit en sa possession un instrument grâce auquel il put déterminer en quelque sorte toutes les choses à sa portée, les évoquer, les analyser, les combiner. L'Ecriture fut inventée, autre moyen de s'exprimer, idéographiquement d'abord, alpbabétiquemnt ensuite. La Logique se constitua parallèlement à la Grammaire et h la Littérature écrite. Il advint que les mots se formèrent séparément, mais tous s'interfluençant et constituant le système de la langue. Après un long temps, l’examen seul de son langage amena l'Homme à constituer sa Science et sa Philosophie. Un jour vint où la Méthode s'affirma et par elle le moyen régulier d’examiner les choses en elles-mêmes, d'en découvrir de nouvelles, de refouler le langage au deuxième plan. La Systématisation des connaissances en fut accrue. La Terminologie scientifique fit ses premiers progrès et l'écriture alphabétique apparut insuffisante au point dr faire place à 1a Notation et a la Figuration, au Systématique. La Mesure, c’est-à-dire la comparaison précise et exprimée en nombre fit son entrée et par elle les sciences se modelèrent peu à peu sur le type des Mathématiques, faisant place au Calcul et revêtant la forme déductive. Cependant s'affirma la Technique, terme qui dans son sens large signifie ’es applications des sciences aux problèmes de In vie. LrActivité pure en fut entièrement transformée. Elle se fit raisonnée, englobant des ensembles de plus en plus larges, Par l'Organisation, la Standardisation et la production en séries elle accrut son Efficience.
+b) La Connaissance primitive, l’Activité primitive, la Sensibilité primitive, étaient fort simples, et elles étaient étroitement liées. La Langue créée alors fut un moyen d'exprimer les unes et les autres. Elles ouvrent à l’homme l’horizon nouveau et la possibilité de vaincre les premières difficultés. 1-a langue en effet, lui donna un moyen de perfectionner la Pensée intérieure et la mémoire. Elle mit en sa possession un instrument grâce auquel il put déterminer en quelque sorte toutes les choses à sa portée, les évoquer, les analyser, les combiner. L'Ecriture fut inventée, autre moyen de s'exprimer, idéographiquement d'abord, alpbabétiquemnt ensuite. La Logique se constitua parallèlement à la Grammaire et à la Littérature écrite. Il advint que les mots se formèrent séparément, mais tous s'interfluençant et constituant le système de la langue. Après un long temps, l’examen seul de son langage amena l'Homme à constituer sa Science et sa Philosophie. Un jour vint où la Méthode s'affirma et par elle le moyen régulier d’examiner les choses en elles-mêmes, d'en découvrir de nouvelles, de refouler le langage au deuxième plan. La Systématisation des connaissances en fut accrue. La Terminologie scientifique fit ses premiers progrès et l'écriture alphabétique apparut insuffisante au point dr faire place à la Notation et a la Figuration, au Systématique. La Mesure, c’est-à-dire la comparaison précise et exprimée en nombre fit son entrée et par elle les sciences se modelèrent peu à peu sur le type des Mathématiques, faisant place au Calcul et revêtant la forme déductive. Cependant s'affirma la Technique, terme qui dans son sens large signifie ’es applications des sciences aux problèmes de In vie. LrActivité pure en fut entièrement transformée. Elle se fit raisonnée, englobant des ensembles de plus en plus larges, Par l'Organisation, la Standardisation et la production en séries elle accrut son Efficience.
 
 c) Telle est à larges traits, l'esquisse de révolution accomplie, véritable déterminisme des faits, liés les uns aux autres et s’engendrant les uns les autres.
 
@@ -20189,7 +20198,7 @@ Le moment actuel est caractérisé par l’existence simultanée de tous les é�
 
 53  AVENIR DU LIVRE  *431*
 
-Pensée (synthèse ou Philosophie générale de la science), pour Y Activité (économie générale ou organisation), pour Y Emotion (coordination de la sensibilité, et union des art») pour VExprcsaion (système général pour traduire pensée, action et émotion en termes intelligibles; pour en représenter avec un maximum de maniabilité, toutes les parties et leurs ensembles).
+Pensée (synthèse ou Philosophie générale de la science), pour Y Activité (économie générale ou organisation), pour Y Emotion (coordination de la sensibilité, et union des arts) pour VExprcsaion (système général pour traduire pensée, action et émotion en termes intelligibles; pour en représenter avec un maximum de maniabilité, toutes les parties et leurs ensembles).
 
 d) C’est dans un tel milieu qu’est placée la Classification. On ne saurait plus la concevoir détachée de lui. Une Science bien faite, c’est un Système, et un système c’est la classification. Une Activité ample, normale, régulière c'est de l’ordre qui se réalise et l’ordre c’est la classification. Une sensibilité épanouie c’est une Harmonie d’impressions et de sentments et l'harmonie c’est la classification.
 
@@ -20197,7 +20206,7 @@ Ainsi dans la classification doivent se retrouver, comme dans l’instrument int
 
 e) La forme du langage exerce une influence prépondérante sur la forme de l’esprit. Le langage dirige inconsciemment notre mentalité, car il est l’élément essentiel de la pensée. Créer une Classification synthétique avec notation concise des idées, c'est doter l'esprit d’une véritable langue écrite universelle capable d’agir puissamment sur la forme elle-même de la Pensée
 
-f) L'idéal ainsi entrevu est-il possible a atteindre > C’est déjà s’en rapprocher que de l’avoir clairement défini. Cet idéal permet de préciser les desiderata, condi-lion première.
+f) L'idéal ainsi entrevu est-il possible a atteindre > C’est déjà s’en rapprocher que de l’avoir clairement défini. Cet idéal permet de préciser les desiderata, condi-tion première.
 
 4. La s ructure des connaissances.
 
@@ -20246,7 +20255,7 @@ A Operations B Document C Personnes D Organisme E Locaux F Science-Technique Art
 7 Codification Code  Encyclopédie Compilateur   -
 
 
-N.B. - Ces deux tableaux montrent la corrélation générale de la Documentation. Ils complètent les tableaux présentés au cours de l exposé de ¡’ouvrage. Iis montrent la nécessité d’une terminologie rationelle, complète, univoque, apte aux combi*
+N.B. - Ces deux tableaux montrent la corrélation générale de la Documentation. Ils complètent les tableaux présentés au cours de l'exposé de ¡’ouvrage. Iis montrent la nécessité d’une terminologie rationelle, complète, univoque, apte aux combi*
 naisons des termes.
 
 ====
@@ -20284,13 +20293,13 @@ rales
 
 07 Journaux. Journalisme.
 
-OS CaUeetlotuu Polygraphie.
+08 CaUeetlotuu Polygraphie.
 
 09 Manuscrits. Livres précieux.
 
-I rhilostipble.
+10 Philosoiphie.
 
-II Métaphysique générale. Cosmologie.
+11 Métaphysique générale. Cosmologie.
 
 12 Métaphysique spéciale.
 
@@ -20324,7 +20333,7 @@ t Théologie. Religion.
 
 29 Religions diverses.
 
-3 Science» sociale». Droit.
+30 Sciences sociales. Droit.
 
 31 Statistique.
 
@@ -20342,7 +20351,7 @@ t Théologie. Religion.
 38 Commerce. Transport Communication.
 
 39 Costumes. Folklore.
-4 Philologie. Linguistique.
+40 Philologie. Linguistique.
 41 Philologie générale.
 42 » Anglaise.
 43 » Germanique.
@@ -20351,9 +20360,9 @@ t Théologie. Religion.
 46 » Espagnole Portugaise.
 47 » Latine.
 48 » Grecque.
-19 » Langue« diverses.
+49 » Langues diverses.
 
-5 Hele (ici* » pures.
+50 Hele (ici* » pures.
 
 51 Mathématiques.
 
@@ -20391,8 +20400,9 @@ t Théologie. Religion.
 
 68 Professions et métiers.
 
-«9 Construction.
-7 Beaux-A rts.
+69 Construction.
+
+70 Beaux-Arts.
 
 71 Urbanisme. Architecture de Jardins.
 
@@ -20411,11 +20421,11 @@ t Théologie. Religion.
 78 Musique.
 
 79 Jeux. Sports. DlverURsements.
-K Littérature.
+80 Littérature.
 81 En générai.
 
 82 Littérature Anglaise.
-83 % Germanique.
+83 » Germanique.
 84 » Française.
 85 » Italienne.
 86 » Espagnole. Portugaise.
@@ -20427,9 +20437,9 @@ K Littérature.
 
 9 (4) . Europe.
 
-9 t&l »1 l Asie.
+9 t&l »1 l'Asie.
 
-9 <«) o E 1 Afrique.
+9 <«) o E l'Afrique.
 
 9 <7> \ Amérique du Nord,
 
@@ -20467,7 +20477,7 @@ On rapporte qu’Héraclite ne parvenant pas à intéresser ses contemporains,
 jeta son manuscrit derrière l’autel du Temple id’Artémise, 
 dans l’espoir qu’il y serait retrouvé plus tard par des hommes de meilleure 
 compréhension. Ainsi nous en parvinrent des fragments, objet déjà 
-d’une immense littérature. — // n'y a plus de Temple d’Artémise, mais 
+d’une immense littérature. — Il n'y a plus de Temple d’Artémise, mais 
 il y a l'Imprimerie, il y a les Typographes, obscurs et loyaux amis.
 
   Bruxelles, hors le Palais Mondial, août 1934, 
@@ -20503,16 +20513,16 @@ Nous venons de recevoir de Monsieur le Ministre des Travaux Publics une lettre d
 
 « Monsieur le Secrétaire Général,
 
-• J ai l’honneur de vous faire savoir qu'en vue de donner aux Musées Royaux » l’extension qui leur est nécessaire, le Conseil des Ministres a décidé, en sa séance > du 10 de ce mois, qu’il y a lieu de remettre à la disposition de ses Musées les locaux „ du Cinquantenaire occupés à titre précaire, par l’Cnipn des Associations Interna-» tionales.
+« J'ai l’honneur de vous faire savoir qu'en vue de donner aux Musées Royaux » l’extension qui leur est nécessaire, le Conseil des Ministres a décidé, en sa séance » du 10 de ce mois, qu’il y a lieu de remettre à la disposition de ses Musées les locaux „ du Cinquantenaire occupés à titre précaire, par l’Cnipn des Associations Interna-» tionales.
 
 » Je vous prie, en conséquence, de bien vouloir prendre les mesures voulues » pour que ces locaux soient évacués pour le 31 mai prochain, au plus tard.
 
-¦ Veuillez agréer, Monsieur le Secrétaire Général, l’assurance de ma consi-» dération distinguée.
+» Veuillez agréer, Monsieur le Secrétaire Général, l’assurance de ma consi-» dération distinguée.
 
 » Le Ministre, SAP. »
-11 doit y avoir certainement erreur causée par une information insuffisante. En effet, M. le Ministre des Sciences et des Arts, sous la date du 26 mai 1926. nous a écrit :
+Il doit y avoir certainement erreur causée par une information insuffisante. En effet, M. le Ministre des Sciences et des Arts, sous la date du 26 mai 1926. nous a écrit :
 
-• J’ai examiné avec la plus grande attention le dossier du Palais Mondial et » je reconnais volontiers que des erreurs ont été commises. Les Gouvernements s antérieurs ont reconnu votre institution et ils ont pris 1 engagement de vous » soutenir financièrement, en outre ils ont pris 1 engagement de mettre des locaux » à votre disposition. En attendant que des locaux convenables puissent être édifiés, » vos collections ne seront plus délogées, s
+« J’ai examiné avec la plus grande attention le dossier du Palais Mondial et » je reconnais volontiers que des erreurs ont été commises. Les Gouvernements s antérieurs ont reconnu votre institution et ils ont pris l'engagement de vous » soutenir financièrement, en outre ils ont pris l'engagement de mettre des locaux » à votre disposition. En attendant que des locaux convenables puissent être édifiés, » vos collections ne seront plus délogées, s
 
 Sur la foi de cette lettre, notre Union a entrepris un travail considérable et exposé de grands frais. Elle a fait partager les avantages de ces assurances à un grand nombre de groupes et d'associations belges et internationaux, ainsi qu’à divers pays représentés par leurs légations et consulats.
 
@@ -20533,13 +20543,13 @@ DOCUMENT II.
 =============
 
 Après la fermeture du PALAIS MONDIAL
-Le Ier juin à 6 heures du matin, par un acte d'arbitraire et de force, Îe Gouvernement belge a fait fermer le Palais Mondial.
+Le 1er juin à 6 heures du matin, par un acte d'arbitraire et de force, le Gouvernement belge a fait fermer le Palais Mondial.
 
-Après un mois, le Palais Mondial n’a pas encore été réouvert, loutes les tentatives amiables avant la fermeture avaient été vaines. Devant le traitement infligé, pour la sauvegarde de sa dignité d abord, de son trésor d’oeuvres intellectuelles ensuite, l’Union des Associations Internationales a estimé qu'il ne lui restait que les voies judiciaires. Les « Amis du Palais Mondial en Belgique » ont vivement conseillé cette manière d’agir et cela pour l’honneur des Belges, ont-ils dit, attendu que la Justice est aussi un des pouvoirs qui exprime officiellement l’opinion publique du pays.
+Après un mois, le Palais Mondial n’a pas encore été réouvert, loutes les tentatives amiables avant la fermeture avaient été vaines. Devant le traitement infligé, pour la sauvegarde de sa dignité d'abord, de son trésor d’œuvres intellectuelles ensuite, l’Union des Associations Internationales a estimé qu'il ne lui restait que les voies judiciaires. Les « Amis du Palais Mondial en Belgique » ont vivement conseillé cette manière d’agir et cela pour l’honneur des Belges, ont-ils dit, attendu que la Justice est aussi un des pouvoirs qui exprime officiellement l’opinion publique du pays.
 
 Mais où va conduire le développement de l'affaire ? Les procédures sont lentes et, même gagné, un procès laissera derrière lui des animosités rendant l’atmosphère peu favorable.
 
-Il	est rappelé que le Palais Mondial a été organisé après la guerre par l’Union des Associations Internationales. Celle-ci fondée dès 1910 et groupant autour d’elle divers Instituts, Associations et Organismes internationaux, avait proposé en 1919 au Gouvernement belge un plan complet en vue de créer à Bruxelles, milieu déjà ancien de vie internationale, une institution ayant pour objet la libre coopération dans le domaine intellectuel. Le Gouvernement d'abord, et ensuite le Parlement, le Roi et 1 opinion avaient accepté le plan. Il répondait à l'esprit de la Société des Nations et donnait à la Belgique une certaine compensation de n’avoir chez elle le siège de la Société. Ainsi en témoignent les actes, la correspondance, les débats parlementaires, la presse au moment de la création.
+Il	est rappelé que le Palais Mondial a été organisé après la guerre par l’Union des Associations Internationales. Celle-ci fondée dès 1910 et groupant autour d’elle divers Instituts, Associations et Organismes internationaux, avait proposé en 1919 au Gouvernement belge un plan complet en vue de créer à Bruxelles, milieu déjà ancien de vie internationale, une institution ayant pour objet la libre coopération dans le domaine intellectuel. Le Gouvernement d'abord, et ensuite le Parlement, le Roi et l'opinion avaient accepté le plan. Il répondait à l'esprit de la Société des Nations et donnait à la Belgique une certaine compensation de n’avoir chez elle le siège de la Société. Ainsi en témoignent les actes, la correspondance, les débats parlementaires, la presse au moment de la création.
 
 L'œuvre réalisée a reçu des développements matériels mesurés par le chiffre de 17 millions de pièces; elle est, dans le chef de ses fondateurs, administrateurs et amis, complètement désintéressée; elle est dans son total l’œuvre d’une offrande universelle; des milliers de coopérateurs lui ont apporté idées, travail, objet, argent et sentiments de sympathie. Tous les services ont été constamment publics et gratuits et sans qu’aucun droit d’entrée, de location, de visite ou de consultation ait été perçu. D’autre part aucune allocation secrète n’est venue altérer le caractère objectif et impartial de l'institution.
 
@@ -20553,7 +20563,7 @@ d’une volonté de répondre à l’appel impératif de l'Intelligence, de la C
 
 Il est advenu que pour l’aider à surmonter des difficultés, paraissant toutes temporaires et nées d'un changement subit dans la politique internationale du Gouvernement, siège de son établissement, le Palais Mondial, à peu d exceptions près, n’a pas trouvé les appuis officiels extérieurs sur lesquels il espérait pouvoir compter. Une action du dehors pour le protéger ne s’est produite ni efficacement, ni en temps utile. La protection demandée à la Société de« Nations n'a pu être donnée. Le recours à la Cour internationale de Justice a été reconnu impossible.
 
-Si dans de telles conditions le Palais Mondial devait définitivement rester fermé, il semble bien qu’il ny’ aurait plus place dans notre Civilisation pour une institution d'un caractère universel, inspirée de l’idéal indiqué en ces mots à son entrée : Par la Liberté, l'Egalité et la Fraternité mondiales — dans la Foi, l’Espérance et la Charité humaines — vers le Travail, le Progrès et la Paix de tous !
+Si dans de telles conditions le Palais Mondial devait définitivement rester fermé, il semble bien qu’il n'y aurait plus place dans notre Civilisation pour une institution d'un caractère universel, inspirée de l’idéal indiqué en ces mots à son entrée : Par la Liberté, l'Egalité et la Fraternité mondiales — dans la Foi, l’Espérance et la Charité humaines — vers le Travail, le Progrès et la Paix de tous !
 
 Mais rejetons les appréhensions pessimistes et continuons à avoir confiance en de puissantes interventions. Des interventions soit pour agir en médiateurs entre l’institution et le Gouvernement belge (modifié récemment dans sa composition), soit pour offrir, en Belgique même, un autre asile, soit pour aider au transfert en quelque lieu qui serait devenu plus sûr et plus accueillant.
 
@@ -20582,7 +20592,7 @@ Administration (Documentation). 424.4 Aération	414.7
 
 Affiche« 	  242.34
 
-Allégorie» 	 222 02
+Allégories 	 222 02
 
 Almanach 	  241.32
 
@@ -20674,7 +20684,7 @@ Cartes	242.2
 
 —	postales illustrées	212 381
 
-C-, D.	(Classification décimale» 412.38
+C-, D.	(Classification décimales 412.38
 
 Catalogue	  241.5	-	255
 
@@ -20783,7 +20793,7 @@ mondiale 	 421.12
 
 Intellectuels 	 224
 
-— Ilgulstlques.	Langues ..	223
+— Linguistiques.	Langues ..	223
 
 Encouragement, au livre 	 164
 
@@ -20961,7 +20971,7 @@ Mathé-Blbüoiogie ... . 	 121.4
 
 Mathématiques			 512 2
 
-Matières (Livre dan» les diverses) 321
+Matières (Livre dans les diverses) 321
 
 premières			 413.4
 
@@ -20983,7 +20993,7 @@ Monnaie»		 212.62
 
 Monument. Figures ...		 212.6
 
-Motif» décoratifs	222.33
+Motifs décoratifs	222.33
 
 Mundaneum ....		 425.2
 
@@ -21039,13 +21049,13 @@ Parole 	 		 223.21
 
 — et l'Ecrit	. ... 223.2
 
-Partie» du livre 	 23
+Parties du livre 	 23
 
-Partit K ns musicales 	 242 56
+Partitions musicales 	 242 56
 
 Pays (Livre dans tes divers) ...	322
 
-Personne» 		 415
+Personnes 		 415
 
 Philologie bibliographique 		 152
 
@@ -21091,7 +21101,7 @@ Radlo-téléphotographlc 	 243.52
 
 Recueils de textes		 241.4
 
-Recherche»	161 - 251.32
+Recherches	161 - 251.32
 
 Recherches bibliographique*	261.3
 
@@ -21184,7 +21194,7 @@ Synthèse 	 132
 
 bibliologlque 	 5
 
-Systèmes bfbiologiques 	 133
+Systèmes bibiologiques 	 133
 
 Taxonomie	412.38
 
@@ -21242,7 +21252,7 @@ TABLE SYSTEMATIQUE DES MATIÈRES
 
 I. But de la Documentation. 	 II. Parties de la
 
-Documentation. — NI. Opération. — IV. Méthodes. — V. Organismes documentaires. —. VI. Organisation universelle. — VII. Sciences bilbliologiques.
+Documentation. — III. Opération. — IV. Méthodes. — V. Organismes documentaires. —. VI. Organisation universelle. — VII. Sciences bilbliologiques.
 
 1.	La Bibliologie ou Documentologie
 
@@ -21606,7 +21616,7 @@ Rhétorique 	   95
 
 .7	L’exposition dans la science 	 99
 
-.8 L’exposé et le# formes intellectuelles dans
+.8 L’exposé et les formes intellectuelles dans
 
 la littérature 	    105
 
@@ -21713,7 +21723,7 @@ livre. Les données de l’Exposé	106
 
 .211	Notion .			 129
 
-.212	Histoire de» traités 	 129
+.212	Histoire des traités 	 129
 
 .213	Espèces et types de traités 		 130
 
@@ -21837,7 +21847,7 @@ Citation 		 182
 
 .87	Œuvres	complètes	183
 
-.88	Continuité des oeuvres	183
+.88	Continuité des œuvres	183
 
 242	Documents graphiques autres que les
 
@@ -22186,7 +22196,7 @@ du Document. 	 265
 
 .24 Modalités diverses 	 274
 
-.25 Méthode» 	   274
+.25 Méthodes 	   274
 
 .26 Prix et commission 			....	275
 
@@ -22605,7 +22615,7 @@ lage; installations	 387
 
 413.1	Outillage. Les machines	du	travail intellectuel 		    387
 
-.12 Machines pour le* diverses opération*. 387
+.12 Machines pour les diverses opérations. 387
 
 .13 Inventions à faire 	 389
 
@@ -22662,7 +22672,7 @@ catalogue 	   403
 
 .22 Système national de bibliothèque 	 407
 
-.23 Réseau international de bibliothèque. 407 .24 L.a bibliothèque mondiale 	 407
+.23 Réseau international de bibliothèque. 407 .24 La bibliothèque mondiale 	 407
 
 422.3	Encyclopédie 	 409
 
@@ -22771,5 +22781,4 @@ VIII
 %fin
 
 534	La	structure des connaissances 		 431
-
 
