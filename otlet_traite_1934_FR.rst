@@ -174,7 +174,7 @@ eux-mêmes maintenus chacun dans leur intégrité
 individuelle (Livres et publications diverses de
 toutes espèces), La collection est disposée
 en des réceptacles
-adéquats et rendus facilement accessible»
+adéquats et rendus facilement accessibles
 (rayons, livres, magasins); elle est classée et cataloguée.
 
 C. La Bibliographie : C’est la description et le classement
@@ -189,7 +189,7 @@ la documentation) : Les Archives ou dossiers comprennent
 les pièces originales et les petits documents
 dans leur intégrité ou par fragments. Elles sont disposées
 en dossiers. Leur formation donne lieu au découpage
-des publications pour en redistribuer le« éléments
+des publications pour en redistribuer les éléments
 selon un ordre différent et former des ensembles de tout ce qui relève des mêmes questions. Les dossiers
 comprennent les extraits ou découpures de livres, 
 
@@ -234,11 +234,11 @@ I. L’Encyclopédie comprend l'œuvre de codification et de coordination des do
 
 Les données elles-mêmes sont bien distinctes des documents dans lesquels ils sont relatés ? Il s’agit d'organiser systématiquement des ensembles de ces faits et données. Pour chacun de leur ordre est établie une notice systématique type déterminant : a) les éléments qui sont à relever pour chaque catégorie des faits; b) le mode selon lequel il y a lieu de les disposer sur la notice (Règles documentaires).
 
-Pour l’établissement de ces notices, on met à contribu-t on toutes les sources recueillies. Les documents de la bibliothèque, les dossiers sont dépouillés et on utilise aussi les données documentaires recueillies par voie d’enquête. On a soin d'indiquer sur chaque notice la source des données.
+Pour l’établissement de ces notices, on met à contribu-tion toutes les sources recueillies. Les documents de la bibliothèque, les dossiers sont dépouillés et on utilise aussi les données documentaires recueillies par voie d’enquête. On a soin d'indiquer sur chaque notice la source des données.
 
 L'Encyclopédie est formée : des Répertoires de faits sur
 fiches. Ces répertoires se rapportent soit aux questions,
-choses, objets, produits, soit aux pays, soit à l’historique, soit aux personnes et aux organismes. Ma sont disposés d après les divers ordres fondamentaux de classification systématique (matière), historique (date), géographiqu-(lit u) ; 2° de dossiers ou atlas dont chaque feuille mobile est consacrée à la mise en tableau (tabulation) d une donnée disposée selon les formes bibliologiques les plus adéquates (schémas, illustration) en original ou provenant du dépouillement systématique du contenu des publications
+choses, objets, produits, soit aux pays, soit à l’historique, soit aux personnes et aux organismes. Ma sont disposés d'après les divers ordres fondamentaux de classification systématique (matière), historique (date), géographiqu-(lit u) ; 2° de dossiers ou atlas dont chaque feuille mobile est consacrée à la mise en tableau (tabulation) d une donnée disposée selon les formes bibliologiques les plus adéquates (schémas, illustration) en original ou provenant du dépouillement systématique du contenu des publications
 de n. I. B.
 
 III. Opérations.
@@ -253,14 +253,14 @@ il est multiplié, puis il est distribué à ceux à qui il s’adresse. Puis en
 IV. Méthodes.
 ==============
 
-Elles comprennent : 1° le collectionnement systémat que
-de* documents eux-mêmes ; 2° la classification offrant un
+Elles comprennent : 1° le collectionnement systématique
+des documents eux-mêmes ; 2° la classification offrant un
 cadre commun à toutes les divisions de l'organisme et sous les numéros desquels figure tout sujet susceptible de l’intéresser ; 31 le système de rédaction monographique et le système des fiches et feuilles à classement vertical ; 4" le système des dossiers déposés dans les classeurs verticaux formant des ensembles organisés; 5° l’établissement des fiches catalograpbiques, multipliées et très détaillées de manière à mentionner les documenta dans les diverses séries fondamentales de la classification auxquelles ils se réfèrent ; 6° l'outillage mécanique et les processus chimi?? ques pour couvrir, établir, reproduire, multiplier, sélectionner. classer, transporter les documents.
 
 V. Organismes documentaires.
 =============================
 
-Les Organismes de la documentations sont : a) les Bibliothèques publiques générales; b) les bibliothèques spéciales; c) les Offices ou services de documentation soit indépendants, soit rattachés à de» institutions scientifiques, des administrations publiques, des établissements ayant des buts sociaux; d) les offices ou
+Les Organismes de la documentations sont : a) les Bibliothèques publiques générales; b) les bibliothèques spéciales; c) les Offices ou services de documentation soit indépendants, soit rattachés à des institutions scientifiques, des administrations publiques, des établissements ayant des buts sociaux; d) les offices ou
 
 ====
 
@@ -287,9 +287,9 @@ De l’enquête sur les faits et de leur examen général on peut dégager l’e
 
 7° L’organisation nationale sera confiée à des organes nationaux groupant les forces officielles ou privées (Bibliothèques. offices et services existants).
 
-L Organisation internationale sera confiée à des organes internationaux sous l’autorité et avec la coopération des quels œuvreront les organes spéciaux. Les organismes spéciaux seront les uns privés (Associations internatio nafes), les autres officiels (Société des Nations, Union Panaméricaine, Unions officielles des Gouvernements).
+L'Organisation internationale sera confiée à des organes internationaux sous l’autorité et avec la coopération des quels œuvreront les organes spéciaux. Les organismes spéciaux seront les uns privés (Associations internatio nafes), les autres officiels (Société des Nations, Union Panaméricaine, Unions officielles des Gouvernements).
 
-8° Les noyaux d’une telle organisation existent déjà largement mais épars, incomplets plus ou moins dévelop pés, travaillant sans coordination ni souci d’éviter les doubles emplois et de combler les lacunes. Ce sont : a) Les offices de documentation, les œuvres d information, les bibliothèques spéciales en certains pays; b) Les Unions nationales de Documentation ; c) Les Bibliothèques nationales avec leurs services de catalogues collectifs et de prêts; d) Le Service international des échanges; e) Les organisations productrices des catalogues et des bibliographies ; f) Les Bureaux des grandes publications périodi ques ou des publications à édition renouvelée : Revues, grands traités, encyclopédies; g) les Offices publics, scientifiques ou sociaux, qui recueillent et distribuent des informations utiles aux administrations publiques de tous degrés; h) Les organes de documentation, information et publication fonctionnant au sein des Associations privées, mixtes ou officielles; les services de cet ordre en liaison avec la Société des Nations; Secrétariat, Bureau International du Travail, Commission de Coopération Intellectuelle, Organisation internationale des Transports, Orga nisation économique et financière. Comités nationaux de coopération intellectuelle; i) L’Office et l'Institut International de Bibliographie, l'Institut International de Docu mentation ainsi que l’Union des Associations Internationales. Celle-ci, d’accord avec I I. I. B. s eat attachée à susciter une meilleure organisation de U documentation au sein des Associations Internationales.
+8° Les noyaux d’une telle organisation existent déjà largement mais épars, incomplets plus ou moins développés, travaillant sans coordination ni souci d’éviter les doubles emplois et de combler les lacunes. Ce sont : a) Les offices de documentation, les œuvres d information, les bibliothèques spéciales en certains pays; b) Les Unions nationales de Documentation ; c) Les Bibliothèques nationales avec leurs services de catalogues collectifs et de prêts; d) Le Service international des échanges; e) Les organisations productrices des catalogues et des bibliographies ; f) Les Bureaux des grandes publications périodi ques ou des publications à édition renouvelée : Revues, grands traités, encyclopédies; g) les Offices publics, scientifiques ou sociaux, qui recueillent et distribuent des informations utiles aux administrations publiques de tous degrés; h) Les organes de documentation, information et publication fonctionnant au sein des Associations privées, mixtes ou officielles; les services de cet ordre en liaison avec la Société des Nations; Secrétariat, Bureau International du Travail, Commission de Coopération Intellectuelle, Organisation internationale des Transports, Orga nisation économique et financière. Comités nationaux de coopération intellectuelle; i) L’Office et l'Institut International de Bibliographie, l'Institut International de Docu mentation ainsi que l’Union des Associations Internationales. Celle-ci, d’accord avec I I. I. B. s'est attachée à susciter une meilleure organisation de Ildocumentation au sein des Associations Internationales.
 
 9° Il sera organisé, par voie de libre Convention internationale groupant les organismes publics et privés, et à l'intermédiaire d’un Office centra) mondial, un Réseau Universel mettant en rapport coopératif tous les Offices particuliers de documentation, à la fois pour la production et pour l’utilisation.
 
@@ -315,24 +315,24 @@ Sciences du Livre et de la Documentation
 ------------
 
 1. Livre (Biblion ou Document ou Gramme) est le
-terms conventionnel employé ici pour exprimer toute
-espèce de documents. Il comprend non seulement le livre proprement dit, manuscrit ou imprimé, mais les revues, les journaux, les écrits et reproductions graphiques de toute espèce, dessin??, gravures, cartes, schémas, diagrammes, photographies, etc, La Documentation au sens large du terme comprend : Livre, éléments servant à indiquer ou reproduire une pensée envisagée sous n'importe quelle forme.
+terme conventionnel employé ici pour exprimer toute
+espèce de documents. Il comprend non seulement le livre proprement dit, manuscrit ou imprimé, mais les revues, les journaux, les écrits et reproductions graphiques de toute espèce, dessins, gravures, cartes, schémas, diagrammes, photographies, etc, La Documentation au sens large du terme comprend : Livre, éléments servant à indiquer ou reproduire une pensée envisagée sous n'importe quelle forme.
 
 \2. Le Livre ainsi entendu présenté un double aspect: a) il est au premier chef une œuvre de l’homme, le résultat de son travail intellectuel; b) mais, multiplié à de nombreux exemplaires, il se présente aussi comme l'un des multiples objets créés par la civilisation et susceptible d’agir sur elle; c'est le propre de tout objet ayant caractère corporel et agencé techniquement.
 
 112 Nécessité d’une Bibliologie.
 ---------------------------------
 
-II y a une langue commune, une logique commune, une mathématique commune. Il faut créer une biblio-iogie commune : Art d écrire, de publier et de diffuser les données de la science.
+II y a une langue commune, une logique commune, une mathématique commune. Il faut créer une biblio-iogie commune : Art d'écrire, de publier et de diffuser les données de la science.
 
 Nous avons besoin maintenant non plus seulement de Bibliographie, description des livres, mais de Bibliologie, c'est-à-dire une science et une technique générales du document. Les connaissances relatives au Livre, à l’Information, et à la Documentation sont demeurées trop longtemps dans l’état où était la Biologie il y a un siècle; il y avait alors de nombreuses sciences sans lien entr'eJlea et qui avaient cependant toutes pour objet les êtres vivants et la vie (ana;omie, physiologie, botanique, zoologie).
 
-La Biologie a rapproché et coordonné toutes ces sciences particulières en une science générale. Pour le livre, nous possédons dès maintenant des traités de rhétorique, de bibliothéconomie, de bibliographie, d imprimerie. Mais nous n'avons pas encore bien formée, de Bibliologie, c’est-à-dire une science générale embrassant 1 ensemble systématique classé des données relatives à la production, la conservation, la cir-
+La Biologie a rapproché et coordonné toutes ces sciences particulières en une science générale. Pour le livre, nous possédons dès maintenant des traités de rhétorique, de bibliothéconomie, de bibliographie, d imprimerie. Mais nous n'avons pas encore bien formée, de Bibliologie, c’est-à-dire une science générale embrassant l'ensemble systématique classé des données relatives à la production, la conservation, la cir-
 culation et l'utilisation des écrits et des documents de toute espèce. Cette science conduirait les esprits à réfléchir plus profondément sur les bases mêmes qui servent de fondement aux diverses disciplines particulières du livre; elle permettrait d'envisager de nouveaux progrès, grâce à des définitions plus générales et plus approfondies, grâce à l'expression de besoins plus larges et à la maîtrise d une technique qui puisse résoudre les nouveaux problèmes.
 
 Des efforts doivent donc être faits pour constituer en science autonome toutes les connaissances théoriques et pratiques relatives au Livre, la Bibliologie. Cette science est appelée à faire sortir de l'empirisme les applications et les réalisations.
 
-Nous devons former d immenses bibliothèques, nous devons élaborer des répertoires puissants. Mais, de même qu'après de Jussieu et Linné décrivant des milliers d'espèces sont arrivés, les Darwin et les Claude Bernard qui ont créé la Biologie, science théorique explicative, évolutive de l'ensemble des êtres vivants, de même les temps sont venus maintenant où il faut fonder la Bibliologie, la science théorique, comparative, génétique et abstraite, embrassant tous les livres, toutes les espèces et toutes les formes de documents. Comme la sociologie, synthèse des sciences de la société s'est constituée avec toutes les sciences sociales particulières. Comme il existe une mécanique générale appliquée, indépendante de toute étude particulière du livre, science de toutes les formes particulières bibliologie : synthèse bibliographique, science particulière du livre, science de toutes les formes particulières de livres,
+Nous devons former d'immenses bibliothèques, nous devons élaborer des répertoires puissants. Mais, de même qu'après de Jussieu et Linné décrivant des milliers d'espèces sont arrivés, les Darwin et les Claude Bernard qui ont créé la Biologie, science théorique explicative, évolutive de l'ensemble des êtres vivants, de même les temps sont venus maintenant où il faut fonder la Bibliologie, la science théorique, comparative, génétique et abstraite, embrassant tous les livres, toutes les espèces et toutes les formes de documents. Comme la sociologie, synthèse des sciences de la société s'est constituée avec toutes les sciences sociales particulières. Comme il existe une mécanique générale appliquée, indépendante de toute étude particulière du livre, science de toutes les formes particulières bibliologie : synthèse bibliographique, science particulière du livre, science de toutes les formes particulières de livres,
 
 113 But.
 ---------
@@ -363,11 +363,11 @@ l’Exposé plus méthodique et plus rationnel des données de nos connaissances
 5. La Bibliologie élabore les données scientifiques et
 techniques relatives à ce quadruple objet : 1° l'enregistrement
 de la pensée humaine et de la réalité extérieure
-en des éléments de nature matérielle dite documents; 2" la conservation, la circulation, l'utilisation, la catalographie, la description et l'analyse de ces documents ; 3° l'établissement à l aide de documents simples, de documents plus complexes, et à l aide de documents particuliers, d’ensemble de documents; 4° au degré ultime, l'enregistrement des données de plus en plus complet, exact, précis, simple, direct, rapide, synoptique, de mode à la fois analytique et synthétique; suivant un plan de plus en plus intégral, encyclopédique, universel et mondial.
+en des éléments de nature matérielle dite documents; 2° la conservation, la circulation, l'utilisation, la catalographie, la description et l'analyse de ces documents ; 3° l'établissement à l'aide de documents simples, de documents plus complexes, et à l'aide de documents particuliers, d’ensemble de documents; 4° au degré ultime, l'enregistrement des données de plus en plus complet, exact, précis, simple, direct, rapide, synoptique, de mode à la fois analytique et synthétique; suivant un plan de plus en plus intégral, encyclopédique, universel et mondial.
 
 6. Au point de vue scientifique, le principe biblio-logique
 fondamental, principe-tendance de la publication
-optimum s’exprime en ces quatre desiderata ; 1“ Dire le tout d'une chose. 2° Dire une fois tout. 3M La vérité sur le tout. 4U Sous la forme la plus apte à être comprise. Ce principe est tempéré de quatre manières : 1° Ce qui est encore ignoré. 2" La thèse de la vérité, le doute, la discussion, les thèses diverses. 3° La variété des intelligences : langue, degré, âge. préparations antérieures. 4° La pluralité des formes possibles, d'exposé à raison du goût de chacun, et du progrès possible dans la présentation, l'accessibilité, le prix.
+optimum s’exprime en ces quatre desiderata ; 1° Dire le tout d'une chose. 2° Dire une fois tout. 3° La vérité sur le tout. 4° Sous la forme la plus apte à être comprise. Ce principe est tempéré de quatre manières : 1° Ce qui est encore ignoré. 2° La thèse de la vérité, le doute, la discussion, les thèses diverses. 3° La variété des intelligences : langue, degré, âge. préparations antérieures. 4° La pluralité des formes possibles, d'exposé à raison du goût de chacun, et du progrès possible dans la présentation, l'accessibilité, le prix.
 
 114 Conditions de la constitution de la Bibliologie en science.
 ----------------------------------------------------------------
@@ -384,7 +384,7 @@ La Bibliologie doit répondre aux huit conditions suivantes qui sont nécessaire
 
 5. Méthode: avec ce qu elle comporte: a) méthodes de recherches. procédés logiques ou de raisonnement; b) classification, terminologie; c) ?? système des mesures; d) instruments; e) enregistrement et conservation des données acquises (Sources, Bibliographie).
 
-6. Organisation du travail (division du travail, coopération, organismes nationaux et «internationaux, associations, commis iens, congrès, instituts couvrant les fonctions de recherches, discussion, décision des méthodes, enseignement et diffusion).
+6. Organisation du travail (division du travail, coopération, organismes nationaux et «internationaux, associations, commissions, congrès, instituts couvrant les fonctions de recherches, discussion, décision des méthodes, enseignement et diffusion).
 
 7. Histoire.
 
@@ -402,16 +402,16 @@ tion totale, tout livre contient ces quatre éléments associés
 concrètement en lui-même et que, par abstraction
 seulement, il est possible de dissocier et d’étudier à part. Ce qui est propre au livre, c’est le cinquième élément : la pensée désormais fixée par l'écriture des mots ou l’image de choses, signes visibles, fixés sur un support matériel.
 
-2. D’où ces trois conséquences: a) La Réalité, la Pensée objective ou subjective, la Langue ont chacune une existence antérieure et indépendante du livre. Elles s'étudient dans leurs connaissances respectives (Psychologie-Science-Linguistique). b) Au contraire, signes et supports sont bien le propre du livre et il s'agit dans les sciences bibliologiques de les étudier sous tous le« aspects, c) Mais à son tour le complexe concret des idées, des mots, des images tel qu'il est incorporé dans le livre et le docu^ ment («biblifié» ou «documentalisé» ) sont, à l'égard les unes des autres, dans la position de contenu et contenant. Leurs rapports, interinfluences, répercussions, sont à examiner. à leur tour et c'est là un domaine commun aux sciences du a et à celles du h.
+2. D’où ces trois conséquences: a) La Réalité, la Pensée objective ou subjective, la Langue ont chacune une existence antérieure et indépendante du livre. Elles s'étudient dans leurs connaissances respectives (Psychologie-Science-Linguistique). b) Au contraire, signes et supports sont bien le propre du livre et il s'agit dans les sciences bibliologiques de les étudier sous tous les aspects, c) Mais à son tour le complexe concret des idées, des mots, des images tel qu'il est incorporé dans le livre et le docu^ ment («biblifié» ou «documentalisé» ) sont, à l'égard les unes des autres, dans la position de contenu et contenant. Leurs rapports, interinfluences, répercussions, sont à examiner. à leur tour et c'est là un domaine commun aux sciences du a et à celles du h.
 
-3. Il y a lieu de poursuivre études et réalisations de la Documentation dans le cadre général de l'ensemble des connaissances et des activités en établissant des corréla tions : a) avec les diverses sciences; b) avec les diverses techniques et leur objet (Science Universelle, Technique Générale) ; c) avec les divers plans d'organisation (Plan Mondial).
+3. Il y a lieu de poursuivre études et réalisations de la Documentation dans le cadre général de l'ensemble des connaissances et des activités en établissant des corrélations : a) avec les diverses sciences; b) avec les diverses techniques et leur objet (Science Universelle, Technique Générale) ; c) avec les divers plans d'organisation (Plan Mondial).
 
 4. Définir la Bibliologie, c’est caractériser le domaine sur lequel cette science étend son empire et en même
 temps indiquer les limites qui séparent ce domaine des
 
 voisins.
 
-5. Il y a lieu de distinguer l’objet d'une science de la science de cet objet. La science c'est l'organisation des connaissances d'un objet. L'objet existe en dehor?? de la
+5. Il y a lieu de distinguer l’objet d'une science de la science de cet objet. La science c'est l'organisation des connaissances d'un objet. L'objet existe en dehors de la
 
 
 ====
@@ -428,9 +428,9 @@ eu des sciences bibliologiques.
 référent à l’ensemble de toutes les Choses.
 
 La Biblioiogie participe de la même généralité que la
-Logique et la Linguistique: tout est susceptible, à la fois, d’expression, de documentation. La Logique, ont dit les Logiciens, e't une science générale en ce sens qu'elle règle le contenu de toutes les autres et que toutes doivent se constituer d après ses lois. Son objet d une simplicité extrême et d’une extension illimitée est l’être de raison. La Biblioiogie, en tant qu’elle considère les conditions du meilleur livre fait ou à faire, ne règle pas la pensée pour elle-même. Toutefois son influence est grande sur chaque pensée, car, de plus en plus, chacun tend à s'exprimer, à se communiquer aux autres, à les interroger, à leur répondre sous une forme documentaire. Or une telle forme peut ou altérer ou exalter la pensée elle-même. Par conséquent on doit tenir la Biblioiogie comme une science générale, auxiliaire de toutes les autres et qui leur impose ses normes dès qu elles ont à couler leurs résultats en forme de « document ». L’objet de la Biblioiogie, comme celui de la Logique, est d'une simplicité extrême et d’une extension illimitée. C'est ici l’ «être documenté», comme l’objet de la Logique est l’cêtre de raison».
+Logique et la Linguistique: tout est susceptible, à la fois, d’expression, de documentation. La Logique, ont dit les Logiciens, est une science générale en ce sens qu'elle règle le contenu de toutes les autres et que toutes doivent se constituer d après ses lois. Son objet d une simplicité extrême et d’une extension illimitée est l’être de raison. La Biblioiogie, en tant qu’elle considère les conditions du meilleur livre fait ou à faire, ne règle pas la pensée pour elle-même. Toutefois son influence est grande sur chaque pensée, car, de plus en plus, chacun tend à s'exprimer, à se communiquer aux autres, à les interroger, à leur répondre sous une forme documentaire. Or une telle forme peut ou altérer ou exalter la pensée elle-même. Par conséquent on doit tenir la Biblioiogie comme une science générale, auxiliaire de toutes les autres et qui leur impose ses normes dès qu elles ont à couler leurs résultats en forme de « document ». L’objet de la Biblioiogie, comme celui de la Logique, est d'une simplicité extrême et d’une extension illimitée. C'est ici l’ «être documenté», comme l’objet de la Logique est l’cêtre de raison».
 
-7. Le point de vue propre à la Biblioiogie générale est celui du Livre considéré dans son ensemble, de la totalité des Livres. De mème^ue la Sociologie s’occupe, non des phénomènes qui se passent dan3 la société, mais des phénomènes qui réagissent socialement, de même la Biblioiogie s’occupe des faits qui ont une action générale sur le Livre.
+7. Le point de vue propre à la Biblioiogie générale est celui du Livre considéré dans son ensemble, de la totalité des Livres. De mème^ue la Sociologie s’occupe, non des phénomènes qui se passent dans la société, mais des phénomènes qui réagissent socialement, de même la Biblioiogie s’occupe des faits qui ont une action générale sur le Livre.
 
 
 8. Le domaine propre de la Biblioiogie doit être déterminé et exploré. Au sens large, il comprend l’Histoire de la Littérature et la Critique. Mais à côté de l’histoire des Livres et celle des auteurs, il y a parallèlement l’Histoire de la pensée.
@@ -439,7 +439,7 @@ Logique et la Linguistique: tout est susceptible, à la fois, d’expression, de
 ---------------
 
 Il y a une réalité faite du total et qui est ce qu elle est. 
-Au sein de cette réalité, nous voyons h l’œuvre l’Homme, les Hommes et leur Société au sein de la Nature. En l’homme, constatation sinon définition et explication, nous sommes amenés à distinguer deux éléments: 1° le moi profond, personnel, vécu ; libre mobilité qualitative dans in durée étrangère à lui ; mémoire pure plongeant dans le mouvement indivisible de l’éian vital ; 2° le moi intelligent, aux fonctions pratiques, au mécanisme déterministe. Les deux éléments coexistent, produisant toutes les œuvres avec leurs deux méthodes, intuition et connaissances directes pour l’un; logique et connaissance diseur sive pour l’autre. On retrouve ces deux éléments dans l'individu, dans la vie de la société (pensée, sentiment, activité) et on les retrouve dans les livres qui en sont la manifestation ou l'expression.
+Au sein de cette réalité, nous voyons à l’œuvre l’Homme, les Hommes et leur Société au sein de la Nature. En l’homme, constatation sinon définition et explication, nous sommes amenés à distinguer deux éléments: 1° le moi profond, personnel, vécu ; libre mobilité qualitative dans in durée étrangère à lui ; mémoire pure plongeant dans le mouvement indivisible de l’éian vital ; 2° le moi intelligent, aux fonctions pratiques, au mécanisme déterministe. Les deux éléments coexistent, produisant toutes les œuvres avec leurs deux méthodes, intuition et connaissances directes pour l’un; logique et connaissance diseur sive pour l’autre. On retrouve ces deux éléments dans l'individu, dans la vie de la société (pensée, sentiment, activité) et on les retrouve dans les livres qui en sont la manifestation ou l'expression.
 
 L'intelligence, en le disputant à l’instinct, en procédant 
 du conscient à l'inconscient, s’est faite claire, communicative, 
@@ -469,7 +469,7 @@ d’organisation de troisième part.
 
 A) Comme Science : l'étude de tous les aspects
 sous lesquels son objet peut être examiné, c'est-à-dire en 
-lui-même, en scs parties, dans ses espèces, dans ses fonctions. dans ses relations, envisagé dans l’espace et dans le temps. Comme toute science la Biblioiogie a donc pour objet: a) la description des faits dans le temps, ou histoire. et des faits dans l'espace, ou étude comparée (Graphie, soit Bibliographie) ; b) la compréhension et l’explication théorique des faits jusqu'aux relations nécessaires les plus générales (Nomie, soit *Biblionomie*).
+lui-même, en ses parties, dans ses espèces, dans ses fonctions, dans ses relations, envisagé dans l’espace et dans le temps. Comme toute science la Biblioiogie a donc pour objet: a) la description des faits dans le temps, ou histoire. et des faits dans l'espace, ou étude comparée (Graphie, soit Bibliographie) ; b) la compréhension et l’explication théorique des faits jusqu'aux relations nécessaires les plus générales (Nomie, soit *Biblionomie*).
 
 B) Comme Technique : les règles d’application des faits 
 aux besoins de la vie pratique et de la production. Ces 
@@ -497,14 +497,14 @@ la science il y a l'art.
 La science spéculative s’arrête à la connaissance de son
 objet; la science pratique fait servir la connaissance de
 son objet à une action ou à une œuvre ultérieure. L'art
-est un ensemble de règles pratiques» directives de 1 action.
-La tendance moderne est de donner à tout ensemble de connaissances les trois caractères spéculatif, pratique, normatif. La Bibliologie tendra donc à être a la fois science spéculative, pratique et art. Les connaissances relatives à la Langue ont déjà ce» mêmes caractères. De même la Logique qui est l'étude réfléchie de l'ordre à mettre dans les pensées dans le but, non seulement de connaître leur coordination, mais pour la direction ultérieure de la pensée.
+est un ensemble de règles pratiques» directives de l'action.
+La tendance moderne est de donner à tout ensemble de connaissances les trois caractères spéculatif, pratique, normatif. La Bibliologie tendra donc à être a la fois science spéculative, pratique et art. Les connaissances relatives à la Langue ont déjà ces mêmes caractères. De même la Logique qui est l'étude réfléchie de l'ordre à mettre dans les pensées dans le but, non seulement de connaître leur coordination, mais pour la direction ultérieure de la pensée.
 
 La Bibliologie comprend deux sciences distinctes : la Bibliologie générale, globale et synthétique, qui contient l'observation du livre en son ensemble, avec les comparaisons et les indications qui en découlent, et les sciences bibliologiques partielles et analytiques contenant l'observation successive et séparée de chacun des aspects divers du livre : bibliologie économique, technologique, sociologique, esthétique, etc. (I).
 
 3. Le phénomène du livre relève de la Logique et de la Psychologie, de la Sociologie et de la Technologie. C'est l'Intelligence qui crée le livre et qui s’en assimile le contenu. C’est la Technique qui le confectionne. C’est sur la Société qu'il réagit puisqu'il sert à mettre en relation au moins deux individualités et à les modifier.
 
-l-a Bibliologie doit donc comprendre quatre grandes branches qui la relient à l'ensemble des sciences : a) La Bibliologie logique. ou les rapports du Livre avec l’exposé de la science; b) La Bibliologie psychologique, ou les rapports du Livre avec l'auteur; c) La Bibliologie technologique ou les rapports du livre avec les moyens matériels de le produire et de le multiplier; d) La Biblio-hgie sociologique ou les rapports du Livre avec la Société qui le fait naître dans son ambiance et l??y accueille.
+la Bibliologie doit donc comprendre quatre grandes branches qui la relient à l'ensemble des sciences : a) La Bibliologie logique. ou les rapports du Livre avec l’exposé de la science; b) La Bibliologie psychologique, ou les rapports du Livre avec l'auteur; c) La Bibliologie technologique ou les rapports du livre avec les moyens matériels de le produire et de le multiplier; d) La Biblio-hgie sociologique ou les rapports du Livre avec la Société qui le fait naître dans son ambiance et l??y accueille.
 
 122 Terminologie. Nomenclature.
 --------------------------------
@@ -524,7 +524,7 @@ Ces divisions comprennent : 1° la Bibliologie physique qui traite : a) la mati�
 
 ----
 
-un mot que d’expliquer sa valeur philosophique ou métaphysique en lui laissant toutes les signification« vagues du langage habituel. Définir un mot au point de vue d une science c’est délimiter exactement et avec précision le sens au point de vue de la science envisagée.
+un mot que d’expliquer sa valeur philosophique ou métaphysique en lui laissant toutes les significations vagues du langage habituel. Définir un mot au point de vue d'une science c’est délimiter exactement et avec précision le sens au point de vue de la science envisagée.
 
 2. La définition des mots doit reposer sur la définition des choses, des faits et des notions elles-mêmes qu'ils doivent servir à exprimer. Une définition doit être un exposé précis des qualités nécessaires et suffi?? santés pour créer une classe afin d'indiquer les choses qui appartiennent et n'appartiennent pas à cette classe (Stanley Jevons, Traité de Logique).
 
@@ -532,41 +532,41 @@ un mot que d’expliquer sa valeur philosophique ou métaphysique en lui laissan
 
 4. En attendant que l’accord soit fait sur l’unité de la terminologie, nous employerons indifféremment les termes formés des quatre radicaux suivants, deux gîtes, deux latins, en leur donnant pat convention une signification équivalente ; 1° biblion, 2° grapho (gram-mata gramme), 3° liber, 4° documentant.
 
-5. Ce demeure un problème de disposer d’un vocabulaire de termes généraux et d adjectifs suffisamment étendus, réguliers et adéquats pour exprimer ici les idées générales, les ensembles et le» propriétés communes. On y tend. Le grec a donné le mot biblion, le latin le mot liber. On a fait, de l’un Bibliographie. Bibliologie, Bibliophilie, Bibliothèque; d© l’autre Livre, Livresque, Librairie.
+5. Ce demeure un problème de disposer d’un vocabulaire de termes généraux et d'adjectifs suffisamment étendus, réguliers et adéquats pour exprimer ici les idées générales, les ensembles et les propriétés communes. On y tend. Le grec a donné le mot biblion, le latin le mot liber. On a fait, de l’un Bibliographie. Bibliologie, Bibliophilie, Bibliothèque; d© l’autre Livre, Livresque, Librairie.
 
-« Schriftum » disent les Allemands et, d’autre part, partant du radical « Buch », ils forment « Buchwesen » et « Bücherei ». Les Allemands aussi se servent du radical <t Biblion », mais ils ont introduit à côté des mot» <t Bibliothek », « Bibliographie » des expressions nouvelles « Inhaltverzeichnis, Zeitschriftenschau ?? (Bibliographie du contenu des périodiques), «Referate» (Compte rendu analytique et critique), « Li-teraturübersichten in Kartenform » (fichier), « Lite-ratur-Auskunftdienst, Beratungstelle », etc.
+« Schriftum » disent les Allemands et, d’autre part, partant du radical « Buch », ils forment « Buchwesen » et « Bücherei ». Les Allemands aussi se servent du radical « Biblion », mais ils ont introduit à côté des mot» <t Bibliothek », « Bibliographie » des expressions nouvelles « Inhaltverzeichnis, Zeitschriftenschau ?? (Bibliographie du contenu des périodiques), «Referate» (Compte rendu analytique et critique), « Li-teraturübersichten in Kartenform » (fichier), « Lite-ratur-Auskunftdienst, Beratungstelle », etc.
 
 6. L’historique des termes est intéressant :
 
-a) Le mot c Bibliographie » est né dans les temps grecs post classiques. Il signifiait alors l’écriture ou la copie, c’est-à-dire la production des livres. Au XVIIIe siècle encore, on entendait par Bibliographie l'étude des anciens livres manuscrits. La technique et
+a) Le mot « Bibliographie » est né dans les temps grecs post classiques. Il signifiait alors l’écriture ou la copie, c’est-à-dire la production des livres. Au XVIIIe siècle encore, on entendait par Bibliographie l'étude des anciens livres manuscrits. La technique et
 
 ====
 
 124  BIBLIOMETRIE  *13* 
 
-l'histoire de la production du livre sont encore une partie de la science des livres. Pour le spécialiste de quelque partie de la science, la Bibliographie désigne toutes sortes de listes de livres; pour le bibliothécaire elle comprend le collectionnement, le soin et l'administration des livres dans les bibliothèque» (Hoosen),
+l'histoire de la production du livre sont encore une partie de la science des livres. Pour le spécialiste de quelque partie de la science, la Bibliographie désigne toutes sortes de listes de livres; pour le bibliothécaire elle comprend le collectionnement, le soin et l'administration des livres dans les bibliothèques (Hoosen),
 
 b) Le radical gramma a donné lieu autrefois à (- — )
 
 ligne ; c'est un terme de géométrie. Grommir, arum L pl. (au lieu de grammata). lettre, caractères. Gramatica (/) et grammatice ( )grammaire, la science grammati-
 
-cale. Pour Cicéron la grammaire comprend l'interpréta lion des mots Grammaticu§. Homme de lettres, littérateur, savant, érudit, critique, philologue; Grammatopho-rus. Messager (porteur d'un écrit) ; Grammatophylacium, Archives; Graphice, art du dessin, Graphion, dessin, plan, esquisse et l'art de lever des plans, graphium style, poinçon (pour écrire sur la cire).
+cale. Pour Cicéron la grammaire comprend l'interpréta lion des mots Grammaticus. Homme de lettres, littérateur, savant, érudit, critique, philologue; Grammatopho-rus. Messager (porteur d'un écrit) ; Grammatophylacium, Archives; Graphice, art du dessin, Graphion, dessin, plan, esquisse et l'art de lever des plans, graphium style, poinçon (pour écrire sur la cire).
 
-Dans les temps modernes, le radical Gramme a formé télégramme, diagramme, cinégramme, barogramme et pourrait former photogramme. Des documents qui exposent le sujet selon l'ordre des choses, du lieu ou du temps, pourraient se dire <r ontogramme », < topogramme », € chronogramme »,
+Dans les temps modernes, le radical Gramme a formé télégramme, diagramme, cinégramme, barogramme et pourrait former photogramme. Des documents qui exposent le sujet selon l'ordre des choses, du lieu ou du temps, pourraient se dire « ontogramme », « topogramme », « chronogramme »,
 
 7. Il y a lieu de construire la terminologie à partir du mot Document, plus général que Livre ou Biblion ; ce changement de radical est justifié: 1° par les motifs qui ont fait admettre le mot Document, Documentation, 2° par le retard des pratiques du monde du livre qui n'ayant pas évolué assez rapidement, a laissé se créer toute une nomenclature à part pour des objets et notions dont il s’est désintéressé au début.
 
-Les branches nouvelles que le mot livre n'a pas couvertes sont : a) les documenta mêmes : estampes, pièce: d archives, documents d'administration, disques, photographies, films, clichés à projection; b) les collections constituées de doefrments : cartothèque, hémé-Tothèque, périodicothèque, discothèque, filmothèque; c) le matériel spécial ; fiches, rayons, casiers, classeurs, dossiers, fichiers, répertoires.
+Les branches nouvelles que le mot livre n'a pas couvertes sont : a) les documenta mêmes : estampes, pièce: d'archives, documents d'administration, disques, photographies, films, clichés à projection; b) les collections constituées de documents : cartothèque, hémé-Tothèque, périodicothèque, discothèque, filmothèque; c) le matériel spécial ; fiches, rayons, casiers, classeurs, dossiers, fichiers, répertoires.
 
-La série de base du Radical : Document serait donc : Document (substantif) L'objet (signe -f support). — Documentation (substantif) Action de documenter et ensemble de documents. — Documenfa/tsjc (substantif) ou Documenteur (substantif, même désinence que docteur) : la personne, les techniciens de la Documentation. — Documenter. L’action de faire usage du document. — Documentaire (adjectif) qui est relatif à la documentation. — Documcniatoire : qui remplit la qualité d’être une suffisante documentation. — Documenforium ou Documento-thèque, Institut de Documentation. — D oc u m en fo-fec h -nique ; Technique de la documentation.
+La série de base du Radical : Document serait donc : Document (substantif) L'objet (signe -f support). — Documentation (substantif) Action de documenter et ensemble de documents. — Documentaliste (substantif) ou Documenteur (substantif, même désinence que docteur) : la personne, les techniciens de la Documentation. — Documenter. L’action de faire usage du document. — Documentaire (adjectif) qui est relatif à la documentation. — Documcniatoire : qui remplit la qualité d’être une suffisante documentation. — Documentorium ou Documento-thèque, Institut de Documentation. — Documento-technique ; Technique de la documentation.
 
 8. Le problème de la Terminologie de la Documentation a été discuté à la XIe Conférence Interna-
 
 
 
-tionale de l'I. I. B, (I. 1. D.), à Francfort. Rapports Gérard, Dupuy, Ledoux, Otlet (Voir les Actes).
+tionale de l'I. I. B, (I. I. D.), à Francfort. Rapports Gérard, Dupuy, Ledoux, Otlet (Voir les Actes).
 
-En ce qui concerne la Terminologie Technique, les dix dernières années ont vu des avancements révolutionnaires. Ce qui exigeait autrefois de longue» periphrase» (trois ou quatre mots), a fini par pouvoir s'exprimer en un tout. Le « Pitman’s Technical Dictionary », traite maintenant de 60.000 a 70.000 choses distinctes.
+En ce qui concerne la Terminologie Technique, les dix dernières années ont vu des avancements révolutionnaires. Ce qui exigeait autrefois de longues périphrases (trois ou quatre mots), a fini par pouvoir s'exprimer en un tout. Le « Pitman’s Technical Dictionary », traite maintenant de 60.000 a 70.000 choses distinctes.
 
 124 Le Livre et la Mesure. Bibliométrie. 
 -----------------------------------------
