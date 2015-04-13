@@ -2643,19 +2643,19 @@ e) Rendre plus compacte. Un exemple d’extrême con-
 
 221  ELEMENTS MATERIELS *55*
 
-densation obtenue j>ai une bonne reliure es! le «Webtters New International IJiclionary ??. Ce dictionnaire comprend
+densation obtenue j'ai une bonne reliure est le «Websters New International Dictionary». Ce dictionnaire comprend
 
 400.000 mots en 2700 pages ne formant qu’un volume.
 
-2. Lspèces. — La reliure de l’époque moderne peut être divisée en trois parties ;
+2. *Espèces*. — La reliure de l’époque moderne peut être divisée en trois parties ;
 
-f° La reliure d art ;
+1° La reliure d'art ;
 
-2??' La reliure d amateur ou de bibliothèque et celle ce luxe;
+2° La reliure d'amateur ou de bibliothèque et celle ce luxe;
 
-3??> La reliure commerciale et la reliure usuelle (reliure d éditeur). La reliure commerciale ne date que d’une soixantaine d'années; elle a pris un développement considérable; elle relève de l’industrie ainsi que la reliure usuelle qui s exécute dans un grand nombre d'ateliers et sert à protéger les volumes des bibliothèques de prêt ou les volumes de peu de valeur : les volumes de prix, étien-nes. les catalogues, etc.
+3° La reliure commerciale et la reliure usuelle (reliure d'éditeur). La reliure commerciale ne date que d’une soixantaine d'années; elle a pris un développement considérable; elle relève de l’industrie ainsi que la reliure usuelle qui s exécute dans un grand nombre d'ateliers et sert à protéger les volumes des bibliothèques de prêt ou les volumes de peu de valeur : les volumes de prix, étien-nes. les catalogues, etc.
 
-3. La reliure d'art. — La reliure de notre époque présente certaines caractéristiques. La richesse, la beauté d une matière de choix unie, polie, au grain hn et serré. La gaieté, l'éclat des coloris des cuirs employés. On les découpe en mosaïque, plus ou moins cubistes, où 1 or, l'argent et 1 ivoire viennent ajouter une note scintillante et qui chatoie.
+3. *La reliure d'art*. — La reliure de notre époque présente certaines caractéristiques. La richesse, la beauté d une matière de choix unie, polie, au grain hn et serré. La gaieté, l'éclat des coloris des cuirs employés. On les découpe en mosaïque, plus ou moins cubistes, où l'or, l'argent et l'ivoire viennent ajouter une note scintillante et qui chatoie.
 
 On emploie les lettres du titre et celles du nom d'auteur comme unique élément décoratif. On perfore les plats du livre et on laisse apparaître des gardes généralement de cuir à travers ces orifices??
 
@@ -2672,9 +2672,9 @@ Les machines sont venues révolutionner l’art autrefois tout manuel du relieur
 On a fait des couvertures de revues en aluminium (ex.: Revue de l'Aluminium).
 «J
 
-MM. Dun et Sfr ilson ( I) ont inventé un nouveau type de teiiuie pour les périodique. (Nom Fiaro). Il consi.te en celluloïd non inflammable avec cuir aux angles. La couverure de revue qui est caractéristique et souvent en couleur est visible grâce à la transparence. C'est sans bruit, clair, propre et durable.
+MM. Dun et Sfr ilson ( I) ont inventé un nouveau type de teiiuie pour les périodique. (Nom Fiaro). Il consiste en celluloïd non inflammable avec cuir aux angles. La couverure de revue qui est caractéristique et souvent en couleur est visible grâce à la transparence. C'est sans bruit, clair, propre et durable.
 
-7. Artifices de reliure. — Voici quelques artifices mis en oeuvre dans la reliure.
+7. Artifices de reliure. — Voici quelques artifices mis en œuvre dans la reliure.
 
 Les coin» protecteurs et la base du livre protégées par des lamelles de cuivre.
 
@@ -2709,9 +2709,9 @@ h) Modèles à donner au relieur.
 
 i) Collationner les volumes; déiete.
 
-j) Il est utile de porter l'auteur et le titre abrégé sur le dos, sur le plat et sur 1 envers de la reliure de manière è reconnaître immédiatement l'ouvrage quel que sort sa position.
+j) Il est utile de porter l'auteur et le titre abrégé sur le dos, sur le plat et sur l'envers de la reliure de manière à reconnaître immédiatement l'ouvrage quel que sort sa position.
 
-k) On trouve dans certains livres un avis au relieur, ce qui est fort recommandable. (Ex. ; Atlas des Enfant», Amsterdam Schneider 1773.)
+k) On trouve dans certains livres un avis au relieur, ce qui est fort recommandable. (Ex. ; Atlas des Enfants, Amsterdam Schneider 1773.)
 
 l) Au point de vue matériel, pour être bien proportionné, un volume ne doit être ni trop épais ni trop mince. Les lourds ouvrages placés debout s'affaissent nécessairement jusqu'à ce que le milieu de la tranche du bas touche la planchette supportant le volume. Les minces plaquettes ont au dos des titres difficilement lisibles. On a été ainsi amené soit à faire deux volumes d'un seul livre trop
 (I) Bellevle Bindery Falkirk, Scotland.
@@ -2721,9 +2721,9 @@ l) Au point de vue matériel, pour être bien proportionné, un volume ne doit �
 
 222 BIBLIOLOGIE  *56*
 
-gros, »oit à remettre en un même volume trois ou quatre trop minces plaquettes. En principe, il importe que chaque œuvre distincte conserve son indivisibilité, même uprès la reliure ; c'est la ■ condition d un classement rationnel.
+gros, soit à remettre en un même volume trois ou quatre trop minces plaquettes. En principe, il importe que chaque œuvre distincte conserve son indivisibilité, même uprès la reliure ; c'est la ■ condition d'un classement rationnel.
 
-m) Les sous titres mal appliqués par l’imprimeur peu-vent être rectifiés par le relieur, de telle sorte que l’identification ne »oit pas troublée.
+m) Les sous titres mal appliqués par l’imprimeur peu-vent être rectifiés par le relieur, de telle sorte que l’identification ne soit pas troublée.
 
 n ) On peut recommander un solide cartonnage sur lequel est collé le titre même du livre broché, qui conserve ainsi l’aspect donné par l’auteur et l'éditeur. (1)
 
@@ -2745,9 +2745,9 @@ Une revue de 96 pages ne peut être coupée par le lecteur en moins de 4 minutes
 
 Il y a les idées ou choses signifiées et les signes des idées ou choses signifiantes.
 
-1. Le livre est l’expression de la pensée par le» signes. Toute pensée qui s’exprime a besoin de signes extérieurs. A la suite de l’évolution, les deux plus importants parmi les signes sont devenus la parole d’une part, l'image de l'autre. La parole a été notée par l'écriture, sorte d’image, dont les principaux types sont aujourd’hui à base phonétique. L’image à son tour, concrète au début, a donné lieu à l'image abstraite dont sont sortis d'abord les idéogrammes et les alphabets et de nos jours les graphiques, les diagrammes, les schémas, les notations dérivant des alphabets ou formés de signes conventionnels.
+1. Le livre est l’expression de la pensée par les signes. Toute pensée qui s’exprime a besoin de signes extérieurs. A la suite de l’évolution, les deux plus importants parmi les signes sont devenus la parole d’une part, l'image de l'autre. La parole a été notée par l'écriture, sorte d’image, dont les principaux types sont aujourd’hui à base phonétique. L’image à son tour, concrète au début, a donné lieu à l'image abstraite dont sont sortis d'abord les idéogrammes et les alphabets et de nos jours les graphiques, les diagrammes, les schémas, les notations dérivant des alphabets ou formés de signes conventionnels.
 
-Dans le Document, dans le Livre, l’écriture, l'image, la notation viennent prendre place et. au stade de l’évolution qui est le nôtre, elles se combinent et s’amalgament en des dispositions et de» proportions variées pour, comme à l’origine, mais plus adéquatement, exprimer la Pensée le plus intégralement possible.
+Dans le Document, dans le Livre, l’écriture, l'image, la notation viennent prendre place et. au stade de l’évolution qui est le nôtre, elles se combinent et s’amalgament en des dispositions et des proportions variées pour, comme à l’origine, mais plus adéquatement, exprimer la Pensée le plus intégralement possible.
 
 Dans l’écriture alphabétique, dit Condorcet, un petit nombre de signes suffit pour tout écrire, comme un petit nombre de sons suffit pour tout dire. La langue écrite
 
@@ -2759,13 +2759,13 @@ fut la même que la langue parlée. On n’eut besoin que de savoir reconnaître
 
 Il y a par suite des documents visibles, audibles et tangibles.
 
-Tous les sens ont été utilisés pour les signes. On a imprégné le papier de certain parfum, par exemple pour écarter les mites; on pourrait donc imaginer des livres destinés à donner des impressions odorantes diverses. On a donné au papier un relief, par exemple un gaufrage, un estampage, un perforage ou encore le pointillage de Braille pour les aveugles ; le livre s’adresse ainsi au sens du toucher. Le rouleau phonographique ou le rouleau du piano mécanique sont destinés à l'audition. EU on a le livre par l’écriture et l'image, c’est-fc-dire pour la vue. Ainsi par la vue. l’ouïe, le toucher, le livre est devenu un instrument pour éveiller les sens, à tout moment, dans un ordre suivi, et pour susciter ainsi dans 1 esprit un enchaînement d’idées et de sentiments.
+Tous les sens ont été utilisés pour les signes. On a imprégné le papier de certain parfum, par exemple pour écarter les mites; on pourrait donc imaginer des livres destinés à donner des impressions odorantes diverses. On a donné au papier un relief, par exemple un gaufrage, un estampage, un perforage ou encore le pointillage de Braille pour les aveugles ; le livre s’adresse ainsi au sens du toucher. Le rouleau phonographique ou le rouleau du piano mécanique sont destinés à l'audition. EU on a le livre par l’écriture et l'image, c’est-fc-dire pour la vue. Ainsi par la vue. l’ouïe, le toucher, le livre est devenu un instrument pour éveiller les sens, à tout moment, dans un ordre suivi, et pour susciter ainsi dans l'esprit un enchaînement d’idées et de sentiments.
 
 3. Les écritures sont de deux formes : alphabétique et idéographique.
 
-I" Un alphabet est une série de signes ou caractères qui probablement ont commencé à être des dessins, mais qu’un long usage a abrégés et simplifiés et qui sont utilisés maintenant comme symboles des sons élémentaires de la voix humaine. Les combinaisons de ces signes, que nous nommons lettres, forment des mots. Ces mots nous nous en servons comme signe des idées et noua les combinons pour former un langage. Comme ce» combinaisons sont purement arbitraires et formées par chaque langage par lui-même, elles sont inintelligibles du peuple qui pçrle un langage différent.
+I" Un alphabet est une série de signes ou caractères qui probablement ont commencé à être des dessins, mais qu’un long usage a abrégés et simplifiés et qui sont utilisés maintenant comme symboles des sons élémentaires de la voix humaine. Les combinaisons de ces signes, que nous nommons lettres, forment des mots. Ces mots nous nous en servons comme signe des idées et noua les combinons pour former un langage. Comme ces combinaisons sont purement arbitraires et formées par chaque langage par lui-même, elles sont inintelligibles du peuple qui pçrle un langage différent.
 
-2" Les idéogrammes comme les lettres, ont été des dessins d’abord mais ils sont devenus par long usage de simples marques faites aisément a l'aide de la plume ou du crayon. Ils ne sont plus des dessins mais de pures symboles arbitraires des idées, intelligibles pour les per sonnes qui les ont apprises et non pour les autres. Les idéogrammes qui n’ont probablement pas commencé à être des dessins, mais qui sont connus du monde entier sont 1rs chiffres I. 2, 3, 4, 5, 6, 7, 8, 9 et 0.
+2" Les idéogrammes comme les lettres, ont été des dessins d’abord mais ils sont devenus par long usage de simples marques faites aisément a l'aide de la plume ou du crayon. Ils ne sont plus des dessins mais de pures symboles arbitraires des idées, intelligibles pour les per sonnes qui les ont apprises et non pour les autres. Les idéogrammes qui n’ont probablement pas commencé à être des dessins, mais qui sont connus du monde entier sont les chiffres I. 2, 3, 4, 5, 6, 7, 8, 9 et 0.
 
 Les signes mnémoniques existent à côté de l'écriture pictographique. Ex. ; Le bâton du messager; les quippos comme le nœud du mouchoir, les grains du rosaire, les encoches du boulanger.
 
@@ -2778,12 +2778,12 @@ Les signes mnémoniques existent à côté de l'écriture pictographique. Ex. ; 
   
 d une part, adapté à tous les besoins de l’expression, d’autre part.
 
-Au cours des âges un nombre considérable de signes graphiques ont été créés; de leur ensemble se sont dégagé« progressivement les alphabets. Des divers alphabets se sont dégagés quelques alphabets principaux et la tendance sc poursuit vers l’unification sur la base de l'alphabet latin. On entrevoit pour l'avenir un grand système coordonné de signes graphiques s'étendant à tous tes langages, à tous les modes d'expression susceptibles d'exprimer 'a réalité entière perçue et réfléchie par la pensée.
+Au cours des âges un nombre considérable de signes graphiques ont été créés; de leur ensemble se sont dégagés progressivement les alphabets. Des divers alphabets se sont dégagés quelques alphabets principaux et la tendance se poursuit vers l’unification sur la base de l'alphabet latin. On entrevoit pour l'avenir un grand système coordonné de signes graphiques s'étendant à tous tes langages, à tous les modes d'expression susceptibles d'exprimer 'a réalité entière perçue et réfléchie par la pensée.
 
 222.02 Symboles. Allégories.
 """""""""""""""""""""""""""""
 
-Toute chose sensible qui devient la représentation d'une chose morale, d’un être abstrait, est un symbole. En ico-nologie et en numismatique, les symbole» sont certains emblème» ou attributs propres à quelque divinité ou à quelque personnage. Les symboles tiennent une grande place dans l’histoire des religions. Le sens e»t l aine du signe, c'est l'idée qui »e cache sous le mot, dans la phrase ou derrière le symbole. Si le sens est double ou douteux, le mot et le symbole sont des équivoques. Mais il arrive souvent que les deux ou plusieurs sen?? caché» sous le signe sont subordonnés entre eux, c’est-à-dire que le premier en réveille un second, qui peut même en réveiller♦ un troisième; de là cette distinction en sens littéral et figuré (allégorique, spirituel, analogique, mystique).
+Toute chose sensible qui devient la représentation d'une chose morale, d’un être abstrait, est un symbole. En ico-nologie et en numismatique, les symboles sont certains emblèmes ou attributs propres à quelque divinité ou à quelque personnage. Les symboles tiennent une grande place dans l’histoire des religions. Le sens est l'aine du signe, c'est l'idée qui »e cache sous le mot, dans la phrase ou derrière le symbole. Si le sens est double ou douteux, le mot et le symbole sont des équivoques. Mais il arrive souvent que les deux ou plusieurs sen?? caché» sous le signe sont subordonnés entre eux, c’est-à-dire que le premier en réveille un second, qui peut même en réveiller♦ un troisième; de là cette distinction en sens littéral et figuré (allégorique, spirituel, analogique, mystique).
 
 Il y a toute une mystique des nombres et des formes élaborée et transmise au sein des mystères de l’Occultisme, de la Magie et c!e la Religion. Elle trouve son application aux objets, monuments et aux objets rituels. Elle consti-tue à sa manière toute une écriture, un langage.
 
@@ -2818,19 +2818,19 @@ Donc dans l’ensemble ils ont un développement beaucoup plus parfait que la fo
 222.04 Importance de la graphie dans le livre.
 """""""""""""""""""""""""""""""""""""""""""""""
 
-Le livre tout entier est formé d'élément» graphiques : écriture, notation, illustration. Tout ce qui touche à la langue, à l’alphabet, à l'orthographe, à la forme de l'écriture, à la disposition des textes, largeur de ligne«, marges, blancs, facilite ou retarde la lecture, doit par conséquent être retenu comme facteur du progrès bibliographique. Et à côté du texte, il y a l'image.
+Le livre tout entier est formé d'éléments graphiques : écriture, notation, illustration. Tout ce qui touche à la langue, à l’alphabet, à l'orthographe, à la forme de l'écriture, à la disposition des textes, largeur de ligne«, marges, blancs, facilite ou retarde la lecture, doit par conséquent être retenu comme facteur du progrès bibliographique. Et à côté du texte, il y a l'image.
 
-222.1 Ecriture, Alphabet, Caractères typogra?? phiques.
-^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
+222.1 Ecriture, Alphabet, Caractères typographiques.
+^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-De nombreuses questions se posent au sujet de l'écriture: sa notion, son histoire, ses espèces (alphabets), ses instruments, ses matières, son personnel; l’écriture chez le?? divers peuples, l’alphabet, phonétique international
+De nombreuses questions se posent au sujet de l'écriture: sa notion, son histoire, ses espèces (alphabets), ses instruments, ses matières, son personnel; l’écriture chez les divers peuples, l’alphabet, phonétique international
 
 
 ====
 
 *58* BIBLIOLOGIE 222
 
-Les méthodes pour apprendre à écrire. L art de l'écriture ou calligraphie.
+Les méthodes pour apprendre à écrire. L'art de l'écriture ou calligraphie.
 
 222.11 Notion.
 """""""""""""""
@@ -2839,13 +2839,13 @@ Les méthodes pour apprendre à écrire. L art de l'écriture ou calligraphie.
 
 L’écriture est la plus merveilleuse des notations ; avec 26 signes de l’alphabet latin, on peut reproduire 1 mtini des idées, comme avec les 7 notes de la musique, on peut noter la variété illimitée de la musique universelle.
 
-2. Toute écriture s'appliquant sur un support consiste en réalité à y déterminer une coloration. Il s’agit de différencier selon la lotine de certains caractères ou dessins, la couleur de récriture de celle du support physique qui sert aussi de lond. Cette différence s opère, soit par incision mettant en jeu 1 ombre et la lumière, soit par apposition d’une substance sur une substance (encre, couleur).
+2. Toute écriture s'appliquant sur un support consiste en réalité à y déterminer une coloration. Il s’agit de différencier selon la lotine de certains caractères ou dessins, la couleur de récriture de celle du support physique qui sert aussi de lond. Cette différence s opère, soit par incision mettant en jeu l'ombre et la lumière, soit par apposition d’une substance sur une substance (encre, couleur).
 
 Quant à l'impression, tous les procédés eux-mêmes (typographique ou lithographique, caractères ou clichés) reviennent à réaliser un ouvrage soit en creux (gravure sur bois, clichés en métal, à la main ou par des acides), soit en relief (les lettres typographiques réalisées en relief).
 
 3. L’écriture est idéographique ou phonétique. Dans le premier cas, e.ie représente la pensée, dans le second, elle ne représente que le langage.
 
-L écriture idéographique est la plus ancienne; elle peint les idées ou plutôt les choses; c'est comme une peinture abrégée et plus ou moins conventionné??!«, car elle tend à se simplifier avec l'usage. Ainsi 1 écriture des Chinois; nos rebus ; certains caractères hiéroglyphiques. L'écriture phonétique exprime la parole par les syllabes (écriture japonaise) ou par les articulations et autres sons élémentaires qui la composent (écriture alphabétique) ; celle-ci par l'analyse des sons arrive à les exprimer tou?? et avec un petit nombre de lettres.
+L écriture idéographique est la plus ancienne; elle peint les idées ou plutôt les choses; c'est comme une peinture abrégée et plus ou moins conventionné??!«, car elle tend à se simplifier avec l'usage. Ainsi l'écriture des Chinois; nos rebus ; certains caractères hiéroglyphiques. L'écriture phonétique exprime la parole par les syllabes (écriture japonaise) ou par les articulations et autres sons élémentaires qui la composent (écriture alphabétique) ; celle-ci par l'analyse des sons arrive à les exprimer tou?? et avec un petit nombre de lettres.
 
 4. La disposition donnée à l'écriture sur le papier a quelque chose de fondamental. En principe on peut écrire normalement de gauche à droite et d’en dessus en dessous, mais l’inverse est possible. De droite à gauche, de bas en haut, on peut écrire et commencer par la première page à partir de l'extérieur ou par la page du milieu.
 
@@ -2853,7 +2853,7 @@ L’écriture de gauche a droite a pour raison d'être l'usage de la main droite
 
 En principe, l’écriture est linéaire, car elle suit l'énonciation des sons qui se succèdent dans le temps. La ligne a donc pris trois directions fondamentales : horizontale, verticale et retour. (Boustropheron).
 
-L'écriture pourrait-elle être transformée de simplement linéaire en surface et y aurait-il quelque parti X tirer d'une écriture plurilinéaire a la manière des partitions musicales ou des notations chimiques) Sur des lignes superposées
+L'écriture pourrait-elle être transformée de simplement linéaire en surface et y aurait-il quelque parti à tirer d'une écriture plurilinéaire a la manière des partitions musicales ou des notations chimiques) Sur des lignes superposées
 ayant même direction, ou sur des lignes prenant d'un po.nt central des directions diverses seraient écrits les développements d’un exposé qui se succèdent aujourd'hui linéairement. La musique est passée de l'homophonie (ainsi le plain-chant, la mélodie) à la polyphonie (plusieurs voix) enrichissant extraordinairement l'unité musicale de temps. Il n'est pas interdit de rechercher un enrichissement analogue de la forme écrite en laquelle s'exprimerait une pensée complexe, de complexité simultanée. Le tableau synoptique, le schéma, la notation moderne de la chimie se rattachent à une telle recherche.
 
 5. L'art de l'écriture et celui du dessin ont des rapports étroits. Par exemple: la miniature et l'ornementation
@@ -2867,7 +2867,7 @@ t. ],r. rudiments primitifs et anciens du dessin, de la sculpture, de la gravure
 
 L'écriture est passée par trois stades ï
 
-a) Représentation figurée des objets et des idée??.
+a) Représentation figurée des objets et des idées.
 
 b) Représentation altérée et conventionnelle des objets.
 
@@ -2877,9 +2877,9 @@ La plupart des peuples se sont attribués l'invention de l'écriture. Les Chinoi
 
 On a vu successivement : les inscriptions sur pierre égyptiennes, grecques et romaines; les tablettes sur cite e: plomb des Romains (plume et stylet) ; les parchemins persans et turcs; l'écriture sur feuille de palmiet de Ceylan et du Siam; l'écriture des Japonais et des Chinois (pinceaux) ; les manuscrit, sur parchemin du moyen âge avec plume d’oie; l'écriture avec la plume d'acier (Sene-felder).
 
-Il en est pour l'écriture comme pour le langage. Au début, un signe signifie une phrase ou, plus encore, l'image d'une situation ou d'un incident pris dans ss totalité. Puis elle se développe en expression idéographique de chaque signe pris isolément; vient ensuite l'écriture alphabétique. Des unité» de plus en plus nombreuse» sont représentées par des signes. (Jespersen.)
+Il en est pour l'écriture comme pour le langage. Au début, un signe signifie une phrase ou, plus encore, l'image d'une situation ou d'un incident pris dans ss totalité. Puis elle se développe en expression idéographique de chaque signe pris isolément; vient ensuite l'écriture alphabétique. Des unité» de plus en plus nombreuses sont représentées par des signes. (Jespersen.)
 
-2. Hiéroglyphes, — Les anciens Egyptiens employaient pour écrire leur langue des hiéroglyphes. Ce système si caractéristique met en oeuvre, pêle-mêle, des figure?? d'hommes, d'animaux, de plantes, d astres, en un mot de tout ce qui peut être reproduit. Son nom de « hiéroglyphe » signifie ?? sculptures sacrées », car de fait n l'époque tardive où les voyageurs qui nommèrent ainsi cette écriture, visitèrent l'Egypte, elle était réservée au»
+2. Hiéroglyphes, — Les anciens Egyptiens employaient pour écrire leur langue des hiéroglyphes. Ce système si caractéristique met en œuvre, pêle-mêle, des figure?? d'hommes, d'animaux, de plantes, d'astres, en un mot de tout ce qui peut être reproduit. Son nom de « hiéroglyphe » signifie ?? sculptures sacrées », car de fait n l'époque tardive où les voyageurs qui nommèrent ainsi cette écriture, visitèrent l'Egypte, elle était réservée aux
 
 
 ====
@@ -2888,26 +2888,26 @@ Il en est pour l'écriture comme pour le langage. Au début, un signe signifie u
 
 inscriptions des temples, Elle était si intimement liée au paganisme dans la vallée du Nil qu'elle disparut avec lui et que l’on put croire que le secret était à jamais perdu, Champollion, en 1822, en découvrit la ciel.
 
-L'écriture hiéroglyphe était proprement monumentale, tant dai » l'usage public que dans l'usage privé. Sa cur sive, employée dès les temps les plus anciens pour les besoins courants de la vie, reçut le nom d'écriture hiératique ou sacerdotale, à une époque tardive où elle était réservée aux livres saints de» temples. Une simplification de l'écriture hiératique elle-même, adoptée à partir du VIIe siècle avant notre ère et devenue l’écriture normale au temps des voyageurs grecs, reçut d’eux l'appellation de démotique ou populaire.
+L'écriture hiéroglyphe était proprement monumentale, tant dai » l'usage public que dans l'usage privé. Sa cur sive, employée dès les temps les plus anciens pour les besoins courants de la vie, reçut le nom d'écriture hiératique ou sacerdotale, à une époque tardive où elle était réservée aux livres saints des temples. Une simplification de l'écriture hiératique elle-même, adoptée à partir du VIIe siècle avant notre ère et devenue l’écriture normale au temps des voyageurs grecs, reçut d’eux l'appellation de démotique ou populaire.
 
 Ecriture cunéiforme, — Les Sumériens inventèrent un système d'écriture au début de l’âge du cuivre. Les premiers éléments de cette écriture, purement pictographique, représentaient des objets matériels, schématisés, de face ou de profil. Bientôt, on constate l'insuffisance de ces signes et on invente l'idéographisme ou peinture des idées : l’objet figuré sert de symbole, soit pour d’autres objets matériels, soit pour des idées abstraites, la partie est utilisée pour le tout, ta cause pour l’effet et du groupement de plusieurs idées sortent des idéogrammes composés: le signe de l’eau placé dans le signe de la bouche, par exemple, donne l'idée de boire. Ceci est encore insuffisant pour exprimer complètement la pensée ; il faut, en outre, marquer les rapporta grammaticaux qui unissent les diverses parties du discours, c’est-à-dire les sons. Les idéogrammes éveillent dans l’esprit du lecteur les noms mêmes des objets représentés: pour plusieurs d’entr’eux on retient seulement la syllabe initiale et on s’habitue à lire indépendamment de la valeur idéographique. Un même signe d'écriture sumérien peut donc avoir plusieurs valeurs distinctes, les unes idéographiques, les autres purement syllabiques ou phonétiques.
 
-Pour faciliter la lecture, on prend l’habitude de placer comme déterminatifs certains idéogrammes devant ou derrière le?? noms appartenant à certaines classes d’objet», par exemple, l'usage du poisson avant le nom des poissons, et parfois on ajoute à un idéogramme son complément phonétique, c'est-à-dire la dernière de ses syllabes. Les Sumériens ont emp’oyé plus de 800 signes. Il est parfois tout à fait impossible de reconnaître l'objet primitivement représenté parce que les textes découverts sont pour la plupart écrits sur l'argile et il en est résulté une déformation complète des images. Le roseau dont on se servait pour tracer les signes les décomposait en éléments qui ressemblaient à des coins ou à des clous, d'où le nom d'écriture cunéiforme par lequel nous désignons l'écriture sumérienne, nom d'autant mieux justifié que sur la pierre et les autres matières dures, on prit de bonne heure l'habitude de copier naturellement les signes tels qu'ils étaient formé» sur l'argile et l'on finit par
+Pour faciliter la lecture, on prend l’habitude de placer comme déterminatifs certains idéogrammes devant ou derrière les noms appartenant à certaines classes d’objet», par exemple, l'usage du poisson avant le nom des poissons, et parfois on ajoute à un idéogramme son complément phonétique, c'est-à-dire la dernière de ses syllabes. Les Sumériens ont emp’oyé plus de 800 signes. Il est parfois tout à fait impossible de reconnaître l'objet primitivement représenté parce que les textes découverts sont pour la plupart écrits sur l'argile et il en est résulté une déformation complète des images. Le roseau dont on se servait pour tracer les signes les décomposait en éléments qui ressemblaient à des coins ou à des clous, d'où le nom d'écriture cunéiforme par lequel nous désignons l'écriture sumérienne, nom d'autant mieux justifié que sur la pierre et les autres matières dures, on prit de bonne heure l'habitude de copier naturellement les signes tels qu'ils étaient formé» sur l'argile et l'on finit par
 abandonner complètement le tracé primitif, d'épaisseur égale, rectilinéaire ou curviligne. L'écriture cunéiforme est formée d’éléments disposés de 7 façons différentes. Les plus usités sont le clou horizontal, le clou oblique de gauche à droite ou coin, et le clou vertical de haut en bas. Elle a été adoptée par les Etamiles, habitants du plateau iranien, par les peuples akkadiens, par les Assyrien»,
 
 Au début du 3° millénaire, elle est connue en Caucase et sur le plateau d’Anatolie ; plus tard, elle se répand dans les montagnes d'Arménie; les Perses Acheménide« enfin la simplifient et inventent un syllahilaire qui coni porte seulement 41 signes. C'est grâce aux textes de?? Perses que le déchiffrement des cunéiformes a pu être effectué. (1)
 
-Le développement de l’écriture hiéroglyphique, résumée brièvement est : image«, mots, utilisation de ces mots pour la constitution de rébus, en transformant le» signes ou mots en signes phonétiques à trois articulations ou à deux articulations, dont un petit nombre ont une tendance à s’atrophier, pour donner naissance à des syllabiques proprement dits, ayant une seule articulation consonantique, mais toujours avec l’impossibilité de noter les voyelles qui sont là, cependant, à l’état latent.
+Le développement de l’écriture hiéroglyphique, résumée brièvement est : image«, mots, utilisation de ces mots pour la constitution de rébus, en transformant les signes ou mots en signes phonétiques à trois articulations ou à deux articulations, dont un petit nombre ont une tendance à s’atrophier, pour donner naissance à des syllabiques proprement dits, ayant une seule articulation consonantique, mais toujours avec l’impossibilité de noter les voyelles qui sont là, cependant, à l’état latent.
 
 Il n'est pas invraisemblable que l'on constatera un jour que la découverte de l’alphabet n'a pas été le résultat d'un développement lent et continu, d’une évolution, mais au contraire le fait d’une indication qui provoqua la brusque « mutation ». (2)
 
-3. L’emploi de I alphabet a donné à la pencée humaine un essor illimité. Les Phéniciens (autochtones, non sémites et égéens) agglomérés sous le nom de Phéniciens, ont transformé l'écriture cunéiforme syllabique en une écriture alphabétique de 28 signes. (XIIIe siècle avant J. C.)
+3. L’emploi de l'alphabet a donné à la pencée humaine un essor illimité. Les Phéniciens (autochtones, non sémites et égéens) agglomérés sous le nom de Phéniciens, ont transformé l'écriture cunéiforme syllabique en une écriture alphabétique de 28 signes. (XIIIe siècle avant J. C.)
 
-L’alphabet qui est devenu commun à tous les peuples indo-européens, est d'origine sémitique et dérive de l'écriture égyptienne par l’intermédiaire de l'alphabet phénicien. Il a subi de» modifications nombreuses.
+L’alphabet qui est devenu commun à tous les peuples indo-européens, est d'origine sémitique et dérive de l'écriture égyptienne par l’intermédiaire de l'alphabet phénicien. Il a subi des modifications nombreuses.
 
-Bien qu’on attribue aux Phéniciens l'invention de l'alphabet, il est établi que les premiers signes devenus ensuite des caractères, remontent à la préhistoire. Cadmus aurait importé l'alphabet phénicien chez les Grecs qui le transmirent aux Etrusques et par eux aux Romains. L'alphabet romain est devenu le nôtre, l'alphabet latin. Comme le phénicien, l'alphabet grec n'eut d'abord que 16 lettres. 7 y furent ajoutées ensuite: g, h, k, q, x, y, z. L'alphabet français n'est que de 23 lettres, jusqu'à ce que la distinction de l'i et du j, de l'u et du v fut bien étabfie (XVIIIe siècle). L'alphabet de l'Inde, le plu» 1 2
+Bien qu’on attribue aux Phéniciens l'invention de l'alphabet, il est établi que les premiers signes devenus ensuite des caractères, remontent à la préhistoire. Cadmus aurait importé l'alphabet phénicien chez les Grecs qui le transmirent aux Etrusques et par eux aux Romains. L'alphabet romain est devenu le nôtre, l'alphabet latin. Comme le phénicien, l'alphabet grec n'eut d'abord que 16 lettres. 7 y furent ajoutées ensuite: g, h, k, q, x, y, z. L'alphabet français n'est que de 23 lettres, jusqu'à ce que la distinction de l'i et du j, de l'u et du v fut bien étabfie (XVIIIe siècle). L'alphabet de l'Inde, le plus 1 2
 (1) M. Petit. — Histoire générale des peuples. La Mésopotamie, p. 22.
-(2) Jean Capart : Quelques découvertes récentes relatives a r histoire de T alphabet. Bull. Classe des lettres de l'Académie de Belgique. 1920, n° 7-6, p. 408.
+(2) Jean Capart : Quelques découvertes récentes relatives a l'histoire de l'alphabet. Bull. Classe des lettres de l'Académie de Belgique. 1920, n° 7-6, p. 408.
 
 
 ====
@@ -2918,13 +2918,13 @@ parlait, compte 50 caractères disposés non pas au hasard comine le nôtre, mai
 
 4. Dans le système d'écriture grec, les inscriptions sont le plus souvent gravées sur marbre, sur airain, plus rarement sur plomb. L'écriture est ou rétrograde, ou bous trophède, ou stoîchedon. (Chaque lettre était placée sous la lettre correspondante à la ligne supérieure : inscriptions artiques du Ve siècle ou en colonnes (fcuonèdon); c'est le système chinois et proto-assyrien.) Le plus souvent elle est disposée comme dans nos livres, mais la ponctuation est absente ou capricieuse, les signes manquants toujours et les mots ne sont pas séparés. Les fautes d'orthographe ' et de gravure ne sont pas rares.
 
-5. Les Runes sont les caractères dont se servaient les Scandinaves et les autres Germains. L'alphabet runique comporte 16 lettres et chacune est l'initiale du nom qu'elle porte et reproduit ordinairement la forme de l'objet désigné par ce nom. Ulphilas, évêque Goth du IVe siècle, a complété l'alphabet runique par quelques 1 lettres et composé l'alphabet gothique, dont il s'est servi ' pour traduire la Bible, L'écriture gothique moderne date du XIIIe siècle : c est l’ancienne gothique assujettie à des règles fixes et composée de traits réguliers. Il tend à fairr place devant l'alphabet latin, bien que la guerre ait ralenti ce mouvement.
+5. Les Runes sont les caractères dont se servaient les Scandinaves et les autres Germains. L'alphabet runique comporte 16 lettres et chacune est l'initiale du nom qu'elle porte et reproduit ordinairement la forme de l'objet désigné par ce nom. Ulphilas, évêque Goth du IVe siècle, a complété l'alphabet runique par quelques 1 lettres et composé l'alphabet gothique, dont il s'est servi ' pour traduire la Bible, L'écriture gothique moderne date du XIIIe siècle : c'est l’ancienne gothique assujettie à des règles fixes et composée de traits réguliers. Il tend à fairr place devant l'alphabet latin, bien que la guerre ait ralenti ce mouvement.
 
 6. Les anciens Turcs (Ton-ICione, tribu des Hioung Nou) avaient des contrats sous forme d’entailles sur une planchette qu'ils scellaient en y marquant l'empreinte d'un fer de lance. C’est de leurs planchettes entaillées qu'ils se servent quand ils font la levée de gens de guerre et des chevaux et quand leurs rois font acquitter l'impôt, qui se compose de bétail, ils délivrent l'acquit par l'apposition d'un scel marqué au fer de lance. (Cahun.)
 
 L'alphabet est indépendant de la langue. Les dialectes des groupes turcs n’emploient pas moins de six caractères d’écriture différents (sans compter les transcriptions avec l’alphabet russe). l’arabe', le syriaque transformé par les Oïgours, l'arménien. Je grec, l'hébreu et le chinois, auxquels il faut ajouter l'ancienne écriture dite tchou-dique ou »uniforme, aujourd'hui reconnue pour turque. (1)
 
-L'écriture nestorienne fut apportée jadis jusqu'au Pe-Lou par le inonde chrétien. Elle s'imposa au monde turc et mongol et résista même au boudhîsme et à l'écriture chinoise. Ce ne fut qu'après 1450 que l'Eglise musulmane Se vit assez forte pour se passer de cet alphabet et imposer l’écriture arabo-persatie. Encore le mongol et le mandchou. l'ont-ils fièrement et bravement conservée. L'écriture chinoise a dévoré et englobé les écritures de l'Inde, de l’Indochine, de la C orée et du Japon.
+L'écriture nestorienne fut apportée jadis jusqu'au Pe-Lou par le monde chrétien. Elle s'imposa au monde turc et mongol et résista même au boudhîsme et à l'écriture chinoise. Ce ne fut qu'après 1450 que l'Eglise musulmane Se vit assez forte pour se passer de cet alphabet et imposer l’écriture arabo-persatie. Encore le mongol et le mandchou. l'ont-ils fièrement et bravement conservée. L'écriture chinoise a dévoré et englobé les écritures de l'Inde, de l’Indochine, de la C orée et du Japon.
 
 Les anciens peuples du Pérou ne connaissaient pas précisément l'écriture, du moins suivant notre système phonétique. Mais ils possédaient un nombre respectable
 (1) Léon Cahun. Introduction à l'Histoire de l’Asie, p. 36.
@@ -2936,9 +2936,9 @@ L'écriture que Saint Clément appelle Kyriologiquc ou expressive, mais qui éta
 
 ' que les sons font passer les sensations et les passions d'une âme dans l'autre. Cela lui donna l'idée de se mettre à étudier tous les sons de la langue iroquoise et bientôt de composer un alphabet de 200 caractères pour les représenter. ( 1 )
 
-8, Des inconnues et des incertitudes existent encore au sujet des origines et de ['histoire de l’écriture, [..es travaux se poursuivent, et bien des hypothèses continuent à être discutées.
+8, Des inconnues et des incertitudes existent encore au sujet des origines et de l'histoire de l’écriture, [..es travaux se poursuivent, et bien des hypothèses continuent à être discutées.
 
-Des études récentes ont porté sur le classement systé metique de tous les éléments d'écriture des populations primitives du globe. M. H. Wirth. en les confrontant, a trouvé que tous ce?? signes se ramènent à un seul système datant de l'époque paléolitique. (2) Il proviendrait de la division de l’année solaire, les signes de l'alphabet désigneraient les points bi-mensuels du lever et du coucher du soleil en commençant par le solstice di'hiver. I.'année étant divisée en 10 mois aux époques les plu» anciennes et en 12 mois plus tard, on obtient ainsi 20 et plus tard 24 signe??.
+Des études récentes ont porté sur le classement systé metique de tous les éléments d'écriture des populations primitives du globe. M. H. Wirth. en les confrontant, a trouvé que tous ce?? signes se ramènent à un seul système datant de l'époque paléolitique. (2) Il proviendrait de la division de l’année solaire, les signes de l'alphabet désigneraient les points bi-mensuels du lever et du coucher du soleil en commençant par le solstice di'hiver. I.'année étant divisée en 10 mois aux époques les plus anciennes et en 12 mois plus tard, on obtient ainsi 20 et plus tard 24 signe??.
 
 Si les prétendues découvertes de Glozel avaient été vraies, il eût fallu conclure qu'une écriture évoluée exis tait dans les Gaules où seraient venues puiter les civilis??
 (1) Catholiques des Pays-Bas. 16 juillet 1830.
@@ -2950,7 +2950,7 @@ Si les prétendues découvertes de Glozel avaient été vraies, il eût fallu co
 
 222  ELEMENTS GRAPHIQUES *61*
 
-lions méditerranéennes. Les Phéniciens n'auraient rien inventé du tout. L'écriture des Français serait née sur leur sol, Glozel aurait représenté une grande civilisation européenne qui aurait su s'étendre sur un vaste territoire. Les objets de Glozel. disaient les inventeurs, apporte' liaient au néolithique le plus ancien ; ils comporteraient des galets avec incision d'animaux et de signes d'écriture, signes qui ont été dés le début de l'histoire des plaques d'argile gravées de signes — au nombre de 120 — analogues aux signes chinois et phéniciens.
+lions méditerranéennes. Les Phéniciens n'auraient rien inventé du tout. L'écriture des Français serait née sur leur sol, Glozel aurait représenté une grande civilisation européenne qui aurait su s'étendre sur un vaste territoire. Les objets de Glozel disaient les inventeurs, apporte' liaient au néolithique le plus ancien ; ils comporteraient des galets avec incision d'animaux et de signes d'écriture, signes qui ont été dés le début de l'histoire des plaques d'argile gravées de signes — au nombre de 120 — analogues aux signes chinois et phéniciens.
 
 Le Clément de St Marcq (Histoire générale des Religions) explique le mécanisme de l’histoire des cinq derniers millénaires par la lutte entre l'alphabet et l'écriture chinoise. Pour lui, l'Au delà a préparé et appuyé la Révolution alphabétique ou chrétienne.
 
@@ -2966,7 +2966,7 @@ Des progrès immenses ont été réalisés avec l’écriture cursive. Ecrire pl
 
 L'écriture anglaise —- écriture coulée — et toute la cal ligraphir ont été ruinées par le stylo; la machine à écrire en détruit la raison d’être.
 
-3. Le plus petit changement de détail transforme entièrement une lettre et ce n'est pas par des courbes bizarres ni par des jambages cassés qu'on peut espérer créer de nouveaux types. Il y a trois genres propres dans la lettre : ce sont le roma'n, l'italique et le gothique. II ne faut pas songer à dénaturer le romain. Ces lettres sont dans 1 oeil des peuples depuis 2000 ans et plus et leur lisibilité dépend de leur pureté de forme.
+3. Le plus petit changement de détail transforme entièrement une lettre et ce n'est pas par des courbes bizarres ni par des jambages cassés qu'on peut espérer créer de nouveaux types. Il y a trois genres propres dans la lettre : ce sont le roman, l'italique et le gothique. II ne faut pas songer à dénaturer le romain. Ces lettres sont dans l'œil des peuples depuis 2000 ans et plus et leur lisibilité dépend de leur pureté de forme.
 
 Le dédo ublement de certaines lettres latines est arbitraire. Scinder, par exemple, l'f latin en un « i » et un « ji b ; ?’V h.tin en un «tu» et un c vé », c'est modifier l'alphabet d'une langue morte. Cela affecte la récitation d? l'alphabet, l'épellation et le classement alphabétique.
 
@@ -2980,7 +2980,7 @@ que le Yiddish, qui se rapproche de l'allemand, est coin posé et imprimé en ca
 222.14 L’alphabet.
 """""""""""""""""""
 
-Il y a lieu de considérer: 1° les lettres, 2° les accents. 3" la ponctuation. 4° les signatures et les sigles,
+Il y a lieu de considérer: 1° les lettres, 2° les accents. 3° la ponctuation. 4° les signatures et les sigles,
 
 1. Les lettres. — Ce sont, dans l'alphabet français abcd efghijlclmnopqr stuvwxyz
 
@@ -3003,7 +3003,7 @@ Pourquoi ayant imaginé le point d'interrogation, ne pourrait-on développer le 
 222.15 La connaissance des écritures.
 """"""""""""""""""""""""""""""""""""""
 
-La connaissance des écritures a donné lieu : 1° à la Paléographie ; 2° à la Graphologie sur les données de laquelle »ont basées 1rs études sur les faux en écriture.
+La connaissance des écritures a donné lieu : 1° à la Paléographie ; 2° à la Graphologie sur les données de laquelle sont basées les études sur les faux en écriture.
 
 222.151 PALEOGRAPHIE.
 ......................
@@ -3019,23 +3019,23 @@ La connaissance des écritures a donné lieu : 1° à la Paléographie ; 2° à 
 
 celle des sceaux. Le déchiffrement des inscriptions tracées sur les monuments, les vases et les médailles relève de l'Epigraphie. b) La paléographie est une partie de la Diplomatique, au sens large, celle qui consiste au de-chiffrement du texte, la diplomatique proprement dite ayant son objet d’analyser les textes, d’en déterminer la valeur, la critique et le classement des monuments écrits.
 
-A la paléographie appartient donc toute la partie pour ainsi dire extérieure de ces monuments, leur description, l’examen des substances sur lesquelles 1 écriture est tracée, celui des matières qui ont servi a tracer 1 écriture, des formes des lettres, des abréviations, des sigles. des signatures, des monogrammes, etc. Toutes ces choses peuvent fournir des indices sur l’âge du document examiné, en meme temps que le déchiffrement, dernier but de cette minutieuse étude, en découvre le sens.
+A la paléographie appartient donc toute la partie pour ainsi dire extérieure de ces monuments, leur description, l’examen des substances sur lesquelles l'écriture est tracée, celui des matières qui ont servi a tracer l'écriture, des formes des lettres, des abréviations, des sigles. des signatures, des monogrammes, etc. Toutes ces choses peuvent fournir des indices sur l’âge du document examiné, en meme temps que le déchiffrement, dernier but de cette minutieuse étude, en découvre le sens.
 
-3. Au point de vue de l’évolution continue du livre, du document, des signes, de l’écriture, des substances et des encres il y a un intérêt réel à ne pas traiter séparément de la graphie « ancienne » (paléographie) et de la graphie moderne (technique du livre), La seconde continue la première et peut trouver en elle bien des éléments arrêté1?? dans leur développement par les circonstances. mais susceptibles de larges utilisations.
+3. Au point de vue de l’évolution continue du livre, du document, des signes, de l’écriture, des substances et des encres il y a un intérêt réel à ne pas traiter séparément de la graphie « ancienne » (paléographie) et de la graphie moderne (technique du livre), La seconde continue la première et peut trouver en elle bien des éléments arrêtés dans leur développement par les circonstances. mais susceptibles de larges utilisations.
 
-4. Histoire. - La Paléographie est relativement récente. Avant le XVIIe siècle et les premiers travaux des bénédictins, on n'en possédait même pas les premiers élé ments : quelques rares érudits, depuis la Renaissance, s’étaient appliqués au déchiffrement des manuscrits et des diplômes; mais leurs efforts restaient isolés et leur science personnelle. Les archivistes même des ahhayes considéraient comme indéchiffrables les textes d’écriture mérovingienne dont les dépôts renfermaient les plus précieux spécimens. Ils consignaient naïvement en note leur complète ignorance. Ainsi se perdirent beaucoup de manuscrits considérés comme uniques. Le Père Pape broeck entreprit au XVIIe siècle de recueillir les que'ques règles éparses qui pouvaient servir aux premiers éléments de paléographie ; il les consigna dans la préface du tome II (avril) des Acta Sanctorum et cet informe essai donna à Mabillon l'idée de son célèbre traité De rc diplo-matica (1681, in fol,). Montfaucon composa une Paléographie grecque (1708, in fol.) donnant le» renseignements les plus utiles. Les grands travaux ont été complétés jusqu'à nos jours notamment par Kopp Paleographia Criiica (Mannheim 1817, 4 vol, n-8°) ; Natalis de Wailly, Eléments de Paléographie (Paris, 1838. 2 vol. gr, ïn-4") ; A. Chassant Paléographie des chartes et des manuscrits du XIe au XVIIe siècle (1847, in-8"). etc.
+4. Histoire. - La Paléographie est relativement récente. Avant le XVIIe siècle et les premiers travaux des bénédictins, on n'en possédait même pas les premiers élé ments : quelques rares érudits, depuis la Renaissance, s’étaient appliqués au déchiffrement des manuscrits et des diplômes; mais leurs efforts restaient isolés et leur science personnelle. Les archivistes même des ahhayes considéraient comme indéchiffrables les textes d’écriture mérovingienne dont les dépôts renfermaient les plus précieux spécimens. Ils consignaient naïvement en note leur complète ignorance. Ainsi se perdirent beaucoup de manuscrits considérés comme uniques. Le Père Pape broeck entreprit au XVIIe siècle de recueillir les que'ques règles éparses qui pouvaient servir aux premiers éléments de paléographie ; il les consigna dans la préface du tome II (avril) des Acta Sanctorum et cet informe essai donna à Mabillon l'idée de son célèbre traité De rc diplo-matica (1681, in fol,). Montfaucon composa une Paléographie grecque (1708, in fol.) donnant les renseignements les plus utiles. Les grands travaux ont été complétés jusqu'à nos jours notamment par Kopp Paleographia Criiica (Mannheim 1817, 4 vol, n-8°) ; Natalis de Wailly, Eléments de Paléographie (Paris, 1838. 2 vol. gr, ïn-4") ; A. Chassant Paléographie des chartes et des manuscrits du XIe au XVIIe siècle (1847, in-8"). etc.
 
-5. Le déchiffrement. — Le déchiffrement des écritures anciennes rencontre quatre ordres de difficultés: 1” La signification des caractères par rapport à 1a langue employée ; 2° la détermination des caractères employé» ; 3° la forme des lettres à distinguer les unes des autres ; 4° les abréviations ; 5° les signes abréviatifs et les monogrammes.
-6, Forme des écritures anciennes. — L'écriture cursive des Grecs était difficile à déchiffrer étant fort irrégulière; les lettres sont inégales, les plus petites sont enclavées dan» les grandes, plusieurs sont tout à fait défectueuses et l'absence de tout signe de ponctuation, les mots coupés arbitrairement à la fin des lignes. L'écriture cursive des Romains est plus indéchiffrable encore; elle a un bel aspect, les traits sont élégants et variés, mais il faut la plus grande attention pour isoler les lettres les unes des autres à cause des liaisons, des traits parasites et de la position excessivement inclinée des caractères. Les liaisons des lettres concourent dans une certaine mesure à leur formation et les rendent méconnaissables en les faisant varier à l'infini. De plus, comme dans la capitale, il n'y a aucune séparation entre les mots.
+5. Le déchiffrement. — Le déchiffrement des écritures anciennes rencontre quatre ordres de difficultés: 1” La signification des caractères par rapport à la langue employée ; 2° la détermination des caractères employé» ; 3° la forme des lettres à distinguer les unes des autres ; 4° les abréviations ; 5° les signes abréviatifs et les monogrammes.
+6, Forme des écritures anciennes. — L'écriture cursive des Grecs était difficile à déchiffrer étant fort irrégulière; les lettres sont inégales, les plus petites sont enclavées dans les grandes, plusieurs sont tout à fait défectueuses et l'absence de tout signe de ponctuation, les mots coupés arbitrairement à la fin des lignes. L'écriture cursive des Romains est plus indéchiffrable encore; elle a un bel aspect, les traits sont élégants et variés, mais il faut la plus grande attention pour isoler les lettres les unes des autres à cause des liaisons, des traits parasites et de la position excessivement inclinée des caractères. Les liaisons des lettres concourent dans une certaine mesure à leur formation et les rendent méconnaissables en les faisant varier à l'infini. De plus, comme dans la capitale, il n'y a aucune séparation entre les mots.
 
 222.152 GRAPHOLOGIE.
 .....................
 
-1. La graphologie tend à devenir une science exacte, dégagée maintenant des prétendues sciences divinatoire». C'est une méthode précieuse d'études du caractère humain. L'écriture est un geste social qui a pour but de communiquer la pensée. Appris par 1 imitation, il devient rapidement individuel. La graphologie considère l'écriture comme une succession de petits gestes individuels. Après de très longs et très persévérants efforts (le premier essai d'étude de l'écriture date de 1622), elle est parvenue à classer méthodiquement tous ces mouvements. Une méthode rationnelle, expérimentale, par conséquent scientifique. est actuellement constituée. Le graphologue devient un collaborateur du médecin, de l’éducateur, du juge, du chef d'industrie. Le Collège Libre des Sciences Sociales de France a institué un cours de graphologie. On l’enseigne à l'Ecole de Chartes de Bucarest. Un Congrès interna tional de graphologie, le deuxième, s’est tenu en 1928 à Paris et fut présidé par le professeur Pierre Janet.
+1. La graphologie tend à devenir une science exacte, dégagée maintenant des prétendues sciences divinatoire». C'est une méthode précieuse d'études du caractère humain. L'écriture est un geste social qui a pour but de communiquer la pensée. Appris par l'imitation, il devient rapidement individuel. La graphologie considère l'écriture comme une succession de petits gestes individuels. Après de très longs et très persévérants efforts (le premier essai d'étude de l'écriture date de 1622), elle est parvenue à classer méthodiquement tous ces mouvements. Une méthode rationnelle, expérimentale, par conséquent scientifique. est actuellement constituée. Le graphologue devient un collaborateur du médecin, de l’éducateur, du juge, du chef d'industrie. Le Collège Libre des Sciences Sociales de France a institué un cours de graphologie. On l’enseigne à l'Ecole de Chartes de Bucarest. Un Congrès interna tional de graphologie, le deuxième, s’est tenu en 1928 à Paris et fut présidé par le professeur Pierre Janet.
 
 2. La graphologie est la science qui permet, par un examen méthodique et approfondi de l'écriture, de pénétrer le secret des caractères avec leur complexité, leurs contradictions, leurs tares. L'écriture, en effet, est révélatrice avec ses mille formes, ses mille manières, ses combinaisons variant à l'infini, enregistrement direct de ces petits gestes non surveil'és que le cerveau transmet automatiquement à la main et qui dévoilent l'être intime.
 
-3. L’écriture est étudié tour à tour comme moyen et comme objet d'identification. On voit la personna ité humaine à travers l'écriture comme derrière un voile troué, qui masque presque entièrement certains faits et en tévèle d’autres au contraire assez bien. (F. Michaud)
+3. L’écriture est étudié tour à tour comme moyen et comme objet d'identification. On voit la personnalité humaine à travers l'écriture comme derrière un voile troué, qui masque presque entièrement certains faits et en tévèle d’autres au contraire assez bien. (F. Michaud)
 
 4. Comme il est incontestable dit le Dr Héricourt. que les caractères de la personnalité se dessinent sur le visage, il y a d'autres mouvements, comme ceux du geste, dont l'étude porte un égal intérêt. Personne d'ailleurs ne conteste la valeur de l’allure en général, quand il s'agit de reconnaître une personne dont on ne voit pas les traits,
 
@@ -3044,22 +3044,22 @@ A la paléographie appartient donc toute la partie pour ainsi dire extérieure d
 
 222  ELEMENTS GRAPHIQUES  *65*
 
-on ne peut nier que le» caractère» particuliers d'un individu ne se peignent dan» le nombre, la rapidité et l’ampleur de ses mouvement», La parole qui diffère selon l'individu, serait utile aussi à étudier dans un but d’analyse psychologique. Au fond de ses études diverses en apparence, on trouve que le sujet est toujours le même. C’est l’activité musculaire sous ses formes diverses. Le jeu de la physionomie, l'allure des bras et des jambes, la manière de parler, ce sont toujours des muscles en action, des mouvements en partie volontaires et conscients, en partie involontaires et inconscients. Or, il est un appareil moteur qui se trouve en relation encore plus intime que les autres avec la fonction cérébrale idéo-motrice, et dont le jeu doit être en conséquence un reflet très fidèle des divers modes de cette activité : c’est celui qui prête h l’action d’écrire.
+on ne peut nier que les caractères particuliers d'un individu ne se peignent dans le nombre, la rapidité et l’ampleur de ses mouvement», La parole qui diffère selon l'individu, serait utile aussi à étudier dans un but d’analyse psychologique. Au fond de ses études diverses en apparence, on trouve que le sujet est toujours le même. C’est l’activité musculaire sous ses formes diverses. Le jeu de la physionomie, l'allure des bras et des jambes, la manière de parler, ce sont toujours des muscles en action, des mouvements en partie volontaires et conscients, en partie involontaires et inconscients. Or, il est un appareil moteur qui se trouve en relation encore plus intime que les autres avec la fonction cérébrale idéo-motrice, et dont le jeu doit être en conséquence un reflet très fidèle des divers modes de cette activité : c’est celui qui prête à l’action d’écrire.
 
 L’écriture est donc un geste, composée d’une multitude de petits gestes. Elle est le jet matérialisé de la pensée.
 
-5. Les écritures paraissent être réellement toutes différentes. On découvre une infinie variété de particularités graphiques, même dans les bâtons des enfanta. On arrive à des milliard» en calculant les variétés les plus simples que l’on peut produire dans le chiffre 1, le plus simple de tous les signes. (Crepîeux-Jamîn, Les lois fondamentales de la graphologie). Le» variétés graphiques sont attribuées aux variétés de caractères : il y a une relation entre le mot et son expression motrice.
+5. Les écritures paraissent être réellement toutes différentes. On découvre une infinie variété de particularités graphiques, même dans les bâtons des enfanta. On arrive à des milliard» en calculant les variétés les plus simples que l’on peut produire dans le chiffre 1, le plus simple de tous les signes. (Crepîeux-Jamîn, Les lois fondamentales de la graphologie). Les variétés graphiques sont attribuées aux variétés de caractères : il y a une relation entre le mot et son expression motrice.
 
-6. Des méthodes perfectionnées ont été imaginées, notamment par Crépieux-Jamin (L??Ecriture et le Caractère), par Pcrsifor ^razer (À B C de la Graphologie), par Bertillon (La Comparaison des écritures) par Locard (Technique graphométrique).
+6. Des méthodes perfectionnées ont été imaginées, notamment par Crépieux-Jamin (L'Ecriture et le Caractère), par Pcrsifor ^razer (À B C de la Graphologie), par Bertillon (La Comparaison des écritures) par Locard (Technique graphométrique).
 
-7. Autrefois les experts en écriture étaient des calligra-phes, de» lithographes, de» maîtres d’école qui travaillaient dan» des conditions matérielles déplorables, avec des instruments insuffisant??. Leur procédé consistait à colliger dans les pièces soumises à l'examen des ressemblances purement matérielles de graphisme. Les vérifications se faisaient sans méthode définie, sans règle catégorique, précise. Aujourd’hui les experts en écriture se servent d’instrument» de premier ordre : le microscope et la photographie.
+7. Autrefois les experts en écriture étaient des calligra-phes, des lithographes, des maîtres d’école qui travaillaient dans des conditions matérielles déplorables, avec des instruments insuffisant??. Leur procédé consistait à colliger dans les pièces soumises à l'examen des ressemblances purement matérielles de graphisme. Les vérifications se faisaient sans méthode définie, sans règle catégorique, précise. Aujourd’hui les experts en écriture se servent d’instrument» de premier ordre : le microscope et la photographie.
 
-8. Expertise des écritures. Faux en écriture. — Depuis qu’il y a des écrits, il y a des faux. Justinien en parle et nous avons toute une littérature sur cette question nu moyen âge et dans les Temps modernes. Des incidents célèbres, affaire Dreyfus, affaire Humbert-Crawford. ont donné une importance dramatique aux théories en présence. Toute une science est née pour dépister et découvrir ces faux. La photographie et la microphotographie y ont aidé. Le» retouches ont été décelées par la composition chimique différente des encres, l'actinisme différent donnant des nuances opposéej à la photographie.
+8. Expertise des écritures. Faux en écriture. — Depuis qu’il y a des écrits, il y a des faux. Justinien en parle et nous avons toute une littérature sur cette question nu moyen âge et dans les Temps modernes. Des incidents célèbres, affaire Dreyfus, affaire Humbert-Crawford. ont donné une importance dramatique aux théories en présence. Toute une science est née pour dépister et découvrir ces faux. La photographie et la microphotographie y ont aidé. Les retouches ont été décelées par la composition chimique différente des encres, l'actinisme différent donnant des nuances opposéej à la photographie.
 
-On a recherché le parallélisme grammatique et établi pour former des diagramme» une analyse graphométrique
-montrant la variation des valeurs angulaires des lettre1» authentique» et des lettres falsifiées. (1)
+On a recherché le parallélisme grammatique et établi pour former des diagrammes une analyse graphométrique
+montrant la variation des valeurs angulaires des lettres authentiques et des lettres falsifiées. (1)
 
-9, Des règles ont été tracées par le» maîtres de ta Société Technique des Experts en écriture et qui sont aujourd'hui enseignées dans ses cours.
+9, Des règles ont été tracées par les maîtres de la Société Technique des Experts en écriture et qui sont aujourd'hui enseignées dans ses cours.
 
 222.14 Instruments, encres et spécialistes de l'écriture.
 """"""""""""""""""""""""""""""""""""""""""""""""""""""""""
@@ -3069,20 +3069,20 @@ On a écrit avec toutes espèces d’instruments, on s'est servi de toutes espè
 222.141 INSTRUMENTS.
 .....................
 
-1, L'instrument de l’écriture est la plume et le crayon. La plume est placée dans le porte-plume; le crayon est placé souvent dan» le porte-mine, et il est de toute couleur.
+1, L'instrument de l’écriture est la plume et le crayon. La plume est placée dans le porte-plume; le crayon est placé souvent dans le porte-mine, et il est de toute couleur.
 
 Aux instruments de l’écriture sont apparentés les instrument» du dessin : règle, équerre, «té», tire ligne, curseur, pantographe, etc.
 
 2, Antérieurement on a écrit avec le stylet sur la plaque de cire, avec l'arindo ou calame, avec la plume d'oie.
 
-Il n’y a pas plu?? d’une trentaine d'années, on écrivait encore en Birmanie avec un stylet de fer appelé «Kangit» sur de» feuilles de palmier, sans l'aide d'aucune encre. Le?? feuilles étaient ensuite roulées et placées dans un tube où elles pouvaient, paraît-il, conserver l'écriture intacte pendant de» centaines d’années. Cette méthode est encore employée par certains Birmans, spécialement par le» prêtres.
+Il n’y a pas plu?? d’une trentaine d'années, on écrivait encore en Birmanie avec un stylet de fer appelé «Kangit» sur des feuilles de palmier, sans l'aide d'aucune encre. Le?? feuilles étaient ensuite roulées et placées dans un tube où elles pouvaient, paraît-il, conserver l'écriture intacte pendant des centaines d’années. Cette méthode est encore employée par certains Birmans, spécialement par les prêtres.
 
 3, Aujourd’hui 1 emporte le stylo (le stylographe). porte-plume à réservoir, éventuellement avec plume en or ou en iridium.
 
 Le premier porte-plume réservoir a été conçu et réalisé par un capucin savoyard, le F. Candide de Moglard.
 
-On a critiqué l’usage du stylo. » Pour bien penser, il faut bien écrire ». La démarche même de notre pensée, sa recherche de la vérité, le crible qu'elle doit faire de tous les germes d'erreur que contient le raisonnement, «e décalquent en quelque sorte sur le mouvement du style, In poursuite du mot juste et la logique des articulations d’une rigoureuse syntaxe. Or, l’instrument de l'écriture influence l'écriture elle-même. L'usage moderne du stylo ne permet pas à l’esprit la halte légère pendant 'aquelle on plongeait sa plume dans l’encrier, ce qui donnait le loisir forcé de réfléchir sans a#ir. L’emploi de la plume d’oie avec »a taiHe intermittente doublait opportunément In durée de ce» repos nécessaires. Aujourd’hui on dicte au parlophone ; c’est la sans doute le comble de la
-(1) Voir le» belles études du Dr Locard. directeur du Laboratoire de police technique de Lyon. L'auteur en a donné un résumé dans la Reçue Générale des Sciences, 30 juillet 1922.
+On a critiqué l’usage du stylo. » Pour bien penser, il faut bien écrire ». La démarche même de notre pensée, sa recherche de la vérité, le crible qu'elle doit faire de tous les germes d'erreur que contient le raisonnement, «e décalquent en quelque sorte sur le mouvement du style, In poursuite du mot juste et la logique des articulations d’une rigoureuse syntaxe. Or, l’instrument de l'écriture influence l'écriture elle-même. L'usage moderne du stylo ne permet pas à l’esprit la halte légère pendant 'aquelle on plongeait sa plume dans l’encrier, ce qui donnait le loisir forcé de réfléchir sans a#ir. L’emploi de la plume d’oie avec »a taiHe intermittente doublait opportunément la durée de ces repos nécessaires. Aujourd’hui on dicte au parlophone ; c’est la sans doute le comble de la
+(1) Voir les belles études du Dr Locard. directeur du Laboratoire de police technique de Lyon. L'auteur en a donné un résumé dans la Reçue Générale des Sciences, 30 juillet 1922.
 
 
 ====
@@ -3091,7 +3091,7 @@ BIBLIOLOGIE  222  64
 
 rapidité, mai» elle est trop souvent acquise au prix d'un effrayant relâchement de la pensée. (E. Giscard d Estning)
 
-La vieille calligraphie, imposée par des coups de règles sur les doigts s’en est allée. Et 1 écriture est tombée en décadence. Les idées sociales à son sujet ont évolué. On a reconnu que la décadence avait commencé par l'introduction de la plume métallique, la plume pointue instrument de martyre pour le jeune enfant, de meme que le cahier à réglure multiple. Toute la spontanéité a disparu avec la liberté. L'écriture doit rester dès le début, comme le dessin, l'expression de la personnalité, bien qu'avec des qualités essentielles de lisibilité, d'harmonie et de rapi dité. (I) En Allemagne, il y a lieu de signaler la méthode Kuhimana et la méthode Huliger, ainsi que les nouvelles plumes Sônneeken.
+La vieille calligraphie, imposée par des coups de règles sur les doigts s’en est allée. Et l'écriture est tombée en décadence. Les idées sociales à son sujet ont évolué. On a reconnu que la décadence avait commencé par l'introduction de la plume métallique, la plume pointue instrument de martyre pour le jeune enfant, de meme que le cahier à réglure multiple. Toute la spontanéité a disparu avec la liberté. L'écriture doit rester dès le début, comme le dessin, l'expression de la personnalité, bien qu'avec des qualités essentielles de lisibilité, d'harmonie et de rapi dité. (I) En Allemagne, il y a lieu de signaler la méthode Kuhimana et la méthode Huliger, ainsi que les nouvelles plumes Sônneeken.
 
 Les plumes ont grande importance. Les éducateurs ont condamné les plumes pointues qui conduisent à la tension nerveuse, puis à la crispation musculaire. Les grosses plumes donnent plus de régularité et de lisibilité à l'écriture. (Ex.: S 21 ou 20 ou 5 de Sônneeken, n°?? 23, 28, 29 de Mallat. )
 
@@ -3102,9 +3102,9 @@ Heintze et Blanckertz ont entrepris en Allemagne un mouvement pour la réforme d
 
 1. L'encre est le liquide préparé pour écrire, imprimer ou dessiner à la plume,
 
-2. Il y a un grand nombre d’encres différentes. Encre d'imprimerie, pâte composée de diverses matières et notamment de noir de fumee et d huile de lin. Encre auto-graphique, encre dont on se sert en lithographie pour écrire sur un papier préparé et transporter ensuite sur la pierre ce qu'on a écrit ou dessiné. Encre sympathique, liquide incolore sur le papier et que 1 on peut rendre visible en soumettant l'écriture à certaines influences chimiques. Encre de Chine, préparation sèche de noir de fumée qu'on emploie particulièrement dans le dessin au lavis.
+2. Il y a un grand nombre d’encres différentes. Encre d'imprimerie, pâte composée de diverses matières et notamment de noir de fumee et d huile de lin. Encre auto-graphique, encre dont on se sert en lithographie pour écrire sur un papier préparé et transporter ensuite sur la pierre ce qu'on a écrit ou dessiné. Encre sympathique, liquide incolore sur le papier et que l'on peut rendre visible en soumettant l'écriture à certaines influences chimiques. Encre de Chine, préparation sèche de noir de fumée qu'on emploie particulièrement dans le dessin au lavis.
 
-3. L'Egypte, semble-t-il, fut 1« première à éterdre 1 usage de l'écriture à l'encre sur pierre et bois, aux feuilles de papyrus convenablement apprêtées. Cette invention produisit une grande révolution dans 1 art de représenter les idées et les choses. Elle aida à faire passer la peinture d'objets hiéroglyphiques en écritures et signes hiératiques, lesquels de plus en plus simplifiés, donnèrent naissance aux caractères coptes de 1 écriture démolique. Les anciens écrivaient à l'encre en même temps que sur les tablettes de cire. Les encres des palympsestes étaient fort résistantes. Après un recul dans la fabrication du IXe au XIIe siècle, on assiste à un progrès continu. Les encres italiennes et espagnoles du XVIe siècle atteignent au plus haut degré (I)
+3. L'Egypte, semble-t-il, fut 1« première à éterdre l'usage de l'écriture à l'encre sur pierre et bois, aux feuilles de papyrus convenablement apprêtées. Cette invention produisit une grande révolution dans l'art de représenter les idées et les choses. Elle aida à faire passer la peinture d'objets hiéroglyphiques en écritures et signes hiératiques, lesquels de plus en plus simplifiés, donnèrent naissance aux caractères coptes de l'écriture démolique. Les anciens écrivaient à l'encre en même temps que sur les tablettes de cire. Les encres des palympsestes étaient fort résistantes. Après un recul dans la fabrication du IXe au XIIe siècle, on assiste à un progrès continu. Les encres italiennes et espagnoles du XVIe siècle atteignent au plus haut degré (I)
 (I) R. Dottrens. L'enseignement de l'écriture, nouvelles méthodes. (Paris, Deiachaux et Niestle).
 de perfection. La décadence commence au XVIIe siècle. De nos jours les encres manquent de longue résistance.
 
@@ -3116,7 +3116,7 @@ La couleur rouge fut assez généralement affectée aux titres des livres, à la
 
 L'or a été beaucoup employé au moyen âge, principale ment du VIIIe au Xe siècle. On possède plusieurs évangiles, des livres d’heures et nombre de diplômes écrits de cette matière. L’or était réduit en encre et étendu au moyen de la plume, ou bien était appliqué par feuilles sur un appareil qui le fixait au velin, ou réduit en poudre, il était aggloméré au moyen de la gomme arabique.
 
-L'expérience apprend que l’impression noir sur blanc vaut mieux que blanc sur noir. La couleur rouge est celle qui accroche le plus nos regards.. Le vert est la couleur suivant immédiatement le rouge dans ses effets sur 1 atten tion. Ces faits découlent d'expériences de laboratoire et servent de base à la reclame.
+L'expérience apprend que l’impression noir sur blanc vaut mieux que blanc sur noir. La couleur rouge est celle qui accroche le plus nos regards.. Le vert est la couleur suivant immédiatement le rouge dans ses effets sur l'attention. Ces faits découlent d'expériences de laboratoire et servent de base à la reclame.
 
 De nos jours les livres d’art et les impressions de bibliophiles ont attaché du prix à ln couleur des encres.
 
@@ -3144,28 +3144,28 @@ Primitivement, et pendant longtemps, le fait de savoir écrire était la spécia
 
 Il y avait au moyen âge les cfiiysographes ou écrivains en or, les tachygraphes qui écrivaient avec rapidité et les calligraphes qui écrivaient à main posée.
 
-Dans les pays d’occident, il n’y a donc plus d’écrivains publics, bien que le service d'écrire pour autrui s’y continue encore. Il n’y a plus que des écrivains tout court et des t écriveurs ». On définit les écrivains, des hommes qui composent des livres, des écrits destinés à U publicité, des hommes qui écrivent avec art et avec goût; « écrivmlleur » se dit de qui écrit, mais sans grand intérêt, et « écrivassier », de qui a la démangeaison d'écrire.
+Dans les pays d’occident, il n’y a donc plus d’écrivains publics, bien que le service d'écrire pour autrui s’y continue encore. Il n’y a plus que des écrivains tout court et des « écriveurs ». On définit les écrivains, des hommes qui composent des livres, des écrits destinés à la publicité, des hommes qui écrivent avec art et avec goût; « écrivmlleur » se dit de qui écrit, mais sans grand intérêt, et « écrivassier », de qui a la démangeaison d'écrire.
 
 222.15 Ecriture à la main ou à la machine.
 """""""""""""""""""""""""""""""""""""""""""
 
-L'écriture se fait: 1° à la main (calligraphie); 2° à la machine a écrire (dactylographie) ; 3" par des procédés typographiques : xylographie, caractères fondus se composant h In main ; composition typographique à la machine.
+L'écriture se fait: 1° à la main (calligraphie); 2° à la machine a écrire (dactylographie) ; 3° par des procédés typographiques : xylographie, caractères fondus se composant à la main ; composition typographique à la machine.
 
 222.151 LA CALLIGRAPHIE, ECRITURE A LA MAIN.
 .............................................
 
 I. L'écriture à la main est, quant au tracé des lettres, tout un art. La belle écriture, l'art de ceux qui ont une belle écrit ire se dit la calligraphie.
 
-Autrefois, comme chez les Orientaux encore aujourd'hui, la calligraphie indiquait un art plu» relevé.
+Autrefois, comme chez les Orientaux encore aujourd'hui, la calligraphie indiquait un art plus relevé.
 Les Chinois, les Araires, les Turcs, les Indiens, les Persans ont porté très haut le goût de la calligraphie. Ils tiennent en grand honneur l'art de peindre l'écriture, d'en tracer les caractères avec un degré particulier d’élé gance. Le calligraphe n'y est pas placé beaucoup • au-dessous de l’écrivain qui compose un ouvrage d’un beau style.
 
-3. Enluminures. — Les manuscrits qui nous restent sorti les témoins de la grandeur rt de la décadence de l’enluminure??. Longtemps l’Orient conserva le goût et le secret de la peinture appliquée à la décoration des livres. En Occident, l’invasion des Barbares porta à 1 art calligra phique, comme à tous les arts, un coup mortel. A partir du XIVe siècle, le goût se rétablit. Les dernières années du XVe et les premières du XVIe siècle virent éclore sous le pinceau des miniaturistes des productions exquises, particulièrement dan» les ouvrages liturgiques. Elles allèrent à si haut prix que les princes seuls purent s en procurer la jouissance. Bientôt après la typographie et la gravure les proscrivent.
+3. Enluminures. — Les manuscrits qui nous restent sorti les témoins de la grandeur et de la décadence de l’enluminure??. Longtemps l’Orient conserva le goût et le secret de la peinture appliquée à la décoration des livres. En Occident, l’invasion des Barbares porta à l'art calligra phique, comme à tous les arts, un coup mortel. A partir du XIVe siècle, le goût se rétablit. Les dernières années du XVe et les premières du XVIe siècle virent éclore sous le pinceau des miniaturistes des productions exquises, particulièrement dans les ouvrages liturgiques. Elles allèrent à si haut prix que les princes seuls purent s en procurer la jouissance. Bientôt après la typographie et la gravure les proscrivent.
 
-3. Calligraphie. — Il y a des exemples modernes et 1rs traditions de la belle écriture se conservent chez quelques uns. (I)
+3. Calligraphie. — Il y a des exemples modernes et les traditions de la belle écriture se conservent chez quelques uns. (I)
 
 Léon Bloy un jour de misère, proposa au comte Robert de Montesquieu Fezcnsac. poète et descendant dune illustre famille française, de « transcrire lui-même son livre — La Chauve-Souris — sur un vélin fastueux, en écriture divine de moine carolingien, et d’orner chaque, page d'exfoliations extraordinaires, m II ajoutait « me voila prêt à vous donner un an de ma vie épouvantable, à faire pour vous un chef-d’œuvre, si vous voulez me sauver, car je péris absolument. ?? Le poète, bien qu immensément riche et d’une prodigalité vaniteuse, refusa.
 
-4. Le chef-d'œuvre calligraphique a souvent consisté en certaines acrobaties et prouesses scripturaires. Ainsi, le fait d écrire microscopiquement. Aelien parle d un homme qui, après avoir écrit un distique en lettres d or pouvait le renfermer dans l’écorce d’un grain de blé, un autre traçant des vers d’Homère sur un grain de millet. Cicéron rapporte avoir vu l’Illiade écrite sur parchemin pouvant se renfermer dans une coquille de noix. U y a loin de ces œuvres de patience aux manuscrits latins du IVe siècle dont les caractères avaient une s» grande dimension que Saint Jérôme les appelait des fardeaux écrits.
+4. Le chef-d'œuvre calligraphique a souvent consisté en certaines acrobaties et prouesses scripturaires. Ainsi, le fait d écrire microscopiquement. Aelien parle d un homme qui, après avoir écrit un distique en lettres d or pouvait le renfermer dans l’écorce d’un grain de blé, un autre traçant des vers d’Homère sur un grain de millet. Cicéron rapporte avoir vu l’Illiade écrite sur parchemin pouvant se renfermer dans une coquille de noix. Il y a loin de ces œuvres de patience aux manuscrits latins du IVe siècle dont les caractères avaient une s» grande dimension que Saint Jérôme les appelait des fardeaux écrits.
 
 D’autre part des calligraphes se sont ingéniés à tracer des figures de personnes ou d'objets à l’aide de fines lignes d’écriture. 1
 (1) Développement des maîtres calligraphes anglais du commencement des premiers scriptoria monastique??» du moyen âge à la domination de l'écriture commerciale du XIXe siècle. The english writing-masters and their Copying Book 1570-1800. A biographical dictionary and a Bibliography by Ambroise Hcsh with an introduction on tbe development of Handwriting by Stanley Mori'son. Cambrigde-Universty Press, 1931.
@@ -3173,32 +3173,32 @@ D’autre part des calligraphes se sont ingéniés à tracer des figures de pers
 
 ====
 
-BIBLIOLOGIA  66
+*66*  BIBLIOLOGIE  222
 
-5. Au début l'ccriture était angulaire, parce qu elle était obtenue par les épigraphtstes, sculpteur?? sur pierre ou graveur?? sur bronze qui faisaient les inscriptions. Quand on écrivit plus tard sur des matières ou la plume était l’instrument, on put faire les courbes et l’écriture se modifia, elle devint cursive.
+5. Au début l'écriture était angulaire, parce qu'elle était obtenue par les épigraphtstes, sculpteurs sur pierre ou graveurs sur bronze qui faisaient les inscriptions. Quand on écrivit plus tard sur des matières ou la plume était l’instrument, on put faire les courbes et l’écriture se modifia, elle devint cursive.
 
-6 Une personne quelque peu habituée a manier la plume peut écrire en moyenne trente mots è la minute, ce qui représente avec les courbes et les inflexions, une longueur de 5 mètres ou 300 mètres à 1?? heure. 3000 mètres dan?? une journée de dix heures de travail, ou 1095 kilomètres par an. De plus, en écrivant 30 mots à la minute, la plume fait en moyenne 480 courbes et inflexions, soit
+6 Une personne quelque peu habituée a manier la plume peut écrire en moyenne trente mots à la minute, ce qui représente avec les courbes et les inflexions, une longueur de 5 mètres ou 300 mètres à l'heure. 3000 mètres dans une journée de dix heures de travail, ou 1095 kilomètres par an. De plus, en écrivant 30 mots à la minute, la plume fait en moyenne 480 courbes et inflexions, soit
 
 28.000 à l'heure. 288.000 par journée de dix heures ou 105.120 kilomètres par an. enlevés à la force du poignet et des doigts...
 
-7. L’écriture lisible demeure un desiderata, surtout pour l’écriture commerciale, l'écriture comptable et 1 écriture administrative. Cette lisibilité de l’écriture est difficile à obtenir avec la prerse de la vie et l’obligation pour i certains d’écrire vite et beaucoup.
+7. L’écriture lisible demeure un desiderata, surtout pour l’écriture commerciale, l'écriture comptable et l'écriture administrative. Cette lisibilité de l’écriture est difficile à obtenir avec la prerse de la vie et l’obligation pour i certains d’écrire vite et beaucoup.
 
-C'est une vraie fatigue de lire des écritures différentes. Qu’on se figure par ex., un fonctionnaire ayant a lire tous les jours 100 à 150 requêtes écrites par des pauvres. Qu'on se figure aussi les peines des dactylographes et des typographes. • Il y a quelques années, disait un savant, il n'y avait que deux personnes qui savaient lire mon écriture, Dieu et moi ; maintenant il n'y en a plus qu’une. Dieu. >
+C'est une vraie fatigue de lire des écritures différentes. Qu’on se figure par ex., un fonctionnaire ayant a lire tous les jours 100 à 150 requêtes écrites par des pauvres. Qu'on se figure aussi les peines des dactylographes et des typographes. « Il y a quelques années, disait un savant, il n'y avait que deux personnes qui savaient lire mon écriture, Dieu et moi ; maintenant il n'y en a plus qu’une, Dieu. »
 
 8. Un mouvement s'est développé pour amener à se servir des deux mains pour écrire, indifféremment de la droite ou de la gauche. Les mutilations de la guerre ont ajouté aux raisons d'être de l’écriture ambidextre. (1)
 
 222.152 LA DACTYLOGRAPHIE. ECRITURE A LA MACHINE.
 ..................................................
 
-1. L’invention de la machine è écrire a donné naissance a une technique et un art nouveau, la Dactylographie. Elle est encore tous les jours en progrès. (2)
+1. L’invention de la machine à écrire a donné naissance a une technique et un art nouveau, la Dactylographie. Elle est encore tous les jours en progrès. (2)
 
 2. La machine a standardisé, unifié le type d’écriture; elle a permis d’écrire plus vite, et d’obtenir plusieurs copies a la fois.
 
 Dans les concours de dactylographie, le championnat atteint des 20,000 mots en un temps de six heures et de
 
-17,000 mots en 4 heures. On cite un record de 28.944 mot?? en 7 heures pour un travail dicté. (3)
+17,000 mots en 4 heures. On cite un record de 28.944 mots en 7 heures pour un travail dicté. (3)
 
-3. On a créé des variétés de machines è écrire. Pour marquer les colis, on a commencé par opérer à la main ; ?? 2 3
+3. On a créé des variétés de machines à écrire. Pour marquer les colis, on a commencé par opérer à la main ; ?? 2 3
 fl) F. Garin : Comment écrire c/es deux moins. Guide pratique pour les mutilés, les gauchers, les droitiers. Paris. Nathan. — Voir aussi les travaux de Mlle Kipiani.
 (2) Code technique de la dactylo. (Revue sténographia qve belge, 15 avril 1932, p. 99.)
 (3) L'arl de dactylographier. (Gérard G. L., L’organisation, p. 24.)
@@ -3208,9 +3208,9 @@ puis on s’est servi d’alphabets pochoirs. C’était lent et l’erreur éta
 222.153 LES CARACTERES DIMPRIMERIE.
 ....................................
 
-I. Les caractères ont toute une histoire. Les premiers étaient gravés sur bois. Gutenberg débuta ainsi. Son but était d'imiter le travail des copistes et de vendre le produit de la presse comme étant le fruit d’efforts calligraphiques. Les caractères étaient gothiques (lettres de forme suivi de lettres de somme). Schoepfer eut l’idée de fondre les lettres. Nicolas Jenson grava des caractères reproduisant des capitales romaines et des minuscules cm pruntés aux écritures latine, française, espagnole, lombarde et Caroline dont la forme se rapprochait beaucoup. Puis les caractères se développèrent: Théobalde Manuce (Aide) introduisit les < italiques ??. Granjon la cursive.
+I. Les caractères ont toute une histoire. Les premiers étaient gravés sur bois. Gutenberg débuta ainsi. Son but était d'imiter le travail des copistes et de vendre le produit de la presse comme étant le fruit d’efforts calligraphiques. Les caractères étaient gothiques (lettres de forme suivi de lettres de somme). Schoepfer eut l’idée de fondre les lettres. Nicolas Jenson grava des caractères reproduisant des capitales romaines et des minuscules cm pruntés aux écritures latine, française, espagnole, lombarde et Caroline dont la forme se rapprochait beaucoup. Puis les caractères se développèrent: Théobalde Manuce (Aide) introduisit les « italiques ». Granjon la cursive.
 
-I! y eut le Garamond. l’Elzevir, le Didot. le Bodoni, le Baskerville. Le premier livre contenant du grec imprimé est le Lactance du monastère de Subiaco.
+Il y eut le Garamond. l’Elzevir, le Didot. le Bodoni, le Baskerville. Le premier livre contenant du grec imprimé est le Lactance du monastère de Subiaco.
 
 Louis Elzevir (Leyde 1595) fut le premier qui distingua 17 et l’V consonnes des voyelles J et V. Lazare Zetnet (Strasbourg, 1619) introduisit VU rond et le J. consonne a queue dans les capitales.
 
@@ -3218,15 +3218,15 @@ Louis Elzevir (Leyde 1595) fut le premier qui distingua 17 et l’V consonnes de
 
 1. la gothique de forme, 2. la gothique de somme, 3. la bâtarde, type de transition; b) la lettre ronde ou Romain:
 
-1. Elzevir, type et forme de transition, 2, Didot: didot type, égyptienne, latine, 3. antique.
+1. Elzevir, type et forme de transition, 2. Didot: didot type, égyptienne, latine, 3. antique.
 
 Il y a toute une physiologie de la lettre. Le caractère et sa teinte ont une influence sur la compréhension des textes. I a lisibilité des caractères est le desideratum suprême. (I)
 
 3. Les types ou caractères d’imprimerie les plus employés sont les suivants: romain, italique (bâtarde), égyptienne (grasse), anglaise, gothique.
 
-La grandeur des caractères d’imprimerie s’appelle corps. Le# corps de lettres les plus usités dans les livres sont les suivants; corps, 6, 8, 9, 10 12.
+La grandeur des caractères d’imprimerie s’appelle corps. Les corps de lettres les plus usités dans les livres sont les suivants; corps, 6, 8, 9, 10 12.
 
-4. Les exigences de l’ordre, de la rapidité, de la clarté, qui sont celles de la pensée et de 1 information moderne, doivent avoir leur correspondants dans celles de 1 imprimerie. Il faut tenir compte des conditions dans lesquelles est le lecteur. Nos nerfs sont mis à dure épreuve. Nos yeux «ont très fatigués par suite du mouvement de la rue, du tourbillonnement de la publicité lumineuse et de la 1
+4. Les exigences de l’ordre, de la rapidité, de la clarté, qui sont celles de la pensée et de l'information moderne, doivent avoir leur correspondants dans celles de l'imprimerie. Il faut tenir compte des conditions dans lesquelles est le lecteur. Nos nerfs sont mis à dure épreuve. Nos yeux «ont très fatigués par suite du mouvement de la rue, du tourbillonnement de la publicité lumineuse et de la 1
 (I) Marins Audin: L'Histoire de Vlmprimerie par
 1 l'Image.
 
@@ -3239,7 +3239,7 @@ _
 
 222  ELEMENTS GRAPHIQUES  *67*
 
-multiplicité des textes que la plupart de nos occupations ou de nos délassements nous contraignent h lire. I_.'imprimé. le livre, la revue, le journal, indispensables à notre existence, doivent donc apporter des soins spéciaux et ne pas augmenter cette fatigue. J1 faut imprimer avec des caractères bien étudiés pour faire de la lecture un agré-ment et un repos pour les yeux. (2)
+multiplicité des textes que la plupart de nos occupations ou de nos délassements nous contraignent à lire. I_.'imprimé. le livre, la revue, le journal, indispensables à notre existence, doivent donc apporter des soins spéciaux et ne pas augmenter cette fatigue. J1 faut imprimer avec des caractères bien étudiés pour faire de la lecture un agré-ment et un repos pour les yeux. (2)
 
 Il faut s’élever contre les caractères difficiles a lire. Les caractères doivent être simples et clairs. Pourquoi, lorsqu il s’agit d'une indication qui doit servir à la communication avec autrui, créer une difficulté.
 
@@ -3251,10 +3251,10 @@ La lettre du point de vue typographique a fait l'objet de sérieuses études phy
 
 Les catalogues français donnent, par ex., les catégories suivantes : allongées, alsaciennes, antiques, antiques allongées. antiques grasses, classiques, égyptiennes, italiennes, latines, blanches, ombrées, maigrettes, anglaises, ronde bâtarde, gothique.
 
-6. Il existe aujourd’hui toute une industrie de la fonde rie des caractères. Tandis que les machines à fondre les caractères ne donnaient que 3,000 lettres a l’heure, la Wick Rotations machine en produit 60,000 tout ébarbés et prêtes è être mises en paquets. Le brevet américain fut payé £ 250.000. La machine est surveillée par un homme et un gamin. Elle a été inventé par Frederick Wicks, de Glasgow, simple écrivain et journaliste qui chercha à supprimer le travail de redistribution des textes. La Monotype a repris l'idée sous une autre forme. Elle aussi composant chaque jour sur caractères neufs, évite la redistribution.
+6. Il existe aujourd’hui toute une industrie de la fonde rie des caractères. Tandis que les machines à fondre les caractères ne donnaient que 3,000 lettres a l’heure, la Wick Rotations machine en produit 60,000 tout ébarbés et prêtes à être mises en paquets. Le brevet américain fut payé £ 250.000. La machine est surveillée par un homme et un gamin. Elle a été inventé par Frederick Wicks, de Glasgow, simple écrivain et journaliste qui chercha à supprimer le travail de redistribution des textes. La Monotype a repris l'idée sous une autre forme. Elle aussi composant chaque jour sur caractères neufs, évite la redistribution.
 
 7. La durée des caractères dépend de la composition du métal. Des corps 7 et 8 ont souvent reçu deux millions d’impressions lisibles dans les journaux ; la normale est 2
-(2) Voir les récentes études de la « Linotype » et de son caractère Ionie, qui apporte, avec plus de clarté et de soutien pour l’oeil, une capacité de Î3 % de texte en plus, sur moins de papier.
+(2) Voir les récentes études de la « Linotype » et de son caractère Ionie, qui apporte, avec plus de clarté et de soutien pour l’œil, une capacité de Î3 % de texte en plus, sur moins de papier.
 un million, et mainte imprimerie rejette le petit type après 300,000. Pour les travaux courants et les ouvrages soignés, la limite doit être fixée beaucoup plus bas.
 
 222.16 Les systèmes spéciaux d’écriture.
@@ -3265,33 +3265,33 @@ Parmi les systèmes spéciaux et les modalités de l’écriture, il y a lieu de
 222.161 L'IDEOGRA HHIE.
 ........................
 
-On entend par idéographie de» signe» qui expriment directement l’idée et non le» sons du mot qui représenterait cette idée: le» chiffres arithmétiques »ont de véritables idéogrammes.
+On entend par idéographie des signes qui expriment directement l’idée et non les sons du mot qui représenterait cette idée: les chiffres arithmétiques sont de véritables idéogrammes.
 
 Tandis que les Chinois abandonnent l’idéographie et adoptent notre alphabet, voila que l’Occident lui reconnaît des avantages et fait des essais pour y revenir.
 
-En apprenant l’écriture et l’orthographe, on n’npprend guère de notions ; et 1a communication de peuple à peuple reconnaît les obstacles de la langue.
+En apprenant l’écriture et l’orthographe, on n’npprend guère de notions ; et la communication de peuple à peuple reconnaît les obstacles de la langue.
 
-Les néoglyphea. U nouvelle écriture mondiale du Prof. Alex. Sommer-Batek (Prague).
+Les néoglyphea. Ilnouvelle écriture mondiale du Prof. Alex. Sommer-Batek (Prague).
 
 222.162 STENOGRAPHIE.
 ......................
 
-L Notion, — La sténographie est I art d écrire rapide ment en abréviations, d’écrire aussi promptement que la parole. Elle a d’abord été dénommée «brachygraphie» et « tnrhygraphie » ; les Anglais lui ont donne le nom de ■ shorthand », c’cat-è-dire main brève ou courte écriture.
+L Notion, — La sténographie est l'art d'écrire rapidement en abréviations, d’écrire aussi promptement que la parole. Elle a d’abord été dénommée « brachygraphie » et « tachygraphie » ; les Anglais lui ont donne le nom de « shorthand », c’cat-è-dire main brève ou courte écriture.
 
-I .’art sténographique est une des plus précieuies inventions du XIXe siècle.
+1. L'art sténographique est une des plus précieuies inventions du XIXe siècle.
 
 Dans l’état actuel de la sténographie, des vitesse de 200, 240 et 250 mots a la minute ne sont pas impossible (en anglais).
 
-2. L’histoire de la sténographie remonte a l’antiquité. Les Hébreux Lavaient connue, le» Grec» en faisaient usage, elle était courante è Rome. Cicéron écrivait par signes inventés par Ennius et qu’il apprit h son affranchi Tiron. Celui-ci les perfectionna (notes tironiennes). L’enseignement s??en répandit et ce devint courant pour le» particuliers d’avoir un esclave ou un affranchi qui écrivait à la volée. On les appela d’abord en grec tachcographi, en latin cursores. coureurs à cause de la rapidité avec laquelle ils traçaient les discours. Ces cursores ont été appelé» depuis notarii, a cause des notes dont ils se servaient. Le moyen âge a connu la sténographie.
+2. L’histoire de la sténographie remonte a l’antiquité. Les Hébreux Lavaient connue, les Grecs en faisaient usage, elle était courante à Rome. Cicéron écrivait par signes inventés par Ennius et qu’il apprit à son affranchi Tiron. Celui-ci les perfectionna (notes tironiennes). L’enseignement s'en répandit et ce devint courant pour les particuliers d’avoir un esclave ou un affranchi qui écrivait à la volée. On les appela d’abord en grec tachcographi, en latin cursores. coureurs à cause de la rapidité avec laquelle ils traçaient les discours. Ces cursores ont été appelé» depuis notarii, a cause des notes dont ils se servaient. Le moyen âge a connu la sténographie.
 
-3. En sténographie on supprime tous les accessoires de l’écriture, tout ce que les organes vocaux n'articulent pas. ou ce qui n'est pas perçu par l’oreille. Il n'est pas tenu compte de l’orthographie. On supprime même les simple» voyelles. On se sert en outre de signes simplifié».
+3. En sténographie on supprime tous les accessoires de l’écriture, tout ce que les organes vocaux n'articulent pas, ou ce qui n'est pas perçu par l’oreille. Il n'est pas tenu compte de l’orthographie. On supprime même les simples voyelles. On se sert en outre de signes simplifiés.
 
 
 ====
 
-BIBLIOLOGIE  222  *68*
+*68*  BIBLIOLOGIE  222
 
-4. Le document sténographié prend une place de plus en plus importante. C'est la division du travail. Au travail de la composition littéraire se substitue celui de l'improvisation parlée, laquelle est enregistrée d’autre part par le sténographe. Tous les débats publics, dans les parle ments, les conseils, les comités donnent lieu à une formidable littérature. I .es méthodes du travail personnel elles-mêmes se transforment sous l'empire de la sténographie. Théodore Roosevelt a donné l'exemple de dicter à ses sténographe» ses adresses et messages au Congres, et les réponses détaillées aux lettres qui lui étaient envoyées. Depuis en Amérique, en Europe ensuite, l'usage des sténographes privés s’est considérablement développé. Ce vont les sténo dactylographes.
+4. Le document sténographié prend une place de plus en plus importante. C'est la division du travail. Au travail de la composition littéraire se substitue celui de l'improvisation parlée, laquelle est enregistrée d’autre part par le sténographe. Tous les débats publics, dans les parle ments, les conseils, les comités donnent lieu à une formidable littérature. I .es méthodes du travail personnel elles-mêmes se transforment sous l'empire de la sténographie. Théodore Roosevelt a donné l'exemple de dicter à ses sténographes ses adresses et messages au Congres, et les réponses détaillées aux lettres qui lui étaient envoyées. Depuis en Amérique, en Europe ensuite, l'usage des sténographes privés s’est considérablement développé. Ce vont les sténo dactylographes.
 
 5. Dans les Assemblées et Congrès, il y a une organisation permanente de la sténographie. Le service est ordinairement assumé par deux équipes de deux sténographes qui travaillent à tour de rôle 15 minutes par heure. Aussitôt après la relève, les deux sténographes se retirent pour dicter chacun à des dactylos la moitié de la prise.
 
@@ -3301,7 +3301,7 @@ La « Brevigraphie ». inventée par Raoul Brevnl, utilise les lettres de l'alph
 
 7. Sténographie mécanique. — La sténographie est devenue mécanique. D'admirables petites machines ont été inventées (notamment la Sténophile Bivort). Les avantages sont ceux ci :
 
-Absence de toute méthode difficile h apprendre ; écriture en lettres alphabétiques ordinaires, facilité d’apprentissage : lecture possible pour tous ; fatigue nulle ; vitesse illimitée, dépassant de loin la parole humaine ; mécanique simple, légère, peu volumineuse et silencieuse ; possibilité de sténographier en toutes langues et meme dans 1 obscurité.
+Absence de toute méthode difficile à apprendre ; écriture en lettres alphabétiques ordinaires, facilité d’apprentissage : lecture possible pour tous ; fatigue nulle ; vitesse illimitée, dépassant de loin la parole humaine ; mécanique simple, légère, peu volumineuse et silencieuse ; possibilité de sténographier en toutes langues et meme dans l'obscurité.
 
 On sténographie et on relit parfaitement les langues sans en rien comprendre.
 
@@ -3309,16 +3309,16 @@ Une fable connue, composée de 70 mots, est écrite en 10 secondes, ce qui donne
 
 8. Documentation sténographique. — L'Association inter nationale des Sténographes a formulé le projet de concentration en une Bibliothèque unique de tous les documents dont le caractère commun est d'être le résultat de la sténographie. (Voir les communications faites à ce sujet par M. Depoin à 1??1. I. B.).
 
-9. Problème». — Il y a trois degrés dans le» problèmes a résoudre :
+9. Problèmes. — Il y a trois degrés dans les problèmes à résoudre :
 
-Io Une sténographie personnelle efficace;
+1° Une sténographie personnelle efficace;
 
-2° Une sténographie lisible de tou» ;
+2° Une sténographie lisible de tous;
 
 3° Un seul système de sténographie.
 
 L'écriture sténographique mentale serait plus rapide
-que l'écriture alphabétique, de telle sorte que la sténographie ouvrirait la voie à 1 écriture et à la lecture rapide.
+que l'écriture alphabétique, de telle sorte que la sténographie ouvrirait la voie à l'écriture et à la lecture rapide.
 
 Il est nécessaire de :
 
@@ -3341,11 +3341,11 @@ On a déterminé qu'un tableau phonographique complet comporterait environ 150 s
 
 1. La cryptographie est l'art des écritures secrètes. On lui a donné divers autres noms; cryptologie, polygraphie, stéganographie, etc.
 
-2. De tous temps, les gouvernements, les hommes d'Etat, les ambassadeurs, les hommes de guerre, ont utilisé ce qu'on est convenu d appeler le langage chiffré. A cet effet, on emploie des clefs, des grilles, de» livres à pages repérées, des jeux de cartes, des livre» typogra phiques (Le Scarabée d’Or, d Edgard Poë).
+2. De tous temps, les gouvernements, les hommes d'Etat, les ambassadeurs, les hommes de guerre, ont utilisé ce qu'on est convenu d appeler le langage chiffré. A cet effet, on emploie des clefs, des grilles, des livres à pages repérées, des jeux de cartes, des livres typogra phiques (Le Scarabée d’Or, d'Edgard Poë).
 
-Pendant la guerre, le Bureau des chiffres h l’Etat-Major français a été chargé de reconstituer le sens de tous les radiogrammes conventionnels.
+Pendant la guerre, le Bureau des chiffres à l’Etat-Major français a été chargé de reconstituer le sens de tous les radiogrammes conventionnels.
 
-En diplomatie, le chiffre a dû se développer parallèlement « l'usage du cabinet noir par où les gouvernement» auprès desquels les ambassadeurs sont accrédités font souvent passer leur correspondance.
+En diplomatie, le chiffre a dû se développer parallèlement « l'usage du cabinet noir par où les gouvernements auprès desquels les ambassadeurs sont accrédités font souvent passer leur correspondance.
 
 Des hommes de science se sont servi d'écriture secrète. Ainsi Francis Bacon usait probablement de cryptographie comme un moyen d’enregistrement scientifique de ver» qu'il destinait à la postérité scientifique. Ces vérités auraient été inintelligibles pour les contemporains ou leur révélation aurait été dangereuse pour lui. (Bacon-Shakespeare. Mercure de France, 15-1X-1922.)
 
@@ -3354,25 +3354,25 @@ Des hommes de science se sont servi d'écriture secrète. Ainsi Francis Bacon us
 
 222  ELEMENTS GRAPHIQUES  *69*
 
-la difficulté de lire les dépêches en chiffres, on emploie une grille, carton bizarrement découpé à jour qui, dès quil est placé convenablement sur les dépêches, ne laisse paraître que les caractères nécessaires ; car les caractères de remplissage n’ont été ajoutés par l’expéditeur qu’après qu’il a eu écrit la dépêche.
+La difficulté de lire les dépêches en chiffres, on emploie une grille, carton bizarrement découpé à jour qui, dès quil est placé convenablement sur les dépêches, ne laisse paraître que les caractères nécessaires ; car les caractères de remplissage n’ont été ajoutés par l’expéditeur qu’après qu’il a eu écrit la dépêche.
 
-Le système d’écriture en chiffres le plus simple consiste h écrire les vingt-quatre caractères de l’alphabet (le ; non compris) sur deux lignes horizontales et parallèles. Quand on veut déguiser un mot, il suffit de représenter les lettres de chaque mot par celles qui leur correspondent dans l’autre ligne. Ce n’est guère qu’un jeu d’enfant. Les systèmes usités en diplomatie sont beaucoup plus compliqués.
+Le système d’écriture en chiffres le plus simple consiste à écrire les vingt-quatre caractères de l’alphabet (le ; non compris) sur deux lignes horizontales et parallèles. Quand on veut déguiser un mot, il suffit de représenter les lettres de chaque mot par celles qui leur correspondent dans l’autre ligne. Ce n’est guère qu’un jeu d’enfant. Les systèmes usités en diplomatie sont beaucoup plus compliqués.
 
 Autre exemple d’écriture secrète. On a choisi un volume quelconque dont chacun des correspondants possède un exemplaire. On a décidé de faire usage de nombres de 4 chiffres, dont le premier est celui de la page, le deuxième de la ligne, te troisième du mot, le quatrième de la lettre. On obtient, par exemple, le cryptogramme chiffré 6432. 7626, 3214. 8217, 8219, 2314 pour désigner VERDUN, Ici 6432 signifie 6” page. 4?? ligne. 3P mot,
 
 2‘ lettre.
 
-5. La ressource des alphabets secrets est devenue illusoire car le nombre des combinaisons e»t borné et d’habile» déchiffreurs finissent généralement par en trouver la clé. Ceci exige de nombreuses connaissances, la possession des langues, une patience à toute épreuve, car ce n’est qu’après une infinité de tâtonnements que l’on peut atteindre le but.
+5. La ressource des alphabets secrets est devenue illusoire car le nombre des combinaisons est borné et d’habiles déchiffreurs finissent généralement par en trouver la clé. Ceci exige de nombreuses connaissances, la possession des langues, une patience à toute épreuve, car ce n’est qu’après une infinité de tâtonnements que l’on peut atteindre le but.
 
 222.164 ECRITURE DES AVEUGLES.
 ...............................
 
 1. Braille (1806 1852) créa un nouveau système d’écriture par un petit nombre de combinaisons de points saillants pour la lecture par le toucher. Il l’appliqua À la notation musicale. Foucault y ajouta de nouveaux perfectionnements. Ce système, répandu aujourd’hui dans le monde entier, a détrôné tous les autres.. Ernest Vaughan a imaginé une petite imprimerie qui donne une reproduction rapide du texte. Celui-ci, composé d’un côté en lettres romaines, se trouve être par le fait même, de l’autre côté en signes Braille.
 
-2. Le lecteur normal de Braille réalise une lecture courante de 100 à 120 mots h la minute.
+2. Le lecteur normal de Braille réalise une lecture courante de 100 à 120 mots à la minute.
 
 3. On a d’abord cherché à donner du relief aux lettres ordinaires. Toutes les écritures ont cédé la place à l’alphabet de L. Braille, aujourd’hui universellement adopté et que les Chinois eux-mêmes ont adapté à leur écriture idéo graphique. Avec un maximum de 6 points. Braille a réalisé 63 signes parfaitement tangibles. La lecture cependant a d?es limites et des conditions psychologiques. Le pouvoir séparateur du doigt est infiniment moindre que celui de Toril. Tout agrandissement fait perdre dans la lenteur de l’examen analytique des consonnes ce qu’on gagne en netteté et clarté.
-On a constaté dans un autre domaine, que la persis tance des images lumineuse» sur la rétine est impuissante à expliquer la reconstitution cinématographique. Il faut faire intervenir la synthèse perceptive, œuvre purement mentale. De même dans la lecture des aveugles. Epeler, c’est fatiguant et rebutant. La synthèse mentale d’élément» tactiles successifs ne peut s'opérer rapidement. I .a palpation (toucher) est essentiellement active: le doigt ne subit pas l’objet, il l'explore.
+On a constaté dans un autre domaine, que la persis tance des images lumineuses sur la rétine est impuissante à expliquer la reconstitution cinématographique. Il faut faire intervenir la synthèse perceptive, œuvre purement mentale. De même dans la lecture des aveugles. Epeler, c’est fatiguant et rebutant. La synthèse mentale d’élément» tactiles successifs ne peut s'opérer rapidement. La palpation (toucher) est essentiellement active: le doigt ne subit pas l’objet, il l'explore.
 
 4. Des progrès récents très remarquables, bien que non décisifs, ont été faits dans l'écriture pour aveugles ou écriture dont la lecture exclut l’intervention de l’œil (écriture tangible ou sonore). On est en présence de Toto phone de Fournier d’Albc représentant chaque lettre par un motif musical ; d’autre part du visagrapbe de Naumburg et du photoélectrographe de Thomas et Cou-laud qui fait appel au toucher. (1)
 
@@ -3383,9 +3383,9 @@ On est parvenu, à l’intermédiaire d’un système photo électrique, a trans
 
 1. Les adeptes du spiritisme et de la métapsychie ont présenté des écrits obtenus par le médium et émanant de personnages morts. C’est l’écriture automatique qui a fait l’objet de recherches physico-psychologiques.
 
-Pour correspondre avec les esprits désincarnés, on a imaginé un tableau portant les lettres de l’alphabet et qu’on appelle le « Ja Ne ». Il a donné lieu récemment ?>ar perfectionnement à un téléphone avec 1 au delà. (2)
+Pour correspondre avec les esprits désincarnés, on a imaginé un tableau portant les lettres de l’alphabet et qu’on appelle le « Ja Ne ». Il a donné lieu récemment ?>ar perfectionnement à un téléphone avec l'au delà. (2)
 
-2. A l’écriture Spirite se rattache 1a question de la photographie directe de la pensée. Certains n écartent pas la possibilité qu’un jour, par quelques procédé» encore ignorés, la pensée pourra s’enregistrer »ans intermédiaire sur quelque plaque ou papier spécialement sensible. ?? 2
+2. A l’écriture Spirite se rattache la question de la photographie directe de la pensée. Certains n écartent pas la possibilité qu’un jour, par quelques procédé» encore ignorés, la pensée pourra s’enregistrer »ans intermédiaire sur quelque plaque ou papier spécialement sensible. ?? 2
 ( I ) Pierre Henri : « Une application de la photoélec tricité ». Revue scientifique. 23 avril 1932, p. 239.
 (2) Voir Bulletin de la Société Métaphysique de Relui, que. 1932
 
@@ -3393,7 +3393,7 @@ Pour correspondre avec les esprits désincarnés, on a imaginé un tableau porta
 
 Les combinaisons sont à l'infini. Le déchiffrement se fait par tâtonnement, basé sur une vingtaine de règles (par ex. celle du redoublement des lettres).
 
-4 La clef d'un chiffre est l'alphabet dont on est convenu. On en distingue de plusieurs espèces: le chiffre à simple clef est celui dans lequel on se sert toujours d'un même alphabet pour remplacer !<??« diverses lettres d’une dépêche, et le chiffre à double clef, celui où on change l’alphabet à chaque mot. On se sert en outTe de nulle», syllabes ou même phrases insignifianteir. que l'on mêle aux caractères significatifs. Pour augmenter encore
+4 La clef d'un chiffre est l'alphabet dont on est convenu. On en distingue de plusieurs espèces: le chiffre à simple clef est celui dans lequel on se sert toujours d'un même alphabet pour remplacer !<??« diverses lettres d’une dépêche, et le chiffre à double clef, celui où on change l’alphabet à chaque mot. On se sert en outre de nulles, syllabes ou même phrases insignifianteir. que l'on mêle aux caractères significatifs. Pour augmenter encore
 
 
 ====
@@ -3402,7 +3402,7 @@ Les combinaisons sont à l'infini. Le déchiffrement se fait par tâtonnement, b
 
 3. La métapsychique et les sciences occultes ont leur manière spéciale d'envisager certains phénomènes, tel le rôle enregistreur du papier. Maeterlinck raconte {L??H6tc inconnu, p. 51) qu'un voyant consulté par sa femme pendant qu'il allait voir les chevaux d'Elberfeld, sur la remise d'un papier de lui fort ancien et sans rapport avec son voyage, décrivit les écuries où il se trouvait. « faut-il croire que l'aspect de ce que j'allais voir un jour se trouvait déjà inscrit dans ce papier prophétique ou plus simplement et plus probablement que ce papier qui me représentait suffirait à transmettre soit au subconscient d'une femme, soit à Mme M. que je ne connaissais d'ailleurs pas encore, l’image exacte de ce que mes yeux contemplaient à cinq ou six cents kilomètres de là?»
 
-Le papier serait imprégné du fluide des personnes qui l'ont touché. Explication: < Ou bien le papier réuni au » psychomètre et imprégné de fluide humain recèle, à » la manière d'un gaz prodigieusement comprimé, toutes » les images sans cesse renouvelées, sans cesse renais » santés, qui entourent un être, tout son passé, et peut » être son avenir, sa psychologie, sa santé, ses désirs, sel » volontés souvent inconnues de lui-même, toute sa vie » en un mot, mystère aussi insondable que celui de la » génération, qui transmet, dans une particule infinités»-» male, la matière et l'esprit, toutes les qualités et les » tares, toutes les acquisitions, toute l’histoire d une série » d'existences dont nul ne peut savoir le nombre. » D'autre part, si Ton n’accepte pas que tant d'énergie puisse se cacher, subsister, s'agiter, se développer et indéfiniment évoluer dans une feuille de papier, il faut nécessairement supposer que de ce même papier rayonne constamment un invraisemblable réseau de forces innommées qui, à travers le temps et l'espace, retrouvent à l’instant même et n'importe où. la vie qui leur donna la vie et le mettent en communication intégrale, âme et corps, sens et pensées, passé et avenir, conscience et subconscience avec une existence perdue parmi la foule innombrable.
+Le papier serait imprégné du fluide des personnes qui l'ont touché. Explication: « Ou bien le papier réuni au » psychomètre et imprégné de fluide humain recèle, à » la manière d'un gaz prodigieusement comprimé, toutes » les images sans cesse renouvelées, sans cesse renais » santés, qui entourent un être, tout son passé, et peut » être son avenir, sa psychologie, sa santé, ses désirs, sel » volontés souvent inconnues de lui-même, toute sa vie » en un mot, mystère aussi insondable que celui de la » génération, qui transmet, dans une particule infinités»-» male, la matière et l'esprit, toutes les qualités et les » tares, toutes les acquisitions, toute l’histoire d une série » d'existences dont nul ne peut savoir le nombre. » D'autre part, si Ton n’accepte pas que tant d'énergie puisse se cacher, subsister, s'agiter, se développer et indéfiniment évoluer dans une feuille de papier, il faut nécessairement supposer que de ce même papier rayonne constamment un invraisemblable réseau de forces innommées qui, à travers le temps et l'espace, retrouvent à l’instant même et n'importe où. la vie qui leur donna la vie et le mettent en communication intégrale, âme et corps, sens et pensées, passé et avenir, conscience et subconscience avec une existence perdue parmi la foule innombrable.
 
 Le papier absorberait comme une éponge toute la vie et de préférence la vie subconsciente de celui qui ’’écrivit, et dégorgerait dans notre subconscience tout ce qu’il
 
@@ -3419,14 +3419,14 @@ et généralisé, il devient la base de communication?? étendues.
 222.171 Méthode pour apprendre à écrire.
 .........................................
 
-Í. Gros problème. Des centaines et des centaine» de millions d’humains qui doivent apprendre à écrire, d'où des méthodes en grand nombre. Tout progrès dans le»
+Í. Gros problème. Des centaines et des centaines de millions d’humains qui doivent apprendre à écrire, d'où des méthodes en grand nombre. Tout progrès dans le»
 méthodes correspond à un gain de temps dans l'ensei gnement.
 
 2. Apprendre à écrire se fait en apprenant à lire et réciproquement.
 
 Dans la méthode Montessori, on commence par rendre la main et les doigts exercés à un dessin et plus tard on passe au tracé des lettres. La méthode repose sur un développement de tous les sens. Les doigts sont exercés à suivre le contour de lettres taillées dans du carton recouvert de papier de sable, très sensible au toucher.
 
-Des pédagogues ont pensé à faire apprendre à écrire aux enfants directement en se servant de la machine. Le mouvement de celle-ci et f activité qu'r/s peuvent y appliquer intéresse vivement les enfants, à qui ensuite seulement est apprise l’écriture à la main.
+Des pédagogues ont pensé à faire apprendre à écrire aux enfants directement en se servant de la machine. Le mouvement de celle-ci et l'activité qu'ils peuvent y appliquer intéresse vivement les enfants, à qui ensuite seulement est apprise l’écriture à la main.
 
 Cette idée est assez naturellement venue à l'esprit d'un pédagogue ayant remarqué que tout enfant, à la vue d'une machine à écrire, n’a qu'une idée: la mettre en mouvement. Il tape sur les touches, connaît très rapidement les signes et apprend, en se jouant, à lire et à écrire. De cette manière, on utilise l'instinct du jeu, si vif chez tout être jeune, aux fins de l'éducation. C'est un principe qu’en pédagogie il ne faut jamais oublier. L’expérience a déjà montré qu'après cet enseignement dû à la machine, risn n’est plus facile que d inculquer à l’enfant les premières notions de l'écriture.
 
@@ -3437,7 +3437,7 @@ Cette idée est assez naturellement venue à l'esprit d'un pédagogue ayant rema
 
 2. En dactylographie, on a atteint des vitesses de 45.5 à 60 mots par minute.
 
-[.a reine des dactylos (l'Américaine Rose Fritz) a ??u atteindre ia vitesse de 265 mot» à Ja minute, soit trois à quatre mots à la seconde, à la condition que le texte lui soit connu et que les mots soient de petits mots. Autrement la vitesse tombe à 155. Au fond ce travail ne signifie pas autre cho'e qu’un copieux récital de piano pour un musicien.
+La reine des dactylos (l'Américaine Rose Fritz) a su atteindre la vitesse de 265 mots à la minute, soit trois à quatre mots à la seconde, à la condition que le texte lui soit connu et que les mots soient de petits mots. Autrement la vitesse tombe à 155. Au fond ce travail ne signifie pas autre chose qu’un copieux récital de piano pour un musicien.
 
 3. La prise sténographique a des vitesse allant de 140 à 180 mots par minute.
 
@@ -3446,14 +3446,14 @@ Cette idée est assez naturellement venue à l'esprit d'un pédagogue ayant rema
 222.173 EMPLOI DE L ECRITURE.
 ..............................
 
-Au début, Jes besoins pratiques de l'écriture ont été fort limités, par ex. pour établir des inventaires, pour des aides-mémoires pour la récitation de rituels. Graduel-
+Au début, les besoins pratiques de l'écriture ont été fort limités, par ex. pour établir des inventaires, pour des aides-mémoires pour la récitation de rituels. Graduel-
 
 
 ====
 
-ELEMENTS GRAPHIQUES  222
+222  ELEMENTS GRAPHIQUES  *71*
 
-lement le besoin d’écriture s’est étendu. U te confond avec le besoin de document et se mesure comme lui.
+lement le besoin d’écriture s’est étendu. Il se confond avec le besoin de document et se mesure comme lui.
 
 222.174 UNIFICATION DES ECRITURES :
 ....................................
@@ -3468,11 +3468,11 @@ Cinq moyens ont été ou sont à envisager :
 
 2° Le remplacement de petits systèmes alphabétiques par de plus grands;
 
-3” Une unification des alphabets sur la base de l’un d eux, l’alphabet latin ;
+3° Une unification des alphabets sur la base de l’un d'eux, l’alphabet latin ;
 
 4° Un alphabet nouveau à la forme rationalisée et standardisée ;
 
-5“ Un système général d’expressions unifié et standardisé dont l'écriture elle-même fasse partie,
+5° Un système général d’expressions unifié et standardisé dont l'écriture elle-même fasse partie,
 
 1°) Alphabet international. — On a travaillé à l’établissement d’un alphabet international pour la transcription a) de tous les autres alphabets, b) de tous les sons parlés quelconques,
 
@@ -3492,13 +3492,13 @@ Il permettrait de transcrire toutes les langues en aym botes phonétiques, abstr
 71 l
 2°) Renforcement des petits systèmes alphabétiques. — On a assisté à l’extension même d'alphabets différents sous la forme de quelques grands alphabets et cela parallèlement au mouvement qui a conduit à l'établissement de quelques grandes langues nationales, après le refoulement des patois.
 
-3") Unification à base d'alphabet latin. — Un grand mouvement s’est manifesté vers 1 unification des alpha l>et-t sur la base de l'alphabet latin. En effet, on constate que le retour au gothique n’a guère fait de progrès en Allemagne dans ces dernières années.
+3") Unification à base d'alphabet latin. — Un grand mouvement s’est manifesté vers l'unification des alphabets sur la base de l'alphabet latin. En effet, on constate que le retour au gothique n’a guère fait de progrès en Allemagne dans ces dernières années.
 
-Les peuples 1 urco-T artares de l'U. R. S. S. ont consacré et adopté l'alphabet latin de 1922 qui, a dit Lénine, constitue une révolution pour l'Orient. Et en effet, les peuples du Nord du Caucase et de l'Asie centrale n'avaient pas de langage écrit avant la révolution d'octobre. Dans i'Azerbajoor, on a constaté que la facilité d assimilation de l’alphabet latin sur 1 alphabet arabe était de 7 à 80 % plus grande.
+Les peuples Turco-Tartares de l'U. R. S. S. ont consacré et adopté l'alphabet latin de 1922 qui, a dit Lénine, constitue une révolution pour l'Orient. Et en effet, les peuples du Nord du Caucase et de l'Asie centrale n'avaient pas de langage écrit avant la révolution d'octobre. Dans i'Azerbajoor, on a constaté que la facilité d assimilation de l’alphabet latin sur l'alphabet arabe était de 7 à 80 % plus grande.
 
 a) C est l'Association des Orientalistes de Moscou qui s'est occupé du nouvel alphabet turcoman (MM. Barthold, Pavlovich, Menued Zadé). On a analysé l'ancien alphabet arabe et l'alphabet latin et l’on a démontré qu on ne pouvait remédier à leurs défectuosités qu’en introduisant un nouvel alphabet turcoman. basé sur les caractères latins. Toutes les allusions au fanatisme religieux des masses, et les divers motifs invoqués par les adversaires de la latinisation ne supportent pas la critique ; il faut renoncer à l’alphabet lié avec tout le passé religieux musulman de l'Orient. Les adversaires de l'alphabet latin ont répliqué qu'il fallait aborder cette question avec la plus grande circonspection et prendre en considération les divers degrés de développement culturel et la différentiation des classes parmi les populations turco-tartares. Il a été formellement décidé de créer, près l’Association des Orientalistes, un comité pour l’introduction d'un nouvel alphabet turcoman. (I)
 
-b) Les Slaves employent les uns l'alphabet Cyrillique (Grands Russes, Russes blancs, Ukraniens, Serbes et Bulgares), les autres l'alphabet latin (Tchécoslovaques, Polonais, Croates, Slovènes et Serbes de la Lusace). Les Russes ont agité la question de h adoption de l'alphabet latin. Les autres nations intéressées ont pris ensuite intérêt à cette question, qui a fait l'objet d’une enquête fu périodique bulgare « Blgarska Kniga s (Sofia n° 2. 1930).
+b) Les Slaves employent les uns l'alphabet Cyrillique (Grands Russes, Russes blancs, Ukraniens, Serbes et Bulgares), les autres l'alphabet latin (Tchécoslovaques, Polonais, Croates, Slovènes et Serbes de la Lusace). Les Russes ont agité la question de l'adoption de l'alphabet latin. Les autres nations intéressées ont pris ensuite intérêt à cette question, qui a fait l'objet d’une enquête fu périodique bulgare « Blgarska Kniga s (Sofia n° 2. 1930).
 
 En faveur de la réforme, on a fait valoir qu elle mettrait en contact plus intime les nations slaves entre elles; qu elle les rapprocherait des civilisations occidentales, que l'alphabet latin était plus simple; il en résulterait des économies dans la composition typographique et l’impression en général. La majorité cependant, en Bulgarie, s'est prononcée pour le maintien de l'alphabet cyrillique. (I)
 (I) Bulletin d’information n° 27 de la Société pour les relations intellectuelles.
@@ -3516,11 +3516,11 @@ En Russie même la question n’a pas encore été tranchée. On redoute de voir
 
 c) L’adoption des caractères latins est déjà réalisée en Turquie. Le premier dictionnaire mixte turc-allemand en caractères latins avec la nouvelle orthographe vient de paraître (composé par Mehmed Ali, 15,000 mots). La réforme est adoptée aussi dans certaines régions de l'Union Soviétique. Le Gouvernement de Chypre lui fait une place. En Perse, la presse le demande.
 
-L'adoption de l'alphabet latin à la place de 1 écriture arabe en Turquie est entrée en vigueur partiellement le I"' décembre 1928 et complètement le lrr juin. A cette date, tous les documents officiels ont été imprimés en nouveaux caractères. Les nouveaux caractères vont faciliter l'étude de la langue turque aux étrangers et aider ainsi indirectement au commerce.
+L'adoption de l'alphabet latin à la place de l'écriture arabe en Turquie est entrée en vigueur partiellement le I"' décembre 1928 et complètement le lrr juin. A cette date, tous les documents officiels ont été imprimés en nouveaux caractères. Les nouveaux caractères vont faciliter l'étude de la langue turque aux étrangers et aider ainsi indirectement au commerce.
 
-d) L’écriture chinoise se compose de 40,000 signes. La Science dans ces conditions est la culture exclusive de la mémoire, c’est à-dire de la partie matérielle de l'intelligence qui ne peut que s'atrophier par un sembla-ble exercice. Une vie d'homme suffit à peine à 1 apprendre. L'écriture est encore un obstacle au progrès de la civilisation. Elle a contribué dans une proportion considérable à arrêter l’évolution progressive du peuple.
+d) L’écriture chinoise se compose de 40,000 signes. La Science dans ces conditions est la culture exclusive de la mémoire, c’est à-dire de la partie matérielle de l'intelligence qui ne peut que s'atrophier par un sembla-ble exercice. Une vie d'homme suffit à peine à l'apprendre. L'écriture est encore un obstacle au progrès de la civilisation. Elle a contribué dans une proportion considérable à arrêter l’évolution progressive du peuple.
 
-Il faut connaître plus de trois mille caractères différents pour entreprendre la lecture de 1 ouvrage le plus simple. Il en faut 40,000 pour les œuvres de lettrés. Le peuple ne sait donc pas lire. Aussi les Chinois ont ils ouvert des salles où se tient un personnage qui lit à haute voix les journaux. Puis des rénovateurs sont venus qui ont simplifié l’écriture et les lettrés se mettant résolument à l'œuvre, firent front aux vieux préjugés, qui considéraient comme une honte véritable d’écrire la langue qui se parle et fondèrent des journaux dont la lecture est accessible aux plus humbles. On continue à faire
+Il faut connaître plus de trois mille caractères différents pour entreprendre la lecture de l'ouvrage le plus simple. Il en faut 40,000 pour les œuvres de lettrés. Le peuple ne sait donc pas lire. Aussi les Chinois ont ils ouvert des salles où se tient un personnage qui lit à haute voix les journaux. Puis des rénovateurs sont venus qui ont simplifié l’écriture et les lettrés se mettant résolument à l'œuvre, firent front aux vieux préjugés, qui considéraient comme une honte véritable d’écrire la langue qui se parle et fondèrent des journaux dont la lecture est accessible aux plus humbles. On continue à faire
 usage de caractères idéographiques, mais les mots ont exactement la même sonorité que le langage oral ; de plus la forme des phrases est celle du discours ordinaire.
 
 Grâce au Dr. Hu Shik. le langage parlé est devenu en Chine, après 1930, le langage écrit, mettant fin à 1‘isolement intellectuel où se trouvait le peuple, à raison du langage littéraire des lettres. Ce fait permet au mouvement pour l'éducation des masses dirigé par M. Y. C James Yen. à rendre l'enseignement accessible à toutes les classes.
@@ -3529,13 +3529,13 @@ Maintenant des tentatives sont faites pour écrire le Chinois en caractères rom
 
 f) On s’est occupé au Japon de la réforme graphologique. Plusieurs hommes éminents du Japon, ayant à leur tête M, Hayaslu. qui fut ambassadeur à Londres et Ministre des Affaires Etrangères à Tokio. s’occupent de la question. Déjà un groupe progressiste publie une revue imprimée en caractères latins. Cet alphabet rendrait des services pour le commerce, mais il est insuffisant pour la langue littéraire.
 
-g) M. Bean a créé en Indo-Chine deux journaux anna mites, dont l'un en caractère» latins. (Cokner annamite transposé en caractère français.)
+g) M. Bean a créé en Indo-Chine deux journaux anna mites, dont l'un en caractères latins. (Cokner annamite transposé en caractère français.)
 
-h) M. Takanadate, professeur à l’Université de 1 okio, a proposé à la Commission des Coopératives Intellectuelles de recommander à tous les pays d'étudier la possibilité d'adopter les caractères latins dans leur langage écrit et lorsqu'il y a des systèmes d'orthographe différents en vigueur, d’unifier l’orthographe le plus possible, confor rnément à la nature de chaque langue. La Commission s'est prononcée en faveur de l’importance d'une méthode de transcription uniforme des langues à côté de 1 écriture nationale en vue d’une meilleure compréhension mutuelle des peuples.
+h) M. Takanadate, professeur à l’Université de l'okio, a proposé à la Commission des Coopératives Intellectuelles de recommander à tous les pays d'étudier la possibilité d'adopter les caractères latins dans leur langage écrit et lorsqu'il y a des systèmes d'orthographe différents en vigueur, d’unifier l’orthographe le plus possible, confor rnément à la nature de chaque langue. La Commission s'est prononcée en faveur de l’importance d'une méthode de transcription uniforme des langues à côté de l'écriture nationale en vue d’une meilleure compréhension mutuelle des peuples.
 
-4° Il y a lieu de chercher la rationalisation et la standardisation de 1 alphabet.
+4° Il y a lieu de chercher la rationalisation et la standardisation de l'alphabet.
 
-a) Un mouvement s'est fait jour pour le perfectionnement international de l’alphabet latin : des caractères de plus en plu?? clairs, h» réforme de» écritures curaives, des sin nouveau d’alphabets, abandon progressif de certaine?? lettres comme J et Y.
+a) Un mouvement s'est fait jour pour le perfectionnement international de l’alphabet latin : des caractères de plus en plus clairs, la réforme des écritures curaives, des sin nouveau d’alphabets, abandon progressif de certaine?? lettres comme J et Y.
 
 b) En langue internationale, on a cherché à éviter les signes qui causent des difficultés comme z, y, œ, etc. On se sert de signes simples pour des combinaisons fréquentes de son (x. c, etc.). (I)
 
@@ -3553,9 +3553,9 @@ La réforme de l'alphabet s’étend dans deux directions. Attribution des signe
 
 Un alphabet parfait devrait avoir autant de lettres et de signes complémentaires qu'il y a d'articulations et de sons élémentaires et distincts.
 
-A s'en tenir simplement au graphisme, toutes les lettres sont formées ce traits cor.slitués de lignes droites, brisées ou courbes. La sténographie a établi une classification des traits du graphisme et leur a attribué une signification rationnelle que ne connaissent pas les signes arbitraires et traditionnels de l’alphabet.
+A s'en tenir simplement au graphisme, toutes les lettres sont formées ce traits constitués de lignes droites, brisées ou courbes. La sténographie a établi une classification des traits du graphisme et leur a attribué une signification rationnelle que ne connaissent pas les signes arbitraires et traditionnels de l’alphabet.
 
-d) On pourrait enseigner un mode d’écriture classifica teur et synoptique, sténographie d’idées et non de mots. La disposition des idées se faisant avec le minimum de mots et le maximum de propriétés devra être relative, étant exprimée clairement et par des positions et dc?? grandeurs de caractères ainsi que par des signes très simples de relation et de classification. C’est ce vers quoi tendent les essais d'idéographie.
+d) On pourrait enseigner un mode d’écriture classifica teur et synoptique, sténographie d’idées et non de mots. La disposition des idées se faisant avec le minimum de mots et le maximum de propriétés devra être relative, étant exprimée clairement et par des positions et des grandeurs de caractères ainsi que par des signes très simples de relation et de classification. C’est ce vers quoi tendent les essais d'idéographie.
 
 5" Nouveaux systèmes d'expresùon. — Le processus de ta formation de l'écriture, aux origines, nous montre vers quoi peut tendre aujourd'hui l'Humanité. L'écriture est née d’un besoin : communiquer et transmettre les faits. L'écriture est née sur plusieurs points a la fois, donnant lieu à plusieurs développements autonomes; elle ne dérive pas d’une forme primitive unique. Enfin certaines racea peu civilisées en restaient à une étape rudimentaire de Lécriture, tandis que d’autres la franchissaient rapidement pour arriver de bonne heure à posséder un système d’écriture complet, pouvant rendre toutes les nuances de la pensée.
 
@@ -3563,7 +3563,7 @@ De nos jours, nous constatons des perfectionnements partiels de l'écriture, des
 
 Un nouveau système doit être formé sur la base de l’ancien, accru de toutes les innovations reconnues bonnes et développé d'une manière coordonnée.
 
-Il faut créer une théorie générale de la graphie embrassant tou?? les cas possibles et s’adaptant toutes les combinaisons possibles qui vont en se multipliant extraordinairement, (1)
+Il faut créer une théorie générale de la graphie embrassant tout les cas possibles et s’adaptant toutes les combinaisons possibles qui vont en se multipliant extraordinairement, (1)
 
 Lentement mais sûrement, le mouvement mondial conduit les peuples à avoir besoin d’un système général d'expression. De ce système doit faire partie l'écriture, comme aussi la langue et la documentation. Quelle que soit la lenteur propre au développement d'un tel mou- (l)
 (l) La combinaison des moyens d’expression n’a-t-elle pas donné lieu récemment à un cours de sténographie mécanique de l’esperanto, par T, S. F.
@@ -3572,12 +3572,12 @@ vement, c'est le devoir des hommes de rechercher sans cesse ce qui théoriquemen
 222.2 Notation et abréviation.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A côté de l’écriture usuelle prend place une catégorie importante de signes et de convention??: La notation, les abréviations. Le problème se pose aussi d’un système universel de notation.
+A côté de l’écriture usuelle prend place une catégorie importante de signes et de conventions: La notation, les abréviations. Le problème se pose aussi d’un système universel de notation.
 
 222.21 Notation.
 """""""""""""""""
 
-1) La notation (la (orme notée) prend place entre le. mots de la langue (texte) et l image. Elle exprime, sous une forme conventionnelle: 1° des éléments, parties ou aspects (termes) ; 2° leurs rapports entr'eux (formules, questions) ; 3° la classification des éléments et des rapports; 4" éventuellement leurs nombres et leurs mesures ; 5" l'expression condensée des lois.
+1) La notation (la forme notée) prend place entre les mots de la langue (texte) et l'image. Elle exprime, sous une forme conventionnelle: 1° des éléments, parties ou aspects (termes) ; 2° leurs rapports entr'eux (formules, questions) ; 3° la classification des éléments et des rapports; 4° éventuellement leurs nombres et leurs mesures ; 5° l'expression condensée des lois.
 
 2) Arrivées à un certain développement, les sciences créent leur notation. Ainsi, les notations de la mathématique et de la chimie. Cette notation est plus ou moins développée, complète.
 
@@ -3618,7 +3618,7 @@ Un alphabet parfait devrait avoir autant de lettres et de signes complémentaire
 
 A s'en tenir simplement au graphisme, toutes les lettres sont formées ce traits cor.slitués de lignes droites, brisées ou courbes. La sténographie a établi une classification des traits du graphisme et leur a attribué une signification rationnelle que ne connaissent pas les signes arbitraires et traditionnels de l’alphabet.
 
-d) On pourrait enseigner un mode d’écriture classifica teur et synoptique, sténographie d’idées et non de mots. La disposition des idées se faisant avec le minimum de mots et le maximum de propriétés devra être relative, étant exprimée clairement et par des positions et dc?? grandeurs de caractères ainsi que par des signes très simples de relation et de classification. C’est ce vers quoi tendent les essais d'idéographie.
+d) On pourrait enseigner un mode d’écriture classifica teur et synoptique, sténographie d’idées et non de mots. La disposition des idées se faisant avec le minimum de mots et le maximum de propriétés devra être relative, étant exprimée clairement et par des positions et des grandeurs de caractères ainsi que par des signes très simples de relation et de classification. C’est ce vers quoi tendent les essais d'idéographie.
 
 5" Nouveaux systèmes d'expresùon. — Le processus de ta formation de l'écriture, aux origines, nous montre vers quoi peut tendre aujourd'hui l'Humanité. L'écriture est née d’un besoin : communiquer et transmettre les faits. L'écriture est née sur plusieurs points a la fois, donnant lieu à plusieurs développements autonomes; elle ne dérive pas d’une forme primitive unique. Enfin certaines racea peu civilisées en restaient à une étape rudimentaire de Lécriture, tandis que d’autres la franchissaient rapidement pour arriver de bonne heure à posséder un système d’écriture complet, pouvant rendre toutes les nuances de la pensée.
 
@@ -3635,12 +3635,12 @@ vement, c'est le devoir des hommes de rechercher sans cesse ce qui théoriquemen
 222.2 Notation et abréviation.
 ^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^^
 
-A côté de l’écriture usuelle prend place une catégorie importante de signes et de convention??: La notation, les abréviations. Le problème se pose aussi d’un système universel de notation.
+A côté de l’écriture usuelle prend place une catégorie importante de signes et de conventions: La notation, les abréviations. Le problème se pose aussi d’un système universel de notation.
 
 222.21 Notation.
 """""""""""""""""
 
-1) La notation (la (orme notée) prend place entre le. mots de la langue (texte) et l image. Elle exprime, sous une forme conventionnelle: 1° des éléments, parties ou aspects (termes) ; 2° leurs rapports entr'eux (formules, questions) ; 3° la classification des éléments et des rapports; 4" éventuellement leurs nombres et leurs mesures ; 5" l'expression condensée des lois.
+1) La notation (la (orme notée) prend place entre le. mots de la langue (texte) et l'image. Elle exprime, sous une forme conventionnelle: 1° des éléments, parties ou aspects (termes) ; 2° leurs rapports entr'eux (formules, questions) ; 3° la classification des éléments et des rapports; 4° éventuellement leurs nombres et leurs mesures ; 5° l'expression condensée des lois.
 
 2) Arrivées à un certain développement, les sciences créent leur notation. Ainsi, les notations de la mathématique et de la chimie. Cette notation est plus ou moins développée, complète.
 
@@ -3677,7 +3677,7 @@ chimie a créé un mode de représentation des rapports de composés par des fig
 
 La notation chimique a une très longue histoire. Elle subit une transformation radicale avec Lavoisier et Berzelius. Elle poursuit son évolution.
 
-7) La notation musicale naît chez les Grecs. Le moyen âge en perd la clé. Il créa sa notation à lui. ces neumes en « pattes de mouches s (pedea maacarum). Cette « danse de cousin » muckentanz, comme dit Ambros, désignait vaguement la direction vocale sans valeur ni même intervalles précis.
+7) La notation musicale naît chez les Grecs. Le moyen âge en perd la clé. Il créa sa notation à lui. ces neumes en « pattes de mouches » (pedea maacarum). Cette « danse de cousin » muckentanz, comme dit Ambros, désignait vaguement la direction vocale sans valeur ni même intervalles précis.
 
 Les neumes étaient des signes de notation musicale, usités d'abord en plain-chant, plus tard aussi dans la musique profane. A leur origine les neumes sont simplement les accents qui en grammaire marquent les inflexions de la voix dans le discours. Leur forme, d'abord cursive et déliée, devient plus large, plus anguleuse pour aboutir à la notation carrée. Chacun d eux a un nom particulier : il indique que la voix doit monter, descendre ou se tenir à l'unisson sans toutefois faire connaître la note d'unisson ou le degré précis de descente ou d ascension: la mélodie est supposée connue par l'usage. Pour suppléer à l'insuffisance de cette notation, Gui d'Arezzo, au XIe siècle, introduisit l'usage de la portée, composée de quatre signes, sur laquelle il échelonna les neumes.
 
@@ -3695,11 +3695,11 @@ Les chiffres, les lettres et les symboles conventionnels constituent des éléme
 
 1) Les ubréeiuitons consistent dans des suppressions de lettres ou de mots admises par l’usage et remplacées généralement par des signes courts : on les emploie pour écrire plus vite et en moins d'espace.
 
-Les sigles sont des lettres initiales qui s emploient comme abréviations d un mot. Ainsi S. C, R. M. sont les régies de Sacra, Cathoiica, Regio, \1 ajcataa,
+Les sigles sont des lettres initiales qui s'emploient comme abréviations d'un mot. Ainsi S. C, R. M. sont les régies de Sacra, Cathoiica, Regio, \1 ajcataa,
 
-2) Les anciens usaient surtout des abréviations dans les inscriptions : mais ils s en servaient aussi dans les lois, les decrets?? les discours, les lettres et plus rarement dans les manuscrits de leurs ouvrages. Les Hébreux, les Grecs, les Romains se servaient des abréviations. Elles consistaient en une ou plusieurs lettres d'un mot, pour représenter ce mot. Voilà pourquoi Cicéron (signa verborum) les appelait singulœ litteræ, d'où l’on a fait siglœ, sigles. Il y a deux espèces de sigles : les sigles simples, qui désignent chaque mot par la seule lettre initiale, comme D. M. S. (Dis manibus sacrum), les sigles composés qui, après la lettre initiale, présentent une ou plusieurs lettres du mot, comme CS (consul), COSS (consulibus), S. P. Q. R (üenatus Populusque Homanus), AM (Amiens), Le mot grec par exemple K. A. P. A. I. (tête) faisant allusion aux cinq chefs de l'Eglise grecque, est composé des initiales de Constantinople, Antioche, Rome, Alexandrie et Jérusalem, D. O. M. se traduit Deo Optimo Maxime.
+2) Les anciens usaient surtout des abréviations dans les inscriptions : mais ils s'en servaient aussi dans les lois, les décrets, les discours, les lettres et plus rarement dans les manuscrits de leurs ouvrages. Les Hébreux, les Grecs, les Romains se servaient des abréviations. Elles consistaient en une ou plusieurs lettres d'un mot, pour représenter ce mot. Voilà pourquoi Cicéron (signa verborum) les appelait singulœ litteræ, d'où l’on a fait siglœ, sigles. Il y a deux espèces de sigles : les sigles simples, qui désignent chaque mot par la seule lettre initiale, comme D. M. S. (Dis manibus sacrum), les sigles composés qui, après la lettre initiale, présentent une ou plusieurs lettres du mot, comme CS (consul), COSS (consulibus), S. P. Q. R (üenatus Populusque Homanus), AM (Amiens), Le mot grec par exemple K. A. P. A. I. (tête) faisant allusion aux cinq chefs de l'Eglise grecque, est composé des initiales de Constantinople, Antioche, Rome, Alexandrie et Jérusalem, D. O. M. se traduit Deo Optimo Maxime.
 
-Il existe à la Bibliothèque Nationale de Paris un manuscrit, connu sous le nom de Virgile dMper, dans lequel plusieurs fragments de Virgile sont écrits en sigles. En voici le premier vers : Tityre, t. p, r. s. f. pour Tityre, iu patulae recubans su b fegmine fagi. De telles abréviations ne s'employaient sans doute que pour tenir lieu de passages trop connus, dont on ne voulait pas se donner In peine de faire la copie entière; autrement, elles seraient incompréhensibles. Chevillier, dans L Origine de / imprimerie de Paris, en donne un exemple tiré de la Logique d’Occam. On jugera par ce spécimen des singuliers rébus que les copistes donnaient à deviner : Sic hic e fal sm qd simplr a e pducibile a Deo g a e. Et silr hic a n e g a n e pducibile a Deo. Ce qu'il faut lire ainsi : Sicuf hic est fallacia sccundum quid simpliciter: A est producibile a Deo. Ergo A est. Et simi/iter hic: A non est. Ergo A non est producibile a Deo, Certains sigles embarrassent surtout les paléographes : ce sont ceux qui abrègent le» noms propres.
+Il existe à la Bibliothèque Nationale de Paris un manuscrit, connu sous le nom de Virgile dMper, dans lequel plusieurs fragments de Virgile sont écrits en sigles. En voici le premier vers : Tityre, t. p, r. s. f. pour Tityre, iu patulae recubans su b fegmine fagi. De telles abréviations ne s'employaient sans doute que pour tenir lieu de passages trop connus, dont on ne voulait pas se donner In peine de faire la copie entière; autrement, elles seraient incompréhensibles. Chevillier, dans L Origine de / imprimerie de Paris, en donne un exemple tiré de la Logique d’Occam. On jugera par ce spécimen des singuliers rébus que les copistes donnaient à deviner : Sic hic e fal sm qd simplr a e pducibile a Deo g a e. Et silr hic a n e g a n e pducibile a Deo. Ce qu'il faut lire ainsi : Sicuf hic est fallacia sccundum quid simpliciter: A est producibile a Deo. Ergo A est. Et simi/iter hic: A non est. Ergo A non est producibile a Deo, Certains sigles embarrassent surtout les paléographes : ce sont ceux qui abrègent les noms propres.
 
 L’emploi des sigles a été continué de nos jours. Dans certains, on double la lettre pour marquer le pluriel : ainsi MM (Messieurs), PP (Pères). Les sigles sont fréquemment employés en anglais. En cea temps derniers,
 (I) Travaux de Tirabassi ; Travaux de Hautston.
