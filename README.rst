@@ -196,6 +196,8 @@ Ubuntu12: Shift+AltGr + ^ + e = ê
 
 https://de.wikipedia.org/wiki/%C5%92 U+0152 OEvre Œ, Kleinbuchstabe œ U+0153
 
+Multiplication sign: × (Unicode 215)
+
 
 https://help.ubuntu.com/community/ComposeKey
 Unicode composition: Another means to enter characters is to enter them as Unicode character number.

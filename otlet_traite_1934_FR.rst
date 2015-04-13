@@ -1891,6 +1891,7 @@ fasse parler de lui dans le monde, tour à tour géant ou
 
 212 ANALYSE DES CARACTERISTIQUES *45*
 
+
 pygmée, orgueilleux ou modeste, entreprenant ou timide, sachant prendre toutes les formes et tous les rôles, capable tour a tour d'éclairer ou de pervertir les esprits, d'émou- ? voir les passions ou de les apaiser, artisan de factions ou conciliateur de partis, véritable Protée qu'aucune définition ne peut saisir. c’est le Livre. (Egger. )
 
 L’Humanité est un homme qui vit toujours et qui apprend »ans cesse. (Pascal.)
@@ -1938,7 +1939,7 @@ Moralité (le bien); 4° L'Originalité; 5° La Clarté (com-
 préhensibilité) ; 6° La Valeur économique (commercialité); 
 7° La Nouveauté.
 
-Les documents ont en commun avec la parole de pouvoir ne pas exprimer la vérité. Ils ont en plus d'elle la possibilité de se présenter sous des dehors fallacieux, fausses attributions aux auteurs erronés ou pseudonymes, fausses dates, fausses indications d'éditeur, d’imprimeur, d'édition, etc. L'erreur volontaire, le mensonge volontaire peut être le fait de l'auteur, l a propagation des documents apocryphes, trouvés ou défigurés, la diffusion intentionnelle d’informations mensongères peut être le fait de tiers. L une et l'autre sont de nature à causer un dommage à la Vérité en soi. et aux personnes, physique» ou morales dont elles viendraient à diminuer la situation.
+Les documents ont en commun avec la parole de pouvoir ne pas exprimer la vérité. Ils ont en plus d'elle la possibilité de se présenter sous des dehors fallacieux, fausses attributions aux auteurs erronés ou pseudonymes, fausses dates, fausses indications d'éditeur, d’imprimeur, d'édition, etc. L'erreur volontaire, le mensonge volontaire peut être le fait de l'auteur, l'a propagation des documents apocryphes, trouvés ou défigurés, la diffusion intentionnelle d’informations mensongères peut être le fait de tiers. L une et l'autre sont de nature à causer un dommage à la Vérité en soi. et aux personnes, physiques ou morales dont elles viendraient à diminuer la situation.
 
 La nouveauté entraîne toute la documentation comme elle entraîne toute la vie contemporaine. Le journal, la T. S. F., le film, luttent de vitesse pour procurer au public insatiable le maximum d'informations dans le minimum de temps,
 
@@ -1961,7 +1962,7 @@ comme il accumule les produits.
 
 Le livre est une arme, un outil.
 
-« Martin Luther, qu'on juge mal parce qu’on s’obstine n le considérer comme un théologien, fut surtout un patriote allemand, le plus grand idéologue contesté de ce pays. Il manie le pamphlet au lieu du cimeterre, mais il sait l’art d’armer les nobles contre les clercs. »
+« Martin Luther, qu'on juge mal parce qu’on s’obstine à le considérer comme un théologien, fut surtout un patriote allemand, le plus grand idéologue contesté de ce pays. Il manie le pamphlet au lieu du cimeterre, mais il sait l’art d’armer les nobles contre les clercs. »
 
 (Péladan.)
 
@@ -1984,7 +1985,7 @@ Comme en toutes choses, on peut distinguer aussi dans le document: 1° l'unité 
 
 On a vu précédemment ce qu on peut considérer comme unité intellectuelle. Il y a des multiples et sous multiples des unités matérielles et intellectuelles.
 
-Toute chose considérée dan» son ordre propre est placée au degré d’une échelle dont les deux extrémités sont le néant d’une part et la totalité d'autre part. Dans l'échelle de la série ainsi établie, on choisit plus ou moins arbitrairement une unité d'où l'on puisse procéder dans les deux directions montante et descendante. En ce qui concerne la Documentation, l’unité sera le livre, ses multiples seront les ensembles formés par le livre tels que les collections (bibliothèques) et ses sous-multiples seront des divisions telles que ses parties (chapitres, etc.).
+Toute chose considérée dans son ordre propre est placée au degré d’une échelle dont les deux extrémités sont le néant d’une part et la totalité d'autre part. Dans l'échelle de la série ainsi établie, on choisit plus ou moins arbitrairement une unité d'où l'on puisse procéder dans les deux directions montante et descendante. En ce qui concerne la Documentation, l’unité sera le livre, ses multiples seront les ensembles formés par le livre tels que les collections (bibliothèques) et ses sous-multiples seront des divisions telles que ses parties (chapitres, etc.).
 
 212.5 Equation du Livre.
 ^^^^^^^^^^^^^^^^^^^^^^^^^
@@ -1998,7 +1999,7 @@ L =
 
 S (r + I + p + c + t + a)
 
-Ce qui se lit: Livre ~ éléments (éléments matières 4-éléments graphiques 4- éléments linguistique» -f éléments intellectuels) : Structure (reliure -f frontispice -f préliminaires 4- corps de l'ouvrage + tables 4?? appendices).
+Ce qui se lit: Livre ~ éléments (éléments matières 4-éléments graphiques 4- éléments linguistiques -f éléments intellectuels) : Structure (reliure -f frontispice -f préliminaires 4- corps de l'ouvrage + tables 4?? appendices).
 
 En exprimant ainsi la détermination d’un espace (lieu) et d’un temps (date) et les données relatives à l’auteur, l'équation se complète ainsi :
 
@@ -2053,14 +2054,14 @@ Langue du livre.
 
 4" Eléments intellectuels.
 
-Les formes intel’ectuelles du livre (Exposé didactique; rhétorique, genres littéraires, formes bibliologiques).
+Les formes intellectuelles du livre (Exposé didactique; rhétorique, genres littéraires, formes bibliologiques).
 
 Les données du livre. (Matière scientifique ou littéraire, res scripta).
 
 
 Un livre est la réunion de feuilles de papier imprimé. Sur ces feuilles, l’impression, divisée par pages est dispo sée, recto et verso, de façon à ce que les pages se succèdent en ordre, après la pliure ; car ces feuilles seront pliées plus ou moins de fois sur elles-mêmes selon le format extérieur prévu pour le livre. Puis elles sont cascm-blées suivant un numérotage, indépendant de la pagina-lion. On nomme ce numéro de feuille la signature de fa feuille. Une fois réunies dans leur ordre, on y ajoute, en tête, le titre qui généralement n’est que la répétition de la couverture (le faux titre qui précède ne donne que l'indication du livre), les feuillets contenant la préface, avant-propos, avertissement. On place soit en tête, soit en fin de volume la table des matières. On ajoute les hors-texte, cartes, planches, tableaux, etc. On coud les feuilles, puis on broche, on cartonne ou on relie: C’est le livre. (Bourrelier.)
 
-Un livre est composé de plusieurs éléments : éfémenls intellectuels (idées, notions et Faits exprimés), é/émenis matériels (substance ou matière disposée en feuilles d’un certain format, pliées en pages) et éléments graphiques (signes inscrits sur la substance). Les éléments graphiques sont le texte et l'illustration. Le texte se compose d’écriture alphabétique et de notations conventionnelles. L’illustration comporte les images, soit dessinées (images à la main), soit photographiées d après nature (images mécaniques). Les illustrations sont placées dans le texte ou publiées sous forme de plan-
+Un livre est composé de plusieurs éléments : éléments intellectuels (idées, notions et Faits exprimés), é/émenis matériels (substance ou matière disposée en feuilles d’un certain format, pliées en pages) et éléments graphiques (signes inscrits sur la substance). Les éléments graphiques sont le texte et l'illustration. Le texte se compose d’écriture alphabétique et de notations conventionnelles. L’illustration comporte les images, soit dessinées (images à la main), soit photographiées d après nature (images mécaniques). Les illustrations sont placées dans le texte ou publiées sous forme de plan-
 
 ====
 
@@ -2101,14 +2102,14 @@ Les éléments matériels du Livre-Document sont constitués par son support, do
 
 Le papier soulève nombre de questions : La qualité,
 
-1 adaptation de différentes sortes aux usages variés auxquels on le destine, la standardisation proposée des formats, celle suggérée de certaine fabrication, les prix en fonction des possibilités de la consommation, les applications inattendue!« et réminiscentes des papiers et cartons. Le papier et le carton sont dans tous les pays devenus des éléments essentiels de l’organisation actuelle.
+L'adaptation de différentes sortes aux usages variés auxquels on le destine, la standardisation proposée des formats, celle suggérée de certaine fabrication, les prix en fonction des possibilités de la consommation, les applications inattendue!« et réminiscentes des papiers et cartons. Le papier et le carton sont dans tous les pays devenus des éléments essentiels de l’organisation actuelle.
 
 221.12 Historique.
 """""""""""""""""""
 
 1. On a écrit sur pierre, sur métal, sur poterie, sur papyrus, sur parchemin et finalement sur papier.
 
-2. Le Livre de pierre, si solide et ai durable, a fait place au livre de papier, plus solide et plus durable encore. < Ceci tuera cela. »
+2. Le Livre de pierre, si solide et si durable, a fait place au livre de papier, plus solide et plus durable encore. « Ceci tuera cela. »
 
 (Victor Hugo, Notre-Dame de Paris.)
 
@@ -2140,11 +2141,11 @@ Le Papier pénétra dans l’Europe chrétienne avant la fin du XIIIe siècle et
 
 remplacer, pour la digestion de la pulpe de bois, le bisul- ? file pat la soude caustique. Celle-ci serait préparée sur les lieux mêmes d'utilisation en prenant du sulfate de soude de fabrication anglaise ; ce sel est traité pour soude pat un procédé analogue à celui de Leblanc. Ce mode de préparation de la cellulose est donc appelé fort impro prement procédé au sulfate II donnerait un papier de très bonne conservation.
 
-4. En principe, le papier est composé de cellulose, c’est-à dite une combinaison dans laquelle entrent 36 grammes de charbon et 41 grammes d eau.
+4. En principe, le papier est composé de cellulose, c’est-à dite une combinaison dans laquelle entrent 36 grammes de charbon et 41 grammes d'eau.
 
 Le beau papier autrefois se faisait de vieux chiffons de lin et de chanvre, mais les fibres de ces végétaux ont été remplacés par tous les végétaux plus ou moins fibreux ou par ceux dont la tige creuse est désignée sous le nom de paille: riz, maïs, ortie, houblon, genêt commun, bruyère, roseaux de marais, joncs, aloès, agave, bambous, alfa, phormium, tenax, hubuscus, mûrier à papier (broussone-tia), arable papyfera, etc. On a été jusqu'à utiliser les tiges de réglisse, de guimauve, de pois, de pommes de terre, les feuilles de châtaignes, voire même les algues marines.
 
-En Indochine, on imprime sur du papier fabriqué avec du bambou, avec de la paille de riz et du tranh ou herbes à paillottes dont il existe, là-bas, des quantités inépuisables. Le tranh donne un papier très étoffé, très solide; In paille de riz, au contraire, un papier très blanc mais fragile. On va utiliser les plus qui couvrent en Indochine des milliers de kilomètres, et le « papyrus cyperus ». qui au Gabon, produit un papier magnifique. On va utiliser également le ■ ravinata », le ■ votoro ». le « berana », végétaux très abondants à Madagascar.
+En Indochine, on imprime sur du papier fabriqué avec du bambou, avec de la paille de riz et du tranh ou herbes à paillottes dont il existe, là-bas, des quantités inépuisables. Le tranh donne un papier très étoffé, très solide; In paille de riz, au contraire, un papier très blanc mais fragile. On va utiliser les plus qui couvrent en Indochine des milliers de kilomètres, et le « papyrus cyperus ». qui au Gabon, produit un papier magnifique. On va utiliser également le « ravinata », le « votoro ». le « berana », végétaux très abondants à Madagascar.
 
 On a proposé d’utiliser les feuilles des arbres. Elles se composent d'un tissu vert, le parenchyme soutenu par des nervures. Un broyage suivi d un lavage permet d isoler les nervures seules utilisables ; le parenchyme tombe en poussière et peut servir à la fois de combustible. La France importe annuellement 500.000 tonnes de pâte à papier, qu'elle paye cent millions de francs. Or ses arbres laissent choir annuellement de 35 à 40 millions de tonnes de feuilles. Il suffirait de 4 millions de tonnes pour fabriquer tout le papier consommé en France et en outre 2 millions de tonnes de fous-produits utiles. (1)
 
@@ -2152,18 +2153,18 @@ On a proposé d’utiliser les feuilles des arbres. Elles se composent d'un tiss
 
 6. Le film en celluloïd est devenu un support dans la photo et dans le cinéma. Il est en voie d’être remplacé
 
-(I) E. PER1ER: s Le monde vivant ». Le Temps, 10 juin 1918.
+(I) E. PER1ER: « Le monde vivant ». Le Temps, 10 juin 1918.
 
 
 par le film sonore en papier, incombustible, complété par le film photographique en papier.
 
-Le papier a été longtemps le support-loi. Le celluloïd, par le film, a tendu à le détrôner. Mais on entrevoit qu'à son tour le papier pourra bien 1 évincer.
+Le papier a été longtemps le support-loi. Le celluloïd, par le film, a tendu à le détrôner. Mais on entrevoit qu'à son tour le papier pourra bien l'évincer.
 
 7. Ainsi, de compositions en compositions, de substituts en substituts, le papier tend à ne plus être ce qu’il était à son origine, mais sa fonction dominant sa composition, peu importe sa substance, pourvu qu’il puisse le mieux servît soit de support aux signes, s’il s'agit de livres et de documents, soit de support ou de couleurs et de motifs s'il s'agit d'usage décoratif, soit encore de simple protection ou résistance s'il s'agit d'emballage, de couverture ou de confection d objets.
 
 On sait quel immense problème d'ordre économique pose aujourd'hui le papier, à raison du fait que les forêts s'épuisent, qu'on va les chercher de plus loin. On étudie actuellement, dans les laboratoires, le moyen de substituer au bois et à la pâte de bois, des graminées que l’on pourrait faucher tous les ans. qui seraient, en quelque sorte, comme le papyrus ancien, ce qui permettrait de mettre fin à ces hécatombes de forêts, lesquelles pourraient avoir d’autres destinations.
 
-Nous serions à la veille d une révolution dans l’industrie du papier. Les perfeefonnements techniques ont. depuis la guerre, fait passer la production journalière par machine de 30 à 100 tonnes. Mais on considère maintenant pouvoir demander à la paille un substitut du papier. Le nouveau papier pourra mieux être conservé que 1 actuel, auquel une longétivlté de quinze ans seulement est assu rée. Du nouvel état de chose résultera un déplacement des centres de production du papier, qui sont aujourd'hui au Canada et en Norvège, le pin et le sapin étant par excellence des arbres à papier.
+Nous serions à la veille d une révolution dans l’industrie du papier. Les perfeefonnements techniques ont. depuis la guerre, fait passer la production journalière par machine de 30 à 100 tonnes. Mais on considère maintenant pouvoir demander à la paille un substitut du papier. Le nouveau papier pourra mieux être conservé que l'actuel, auquel une longétivlté de quinze ans seulement est assu rée. Du nouvel état de chose résultera un déplacement des centres de production du papier, qui sont aujourd'hui au Canada et en Norvège, le pin et le sapin étant par excellence des arbres à papier.
 
 On est arrivé à une sorte de substance unie mais constamment renouvelée. Le papier blanc des usines se couvre de caractères. On le lit. Après usage on le renvoie aux usines d’où, refondu, il ressort en blanc pour servir de substratum à de nouvelles et éphémères inscriptions.
 
@@ -2199,7 +2200,7 @@ Il existe maintenant des papiers en imitalion-couché (supercalandré), si parfa
 
 4. Le papier indien, rapporté de l'Extrême-Orient en 1841, est fabriqué couramment depuis 1874 par la Oxford Universîty Press. Ce papier est opaque, résistant et très mince. Les ouvrages imprimés sur ce papier atteignent à peine le tiers de l'épaisseur habituelle.
 
-Le papier ■ biblio-pelure-lndia » est extrêmement mince, tout en étant résistant. L'épaisseur des volumes tirés sur ce papier n’atteint que le tiers de celle des volumes tirés sur papier ordinaire. Il peut n'atteindre que 28 grammes au mètre carré, tout en étant parfaitement opaque. Le tirage sur ce papier est destiné aux appartements et aux bibliothèques encombrées.
+Le papier « biblio-pelure-lndia » est extrêmement mince, tout en étant résistant. L'épaisseur des volumes tirés sur ce papier n’atteint que le tiers de celle des volumes tirés sur papier ordinaire. Il peut n'atteindre que 28 grammes au mètre carré, tout en étant parfaitement opaque. Le tirage sur ce papier est destiné aux appartements et aux bibliothèques encombrées.
 
 Le papier léger en poids mais non transparent a de l'importance pour les ouvrages de documentation. Par exemple, le papier de VAnnuaire Militaire de la S. D. N. 1928-1929, 5° année, a permis d'augmenter la matière en diminuant le volume de la publication.
 
@@ -2219,9 +2220,9 @@ a) Le format ou la longueur et In largeur des feuilles ou rouleaux.
 
 BIBLIOLOGIE 221  *50*
 
-En 1886 ?? clé établi à Cross Lichterfelde près de Berlin, un institut pour l'essai du papier. A l'origine, ■on objet était exclusivement de contrôler tout le papier fourni aux services du Gouvernement prussien. Bientôt,
+En 1886 ?? clé établi à Cross Lichterfelde près de Berlin, un institut pour l'essai du papier. A l'origine, son objet était exclusivement de contrôler tout le papier fourni aux services du Gouvernement prussien. Bientôt,
 
-¡1 fut utilisé aussi par les commerçants résidant en Aile magne et meme à l'étranger, qui désiraient voir vérifier si leurs papiers étaient conformes aux règles formulées par l'Institut. Celui-ci contrôle )a composition, le format, l'épaisseur, le poids, la consistance, le toucher, la résistance à l’humidité et le pouvoir d'absorption, la perméabilité à l'égard de la lumière. Au début, les producteurs allemands se montrèrent hostiles à l'établissement de l'inMitut. Bientôt cette opposition disparut et l'on reconnaît les avantages des essais officiels du papier. Aujourd'hui on attribue à cet institut une partie du succès du développement de la fabrication du papier en Allemagne. (1)
+Il fut utilisé aussi par les commerçants résidant en Allemagne et meme à l'étranger, qui désiraient voir vérifier si leurs papiers étaient conformes aux règles formulées par l'Institut. Celui-ci contrôle )a composition, le format, l'épaisseur, le poids, la consistance, le toucher, la résistance à l’humidité et le pouvoir d'absorption, la perméabilité à l'égard de la lumière. Au début, les producteurs allemands se montrèrent hostiles à l'établissement de l'inMitut. Bientôt cette opposition disparut et l'on reconnaît les avantages des essais officiels du papier. Aujourd'hui on attribue à cet institut une partie du succès du développement de la fabrication du papier en Allemagne. (1)
 
 Un laboratoire officiel d'analyses et d’essais de papier fonctionne au Bureau des Standards, à Washington.
 
@@ -2239,9 +2240,9 @@ Pour toute la France, la consommation du papier destiné au livre serait de 180 
 
 Le tiers de la consommation totale du papier pourrait être du papier d'impression ordinaire, tandis que le papier d'emballage comprend environ les deux tiers.
 
-Ces dernières années, la consommation du bois a con sidérablement augmenté. La superficie du sol en forêt est de 61 °Î, en Russie et de 4 % en Angleterre. Le» forêts du Canada et de l’Amérique ont été décimées. Les Etats-Unis consomment annuellement 90 millions de traverses. Ou prévoit une famine de bois aux Etats-Unis et nu Canada dans quinze ou vingt ans.
+Ces dernières années, la consommation du bois a con sidérablement augmenté. La superficie du sol en forêt est de 61 °Î, en Russie et de 4 % en Angleterre. Les forêts du Canada et de l’Amérique ont été décimées. Les Etats-Unis consomment annuellement 90 millions de traverses. Ou prévoit une famine de bois aux Etats-Unis et nu Canada dans quinze ou vingt ans.
 
-Les Etats-Unis en 1880. consommaient trois livres de papier à journaux par tête d’babitant chaque année. En 1920, il en consomme 35. Cette année-là. le papier aurait formé un rouleau de 73 pouces de large d'une longueur de 13 millions de milles. Le# quotidiens ont une circu-
+Les Etats-Unis en 1880. consommaient trois livres de papier à journaux par tête d’babitant chaque année. En 1920, il en consomme 35. Cette année-là. le papier aurait formé un rouleau de 73 pouces de large d'une longueur de 13 millions de milles. Les quotidiens ont une circu-
 
 ---
 
@@ -2269,11 +2270,11 @@ Le papier est tombé de 24 centimes en 1862 à 2 centimes en 1900.
 
 Le papier journal qui avant la guerre se vendait 28 fr. les 100 kg., était en février 1918 à 180 fr
 
-Le prix du papier est devenu excessif dans les pays où la monnaie a été d’préciée au cours de 1a guerre. On peut dire, par exemple, qu’en Belgique, alors que le coefficient de dépréciation de la monnaie est de 7, on paie jusqu’à 12. 14 et 15 le papier. C'est immédiatement une entrave à la production.
+Le prix du papier est devenu excessif dans les pays où la monnaie a été dépréciée au cours de la guerre. On peut dire, par exemple, qu’en Belgique, alors que le coefficient de dépréciation de la monnaie est de 7, on paie jusqu’à 12. 14 et 15 le papier. C'est immédiatement une entrave à la production.
 
 Le papier qu'on payait en 1914. 30 fr. les 100 kg. en France, y monte jusqu'à 415 fr.
 
-Pendant la guerre, le papier et l’argent manquent. Quand le papier a manqué en France, en avril 1916, 'a Presse a sollicité que le Gouvernement obtienne de 1 An-
+Pendant la guerre, le papier et l’argent manquent. Quand le papier a manqué en France, en avril 1916, 'a Presse a sollicité que le Gouvernement obtienne de l'An-
 
 ====
 
@@ -2298,9 +2299,9 @@ Le vieux papier à sa valeur. On a payé (octobre 1932) tes rognures blanches 12
 
 Le Papier a des usages multiples. Son usage pour la documentation (écrire et imprimer), mais ses autres usages multiples aussi : embaPage, tentures, matière d'objets usuels (serviettes, nappes, assiettes, plats, gobelets, etc.).
 
-On a tiré du papier des effets mats ou brillants, des loques, des veloutés, des plissés, des grains nouveaux imitant le» matières les plus riches, d'une variété insoupçonnée. qui ont fait d’un habillage banal un nouvel élément décoratif. II a un rôle décoratif. Le papier sert à remballage, h la tenture, a la construction de maints objets. C’est une surface souple, simple, pas coûteuse, prête à toutes fins. Le mode de présentation (emballage) exerce une influence prépondérante sur les résultats recherchés par le producteur, le papier assurant aux produits des chances de diffusion sérieuse.
+On a tiré du papier des effets mats ou brillants, des loques, des veloutés, des plissés, des grains nouveaux imitant les matières les plus riches, d'une variété insoupçonnée. qui ont fait d’un habillage banal un nouvel élément décoratif. II a un rôle décoratif. Le papier sert à remballage, à la tenture, a la construction de maints objets. C’est une surface souple, simple, pas coûteuse, prête à toutes fins. Le mode de présentation (emballage) exerce une influence prépondérante sur les résultats recherchés par le producteur, le papier assurant aux produits des chances de diffusion sérieuse.
 
-L’usage des boîtes se multiplie avec une variété infinie, à mesure que leur exécution est servie par un matériel mieux adapté. D’autre part, l’emploi du cartonnage publicitaire et même simplement démonstratif et didactique s’est étendu: pancartes, étiquetage, tableaux, des vitrines, formes découpées et autres formules attractives h base de carton. Celui-ci intervient maintenant dans l’enseigne ment pour les constructions du maître et des élèves. Il intervient dans le» démonstrations scientifiques et didactiques Par lu! est rendu possible l’établissement de modèles à destination muséographique.
+L’usage des boîtes se multiplie avec une variété infinie, à mesure que leur exécution est servie par un matériel mieux adapté. D’autre part, l’emploi du cartonnage publicitaire et même simplement démonstratif et didactique s’est étendu: pancartes, étiquetage, tableaux, des vitrines, formes découpées et autres formules attractives à base de carton. Celui-ci intervient maintenant dans l’enseigne ment pour les constructions du maître et des élèves. Il intervient dans les démonstrations scientifiques et didactiques Par lu! est rendu possible l’établissement de modèles à destination muséographique.
 
 On a opéré des tissages de fil de papier. L’article produit est la toile pour l’emballage et la fabrication de sacs, à chaîne de jute ou alternée avec fils de papier et a trame entièrement en papier. Il est question de fabriquer également des tapis, carpettes, nattes et stores en fil de papier ou combiné avec des textiles.
 
@@ -2309,15 +2310,15 @@ On a opéré des tissages de fil de papier. L’article produit est la toile pou
 221.18 Matières supports autres que le papier.
 """""""""""""""""""""""""""""""""""""""""""""""
 
-Il n y a pas que le papier. On écrit partout, on écrit de tout, on écrit sur tout. Sur tout, cela signifie sur toute matière, et quelle est vraiment de nos jours la matière qui n’ait pas été revêtue de signes ou d’images. Les inventions tendent à pouvoir écrire sur toute matière et è pouvoir fixer une maroue, fût-ce une simple lettre, un numéro sur toutes choses.
+Il n y a pas que le papier. On écrit partout, on écrit de tout, on écrit sur tout. Sur tout, cela signifie sur toute matière, et quelle est vraiment de nos jours la matière qui n’ait pas été revêtue de signes ou d’images. Les inventions tendent à pouvoir écrire sur toute matière et à pouvoir fixer une maroue, fût-ce une simple lettre, un numéro sur toutes choses.
 
-î. On écrit et on imprime sur toile. Ex. albums indéchirables sur toile pour enfants de moins de 5 ans, publiés par la maison Hachette de Paris. Toiles dessinées et peintes avec textes indicatifs pour la confection de poupées. Les tissus ont été aussi des moyens d’écrire, peindre et dessiner. (Voir notamment le Musée des tissus de Lyon). On imprime en 3 ou 4 couleurs sur les sacs de jute è l’aide de rotatives sur lesquelles sont fixés des caractères en simili caoutchouc (système Tyger), Impression directe sur toile pégamoïde de cartes géographiques (système Cremers).
+1. On écrit et on imprime sur toile. Ex. albums indéchirables sur toile pour enfants de moins de 5 ans, publiés par la maison Hachette de Paris. Toiles dessinées et peintes avec textes indicatifs pour la confection de poupées. Les tissus ont été aussi des moyens d’écrire, peindre et dessiner. (Voir notamment le Musée des tissus de Lyon). On imprime en 3 ou 4 couleurs sur les sacs de jute à l’aide de rotatives sur lesquelles sont fixés des caractères en simili caoutchouc (système Tyger), Impression directe sur toile pégamoïde de cartes géographiques (système Cremers).
 
 2. Edison avait annoncé un jour l’avènement de livres en feuillets de niclcel. (Cosmopolitan Magazine. 1911.) Le nickel absorbera l’encre ?? d'imprimerie aussi bien qu'une feuille de papier. Une feuille de nickel d’une épaisseur d’un dix-millième de centimètre est meil'eur marché, plus résistante et aussi plus flexible qu une feuille de papier ordinaire, de celui qui sert couramment
 
-I dans la librairie. Un livre de nickel épais de 5 centimètres contiendrait 40,000 pages et ne pèserait que 460 grammes. Or. Edison alors se faisait fort de fournir 460 grammes de ces feuilles de nickel pour un dollar et quart.
+I dans la librairie. Un livre de nickel épais de 5 centimètres contiendrait 40,000 pages et ne pèserait que 460 grammes. Or, Edison alors se faisait fort de fournir 460 grammes de ces feuilles de nickel pour un dollar et quart.
 
-La ciselure repoussée peut être, au même titre que l’eau-forte et la lithographie, considérée comme un moyen de reproduction artistique. La dînanderie, qui existe depuis le XIIe siècle, est de la ciselure repoussée sur cuivre. On a plus récemment appliqué le même procédé de repoussage h d’autres métaux, même à l’or. (I)
+La ciselure repoussée peut être, au même titre que l’eau-forte et la lithographie, considérée comme un moyen de reproduction artistique. La dînanderie, qui existe depuis le XIIe siècle, est de la ciselure repoussée sur cuivre. On a plus récemment appliqué le même procédé de repoussage à d’autres métaux, même à l’or. (I)
 
 3. L’écriture au tableau noir dérivée de l'écriture sur l’ardoise, joue un rôle réel. La démonstration s’y poursuit en des images, des textes, des équations effacées dès que produites. Un coup d’éponge et le document produit disparaît sans autre trace que dans l'esprit des auditeurs-spectateurs. Les saPes des cours s'entourent maintenant d’une ceinture de tableaux noirs, ou concentrés derrière la chaire, ils y étagent leurs plans superposés et mobiles.
 
@@ -2333,7 +2334,7 @@ La ciselure repoussée peut être, au même titre que l’eau-forte et la lithog
 
 *52* BIBLIOLOGIE 221
 
-et demi de bougies, avec lequel elle est parvenue à projeter de la publicité sur des nuages à 2.000 mètres de distance. Les lettres ainsi projetées ont 4C0 mètres de haut. L'appareil est monté sur wagon et un seul opérateur manoeuvre toute la machine.
+et demi de bougies, avec lequel elle est parvenue à projeter de la publicité sur des nuages à 2.000 mètres de distance. Les lettres ainsi projetées ont 4C0 mètres de haut. L'appareil est monté sur wagon et un seul opérateur manœuvre toute la machine.
 
 7. On arrive à imprimer les affichettes sur plaque de zinc résistantes. (E.x. : Compagnie des Messageries maritimes.).
 
@@ -2382,14 +2383,14 @@ Ex. : Bibliographie de PI. I. B.
 
 b) On a aussi des tirages interfolies de feuilles blanches. Ex. Enquête ethnographique et sociologique sur les peuples de civilisation inférieure par la Société belge de Sociologie.
 
-c) On a publié des livres formant listes d’adresses gommées a détacher et o donner. Ex. Directory of Libra-ries United States and Canada ; Wilson Cy Minneapolis.
+c) On a publié des livres formant listes d’adresses gommées a détacher et à donner. Ex. Directory of Libra-ries United States and Canada ; Wilson Cy Minneapolis.
 
 d) Livres à onglets ou à signets. Ex.: Les livres litur giques et les livres à lire fréquemment.
 
 e) Albums, atlas à transformations, combinaisons amusantes pour les livres d’enfants, combinaisons didactiques dans les livres de science, tels que les atlas anatomiques ou les albums de machines.
 
 f) La forme livre a été employée pour former diverses collections. Ainsi les albums de timbres, de cartes pos-
-g) Livre dont une deuxième partie est reliée de manière h permettre, après l’avoir sortie de la reliure et l’avoir déployée, consultation simultanée avec la première partir. C’est en réalité comme si Pon avait deux livres en un.
+g) Livre dont une deuxième partie est reliée de manière à permettre, après l’avoir sortie de la reliure et l’avoir déployée, consultation simultanée avec la première partir. C’est en réalité comme si Pon avait deux livres en un.
 
 Utilité. — a) Livres dont l'index doit être consulté fréquemment. b) Atlas et index géographiques à consulter en cours de lecture, c) Livre avec recueil de planches à emporter, d) Modèles à l'appui des règles décrites.
 
@@ -2397,11 +2398,11 @@ h) Forme harmonica ou paravent pour un exposé faisant suite.
 
 i) Livres à parties détachables. Ex. Le Guide allemand des chemins de fer.
 
-Les «Guides Bædeker» ne se vendent qu’en volumes complets et reliés. Mais ils sont divisés en partie» bro ebées séparément et qui peuvent se détacher. Dans ce but. on casse le livre au commencement et À la fin de la partie è séparer et Pon aperçoit de la gaze qu'il suffit de couper. Pour mettre ces parties brochées, on vend des couvertures reliées en toile.
+Les «Guides Bædeker» ne se vendent qu’en volumes complets et reliés. Mais ils sont divisés en parties bro ebées séparément et qui peuvent se détacher. Dans ce but. on casse le livre au commencement et À la fin de la partie à séparer et Pon aperçoit de la gaze qu'il suffit de couper. Pour mettre ces parties brochées, on vend des couvertures reliées en toile.
 
 j) Les publications sur fiches sont venues créer un nouveau type de documents basé sur une forme matérielle caractéristique.
 
-6) Les innovations de formes et matières des livres et leur protection juridique ont fait l objet d'études du Bureau Permanent du Congrès international des Editeurs (Milan 1906).
+6) Les innovations de formes et matières des livres et leur protection juridique ont fait l'objet d'études du Bureau Permanent du Congrès international des Editeurs (Milan 1906).
 
 221.22 Formats.
 """"""""""""""""
@@ -2474,7 +2475,7 @@ Pott 8vo Fcap 8vo . Crown 8vo Demy 8vo Med. 8vo . Royal 8vo lmp. 8vo . Pott 4to 
 
 13 1/2 x 10 1/2
 
-6. Le format des livres anciennement s??indiquait sous la forme in 4“, in-160, etc. Pour avoir plus de précision, on le mesure maintenant en centimètres sous la forme de deux facteurs. le premier celui de la hauteur, le second celui de la largeur Ex. : 28 X 12.
+6. Le format des livres anciennement s'indiquait sous la forme in 4“, in-160, etc. Pour avoir plus de précision, on le mesure maintenant en centimètres sous la forme de deux facteurs. le premier celui de la hauteur, le second celui de la largeur Ex. : 28 X 12.
 
 Dimensions approximatives des différents formats :
 Pott Foiio  
@@ -2548,19 +2549,19 @@ Royal 4to lmp. 4to
 
 *54*  BIBLIOLOGIE   221
  
-Voici le« formule« le« plus usuelle« ;
-Coquille 44 X 36   formule 6
+Voici les formules les plus usuelles ;
+Coquille 44 × 36   formule 6
 
-Raisin 30 X 63   formule 6,1
+Raisin 30 × 63   formule 6,1
 
-Jésus 33 X 70   formule 3,2
+Jésus 33 × 70   formule 3,2
 
-Grand Jésus 3o X 76   formule 4,7
+Grand Jésus 3o × 76   formule 4,7
 
-Colombier 60 x 60   formule 4,13
+Colombier 60 × 60   formule 4,13
 
 Grand-Colombier 63 X V0   formule 3,32
-Lx. ; La coquille de b kilo« la rame pèse bXb = 64, soit 63 grammes au mètre carré. En divisant ce poids de 63 gr. par La formule 6.1, on aura 10 kg. 633 pour la rame de raisin et 1 on commandera du 10 kg. 500. On voil combien il est facile de se servit de cette concordance, de ce barème. Le technicien habitué à manier du papier, juge que celur qu on lui présente est de la force de la coqudlc 8 kg. la rame. Un coup d œil lui apprendra que ce papier pèse 65 gr, au mètre carré, que la rame raisin correspond à 10 kg. 550. il commandera du raisin de 10 kg. 500. On sait que le poids de la rame, ou kilo, multiplie par 2, donne, en grammes, le poids de la feuille ; le poids de la feuiile, en grammes, divisé par 2, donne le poids de la rame en kilos. Une rame de S kg. donne 16 grammes à la feuille. La feuille de 20 grammes provient d une rame de 10 kg.
+Lx. ; La coquille de b kilo« la rame pèse bXb = 64, soit 63 grammes au mètre carré. En divisant ce poids de 63 gr. par La formule 6.1, on aura 10 kg. 633 pour la rame de raisin et l'on commandera du 10 kg. 500. On voit combien il est facile de se servit de cette concordance, de ce barème. Le technicien habitué à manier du papier, juge que celur qu on lui présente est de la force de la coqudlc 8 kg. la rame. Un coup d œil lui apprendra que ce papier pèse 65 gr, au mètre carré, que la rame raisin correspond à 10 kg. 550. il commandera du raisin de 10 kg. 500. On sait que le poids de la rame, ou kilo, multiplie par 2, donne, en grammes, le poids de la feuille ; le poids de la feuiile, en grammes, divisé par 2, donne le poids de la rame en kilos. Une rame de S kg. donne 16 grammes à la feuille. La feuille de 20 grammes provient d une rame de 10 kg.
 
 8. Il y a des formats usuels :
 
@@ -2570,9 +2571,9 @@ Le format timbre poste.
 
 On a recherché de meilleurs formats et justifications pour les romans et autre, ouvrages portatifs, plutôt destinés & une lecture rapide qu'à une conservation indéfinie.
 
-Par le format du livre, on a cherché le moyen de le tenir d une main, refermé (lire au lit, en fauteuil, en chemin de fer), plié en deux sans 1 abîmer; on a cherché aussi le moyen de mettre le livre en poche (ex.: les catalogues d'expositions et de musées).
+Par le format du livre, on a cherché le moyen de le tenir d une main, refermé (lire au lit, en fauteuil, en chemin de fer), plié en deux sans l'abîmer; on a cherché aussi le moyen de mettre le livre en poche (ex.: les catalogues d'expositions et de musées).
 
-Les formats des photographies n ont aucun rapport avec le format des publications et répertoires.
+Les formats des photographies n'ont aucun rapport avec le format des publications et répertoires.
 
 Le format cahier scolaire.
 
@@ -2584,8 +2585,9 @@ C'est Aide Manuce qui, pour faciliter la diffusion de la littérature latine, ad
 
 Grand ou petit livre. — Ils ont l'un et l'autre des avantages suivant le cas. (Ex. : grand ou petit dictionnaire de langue). Avoir tout réuni en un volume est pratique pour la consultation, mais le volume est lourd, se déplace difficilement et son maniement est plut lent lors de la consultation.
 
-On n’a pas renoncé aux ouvrages minuscules. L'éditeur u l'araporevala de Bombay» publie le Kotan, le Bhagavad-
-221 [
+On n’a pas renoncé aux ouvrages minuscules. L'éditeur « Taraporevala de Bombay» publie le Koran, le Bhagavad-
+
+
 Gîta, le Khordeh Avesta en petites éditions d'un pouce sur 3/4 de pouce, reliées en métal avec verres grossissants.
 
 Il existe une sorte de compétition entre typographes en vue d'établir le livre le plus petit. Les frères Salmin, éditeurs à Padoue, conservent le record avec un volume lilliputien de 10 X ¡0x7 mm. de 208 pages. Il reproduit l’œuvre de Gaedeo à .Mme Christina di Lorena (16-16).
@@ -2628,10 +2630,13 @@ b) Orner, embellir;
 
 c) Evoquer le contenu. Symboles;
 
-d) Significative : aider à signifier, comme par ex. : reliure de couleurs conventionnelle??;
+d) Significative : aider à signifier, comme par ex. : reliure de couleurs conventionnelles;
 
 e) Rendre plus compacte. Un exemple d’extrême con-
-(1) Il paraît maintenant un Annuaire International de la Reliure ancienne et moderne (Jahrbuch der Einband-kunst) von Han« Londbier und Erhard Klette: Zweiter Jahrgang 1929. Le Dr. Schreiber a proposé un répertoire d’illustration« concernant les reliures.
+
+----
+
+(1) Il paraît maintenant un Annuaire International de la Reliure ancienne et moderne (Jahrbuch der Einband-kunst) von Hans Londbier und Erhard Klette: Zweiter Jahrgang 1929. Le Dr. Schreiber a proposé un répertoire d’illustration« concernant les reliures.
 
 
 ====
