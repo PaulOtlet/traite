@@ -574,9 +574,9 @@ En ce qui concerne la Terminologie Technique, les dix dernières années ont vu 
 124.1 Notions.
 ^^^^^^^^^^^^^^^
 
-L En tout ordre de connaissance, la mesure est une forme supérieure que prend la connaissance.
+1. En tout ordre de connaissance, la mesure est une forme supérieure que prend la connaissance.
 
-II y a lieu de constituer en un ensemble coordonné les mesures relatives au livre et au document, la Biblio-metric.
+Il y a lieu de constituer en un ensemble coordonné les mesures relatives au livre et au document, la Bibliométrie.
 
 2. Les mesures sont celles relatives aux objets, aux phénomènes ou faits, aux relations ou lois. Elle concerne le particulier (métrie proprement dite) ou les ensembles (statistique) ; elle concerne ce qui est ou ce qui devrait être (unité et standardisation).
 
@@ -584,9 +584,9 @@ Les mesures des rapports principaux considérées par une science prennent la fo
 
 3. Les données acquises de la métrie en général, de la Sociométrie en particulier sont à prendre en considération pour réaliser la Bibliométrie.
 
-L'adage « omnia in mensura », tout dans la mesure, est devenu l'idée directive de toutes les sciences qui tendent h passer du stade qualitatif au stade quantitatif. Le passage est désormais accompli pour les sciences astronomiques et physiologiques.
+L'adage « omnia in mensura », tout dans la mesure, est devenu l'idée directive de toutes les sciences qui tendent à passer du stade qualitatif au stade quantitatif. Le passage est désormais accompli pour les sciences astronomiques et physiologiques.
 
-Les sciences biologiques ou bio-psychologiques s’efforcent de joindre à la description minutieuse la mesure aussi exacte que possible. La fréquence de la répétition d'un type permet une mesure indirecte de la vitalité de l'espèce végétale ou animale; la longueur, la portée des organes, leur diamètre, leur poids, la variabilité des caractères essentiels permettent de nouvelles précisions. L'anthropologie bénéficie de 1 établissement de corrélations et de coefficients; l'anthropométrie a aidé la criminologie. La psychologie est entrée à son tour dans la voie des mesures multiples, indirectes, grâce aux corrélations psychologiques laborieusement établies. La sociologie tend aussi à devenir quantitative. Elle opère sur des groupes et les groupes sont susceptibles de dénombrements, dont la statistique établit les méthodes et enregistre les résultats. Les choses du livre ne sont guère mesurées, ni dans leur réalité objective et matérielle, ni dans leur
+Les sciences biologiques ou bio-psychologiques s’efforcent de joindre à la description minutieuse la mesure aussi exacte que possible. La fréquence de la répétition d'un type permet une mesure indirecte de la vitalité de l'espèce végétale ou animale; la longueur, la portée des organes, leur diamètre, leur poids, la variabilité des caractères essentiels permettent de nouvelles précisions. L'anthropologie bénéficie de l'établissement de corrélations et de coefficients; l'anthropométrie a aidé la criminologie. La psychologie est entrée à son tour dans la voie des mesures multiples, indirectes, grâce aux corrélations psychologiques laborieusement établies. La sociologie tend aussi à devenir quantitative. Elle opère sur des groupes et les groupes sont susceptibles de dénombrements, dont la statistique établit les méthodes et enregistre les résultats. Les choses du livre ne sont guère mesurées, ni dans leur réalité objective et matérielle, ni dans leur
 
 
 ====
@@ -595,9 +595,9 @@ Les sciences biologiques ou bio-psychologiques s’efforcent de joindre à la de
 
 réalité subjective et intellectuelle. Des efforts dans ce sens sont donc désirables.
 
-Les sciences du Iívtc, elles aussi doivent tendre maintenant à introduire la mesure dans leurs investigations. En tant que le livre est objet de psychologie?? de sociologie et de technologie, ses phénomènes sont susceptibles d’être mesurés.
+Les sciences du Iívtc, elles aussi doivent tendre maintenant à introduire la mesure dans leurs investigations. En tant que le livre est objet de psychologie, de sociologie et de technologie, ses phénomènes sont susceptibles d’être mesurés.
 
-La € Bibliométrie » sera la partie définie de la Biblio-logie qui s'occupe de la mesure ou quantité appliquée aux livres. (Arithmétique ou mathématique bibliolo-gique).
+La « Bibliométrie » sera la partie définie de la Biblio-logie qui s'occupe de la mesure ou quantité appliquée aux livres. (Arithmétique ou mathématique bibliolo-gique).
 
 Tous les éléments envisagés par la Bibliologie sont en principe susceptibles de mesure et il faut tendre de plus en plus à revêtir leurs données de la forme précise du nombre, à passer de l'état qualitatif ou descriptif à l'état quantitatif.
 
@@ -655,9 +655,9 @@ XXXIII. n° 850, p. 568-574, April 14. 1911.
 
 124.2  BIBLIOMETRIE  *15*
 
-0 m, 45X26,6 — 1.197 point??; aur 0 m. 56X26,6 = 1.490 pointa. Mais le point a un multiple qui sert à simplifier. Ce multiple, certains l’appellent le cicéro, en souvenir des Offices de Cicéron, qui furent imprimé?? dans un caractère dont le corps y correspondait à peu près. Il est préférable de dire un douze, des douze??, c’eat a la fois plus précis, plus commode et cela ne prête pas à confusion.
+0 m, 45×26,6 — 1.197 points; sur 0 m. 56×26,6 = 1.490 points. Mais le point a un multiple qui sert à simplifier. Ce multiple, certains l’appellent le cicéro, en souvenir des Offices de Cicéron, qui furent imprimé?? dans un caractère dont le corps y correspondait à peu près. Il est préférable de dire un douze, des douzes, c’est a la fois plus précis, plus commode et cela ne prête pas à confusion.
 
-Quand on a une justification à prendre, on parle en douze?? et quand on connaît le nombre de points, comme dans l’exemple ci-dessus, il faut diviser par douze. Il est donc plus simple de chercher immédiatement le nombre de douze??, et cela eat assez facile si l'on veut se donner la peine de retenir que, dans un mètre ou 2.660 points, il y a 222 douzes moins 4 points (221 d. Ô points). Il faut souligner « moins 4 points »; c’est ce qui permet une approximation aussi exacte que possible. Quand la mesure métrique approche du quart de mètre, on aura à déduire un point et on fera dî même pour chaque quart de mètre.
+Quand on a une justification à prendre, on parle en douze?? et quand on connaît le nombre de points, comme dans l’exemple ci-dessus, il faut diviser par douze. Il est donc plus simple de chercher immédiatement le nombre de douzes, et cela est assez facile si l'on veut se donner la peine de retenir que, dans un mètre ou 2.660 points, il y a 222 douzes moins 4 points (221 d. Ô points). Il faut souligner « moins 4 points »; c’est ce qui permet une approximation aussi exacte que possible. Quand la mesure métrique approche du quart de mètre, on aura à déduire un point et on fera dî même pour chaque quart de mètre.
 
 Dès lors, en douzes, le centimètre équivaut à 2,22, le millimètre à 0,222. En multipliant par ces nouveaux nombres, on a une approximation suffisante.
 
@@ -667,9 +667,9 @@ Dès lors, en douzes, le centimètre équivaut à 2,22, le millimètre à 0,222.
 
 La bibliométrie résume les statistiques et donne les indices de comparaison.
 
-8. Fréquence de lecture d'un auteur ou d'un livre, — Il serait intéressant de savoir combien un auteur a été lu. Voici Voltaire. De 1740 h 1778 il se fit
+8. Fréquence de lecture d'un auteur ou d'un livre, — Il serait intéressant de savoir combien un auteur a été lu. Voici Voltaire. De 1740 à 1778 il se fit
 
-19 recueils des oeuvres, sans compter les éditions séparées, très nombreuses pour les principaux écrits (I). De 1778 à 1815, QuérardSndique six éditions des œuvres complètes sans compter deux éditions incomplètes et déjà copieuses. Enfin pour la période de 1815 h 1835, en vingt an??. Bengesco rencontre 28 éditions des oeuvres complètes (2). Puis rien de 1835 h 1852. De 1852 à 1870.
+19 recueils des œuvres, sans compter les éditions séparées, très nombreuses pour les principaux écrits (I). De 1778 à 1815, QuérardSndique six éditions des œuvres complètes sans compter deux éditions incomplètes et déjà copieuses. Enfin pour la période de 1815 à 1835, en vingt an??. Bengesco rencontre 28 éditions des œuvres complètes (2). Puis rien de 1835 à 1852. De 1852 à 1870.
 
 5 éditions, dont l’édition de propagande du journal * Le Siècle *.
 
@@ -693,7 +693,7 @@ a) Voici par exemple un Traité de Physique, il est tiré à 2.000 exemplaires; 
 global offert en lecture dans la société par ce traité est 
 600 alinéas x 2.000 exemplaires = 120,000 idées documentalisées. 
 Mais les 2,000 exemplaires ont des sorts bien 
-différents: exemplaires destinés aux livres de texte des étudiants du cours de professeur, circonstance qui a déterminé l'édition ; exemplaires dans les Bibliothèques : exemplaires chez les particuliers : exemplaires dans les librairies ; exemplaires de presse ; exemplaires donnés en hommage ; exemplaires restés en stock chez l'éditeur ou l'auteur. Après un certain temps ont agi aur le corps matériel des exemplaires du livre, les causes d'usure et de destruction et sur les idées exprimées par les livres, des causes du vieillissement (par ex, le» livres de sciences dépassés). La chance pour les exemplaires de rencontrer, leurs lecteurs est donc inégale et avec le temps, elle diminue ou s'accroît, proportionnellement à la notoriété de l'auteur et de l'ouvrage. D'autre part, les lecteurs sont de complexité et formation différentes. En présence d'un ensemble de données bibliographiques déterminé, ils procéderaient chacun à la lecture suivant leur spécialité, leur curiosité et leur réceptivité. Intervient aussi le degré de
+différents: exemplaires destinés aux livres de texte des étudiants du cours de professeur, circonstance qui a déterminé l'édition ; exemplaires dans les Bibliothèques : exemplaires chez les particuliers : exemplaires dans les librairies ; exemplaires de presse ; exemplaires donnés en hommage ; exemplaires restés en stock chez l'éditeur ou l'auteur. Après un certain temps ont agi aur le corps matériel des exemplaires du livre, les causes d'usure et de destruction et sur les idées exprimées par les livres, des causes du vieillissement (par ex, les livres de sciences dépassés). La chance pour les exemplaires de rencontrer, leurs lecteurs est donc inégale et avec le temps, elle diminue ou s'accroît, proportionnellement à la notoriété de l'auteur et de l'ouvrage. D'autre part, les lecteurs sont de complexité et formation différentes. En présence d'un ensemble de données bibliographiques déterminé, ils procéderaient chacun à la lecture suivant leur spécialité, leur curiosité et leur réceptivité. Intervient aussi le degré de
 
 
 ====
@@ -747,7 +747,7 @@ d) Pour toute communauté désireuse d’assurer par la lecture la culture de se
 124.3 La statistique.
 ^^^^^^^^^^^^^^^^^^^^^^
 
-1. La statistique du livre se confond avec la Biblio-métrie. bien que jusqu'ici elle se soit appliquée principalement à dénombrer la quantité produite des livres (éditions). Mais la statistique commence à s'étendre maintenant aux tirages, à la circulation du livre, aux Bibliothèques, à la Librairie, aux pTix, etc... Déjà des travaux considérables ont été entrepris sur la statistique du livre. Ils ont porté sur les chiffres absolus et aussi sur les coefficients. Sans doute, il ne faut pas exagérer la valeur de ces chiffres car les dénombrements sont loin encore d'être complets, exacts, comparables. D'autre part, les coefficients que nous pouvons obtenir ne sont que des moyennes, qui comportent toutes sorte» de variations, en fonction d’innombrables variables. Mais en tenant les nombres que déjà nous possédons comme provisoires, ils doivent être pour nous un acheminement vers des nombres plus exacts et plus complets. (1)
+1. La statistique du livre se confond avec la Biblio-métrie. bien que jusqu'ici elle se soit appliquée principalement à dénombrer la quantité produite des livres (éditions). Mais la statistique commence à s'étendre maintenant aux tirages, à la circulation du livre, aux Bibliothèques, à la Librairie, aux pTix, etc... Déjà des travaux considérables ont été entrepris sur la statistique du livre. Ils ont porté sur les chiffres absolus et aussi sur les coefficients. Sans doute, il ne faut pas exagérer la valeur de ces chiffres car les dénombrements sont loin encore d'être complets, exacts, comparables. D'autre part, les coefficients que nous pouvons obtenir ne sont que des moyennes, qui comportent toutes sortes de variations, en fonction d’innombrables variables. Mais en tenant les nombres que déjà nous possédons comme provisoires, ils doivent être pour nous un acheminement vers des nombres plus exacts et plus complets. (1)
 
 2. Statistiques. Voici quelques données chif-
 
@@ -833,9 +833,9 @@ Les chansons populaires lettones sont au nombre de 218.000.
 
 A son 85?? anniversaire (oct. 1932), le Président Hindenburg a reçu 22.000 lettres, cartes-postales. dépêches et cadeaux; 1.700 télégrammes. Ces envois ont été enregistrés et il y a été répondu.
 
-Durée d??élaboration des œuvres. — Le temps d’élaboration des oeuvres varie d'une extrême rapidité a une extrême lenteur.
+Durée d??élaboration des œuvres. — Le temps d’élaboration des œuvres varie d'une extrême rapidité a une extrême lenteur.
 
-L'oeuvre de Forcelïini (Totius latinitatis Lexicon) fut commencée en 1718. Interrompue à plusieurs reprises, elle ne fut terminée qu'en 1753, soit après 35 ans. Près de deux ans furent ensuite employés à la révision; le manuscrit fut transcrit par Louis Vio-lato, qui consacra huit ans à ce travail et l'acheva seulement en 1761. Le Lexique ne parut qu'en 1771. soit après 53 ans. Forcelïini était mort avant la publication de son œuvre.
+L'œuvre de Forcelïini (Totius latinitatis Lexicon) fut commencée en 1718. Interrompue à plusieurs reprises, elle ne fut terminée qu'en 1753, soit après 35 ans. Près de deux ans furent ensuite employés à la révision; le manuscrit fut transcrit par Louis Vio-lato, qui consacra huit ans à ce travail et l'acheva seulement en 1761. Le Lexique ne parut qu'en 1771. soit après 53 ans. Forcelïini était mort avant la publication de son œuvre.
 
 Etendue des œuvres. — L'Odyssée se compose de 12.118 vers. L’Illiade se compose de 12.210 vers et chaque vers d’environ 33 lettres, cc% qui donne un total de 501.930 lettres Les poèmes épiques, lyriques ou didactiques des latins ne dépassaient guère mille vers dans un chant. Le roman de François Coppée. Henriette, soit un volume de 193 pages comporte 19.029 mots.
 
@@ -884,9 +884,9 @@ poids de 409 grammes. »
 
 Un livre de 3 centimètres sur papier India peut contenir 1.000 pages. (Exemple : l’Encyclopedia Britannica).
 
-Prix. — On estime à 200 millions ce que coûte la production et l’organisation de la documentation chimique. De 1885 à 1893 de € Meyers Conversation Lexikon » il a été vendu pour plus de 24 1/2 millions de marks, soit plus de 143.000 exemplaires. Pour un livre scientifique de 350 pages tiré à 1.000, l’éditeur Alcan, avant la guerre, payait à l’auteur 500 francs et lui remettait gratuitement 50 exemplaires.
+Prix. — On estime à 200 millions ce que coûte la production et l’organisation de la documentation chimique. De 1885 à 1893 de « Meyers Conversation Lexikon » il a été vendu pour plus de 24 1/2 millions de marks, soit plus de 143.000 exemplaires. Pour un livre scientifique de 350 pages tiré à 1.000, l’éditeur Alcan, avant la guerre, payait à l’auteur 500 francs et lui remettait gratuitement 50 exemplaires.
 
-Typographie. lignes, lettres, mots. — U y a 400 millions de lettres dans le grand Dictionnaire Larousse et à raison de 4.000 mots à la page (2 7.500X4.000) 90 millions de mots. Un volume de la € Bibliothèque scientifique Flammarion contient :
+Typographie. lignes, lettres, mots. — Il y a 400 millions de lettres dans le grand Dictionnaire Larousse et à raison de 4.000 mots à la page (2 7.500X4.000) 90 millions de mots. Un volume de la € Bibliothèque scientifique Flammarion contient :
 
 a) pages : 300.
 
@@ -894,7 +894,7 @@ b) lignes à la page : 29, total : 8.700;
 
 c) lettres à la ligne : 50, total : 435.000;
 
-d) mots h la ligne ; 8 à 9;
+d) mots à la ligne ; 8 à 9;
 
 e) mots n la page, environ 215;
 
@@ -929,7 +929,7 @@ espace libre 4" 21 ??
 
 ou 8 rayons in-8?? = 200 24 = 224 centimètres.
 
-La largeur des livres a été calculée : h Goettingen : 8", 20 cent. à Halle : 8°, 35-
+La largeur des livres a été calculée : à Goettingen : 8", 20 cent. à Halle : 8°, 35-
 
 4°, 30 cent. 4a, 25-35
 
@@ -939,7 +939,7 @@ grand in-folio 4- 45
 
 On peut compter 80 livres par mètre carré de surface latérale. C’est la moyenne, des calculs ont donné respectivement 100, 66 et 63. Il y tendance à diminution de la grandeur des livres.
 
-Outillage. — La puissance de l’outillage technique du livre peut être mesurée par les chiffres suivants : machine à fondre les caractères (Wicks), 60.000 caractères à l’heure; machine à composer Langston Monotype. 12.000 lettres à l’heure; machine à imprimer ou presser, 50.000 feuilles è l’heure, quadruple ou Pall Mail, 200.000; machine à relier, à ronder, 6.000 volumes par jour; machine à couvrir de toile ou de papier, 22.000 volumes par jour.
+Outillage. — La puissance de l’outillage technique du livre peut être mesurée par les chiffres suivants : machine à fondre les caractères (Wicks), 60.000 caractères à l’heure; machine à composer Langston Monotype. 12.000 lettres à l’heure; machine à imprimer ou presser, 50.000 feuilles à l’heure, quadruple ou Pall Mail, 200.000; machine à relier, à ronder, 6.000 volumes par jour; machine à couvrir de toile ou de papier, 22.000 volumes par jour.
 
 De3 1910, les machines géantes débitèrent à l’heure 66.000 exemplaires d’un journal de 24 pages, pliés, ficelés en ballots, prêts à partir par la poste. Il suffirait de 10 compositeurs et 5 pressiers dans un grand journal pour faire le travail de 300.000 copistes.
 
@@ -952,7 +952,7 @@ Dès le commencement du XXe siècle, en Allemagne. 2 75.000 personnes étaient o
 
 vivaient à Pari», de la presse, la pensée imprimée. Aux Etats-Unis, les capitaux investis dans les industries du livre étaient de 200 millions de dollars avec une valeur de produits annuels de 375 millions de dollars.
 
-3. En face de cette statistique du livre et du document devrait se dresser celle de l'état actuel de notre civilisation dont ils sont l'expression et où ils doivent servir à œuvrer. Rappelons celle-ci : nous sommes deux milliards d’êtres humains, répartis en trois continents. cinq parties du monde, 60 Etats. Nous avons construit un million de kilomètres de chemins de fer; nous possédons quelque 60.000 navires; nous pouvons par Zeppelin faire le tour du monde en 21 jours et par radio en quelques secondes. Annuellement le commerce extérieur universel dépasse un milliard et demi de livres. Des industries toutes récentes, celle de l’auto et du cinéma investissent respectivement des milliards de capital. Et quand nous nous mettons à nous battre et h tout détruire, sans que nous disparaissions, nous pouvons, comme dans la guerre mondiale, aligner au tableau 10 millions de morts, autant de blessés et 2.000 milliards de dépenses, francs-or.
+3. En face de cette statistique du livre et du document devrait se dresser celle de l'état actuel de notre civilisation dont ils sont l'expression et où ils doivent servir à œuvrer. Rappelons celle-ci : nous sommes deux milliards d’êtres humains, répartis en trois continents. cinq parties du monde, 60 Etats. Nous avons construit un million de kilomètres de chemins de fer; nous possédons quelque 60.000 navires; nous pouvons par Zeppelin faire le tour du monde en 21 jours et par radio en quelques secondes. Annuellement le commerce extérieur universel dépasse un milliard et demi de livres. Des industries toutes récentes, celle de l’auto et du cinéma investissent respectivement des milliards de capital. Et quand nous nous mettons à nous battre et à tout détruire, sans que nous disparaissions, nous pouvons, comme dans la guerre mondiale, aligner au tableau 10 millions de morts, autant de blessés et 2.000 milliards de dépenses, francs-or.
 
 Mais quand nous édifions ce sont d'immenses organisations. 400 associations internationales. 200 trusts internationaux, 5 religions internationales, une Société des Nations comprenant déjà 54 Etats.
 
@@ -969,7 +969,7 @@ fondamentaux de la bibliographie, la notice de chacun d'eux, étant accompagnée
 
 La statistique des imprimés de R. S. F. S. R. (Russie) en 1926 (142 pages), dont les chiffres de la production des imprimés russes sont présentés dans une série de tableaux analytiques et synthétiques. Les questions posées et les réponses numériques qui leur sont données constituent une remarquable méthode. La classification décimale sert largement de cadre aux tableaux fondamentaux. (Travaux de M. Yanaitski.)
 
-6. Les premiers travaux d'ensemble sur la Statistique du livre ont été établis il y a quelque vingt ans par le Bureau International du droit d’auteur à Berne (M. Rôthlisberger) et ensuite par l'Institut International de Bibliographie. Récemment, la Commission internationale de Coopération intellectuelle a demandé à l'Institut International de Statistique d’inclure plus de données intellectuelles dans les cadres recommandés aux administrations, et par conséquent aussi quant au livre. Il est projeté que l'Institut International de Coopération Intellectuelle publie un Annuaire de la Statistique Intellectuelle qui réunira notamment les stat:stiques scolaires et bibliographiques des différents pays. Parmi les récents travaux particuliers, citons celui fort suggestif de E. Wyndham Hulme ; € Statistical Bibliography in relation to the Growth of Modern Civilization. 1923 ». Il y est mis en œuvre notamment les données, non publiées ailleurs, relatives à l’International Catalogue of Scientific Literature.
+6. Les premiers travaux d'ensemble sur la Statistique du livre ont été établis il y a quelque vingt ans par le Bureau International du droit d’auteur à Berne (M. Rôthlisberger) et ensuite par l'Institut International de Bibliographie. Récemment, la Commission internationale de Coopération intellectuelle a demandé à l'Institut International de Statistique d’inclure plus de données intellectuelles dans les cadres recommandés aux administrations, et par conséquent aussi quant au livre. Il est projeté que l'Institut International de Coopération Intellectuelle publie un Annuaire de la Statistique Intellectuelle qui réunira notamment les stat:stiques scolaires et bibliographiques des différents pays. Parmi les récents travaux particuliers, citons celui fort suggestif de E. Wyndham Hulme ; « Statistical Bibliography in relation to the Growth of Modern Civilization. 1923 ». Il y est mis en œuvre notamment les données, non publiées ailleurs, relatives à l’International Catalogue of Scientific Literature.
 
 L’ouvrage statistique de Enrique Spam <r Las Bibliothecas con 50.000 y mas volumenes. (Cordoba. 
 
@@ -1065,7 +1065,7 @@ Les mathématiques ont été primitivement empiriques et inductives ; les scienc
 
 2. Les règles de la méthode scientifique consistent essentiellement à dénombrer les divers facteurs intervenant dans le problème posé et à élucider successivement l’influence de chacun d'eux pris isolément, tous les autres étant maintenant invariables.
 
-Conformément donc a la méthode dan» toutes les autres sciences: il s'agit: a) de déterminer les faits particuliers; b) après avoir établi ces faits, de les grouper en une construction méthodique ou système pour découvrir les rapports entr’eux. On doit isoler les faits pour les constater, les rapprocher pour les comprendre.
+Conformément donc a la méthode dans toutes les autres sciences: il s'agit: a) de déterminer les faits particuliers; b) après avoir établi ces faits, de les grouper en une construction méthodique ou système pour découvrir les rapports entr’eux. On doit isoler les faits pour les constater, les rapprocher pour les comprendre.
 
 La première question est donc d'établir la manière de déterminer les faits. Elle consiste dans l'observation di-
 
@@ -1086,15 +1086,15 @@ recte des faits. Mais le procédé est insuffisant. Beaucoup de faits sont pass�
 
 thode de l'Histoire naturelle en Bibliographie, on lui o ? donné le nom de bibliographie systématique. ( 1 )
 
-Dans les sciences de la nature 1 objectif est double : description des faits et leur explication ou théorie. Les faits ici échappant à l’homme, il faut leur reconstituer un commentaire satisfaisant. En Bibliologie l’objet d'étude est de création humaine. Il n’offre rien de caché, de mystérieux, mais ici l’invention, l’imagination préfigurant les formes futures est appelée à remplir un rôle analogue à celui ce la théorie et des sciences de la nature : il s’agit dans les deux cas d’une construction scientifique.
+Dans les sciences de la nature l'objectif est double : description des faits et leur explication ou théorie. Les faits ici échappant à l’homme, il faut leur reconstituer un commentaire satisfaisant. En Bibliologie l’objet d'étude est de création humaine. Il n’offre rien de caché, de mystérieux, mais ici l’invention, l’imagination préfigurant les formes futures est appelée à remplir un rôle analogue à celui ce la théorie et des sciences de la nature : il s’agit dans les deux cas d’une construction scientifique.
 
 6. Ayant décriL et comparé les livres (de tous temps, pays, matière, forme, langue) et les ayant classés d'après leurs diverses caractéristiques (Bibliologie descriptive, Bibliologie théorique) en dégager : I" les possibilités re?? latives diverses pour l'expression des idées (production, conservation, compréhension, diffusion) (Théorie technique) ; 2° les lois suivant lesquelles s’est opérée la transformation des livres au cours des âges (Evolution du iivre) ; 3° les applications principales à en déduire (Applications),
 
 7. Pourrait-on, en Bibliologie, s’inspirer de la méthode mise en œuvre par la Rhétorique et la Poétique. Toutes deux cherchent à résoudre en formules et en préceptes ce qui dans les œuvres littéraires a paru le plus beau. Les chefs-d’œuvre leur ont servi de base, mais elles ont su se dégager d’elles jusqu’à s’élever, pour partie au moins au rang de science rationnelle. C'est que les chefs-d'œuvre de l'étude desquelles elles se déduisent sont eux-mêmes issus d’opérations logiques et naturelles de l'esprit humain.
 
-La Rhétorique et la Poétique, l art de la composition littéraire recherchent cette suite d opérations, 1 analysent, se rendent compte de leur valeur et les traduisent en formules. I] faudrait étudier similairement les livres en tant que formes documîntaires.
+La Rhétorique et la Poétique, l'art de la composition littéraire recherchent cette suite d opérations, l'analysent, se rendent compte de leur valeur et les traduisent en formules. I] faudrait étudier similairement les livres en tant que formes documîntaires.
 
-8. La dernière opération de la construction bibliographique. c’est de grouper les phénomènes successifs pour arriver à dresse^ le tableau de 1 évolution. L évolution est une série de changements qui va dans une direction qui nous paraît constante. L’évolution est un phénomène fondamental dans toutes les sciences qui étudient des êtres vivants.
+8. La dernière opération de la construction bibliographique. c’est de grouper les phénomènes successifs pour arriver à dresse^ le tableau de l'évolution. L évolution est une série de changements qui va dans une direction qui nous paraît constante. L’évolution est un phénomène fondamental dans toutes les sciences qui étudient des êtres vivants.
 
 Il faut préciser le sens de l'évolution bibliologique. Elle se rattache à l’évolution de la société et des usages, faits tout différents de l’évolution d’une espèce animale. Il n’y a de commun entre elles que le fait d’une transformation dans un sens continu, mais le processus de la transformation diffère.
 
@@ -1141,15 +1141,15 @@ i
 
 annales écrites; g) recettes et pratiques d’un métier et doctrine professionnelle écrite.
 
-4. Il y a lieu : 1° d’observer directement les faits; l" de les noter, de les décrire succinctement, de les répertorier; 3" de les analyser sous tous leurs aspects, de les disséquer; 4“ de découvrir un rapport commun et constant liant tous les faits, prélude indispensable à l’élaboration de toute loi, à l’explication et à la détermination de la causabilité.
+4. Il y a lieu : 1° d’observer directement les faits; 2° de les noter, de les décrire succinctement, de les répertorier; 3° de les analyser sous tous leurs aspects, de les disséquer; 4° de découvrir un rapport commun et constant liant tous les faits, prélude indispensable à l’élaboration de toute loi, à l’explication et à la détermination de la causabilité.
 
-5. Il y a deux manières différentes de pratiquer la comparaison ; 1° pour en tirer des lois universelles; 2” pour en tirer des indications historiques.
+5. Il y a deux manières différentes de pratiquer la comparaison ; 1° pour en tirer des lois universelles; 2° pour en tirer des indications historiques.
 
 6. Une science avancée est faite d’un ensemble de
 
 principes fondamentaux qui ne sont plus discutés par les savants; d’un système de vérités établies, de lois démontrables et vérifiables expérimentalement. Mais le premier aspect d une science, disait Kant, est un fouillis de phénomènes (Gewühl der Erscheinungen), une rapsodie de perceptions (Rhapsodie der Wahrnehmungen). Ainsi à la base de toute connaissance, il y des descriptions : 1° bien exactes; 2U faites en
 
-termes compréhensibles; 3® mesurées; 4?? classées. D’où l’on s’élève à la considération des rapports généraux existants entre les éléments de la science envisagée et qui ont eux-mêmes été déjà décrits, dénommés et mesurés.
+termes compréhensibles; 3° mesurées; 4° classées. D’où l’on s’élève à la considération des rapports généraux existants entre les éléments de la science envisagée et qui ont eux-mêmes été déjà décrits, dénommés et mesurés.
 
 7. Toute méthode (metaodos, chemin vers) s’exprime complètement dans un système et elle repose sur des principes. Il peut y avoir des systèmes divers et même nombreux, comme autant de chemins conduisant au même but et coordonnant les mêmes données que dégagent la pratique ou les discussions. Plusieurs systèmes aussi peuvent ne pas être opposés de principes, ni même de méthodes, mais exprimer seulement les différences d’étapes et de phases quant à leur élaboration.
 
@@ -1169,7 +1169,7 @@ Dans le présent exposé, on a combiné les deux méthodes.
 14 PROBLÈMES GÉNÉRAUX DE LA BIBLIOLOGIE
 ========================================
 
-Comme toute science la Bibliologie a un problème ion-camemal sur lequel t»e concentrent constamment tous les eüorU. Puisque le document consiste essentiellement en un mécanisme de transmission de la pensée par 1 écriture et la lecture, ce problème peut être exprimé en ces termes; a J Lire la plus grande quantité, b) dans le moindre temps, c) avec le minimum de peine et de fatigue, a) le maximum d assimilation, e) le maximum de mémo nsat.on, J) le maximum de réaction intellectuelle (travail ne la peinée), g) le maximum d agrément,
+Comme toute science la Bibliologie a un problème ion-camemal sur lequel t»e concentrent constamment tous les eüorU. Puisque le document consiste essentiellement en un mécanisme de transmission de la pensée par l'écriture et la lecture, ce problème peut être exprimé en ces termes; a J Lire la plus grande quantité, b) dans le moindre temps, c) avec le minimum de peine et de fatigue, a) le maximum d assimilation, e) le maximum de mémo nsat.on, J) le maximum de réaction intellectuelle (travail ne la peinée), g) le maximum d agrément,
 
 1. Pour faire progresser la bibliologie il importe de pré ciser, de systématiser et d étendre les recherches nouvelles. Les théories reposent souvent sur des données incomplètes, vagues, livrées par le hasard plutôt que choisies,
 
@@ -1186,7 +1186,7 @@ La documentation n'est que le troisième terme d’un trinaire ; Réalité, Conn
 
 b) Quant à la forme,
 
-Le document n'est que le moyen de transmettre des données informatives h la connaissance des intéressés, qui, éloignés dans le temps et dans l’espace, ou dont l’esprit discursif a besoin qu'on luî montre les liens intelligibles des choses. Par conséquent la documentation doit tendre à réaliser au maximum pour l’homme des conditions dont la limite à atteindre, soit l’ubiquité, l’éternité et la connaissance intuitive. Ces conditions sont idéales, étant
+Le document n'est que le moyen de transmettre des données informatives à la connaissance des intéressés, qui, éloignés dans le temps et dans l’espace, ou dont l’esprit discursif a besoin qu'on luî montre les liens intelligibles des choses. Par conséquent la documentation doit tendre à réaliser au maximum pour l’homme des conditions dont la limite à atteindre, soit l’ubiquité, l’éternité et la connaissance intuitive. Ces conditions sont idéales, étant
 impossiblej à atteindre puisqu'elles sont celles-là où est placé le pur esprit. Mais on peut le tenir comme conditions-tendance.
 
 Le problème est donc de chercher le perfectionnement du livre en lui-même (rapidité, richesse, extension, prix, etc.), le perfectionnement de chacun des éléments analysés, et le perfectionnement des substituts du livre, c’est-à-dire des autres moyens d’atteindre le but, des autres organes capables d’exercer la même fonction. La Documentation est partie d abord du livre tel qu’il était donné par les auteurs cl les éditeurs et elle a cherché à l'organiser. On doit se préoccuper maintenant d’étudier systématiquement le perfectionnement du livre et sa ré forme en général et en lui-même. Ce mouvement soulève une suite de problèmes qui s'échelonnent ainsi :
@@ -1203,7 +1203,7 @@ b) Réciproquement, étant donné les data intellectuels, quels éléments maté
 
 la documentation peut encore être formulé en ces termes i
 
-à) Comment toute pensée qu elle soit intellectuelle pure, sentiment et émotion, ou tendances et volontés; qu'elle se réfère au moi ou au non-moi, comment toute pensée peut-elle s’exprimer au moyen de documents, c’est-à-dire de réalités corporelles et physiques, incorporant ou supportant les dites données de la pensée à l'aide de signes ou de formes ou d'éléments différenciés perceptibles par les sens et reliées à l’esprit par une correspondance.
+a) Comment toute pensée qu elle soit intellectuelle pure, sentiment et émotion, ou tendances et volontés; qu'elle se réfère au moi ou au non-moi, comment toute pensée peut-elle s’exprimer au moyen de documents, c’est-à-dire de réalités corporelles et physiques, incorporant ou supportant les dites données de la pensée à l'aide de signes ou de formes ou d'éléments différenciés perceptibles par les sens et reliées à l’esprit par une correspondance.
 
 b) Comment les documents de toute espèce, pris 
 
@@ -1249,7 +1249,7 @@ On pourrait établir par le raisonnement logique toutes les possibilités inhér
 *27*
 
 
-mène» (nouvelles conceptions du temps et de 1 espace ; géométrisation des phénomènes de gravitation, expression de la catégorie causale). Une transformation analogue en Bibliologie pourrait se concevoir, mais en sens inverse. Le document jusqu’à ce jour est essentiellement descriptif de qualités. Un perfectionnement des catégories bibliologi-ques pourrait tendre vers tels détails, vers une précision et une telle corrélation des parties avec les ensembles qu’on approcherait de la description quantitative par une voie autre que la mathématique elle-même. Ce serait le cas notamment avec une classification scientifique exprimée en indices ordinaux dans les cadres de laquelle auraient pris place les données scientifiques et grâce à laquelle pourraient ctre opérés mécaniquement des rappro chements, des décompositions et des compositions d'idées.
+mènes (nouvelles conceptions du temps et de l'espace ; géométrisation des phénomènes de gravitation, expression de la catégorie causale). Une transformation analogue en Bibliologie pourrait se concevoir, mais en sens inverse. Le document jusqu’à ce jour est essentiellement descriptif de qualités. Un perfectionnement des catégories bibliologi-ques pourrait tendre vers tels détails, vers une précision et une telle corrélation des parties avec les ensembles qu’on approcherait de la description quantitative par une voie autre que la mathématique elle-même. Ce serait le cas notamment avec une classification scientifique exprimée en indices ordinaux dans les cadres de laquelle auraient pris place les données scientifiques et grâce à laquelle pourraient ctre opérés mécaniquement des rappro chements, des décompositions et des compositions d'idées.
 
 D’autre part, dans l'évolution humaine, on constate les quatre phases : sensations, intelligence, langage, écriture-documentation. Sans le langage, l’intelligence n'aurait pu se perfectionner, sans récriture-documentation le langage serait demeuré dans un état inférieur. Or, de même que par le langage les catégories de la pensée se sont constituées plus fortement et plus pleinement, de même en pourrait-il être avec une documentation à un stade plus avancé. Par son moyen, on entrevoit la possibilité de doter un jour la Pensée de nouvelles catégories élaborées par le processus indirect du document à la manière dont la mathématique contemporaine a elle-même élaboré de nouvelles catégories de pensée.
 
@@ -1257,9 +1257,9 @@ D’autre part, dans l'évolution humaine, on constate les quatre phases : sensa
 
 ----
 
-dictoire, un mal comparable sous certains aspects à celui des Rhéteurs dont Aristote finit par triompher. Cette science serait pour l’ordre à mettre dans les documents le prolongement de la Logique, qui est la science de l'ordre à mettre dans les idées. Quels que soient le» abus auxquels donnera lieu infailliblement la nouve.le «cience, son utilité et sa nécessité »ont incontestables.
+dictoire, un mal comparable sous certains aspects à celui des Rhéteurs dont Aristote finit par triompher. Cette science serait pour l’ordre à mettre dans les documents le prolongement de la Logique, qui est la science de l'ordre à mettre dans les idées. Quels que soient les abus auxquels donnera lieu infailliblement la nouve.le «cience, son utilité et sa nécessité sont incontestables.
 
-7. Les transformations futures de» livres. — Par une ascension extrême, on arrive à concevoir presque une documentation sons documents. Y pourrait conduire une généralisation extrême qui rappellerait dans ce domaine la marche qui a conduit les mathématiciens à ce qu’on pourrait appeler une mathématique sans nombre ni espace f Les géomètres, en transportant des éléments géométriques vulgaires dans des espaces de plus en plus complexes, ont conduit à des géométries généralisées dont celle vulgaire, la géométrie d’Euclide, ne serait qu un cas particulier. Les algébristes ont construit des arithmétiques généralisées. (1)
+7. Les transformations futures des livres. — Par une ascension extrême, on arrive à concevoir presque une documentation sons documents. Y pourrait conduire une généralisation extrême qui rappellerait dans ce domaine la marche qui a conduit les mathématiciens à ce qu’on pourrait appeler une mathématique sans nombre ni espace f Les géomètres, en transportant des éléments géométriques vulgaires dans des espaces de plus en plus complexes, ont conduit à des géométries généralisées dont celle vulgaire, la géométrie d’Euclide, ne serait qu un cas particulier. Les algébristes ont construit des arithmétiques généralisées. (1)
 
 Le document élémentaire correspond à la pensée discursive. Il sert d'appui à cette pensée en lui permettant un développement explicite de plus en plus étendu et abondant. Le document du degïé supérieur qu'on entrevoit correspondrait à la pensée intuitive. Il dépouillerait le document élémentaire de ses propriétés fondamentales, physiques et psychologiques pour le sublimiser et réduire à peu de chose et son substratum et la série enchaînée de ses signes. Quoi T Comment? C’est difficile à formuler dès maintenant. Disons que la musique réduite à de purs tons, n’ayant peut être jamais été notés en peut donner quelque pressentiment ; qu’aussi la radio agissant c ubiquiquement » audible à volonté, venant subitement emplir de ses ondes ou l’en vider, un espace donné, celui à notre portée et par la seule pression d’un bouton. Disons que la musique et la radio nous permettent ici des anticipations bien que difficiles à pousser au delà de leur simple énoncé.
 
@@ -1273,7 +1273,7 @@ Le document élémentaire correspond à la pensée discursive. Il sert d'appui �
 
 La Bibliologie, comme toute science, a des rapports avec les autres connaissances. Ces rapports sont dans deux directions : elle leur emprunte et elle leur donne. Les principales connaissances avec qui de tels rapports existent sont la Linguistique, la Technologie, la Logique, la Psychologie et la Sociologie.
 
-Mais il y a aussi des rapport» tout à fait généraux avec l'ensemble des connaissances et de la science comme telle» et c'est eux qu'il y a lieu d'examiner tout d’abord.
+Mais il y a aussi des rapport» tout à fait généraux avec l'ensemble des connaissances et de la science comme telles et c'est eux qu'il y a lieu d'examiner tout d’abord.
 
 
 % right column
@@ -1281,7 +1281,7 @@ Mais il y a aussi des rapport» tout à fait généraux avec l'ensemble des conn
 151 Corrélations Générales.
 ----------------------------
 
-Les rapports entre les choses, ceux entre les sciences qui y correspondent sont en principe des rapports mutuels. On a donc « Logique : Livre » et « Livre : Logique », « Psychologie : Livre » et « Livre : Psychologie », «Technologie : Livre» et «Livre ! Technologie », « Sociologie : Livre » et « Livre : Sociologie ».
+Les rapports entre les choses, ceux entre les sciences qui y correspondent sont en principe des rapports mutuels. On a donc « Logique : Livre » et « Livre : Logique », « Psychologie : Livre » et « Livre : Psychologie », «Technologie : Livres et «Livre ! Technologie », « Sociologie : Livre » et « Livre : Sociologie ».
 
 La mutualité de ces rapports s'exerce cependant, en chaque cas, suivant deux directions différentes. Ainsi, il y a lieu d'envisager les influences de la Logique su
 
@@ -1290,19 +1290,19 @@ La mutualité de ces rapports s'exerce cependant, en chaque cas, suivant deux di
 
 *28* BIBLIOLOGIE 152
 
-fe Livre, mai« inversement celles du Livre sur la Logique à laquelle il est venu apporter un instrument propre à des démonstrations rigoureuses et enchaînées en vaste système. (Par exemple qu'aurait été la Logique en œuvre dans la géométrie si elle n'avait pu s’exprimer dans Jes VJJJ livres d'EucJide). De même les influences corrélatives du Livre sur la Psychologie (formation de l'Esprit) sur la Technique (signification claire donnée aux choses produites) sur la Société (extension et précision du lien social), manière dont le livre réagit sur les phénomènes sociaux, en particulier, action du livre sur un public ou une ioule dispersée et réciproquement.
+fe Livre, mais inversement celles du Livre sur la Logique à laquelle il est venu apporter un instrument propre à des démonstrations rigoureuses et enchaînées en vaste système. (Par exemple qu'aurait été la Logique en œuvre dans la géométrie si elle n'avait pu s’exprimer dans les VJJJ livres d'EucJide). De même les influences corrélatives du Livre sur la Psychologie (formation de l'Esprit) sur la Technique (signification claire donnée aux choses produites) sur la Société (extension et précision du lien social), manière dont le livre réagit sur les phénomènes sociaux, en particulier, action du livre sur un public ou une ioule dispersée et réciproquement.
 
 Une formation systématique des termes pourrait exprimer clairement ces corrélations dans les deux sens. On dirait Logique, Psychologie, Technologie et So-ciologie bibliologiques. On dirait corrélativement Biblio-logie, logique, psychologique, technologique et sociologique
 
 152 La Linguistique ou Philologie fiibliologique.
 --------------------------------------------------
 
-1. Les rapports de la Bibliologie et la Linguistique constituent ce qu'on pourrait dénommer la Philologie bibliologique. Celle-ci a pour objet de montrer comment, à ¡‘origine, s'est opéré Je prolongement du langage dans le signe, après que la pensée elle-même sensation, sentiment, idée) se fut frayée un chemin extérieur par ce même langage, comment la langue a trouvé dans le livre le moyen de se fixer et progresser jusqu'aux formes complexes de la littérature, comment elle continue sans cesse de se développer par plus de livres, par la nécessité d'incorporer plus de pensées dans plus de documents, comment à cette fin elle procède sans discontinuer à l'amplification du vocabulaire, de la nomenclature, de la terminologie.
+1. Les rapports de la Bibliologie et la Linguistique constituent ce qu'on pourrait dénommer la Philologie bibliologique. Celle-ci a pour objet de montrer comment, à l'origine, s'est opéré le prolongement du langage dans le signe, après que la pensée elle-même sensation, sentiment, idée) se fut frayée un chemin extérieur par ce même langage, comment la langue a trouvé dans le livre le moyen de se fixer et progresser jusqu'aux formes complexes de la littérature, comment elle continue sans cesse de se développer par plus de livres, par la nécessité d'incorporer plus de pensées dans plus de documents, comment à cette fin elle procède sans discontinuer à l'amplification du vocabulaire, de la nomenclature, de la terminologie.
 
-2. Les systèmes phonétiques, les systèmes morphologiques. les systèmes psychologiques du langage sont aussi complétés par un système bibliologique. Les travaux poursuivis depuis plusieurs siècles sur les langues, les études de grammaire comparée sont une indication de ce qui peut être attendu des études sur les livres. On a envisagé d'abord de classifier les langues envisagées successivement è divers points de vues, puis envisagées dans leur ensemble. On a examiné ensuite l'évolution de chaque groupe systématique de langages à travers le temps et vu fa marche qu'il a suivie et du suivre. D’où des études du point de vue étymologique et généalogique, des études dans les trois parties bien distinctes du langage, la phonétique, la morphologie, la syntaxe ou partie psychologique. Les formes bibliologiques étudiées d'après des méthodes analogues fourniront des résultats non moins remarquables.
-3. Les textes pour l’étude des langue« offrent des clé ments précieux. Pour les langues anciennes les faits se laissent observer seulement avec leur aide. C’est sur de?? documents écrits qu'on observe par exemple 1 attique, le gothique ou le vieux slave. On peut aussi déterminer l’étal d'une longue à un certain moment, dans certaine» conditions et l’examen des textes est alors le substitut de l'observation directe devenue impossible. Mais la langue écrite est bien loin d enregistrer exactement tous les changements de la langue parlée, il y a des différences variables suivant les individus et leur degré de culture. Or, les langues romanes n’ont pas continué le latin littéraire, mais surtout le latin vulgaire. Les textes d'époques diverses fournissent des états de langue successifs. Les changements essentiels auxquels est dû le passage du type latin ancien au type roman, du IIIe siècle au Xe siècle après J.-C. trouve sa trace dans les monuments écrits. Mai» la transformation des langues s est faite aussi hors des textes. La Linguistique fait ses rapprochements en posant une « langue commune » initiale (Ursprache). Chaque fait linguistique fait partie d’un ensemble où tout se tient (système linguistique). On rapproche donc non pas un fait de détail d’un autre fait de détail, mais un système linguistique d'un autre système,
+2. Les systèmes phonétiques, les systèmes morphologiques. les systèmes psychologiques du langage sont aussi complétés par un système bibliologique. Les travaux poursuivis depuis plusieurs siècles sur les langues, les études de grammaire comparée sont une indication de ce qui peut être attendu des études sur les livres. On a envisagé d'abord de classifier les langues envisagées successivement à divers points de vues, puis envisagées dans leur ensemble. On a examiné ensuite l'évolution de chaque groupe systématique de langages à travers le temps et vu fa marche qu'il a suivie et du suivre. D’où des études du point de vue étymologique et généalogique, des études dans les trois parties bien distinctes du langage, la phonétique, la morphologie, la syntaxe ou partie psychologique. Les formes bibliologiques étudiées d'après des méthodes analogues fourniront des résultats non moins remarquables.
+3. Les textes pour l’étude des langue« offrent des clé ments précieux. Pour les langues anciennes les faits se laissent observer seulement avec leur aide. C’est sur de?? documents écrits qu'on observe par exemple l'attique, le gothique ou le vieux slave. On peut aussi déterminer l’étal d'une longue à un certain moment, dans certaines conditions et l’examen des textes est alors le substitut de l'observation directe devenue impossible. Mais la langue écrite est bien loin d enregistrer exactement tous les changements de la langue parlée, il y a des différences variables suivant les individus et leur degré de culture. Or, les langues romanes n’ont pas continué le latin littéraire, mais surtout le latin vulgaire. Les textes d'époques diverses fournissent des états de langue successifs. Les changements essentiels auxquels est dû le passage du type latin ancien au type roman, du IIIe siècle au Xe siècle après J.-C. trouve sa trace dans les monuments écrits. Mai» la transformation des langues s est faite aussi hors des textes. La Linguistique fait ses rapprochements en posant une « langue commune » initiale (Ursprache). Chaque fait linguistique fait partie d’un ensemble où tout se tient (système linguistique). On rapproche donc non pas un fait de détail d’un autre fait de détail, mais un système linguistique d'un autre système,
 
-4. Dans chaque région il y a un gïoupe de parler« locaux de même famille et une langue écrite, langue de civilisation qui sert à tous les usages généraux, aux relations avec l'ensemble du pays et qui est la langue du Gouvernement, de l'école, des administrations, de la presse, etc. En pareil cas, la langue écrite a sur les parlers locaux une forte influence (I). Ainsi en France. Au Ve siècle avant J.-C., en Grèce, presque chaque localité grecque avait son parler propre alors qu à partir de cette époque l'uction de la langue générale de plus en plus forte élimine les unes après les autres les particularités locales et une langue commune fondée sur l'usage attique se répand sur toute la Grèce. Cette observation éclaire la notion de « langue classique s.
+4. Dans chaque région il y a un groupe de parler« locaux de même famille et une langue écrite, langue de civilisation qui sert à tous les usages généraux, aux relations avec l'ensemble du pays et qui est la langue du Gouvernement, de l'école, des administrations, de la presse, etc. En pareil cas, la langue écrite a sur les parlers locaux une forte influence (I). Ainsi en France. Au Ve siècle avant J.-C., en Grèce, presque chaque localité grecque avait son parler propre alors qu à partir de cette époque l'uction de la langue générale de plus en plus forte élimine les unes après les autres les particularités locales et une langue commune fondée sur l'usage attique se répand sur toute la Grèce. Cette observation éclaire la notion de « langue classique s.
 
 5. Il advient qu’une population toute entière sans voir renouveler sa population change de langue. C'est le cas de l’Egypte où après avoir persisté durant encore 4.000 ans de?? périodes historiques, J??égyptien est sorti de l'usage et a été remplacé par l'arabe. Sur le territoire actuel de la France, le gaulois a dû arriver avec la conquête celtique durant la première moitié du millénaire qui a précédé l’ère chrétienne ; puis il a cédé la place au latin après la conquête romaine. On ne peut donc pas identifier un pays avec la langue qu'on y parle, ni inversement une langue avec un pay». Cette observation a son importance dans la classification des documents.
 
@@ -1325,26 +1325,26 @@ On retrouve dans les formes bibliologiques les équivalents des formes parlées,
 
 7. La Conversation ressemble au chant. Le chant répond à un besoin organique tout autant qu’intellectuel. On chante pour chanter, et cela sans un but défini. De même, on peut converser par le besoin physiologique et psychologique de parler, et non point pour informer, décrire, prouver ou persuader. Il est vrai que le chant ordinairement exprime les sentiments les plus élevés et que ses paroles traduisent des idées élevées en forme poétique. Au contraire, la conversation peut se trouver terre à terre et formuler les lieux communs les plus ordinaires.
 
-Les Salons furent très importants au XVIIIe siècle. Plus mondains et littéraires avant 1750 (les bureaux d’esprit), Us servent dan» la dernière moitié du siècle surtout à fa propagation des nouvelles idées. La Cour de Sceaux de la duchesse du Maine, les salons de Mme de Lambert, Mme de Teneur, Mme Geoffrin (rendez-vous des encyclopédistes), Mme de Deffand et Mlle de Lespinasse, Mme Necker.
+Les Salons furent très importants au XVIIIe siècle. Plus mondains et littéraires avant 1750 (les bureaux d’esprit), Ils servent dans la dernière moitié du siècle surtout à fa propagation des nouvelles idées. La Cour de Sceaux de la duchesse du Maine, les salons de Mme de Lambert, Mme de Teneur, Mme Geoffrin (rendez-vous des encyclopédistes), Mme de Deffand et Mlle de Lespinasse, Mme Necker.
 
 fi. L’improvisation est restée l'essentiel de f art oratoire. L’improvisation fut à l’origine de la poésie. Il y avait alors uniformité des tournures, simplicité des rythmes, licences nombreuses du langage. Les aimées savantes de l'Egypte, les rapsodes de?? Grecs, les bardes d’Ecosse, les scaïde?? du Nord, les trouvères et les troubadours, ont eu, à des degrés divers, le don de I improvisation. Chez les peuplades sauvages qui existent encore aujourd’hui, on peut entendre des improvisation». Les tribus nègres elles-mêmes »e réjouissent aux chants improvisés de leurs griots.
 
-Avec le» progrès du temps et des langues qui s’enrichissent et se compliquent, l’improvisation, devenue difficile, céda la place aux œuvres plus travaillées et finit par disparaître. Du moins elle cessa d’être le mode même de la poésie et n’en fut plus qu’une particularité, en genre inférieur.
-En musique, J'improvisation n'est généralement qu’un jeu d’esprit. La distraction d’un grand artiste dont 1 imagination féconde est aidée par de longues études et une science consommée. Beethoven, Mozart, ont été de grands improvisateurs. Toutefois, une improvisation si brillante, si étonnante qu'elle soit, n’atteindra jamais à la hauteur d'une œuvre mûrement réfléchie, élaborée avec amour et dans le silence qui convient à l’enfantement d’une véritable création. L’orgue, sa raison et ses conditions matérielles exigent l’improvisation.
+Avec les progrès du temps et des langues qui s’enrichissent et se compliquent, l’improvisation, devenue difficile, céda la place aux œuvres plus travaillées et finit par disparaître. Du moins elle cessa d’être le mode même de la poésie et n’en fut plus qu’une particularité, en genre inférieur.
+En musique, J'improvisation n'est généralement qu’un jeu d’esprit. La distraction d’un grand artiste dont l'imagination féconde est aidée par de longues études et une science consommée. Beethoven, Mozart, ont été de grands improvisateurs. Toutefois, une improvisation si brillante, si étonnante qu'elle soit, n’atteindra jamais à la hauteur d'une œuvre mûrement réfléchie, élaborée avec amour et dans le silence qui convient à l’enfantement d’une véritable création. L’orgue, sa raison et ses conditions matérielles exigent l’improvisation.
 
-9. La tradition, scientifique ou autre, continue à jouer un grand rôle. C'est la transmission des connaissances, elle s’opère non seulement à l’intermédiaire de» documents, mais sans documents, par la parole, les objets ou les actes de l'habileté professionnelle (apprentissage, éducation).
+9. La tradition, scientifique ou autre, continue à jouer un grand rôle. C'est la transmission des connaissances, elle s’opère non seulement à l’intermédiaire des documents, mais sans documents, par la parole, les objets ou les actes de l'habileté professionnelle (apprentissage, éducation).
 
 153 La Sociologie Bibliologique.
 
 1. Les rapports de la Bibliologie et de la Sociologie constituent ce qu'on pourrait dénommer la Sociologie bibliologique.
 
-2. La sociologie est la science des phénomènes »ociaux. IJi oii deux ou plusieurs hommes sont en présence il y a phénomène social. De nos jours une science générale s’est constituée embrassant toutes les disciplines qui étudient les phénomènes sociaux, c'est la sociologie.
+2. La sociologie est la science des phénomènes sociaux. IJi oii deux ou plusieurs hommes sont en présence il y a phénomène social. De nos jours une science générale s’est constituée embrassant toutes les disciplines qui étudient les phénomènes sociaux, c'est la sociologie.
 
 5. Le Livre naît dans ta société; ce sont les circonstances de temps et de lieu de la Société qui lui donnent sa physionomie propre. Tel Livre eût été impossible à concevoir et à publier avant tel moment ou en dehors de tel pays.
 
-I .es circonstances sociales »ont celles qui déterminent les formes de la coopération intellectuelle ou matérielle et les modalités commerciales ou autres selon lesquelles s'opère la diffusion des écrits dans le corps social. Pour les étudier dans leur véritable cadre, la Bibliologie emprunte à la Sociologie ses données fondamentales. Inversement elle lui apportera les conclusions d'ordre social de ses propres investigation».
+Les circonstances sociales sont celles qui déterminent les formes de la coopération intellectuelle ou matérielle et les modalités commerciales ou autres selon lesquelles s'opère la diffusion des écrits dans le corps social. Pour les étudier dans leur véritable cadre, la Bibliologie emprunte à la Sociologie ses données fondamentales. Inversement elle lui apportera les conclusions d'ordre social de ses propres investigation».
 
-4. La Sociologie d'aujourd'hui a mis en lumière ces trois principes : 1° La Société humaine est une totalité et chaque phénomène partiel s??y répercute sur tous les autres ; 2° Toute chose particulière dans la vie sociale est à considérer en fonction des autres : la notion des fonctions se substitue à celle des causes : 3° Le point de vue prévalant dès lors doit être celui-ci de la relativité. Ces principes »ont trois corollaires quant à la documentation, considérée comme expression de la pensée sociale : 1° La Documentation est une totalité ; 2° Les facteurs agissant dans chaque domaine de la documentation sont à considérer comme des fonction» dépendant les unes des autTes : 3° La valeur intrinsèque e
+4. La Sociologie d'aujourd'hui a mis en lumière ces trois principes : 1° La Société humaine est une totalité et chaque phénomène partiel s'y répercute sur tous les autres ; 2° Toute chose particulière dans la vie sociale est à considérer en fonction des autres : la notion des fonctions se substitue à celle des causes : 3° Le point de vue prévalant dès lors doit être celui-ci de la relativité. Ces principes sont trois corollaires quant à la documentation, considérée comme expression de la pensée sociale : 1° La Documentation est une totalité ; 2° Les facteurs agissant dans chaque domaine de la documentation sont à considérer comme des fonction» dépendant les unes des autTes : 3° La valeur intrinsèque e
 
 
 ====
@@ -1355,7 +1355,7 @@ I .es circonstances sociales »ont celles qui déterminent les formes de la coop
 
 Dans cette conception nouvelle de la société qui tend à prévaloir, toute réalité si petite soit-elle, apparaît fonction de toutes les autres réalités existantes. C'est dès lors une harmonie et un équilibre permanent qui est à rechercher entre elles toutes, et ceci n’est possible que par une documentation de plus en plus perfectionnée (l).
 
-Il faut attendre des événements mêmes certains effets psychologiques. Ils doivent conduire à une claire vision chez tous des exigences de notre époque. C’est à 1 information documentée mise sous les yeux du public à acce-lérer ces effets psychologiques.
+Il faut attendre des événements mêmes certains effets psychologiques. Ils doivent conduire à une claire vision chez tous des exigences de notre époque. C’est à l'information documentée mise sous les yeux du public à acce-lérer ces effets psychologiques.
 
 L’Intelligence de la Nation doit être mise en œuvre en même temps que celle de ses mandataires et de leurs organes d'exécution. Tout citoyen a sa responsabilité; il doit être entraîné à agir. Parmi les idées nombreuses et confuses, il doit être rendu habile à clarifier et à choisir entre elles. Il doit s’exercer à l’acte et sortir du chaos où il se débat.
 
@@ -1363,7 +1363,7 @@ L’Intelligence de la Nation doit être mise en œuvre en même temps que celle
 
 Point ne suffit que des hommes, des groupes, des organisations travaillent à dégager et dire ce qu’il faut faire. C’est la masse des citoyens qu’il faut toucher. Leur information est nécessaire, afin qu’avertis, ils fassent vouloir la coopération et contraignent à passer à la réalisation. Tout cela met en lumière le rôle de la Documentation dans la Société.
 
-6. Dans l’Evolution, le rôle du livre à un certain moment est devenu capital. Améliorer le livre c’est améliorer la civilisation, terme global sous lequel vien nent se ranger tous les éléments qui composent la société. On constate que l’évolution du corps de l’homme est devenue à peu près stationnaire depuis les temps historiques. Il n’y a guère eu dç changements dans scs organes, ses membres, ses sens. Mais il s’est constitué comme un prolongement externe de sa personne. L’un, l’outil proion-
+6. Dans l’Evolution, le rôle du livre à un certain moment est devenu capital. Améliorer le livre c’est améliorer la civilisation, terme global sous lequel vien nent se ranger tous les éléments qui composent la société. On constate que l’évolution du corps de l’homme est devenue à peu près stationnaire depuis les temps historiques. Il n’y a guère eu dç changements dans ses organes, ses membres, ses sens. Mais il s’est constitué comme un prolongement externe de sa personne. L’un, l’outil proion-
 
 (I) Paul OTLET ; a) Conslifafion mondiale, 1917; b) Programme mondial, 1932; c) La Banque mondiale et le Plan Economique mondial, J 932.
 gement de sa main (main-outil); l’autre, le livre, proion geinent de son cerveau (cerveau-livre). Il y a là une sorte de développement exodermique opposé au développement endodermique (hors les limites de l’enveloppe cutanée du corps). Ce qui fait penser à ce que les métapsychicieti?? appellent ectoderme. Perfectionner le livre, c’est perfec tionner l’Humanité.
@@ -1381,7 +1381,7 @@ Il y a donc lieu d’envisager les sciences bibliologique?? au même point de vu
 
 La Bibliologie n'est pas encore constituée en science et devrait l’être en corrélation et en coopération.
 
-JJ y a utilité à rappeler Jes notions fondamentales sur la Science en général et sa formation.
+JJ y a utilité à rappeler les notions fondamentales sur la Science en général et sa formation.
 
 1. Notion de la Science. —- Une science est un ensemble de propositions qui constituent un système, un tout qui tient debout.
 
@@ -1408,9 +1408,9 @@ Travaux analytiques. Travaux synthétiques, les deux sortes de travaux, avec les
 
 3 But. — Le but de la Science est de former et de constituer l’image intellectuelle du Monde mouvant (science statique, dynamique) et la détermination des points d’action sur lesquels est possible une action en vue de la transformation du monde selon les besoins humains (desiderata matériels et intellectuels).
 
-Ainsi «r Savoir pour prévoir afin de pouvoir ». Or. cela n’est possible pour l’esprit ni spontanément, ni immédiatement, ni directement, ni isolément. Il lui faut : 1° du temps ; 2n de la coopération ; 3° une méthode ; 4° un outillage (langue, classification, logique, documentation).
+Ainsi «r Savoir pour prévoir afin de pouvoir ». Or. cela n’est possible pour l’esprit ni spontanément, ni immédiatement, ni directement, ni isolément. Il lui faut : 1° du temps ; 2° de la coopération ; 3° une méthode ; 4° un outillage (langue, classification, logique, documentation).
 
-4. Espèces de sciences. — Les sciences sont de deux ordres : 1° Sciences d’objets (sciences de réalités concrètes). Elles envisagent des choses éventuellement uniques comme la Terre, objet de la Géographie envisagé dans la synthèse totale qu’elle forme), 2° Sciences de phénomènes, d’aspecls. Science abstraite, analytique, envisageant les choses ou quelques-uns de leurs éléments donnant lieu à des Types ou classification et à des lois), H y a les Sciences exactes et les autres. Pour être une science exacte, suivant la terminologie admise, il faut qu’une science s'exerce sur des objets mesurables : a) les sciences de la Nature et les sciences de l'Homme et de la Société ; institutions, objets artificiels et idées créés par l'Homme; b) les sciences des faits, sciences de lois, et les sciences d’application ou disciplines pratiques.
+4. Espèces de sciences. — Les sciences sont de deux ordres : 1° Sciences d’objets (sciences de réalités concrètes). Elles envisagent des choses éventuellement uniques comme la Terre, objet de la Géographie envisagé dans la synthèse totale qu’elle forme), 2° Sciences de phénomènes, d’aspecls. Science abstraite, analytique, envisageant les choses ou quelques-uns de leurs éléments donnant lieu à des Types ou classification et à des lois), il y a les Sciences exactes et les autres. Pour être une science exacte, suivant la terminologie admise, il faut qu’une science s'exerce sur des objets mesurables : a) les sciences de la Nature et les sciences de l'Homme et de la Société ; institutions, objets artificiels et idées créés par l'Homme; b) les sciences des faits, sciences de lois, et les sciences d’application ou disciplines pratiques.
 
 
 
@@ -1423,7 +1423,7 @@ a) Folklore; b) Littérature; c) Science; d) Philosophie.
 
 5. Mouvements internes dans la constitution de la Science. — La constitution générale de la science est affectée en ce moment par de grands mouvements internes qui tendent à embrasser toutes les connaissances et dont la Bihliologie devra tenir compte. Ces mouvements sont :
 
-a) L’Interdépendance plus étroite de toutes les parties (b l'intérieur et à l’extérieur).
+a) L’Interdépendance plus étroite de toutes les parties (à l'intérieur et à l’extérieur).
 
 b) l'Explication génétique, évolution historique. Actuellement dans les deux directions : approfondissement de son propre domaine; utilisation du domaine des autres sciences en offrant à celles-ci ses propres résultats.
 
@@ -1439,7 +1439,7 @@ f) In Substitution de la notion de loi statistique donnant lieu aux probabilité
 
 g) l'importance grandissante du finalisme volontaire, humain, social, sous le nom de Plan (Téîéologie).
 
-5 Constatation, Prévision, Action. — Il faut aujourd'hui une science développée jusqu'à ces trois degrés : 1" Enregistrement des faits quand ils se produisent ; 2° Prévision des faits et établissement des conséquences
+5 Constatation, Prévision, Action. — Il faut aujourd'hui une science développée jusqu'à ces trois degrés : 1° Enregistrement des faits quand ils se produisent ; 2° Prévision des faits et établissement des conséquences
 
 
 ====
@@ -1450,9 +1450,9 @@ utiles avant leur plein épanouissement ; 3° Action en vue de produire ou de mo
 
 7. Science générale comparée. — Sans qu'un nom distinct, ni même une organisation distincte la caractérise, il se constitue sous nos yeux une Science générale comparée; c'est-à-dire une manière commune de constituer chaque science particulière, son contenu, son expression, son organisation. Telle science particulière sous l'empire de son développement propre peut ne pas avoir ressenti [e besoin de telle méthode ou de telle forme d'organisme, ni avoir été amenée à poser tels ordres de problèmes, que ces besoins cependant naissent dès que les sciences se rapprochent et se comparent, t.a Bibliologie bénéficiera de tout ce qu'apportera cette « science commune s. Avant qu'elle ait été formulée, elle devra se confronter directement elle même avec les plus importantes et les plus caractéristiques des sciences.
 
-8. Science et objet de la Science. — Une première et fondamentale distinction est à faire entre la chose et sa science, ici entre le Livre-Document lui-même et 'a science du Livre-Document. La Zoologie, science des animaux, est bien distincte de ceux-ci : elle a une histoire (évolution des conceptions concernant le» animaux) bien distincte de l’Histoire des Animaux, leur évolution, laquelle donne lieu elle-mcme à une science propre : la Paléontologïr.
+8. Science et objet de la Science. — Une première et fondamentale distinction est à faire entre la chose et sa science, ici entre le Livre-Document lui-même et la science du Livre-Document. La Zoologie, science des animaux, est bien distincte de ceux-ci : elle a une histoire (évolution des conceptions concernant les animaux) bien distincte de l’Histoire des Animaux, leur évolution, laquelle donne lieu elle-mcme à une science propre : la Paléontologïr.
 
-9. Caractère complet ou choisi des sciences. Importance des sujets traités. — Décrire le Monde, décrire la Pensée des Hommes, décrire ce que cette Pensée conçoit de la Nature, de l’Homme, des Société»; quelle tâche immense. A priori, il est impossible de la réaliser 100 °o. Pour écrire une histoire intégrale, par exemple, il faudrait écrire, seconde par seconde, ce qui s’est passé au cour» du temps ; pour décrire une géographie intégrale, il faudrait décrire non seulement la Terre, mais tout l'espace, mètre par mètre, au moins Kilomètre par Kilomètre. (1) Impossible et surtout inutile de construire et de communiquer un savoir complet. On a donc procédé de deux manières: en créant des types gé néraux auxquels sont supposées correspondre le» entités particulières et en choisissant le» sujets à traiter. Il y a bien de» sujet» qui «ont »an» intérêt. Le?? personne» d’esprit médiocre et sans portée, souvent qualifiée» d?? curieux, s'attaquent volontiers A de?? questions insignifiante». La liste des titre» bibliographique?? en fait foi. • Toute science doit tenir compte des conditions pratiques de la vie. au moins dans la mesure où on la destine A devenir une science réelle, une science qu??on peut arriver A savoir. Toute conception qui aboutit A empêcher de savoir, empêche la science de se constituer. — I-a science est une économie de temps et d’efforts obtenue par un procédé qui rend les faits rapidement connaissables et intel-
+9. Caractère complet ou choisi des sciences. Importance des sujets traités. — Décrire le Monde, décrire la Pensée des Hommes, décrire ce que cette Pensée conçoit de la Nature, de l’Homme, des Société»; quelle tâche immense. A priori, il est impossible de la réaliser 100 °o. Pour écrire une histoire intégrale, par exemple, il faudrait écrire, seconde par seconde, ce qui s’est passé au cour» du temps ; pour décrire une géographie intégrale, il faudrait décrire non seulement la Terre, mais tout l'espace, mètre par mètre, au moins Kilomètre par Kilomètre. (1) Impossible et surtout inutile de construire et de communiquer un savoir complet. On a donc procédé de deux manières: en créant des types gé néraux auxquels sont supposées correspondre les entités particulières et en choisissant les sujets à traiter. Il y a bien des sujets qui sont sans intérêt. Les personnes d’esprit médiocre et sans portée, souvent qualifiées d?? curieux, s'attaquent volontiers à des questions insignifiantes. La liste des titres bibliographique?? en fait foi. • Toute science doit tenir compte des conditions pratiques de la vie. au moins dans la mesure où on la destine A devenir une science réelle, une science qu??on peut arriver A savoir. Toute conception qui aboutit A empêcher de savoir, empêche la science de se constituer. — I-a science est une économie de temps et d’efforts obtenue par un procédé qui rend les faits rapidement connaissables et intel-
 
 (I) André George. — L'œuvre de Louis de Broglie et la Physique d'aujourd'hui.
 ligibles ; elle consiste A recueillir lentement une quantité de faits de détails et A les condenser en formules portatives et incontestables. Les sciences ont le choix entre deux solutions: être complètes et inconnaissables: ou être connaissables et incomplètes. File s ont choisi la seconde, 1 elles abrègent et condensent, préférant le risque de muti- fl 1er et de communiquer arbitrairement les faits à la certi- j tude de ne pouvoir ni les comprendre ni les communi- j quer. » (Ch v. Langlois et Cb. Seignobos. — Introduc- I tion aux Etudes historique??, p. 228.)
@@ -1475,10 +1475,10 @@ I. En Bibliologie s’est ouvert un chapitre nouveau La Psychologie Bibiiologiqu
 
 3. La biblio-psychologie est une branche spéciale de la psychologie scientifique ; elle s'appuie avant tout sur les méthodes des sciences naturelles et des sciences exactes en général. Son obiet est l'étude de tous les phénomènes psychiques liés à la créat:on du livre, a »a circulation, à son utilisation et a son influence. Dans la biblio-psychologie. le mot « Livre » prend son sens le plus large: il indique a la fois: livre, journal, gazette, discours, conférence, etc.
 
-Comme on le sait, l'attention des savants a été attirée jusqu'à nos jours principalement sur l'étude de l'origine des phénomènes littéraires. La biblio-psychologie, par contre, étudie la perception de ces phénomènes (paroles. ' livres, discourt, etc.) et leur influence sur le lecteur ou l'auditeur. Elle passe de l'étude préliminaire du lecteur et du processus de la lecture à l'étude de l'auteur et de son travail créateur. Elle démontre que le lecteur ne connaît lame de l'auteur et le contenu dr son œuvre que dans la mesure de leur action sur lui, dans de» conditions données intérieure» et extérieures (race, I
+Comme on le sait, l'attention des savants a été attirée jusqu'à nos jours principalement sur l'étude de l'origine des phénomènes littéraires. La biblio-psychologie, par contre, étudie la perception de ces phénomènes (paroles. ' livres, discourt, etc.) et leur influence sur le lecteur ou l'auditeur. Elle passe de l'étude préliminaire du lecteur et du processus de la lecture à l'étude de l'auteur et de son travail créateur. Elle démontre que le lecteur ne connaît lame de l'auteur et le contenu dr son œuvre que dans la mesure de leur action sur lui, dans des conditions données intérieures et extérieures (race, I
 milieu social et son histoire, etc.). L'effet produit par un meme livre sur un même lecteur dépend non seulement de l'individualité, mais aussi de toutes ces conditions, qui changent continuellement. C’est pour cela que la biblio-psychologie a formulé sa thèse fondamentale de la manière suivante : « Le livre n’existe qu’en fonction du lecteur. » C’est-à-dire: tout ce qui n'a pas été perçu par le lecteur, n’existe pas pour lui. Dans la mesure où deux lecteurs se ressemblent, le contenu d’un même livre leur parait identique, et vicc-vcrsa. De ce point de vue: le livre n’existe, pour le lecteur, que dans la mesure où il en a aperçu le contenu, et ce contenu lui-même, pour autant qu’il est aperçu, n’est que l’expression de toutes les facultés du lecteur, de son âme, complexus des phénomènes psychiques excités par la lecture du livre. Le contenu du livre, en dehors du lecteur, n’existe pas, parce que pour chaque lecteur pris séparément il se trouve dans la projection des excitations produites par le livre sur l’âme du lecteur. Il s'en suit que pour étudier urt livre, il est indiypensahle d’étudier ses lecteurs et leurs qualités physiologiques, psychologiques, anthropologiques, ethniques, sociales.
 
-4. L'influence d’un livre est déterminée par l'individualité du lecteur, par la « mnème » de celui-ci. Le mot « mnème », d’un usage si commode pour tous les travailleurs du livre, a été introduit dans la science par le professeur R. Scmon. il indique la mémoire organique héréditaire de l’espèce, et la mémoire individuelle qui permet d’acquérir et de conserver les engrammes, c est-à dire les changements produits dans la matière organique par des excitations quelconques. Dans ce sens, la mnème est le total des engrammes. ( l ) La mnème ne se compose pas seulement des connaissances et des idées, mais aussi des émotions, des sentiments, des désirs et des réserves de conscience et de subconscience. Le livre représente pour le lecteur un ensemble d’aperceptions. c’est-à-dire d'excitations de ces centres psychiques tels qu ils ont été constitués en lui par la mnème, par la totalité de ses expériences raciales et individuelles. Or. chaque mot n'excite pas seulement un, mais presque toujours un ensemble de phénomènes psychiques. Le lecteur peut enregistrer ces phénomènes suivant ses aptitudes personnelles. et l'état de sa conscience dans des circonstances et dans un moment donnés. Si nous écrivons sur 1 axe des aheisses le texte et sur Taxe des ordonnées n importe quelle classification des phénomènes psychiques. 1 individu peut indiquer le» impressions produites par chaque mot du livre au cours de la lecture et les classer respectivement. Chaque individualité se caractérise par le nombre et par la distribution de ces indications. En faisant la statistique de ces annotations, correspondant aux diverses catégories de phénomènes psychiques, on obtient la
+4. L'influence d’un livre est déterminée par l'individualité du lecteur, par la « mnème » de celui-ci. Le mot « mnème », d’un usage si commode pour tous les travailleurs du livre, a été introduit dans la science par le professeur R. Scmon. il indique la mémoire organique héréditaire de l’espèce, et la mémoire individuelle qui permet d’acquérir et de conserver les engrammes, c est-à dire les changements produits dans la matière organique par des excitations quelconques. Dans ce sens, la mnème est le total des engrammes. ( l ) La mnème ne se compose pas seulement des connaissances et des idées, mais aussi des émotions, des sentiments, des désirs et des réserves de conscience et de subconscience. Le livre représente pour le lecteur un ensemble d’aperceptions. c’est-à-dire d'excitations de ces centres psychiques tels qu ils ont été constitués en lui par la mnème, par la totalité de ses expériences raciales et individuelles. Or. chaque mot n'excite pas seulement un, mais presque toujours un ensemble de phénomènes psychiques. Le lecteur peut enregistrer ces phénomènes suivant ses aptitudes personnelles. et l'état de sa conscience dans des circonstances et dans un moment donnés. Si nous écrivons sur l'axe des aheisses le texte et sur Taxe des ordonnées n importe quelle classification des phénomènes psychiques. L'individu peut indiquer les impressions produites par chaque mot du livre au cours de la lecture et les classer respectivement. Chaque individualité se caractérise par le nombre et par la distribution de ces indications. En faisant la statistique de ces annotations, correspondant aux diverses catégories de phénomènes psychiques, on obtient la
 
 (1) R. Scmon. Die Xfneme. 3. Auf. S. 15. — A. Fore!. Gchim un A Seele. S. 8, 94.
 
@@ -1491,22 +1491,22 @@ milieu social et son histoire, etc.). L'effet produit par un meme livre sur un m
 
 5. De cette manière on peut obtenir des eoetficierifs biblio-psychologiques numérique?? qui caractérisent le îec teur à un moment donné. La théorie de la statistique permet de passer de ces coefficients individuels à des coefficients moyens (pour un même lecteur, pour des lecteurs differents, etc.). Cette méthode spéciale conduit la biblio-psychologie à l’analyse des différents lecteurs, à préciser leurs types psychiques et à obtenir ainsi une série ou une échelle d’étalons d un lecteur moyen (en général), d’un lecteur spécialiste (d’une branche déterminée d’une science), d’un peuple, d’une classe sociale, d’un moment de l’histoire, etc. ; on peut comparer avec ces étalons des coefficients individuels. Une telle comparaison permet de caractériser non seulement qualitativement. mais aussi quantitativement n’importe quel lecteur. On remplace de cette manière l'étude subjective des ouvrages littéraires par l’étude objective; la même méthode nous permet d'introduire dans les opinions des critiques et des commentateurs leurs « correctifs comme lecteur » (équation permonnelle) soit le correctif du critique. On arrive ainsi î» expliquer le rôle des faux témoignages dans le domnine de la littérature et de 'a critique.
 
-Cette méthode spéciale de la biblio-psychologie (la statistique des excitations produites par chaque mot du livre) donne la possibilité d'appliquer la théorie des probabilités et les courbes mathématiques à l’étude de tous le» phénomènes psychiques de la lecture. De cette étude du lecteur, on passe a l'étude des livres eux memes, puisque les coefficient» moyens bihlio-psycholo giquen, caractérisant le lecteur moyen d’un livre ne «ont autre chose que la caractéristique de ce livre (conformément à la loi des grands nombres de Quetelet). L’étude par les mêmes procédés de toutes les œuvres d’un écrivain conduit à la constatation objective des qualités de se«
+Cette méthode spéciale de la biblio-psychologie (la statistique des excitations produites par chaque mot du livre) donne la possibilité d'appliquer la théorie des probabilités et les courbes mathématiques à l’étude de tous les phénomènes psychiques de la lecture. De cette étude du lecteur, on passe a l'étude des livres eux memes, puisque les coefficient» moyens bihlio-psycholo giquen, caractérisant le lecteur moyen d’un livre ne «ont autre chose que la caractéristique de ce livre (conformément à la loi des grands nombres de Quetelet). L’étude par les mêmes procédés de toutes les œuvres d’un écrivain conduit à la constatation objective des qualités de se«
 
 travaux et à leur action dans tel ou tel sens sur les
 
 lecteurs. La comparaison de coefficients biblio-psycbolo giquen se rapportant K toutes les œuvres d’un écrivain donné avec les étalons de différents types de lecteurs permet de caractériser chaque auteur aussi objectivement et a des points de vue différents.
 
-6. En développant de plus en plus l applieation de cette méthode et en basant toujours l’étude des livres sur l’étude préliminaire des lecteurs et celles des auteurs
+6. En développant de plus en plus l'application de cette méthode et en basant toujours l’étude des livres sur l’étude préliminaire des lecteurs et celles des auteurs
 
-sur celle de leurs œuvres, la biblio-psychologie tend h transformer 1’bistoire et la théorie de ta littérature en une des branches de la psychologie scientifique, en une science étudiant la qualité et la quantité des excitations psychiques produites par les livres. La même méthode permet de déterminer avec exactitude les notions fondamentales du type des livres, des lecteurs, des auteurs
+sur celle de leurs œuvres, la biblio-psychologie tend à transformer 1’bistoire et la théorie de ta littérature en une des branches de la psychologie scientifique, en une science étudiant la qualité et la quantité des excitations psychiques produites par les livres. La même méthode permet de déterminer avec exactitude les notions fondamentales du type des livres, des lecteurs, des auteurs
 
 et de leurs relations réciproques.
 Les lois fondamentales de la hiblio-psychologie sont les suivantes :
 
 a) Loi de W. HumboldtPotebnia : « Le mot est un excitateur et non pas un transmetteur de la pensée ».
 
-b) Loi de E. Hcnncquin : « Un livre produit un effet maximum sur le lecteur dont l’organisation psychique est le plus analogue h celle de l’auteur ».
+b) Loi de E. Hcnncquin : « Un livre produit un effet maximum sur le lecteur dont l’organisation psychique est le plus analogue à celle de l’auteur ».
 
 c) Lot de H. Taine : « La race, le milieu et le moment de l’histoire déterminent la mentalité des lecteurs ».
 
@@ -1516,11 +1516,11 @@ e) Loi de Ernest Mach : « L’économie du temps et des forces du lecteur s’a
 
 Les recherches biblio-psychologiques permettent donc de constater la dépendance fonctionnelle de?? trois fac teurs : 1. le lecteur; 2. le livre; 3. l’auteur, et de l’exprimer par des coefficients numériques. Il s'ensuit qu'on peut utiliser un livre comme réactif sur le lecteur et réciproquement.
 
-7. La Psychologie bibliologique récente est allée plus loin. Elle s'appuie maintenant sur des lois cosmiques, écrit M. Roubakine. elle n'étudie plus uniquement les phénomènes du livre et de la littérature d'après le point de vue social et des sciences naturelles. Elle tend à formuler la loi de la conversation et des critères. Elle a déjà formulé, et expérimentalement prouvé, la loi très importante des consonances et des div>nances des émotions. Cette loi e«t la vraie base du travail pratique dans le domaine du livre et de la parole. Elle détermine la biblio-psychologie comme science du comportement verbal rt étudie In dépendance fonctionnelle entre le percipent, l’agent et le milieu (temps et espace).
+7. La Psychologie bibliologique récente est allée plus loin. Elle s'appuie maintenant sur des lois cosmiques, écrit M. Roubakine. elle n'étudie plus uniquement les phénomènes du livre et de la littérature d'après le point de vue social et des sciences naturelles. Elle tend à formuler la loi de la conversation et des critères. Elle a déjà formulé, et expérimentalement prouvé, la loi très importante des consonances et des div>nances des émotions. Cette loi e«t la vraie base du travail pratique dans le domaine du livre et de la parole. Elle détermine la biblio-psychologie comme science du comportement verbal et étudie In dépendance fonctionnelle entre le percipent, l’agent et le milieu (temps et espace).
 
 8. Les applications possibles de la Biblio-psychologie ont été résumés en ces termes par N. Roubakine :
 
-1° la possibilité de rédiger les livres scientifiques de vulgarisation et les manuels scolaires de telle façon qu’ils «oient plu» lus que les belles-lettres; 2° au lieu d’étudier dans les buts de l’instruction et de l’auto-instruction une quantité de livres, poursuivre ce travail avec un nombre de livres relativement petit, sans porter préjudice aux connaissances reçues et au développement mental ; 3° transformer les bibliothèques en des laboratoires où l’on étudie la circulation des idées et de l’opinion publique; 4° organiser l’activité des maisons d’édition, des rédactions de livres et leur distribution de façon que cette activité ne ressemble plus à un tir désordonné sur un but invisible ; 5° et c’est là peut-être le plus important, faire comprendre à tou» ceux qui. »ous le régime social ^ actuel, sont opprimés, humiliés, offensés et appauvris et qui maintenant n'ont ni les connaissances ni les possibilités pour travailler pour la création de meilleures con-
+1° la possibilité de rédiger les livres scientifiques de vulgarisation et les manuels scolaires de telle façon qu’ils «oient plus lus que les belles-lettres; 2° au lieu d’étudier dans les buts de l’instruction et de l’auto-instruction une quantité de livres, poursuivre ce travail avec un nombre de livres relativement petit, sans porter préjudice aux connaissances reçues et au développement mental ; 3° transformer les bibliothèques en des laboratoires où l’on étudie la circulation des idées et de l’opinion publique; 4° organiser l’activité des maisons d’édition, des rédactions de livres et leur distribution de façon que cette activité ne ressemble plus à un tir désordonné sur un but invisible ; 5° et c’est là peut-être le plus important, faire comprendre à tous ceux qui. »ous le régime social ^ actuel, sont opprimés, humiliés, offensés et appauvris et qui maintenant n'ont ni les connaissances ni les possibilités pour travailler pour la création de meilleures con-
 
 
 ====
@@ -1539,14 +1539,19 @@ Il y a de nos jours une Technique Générale qui embrasse dans ses cadres tous l
 
 L'invention dans un domaine retentit sur tous les autres; il y a emprunts et apports réciproques entre les domaines. Par exemple : les principes des presses, du clavier de la machine à écrire, inspiré lui-même du clavier du piano, la redistribution automatique dans la machine à composer ont suggéré maints dispositifs dans d’autres domaines que l'imprimerie.
 
-2. Il n??y a pas eu une technique complète du livre, il y a encore bien des recettes. Le traditionalisme domine toute cette matière où il semble que 1 on ne soit pas plus avancé que dans les premiers arts, alors que les progrès étaient la plupart inconscients et s’élaboraient avec une lenteur que nous nvons peine à nous représenter.
+2. Il n??y a pas eu une technique complète du livre, il y a encore bien des recettes. Le traditionalisme domine toute cette matière où il semble que l'on ne soit pas plus avancé que dans les premiers arts, alors que les progrès étaient la plupart inconscients et s’élaboraient avec une lenteur que nous nvons peine à nous représenter.
 
-(I) A. Ferrière « La bi b lîo-psychologie d’après les travaux de N. Roubakine » dans les « Archives des Pyschologics». 1916. N° 12, — Du même auteur: «Transformons l’école », 1920, p. 93-98. — T. Kellen ?? Die Bibliologbche Psychologie. Eine neuc Wissenschnft von Büchern uud. Letetn ?? Deutsche Verlegerzcitung j», Leinzig, 192!, N° 22). — S. Salvoni ?? N. Rouhnkine » (?? Culture Populaire ». N° 6, 1923). — Careî Scharten « De Mensch en dr Ge^eerde Nicolas Rouhakîne » (« Telegraaf ». 17. VIII, 1922. Amsterdam), — V. Bauer « Biblio-psychologie, novà weda o knize », dans le « Ceska Osveta », 1925. N° 6. — Thomson. J. « De macht van het boek » (?? Algemeen Handelshl^d ». 4 en 5 Maart, 1921). — Rocznîk Padagogiczny, Serja II Tom 11. 1924 (par Prof. H. RadlinxVh).
+----
+
+(I) A. Ferrière « La biblio-psychologie d’après les travaux de N. Roubakine » dans les « Archives des Pyschologics». 1916. N° 12, — Du même auteur: «Transformons l’école », 1920, p. 93-98. — T. Kellen ?? Die Bibliologbche Psychologie. Eine neuc Wissenschnft von Büchern uud. Letetn ?? Deutsche Verlegerzcitung j», Leinzig, 192!, N° 22). — S. Salvoni ?? N. Rouhnkine » (?? Culture Populaire ». N° 6, 1923). — Careî Scharten « De Mensch en dr Ge^eerde Nicolas Rouhakîne » (« Telegraaf ». 17. VIII, 1922. Amsterdam), — V. Bauer « Biblio-psychologie, novà weda o knize », dans le « Ceska Osveta », 1925. N° 6. — Thomson. J. « De macht van het boek » (?? Algemeen Handelshl^d ». 4 en 5 Maart, 1921). — Rocznîk Padagogiczny, Serja II Tom 11. 1924 (par Prof. H. RadlinxVh).
+
+
 157 Enseignement ou Bibliologie pédagogique
+--------------------------------------------
 
-l( Dans une mesure considérable, les livres et les document» constituent un enseignement. Les livres, dès lors, jouent un grand rôle dans l’enseignement et réciproquement les cours enseignés donnent naissance à un grand nombre de livres.
+1. Dans une mesure considérable, les livres et les document» constituent un enseignement. Les livres, dès lors, jouent un grand rôle dans l’enseignement et réciproquement les cours enseignés donnent naissance à un grand nombre de livres.
 
-2. L’importance de l’Enseignement oral relativement aux autres moyens d’étude n’a pas cessé de dominer. Avant la découverte de l’imprimerie, c’était le moyen principal de transmettre les idées. Les manuscrits ne pouvaient pas rivaliser alors avec la parole, mais peu à peu les imprimés ont pris In place principale dans les affaires intellectuelles. Ils ont porté la lumière hors des écoles, hors de» villes, hors de?? pays civilisés. Les paroles fugitives ont été remplacées par quelque chose de durable et de précis, qui permet à chacun de réfléchît sut le?? Tnisonneîueot?? et de comparer exactement les opinions. Pourvu qu’un livre soit bien fait, il a plus de lecteurs qu’on ne voit d’auditeurs dans les cours les plus fréquentés, (de Candolle).
+2. L’importance de l’Enseignement oral relativement aux autres moyens d’étude n’a pas cessé de dominer. Avant la découverte de l’imprimerie, c’était le moyen principal de transmettre les idées. Les manuscrits ne pouvaient pas rivaliser alors avec la parole, mais peu à peu les imprimés ont pris In place principale dans les affaires intellectuelles. Ils ont porté la lumière hors des écoles, hors des villes, hors de?? pays civilisés. Les paroles fugitives ont été remplacées par quelque chose de durable et de précis, qui permet à chacun de réfléchît sut le?? Tnisonneîueot?? et de comparer exactement les opinions. Pourvu qu’un livre soit bien fait, il a plus de lecteurs qu’on ne voit d’auditeurs dans les cours les plus fréquentés, (de Candolle).
 
 3. L’art d’exposer s’inspirera de l’art d’enseigner. Or, celui-ci a subi une transformation profonde. Les nouvelles méthodes de pédagogie n’ont rien de commun avec le?? ancienne». Celles-ci étaient basée?? »ut le principe faux que toute connaissance doit se fixer dans l’esprit au moyen de la mémoire. Il n’en est rien. On pouvait le croire à une époque où l’art d’enseigner consistait pour le professeur a transmettre ce qu'il avait lui-même appris et l'art d'apprendre a recevoir In parole de maître comme parole sacrée. Maintenant on s’est mis à étudier les phases de l’esprit humain, les manières dont les connaissances s’acquièreut dans l’enfance et dans le restant de la vie. Or, le cerveau humain b raison de la plasticité de son organisation cellulaire, est ainsi fait qu’il peut approvisionner les connaissances et les rappeler au moment voulu. Il est des circonstances qui peuvent aider ou contrarier le fonctionnement des centres nerveux. Tout ce qui est acquis ne doit pas être rappelé en même temps à la mémoire.
 
@@ -1564,9 +1569,9 @@ transmission du savoir scientifique; il apporte une
 158 Le livre et la vie, la Réalité.
 ----------------------------------------
 
-?, Le Livre tend toujours à chasser les réalités vivantes î Ainsi les étudiants lisent leurs livres d’anatomie sans assez se reporter à T illustration vivante qu’ils emportent nécessairement avec eux. leur propre corps. Ainsi l’administration envisage les faits de la vie sociale à travers les rapports écrits ; elle a une vue artificielle des situations qui exigeraient des décisions rapides.
+1. Le Livre tend toujours à chasser les réalités vivantes î Ainsi les étudiants lisent leurs livres d’anatomie sans assez se reporter à l'illustration vivante qu’ils emportent nécessairement avec eux. leur propre corps. Ainsi l’administration envisage les faits de la vie sociale à travers les rapports écrits ; elle a une vue artificielle des situations qui exigeraient des décisions rapides.
 
-Les problèmes se posent donc d’une part, lutter contre ce qui est trop c livresque ». contre la lettre qui tue l’esprit ; d’autre part enserrer la réalité dans les textes de plus en plus précis, dans des documents de plus en plus représentatifs et complets.
+Les problèmes se posent donc d’une part, lutter contre ce qui est trop « livresque ». contre la lettre qui tue l’esprit ; d’autre part enserrer la réalité dans les textes de plus en plus précis, dans des documents de plus en plus représentatifs et complets.
 
 2. Si le livre sort de la vie, l’inverse est vrai aussi. Le livre, à son tour, produit la vie: vie extérieure, vie »Intérieure. Îl produit In vie extérieure en ce qu’il introduit et entretient dan?? le corps social un nombre immense d’idées qui sont comme les prototypes d’actions entreprises. Il produit la vie intérieure en ce que, dans la pensée de chaque lecteur il fait naître un monde et l’en fait jouir. Par le livre chacun est conduit dans tous les pays, introduit dans tous les milieux, initié à toutes les expériences de la vie. Par lui. la représentation mentale s’élève, s’élargit, s’approfondit: elle peut prendre une précision et une acuité extraordinaire, avance de l’auteur, avance du lecteur et tout se passe bientôt comme si les choses vraiment étaient présentes n’étant cependant représentées que par leur double, le livre. Il est des romans qu’on ne lit pas.
 
@@ -1577,14 +1582,14 @@ I opez. Annual Reports of the Commissioner of Education.
 (U. S. A.) 1904, ït. P. 2427.
 mais que l’on vit, et, s’ils sont vraiment des chefs-d’œuvre, dont on est tout bouleversé.
 
-3. Et le livre doit exprimer toute la vie. Or, bien ou mal, le caractère entier de la vie a changé avec ces inventions de l’ordre intellectuel qu’on appelle le journal quotidien, la « téhéseff », le cinéma et, en perspective, la télévision ; avec la machine et la vitesse; avec la dureté des conditions économiques et l’ébranlement social, profond. Une grande difficulté de l’esprit n notre époque c’est de prendre la mesure des changements qui modifient sans cesse les habitudes de la société, les rapports des hommes et de» peuples entr’eux et l’apparence du monde. (L. Ro-mier).
+3. Et le livre doit exprimer toute la vie. Or, bien ou mal, le caractère entier de la vie a changé avec ces inventions de l’ordre intellectuel qu’on appelle le journal quotidien, la « téhéseff », le cinéma et, en perspective, la télévision ; avec la machine et la vitesse; avec la dureté des conditions économiques et l’ébranlement social, profond. Une grande difficulté de l’esprit n notre époque c’est de prendre la mesure des changements qui modifient sans cesse les habitudes de la société, les rapports des hommes et des peuples entr’eux et l’apparence du monde. (L. Ro-mier).
 
 159 L’Evolution simultanée des Instruments intellectuels.
 ----------------------------------------------------------
 
 Les instruments que l’homme a forgés pour traiter intellectuellement les choses sont : 1° la Logique; 2° la Classification; 3° le Langage. 4° le Livre; 5° îa Science coordonnée et écrite. Il y a un système et une théorie de chacun de ces cinq instruments.
 
-Sans cesse il faut distinguer la réalité de la pensée (méditée, parlée, écrite). Or, la réalité, les faits, dépassent de beaucoup les besoins d’ordre de l’homme, son esprit de système et ses conceptions logiques. En effet, il y a, d’une part, les faits nouveaux, d’autre part, les points de vues nouveaux sous lesquels se perçoivent les faits anciens. Ainsi les groupements de la Classification ne sauraient être stables, et il faut sans cesse un effort pour faire cadrer les concepts nouveaux avec la classification établie et avec l’état des connaissances déjà systématisées en science. La distinction entre ce qui était confondu jusque-là, et le chevauchement d’un sujet sur un autre sujet sont constan's. A cette difficulté s'ajoute celle du langage, de la Terminologie. Les mots ont des significations consacrées par les dictionnaires ou par les idées dominantes. Ils n'éveillent pas dans l'esprit de qui les entend, ou les lit, des images identiques à celles qui sont dans l’esprit de celui qui les prononce ou les écrit. Il reste alors à inventer de nouveaux mots. Mais l’écueil alors est qu'ils seraient moins compris encore. Conscient d’une terminologie inadéquate, on en arrive à accoupler plu»ieurs termes, à superposer significations et après avoir énoncé les mots à y ajouter d'autres pour marquer des nuances. Ainsi, un travail continu se poursuit simultanément, parallèlement ou con-nexement, dans les cinq domaines : Science, Logique, Classification, Terminologie, Livres. Ce travail est largement fragmentaire et occasionnel; il ne prend que rarement des formes assez imposantes pour retenir l’attention et c’est à la longue qu'on en perçoit le résultat.
+Sans cesse il faut distinguer la réalité de la pensée (méditée, parlée, écrite). Or, la réalité, les faits, dépassent de beaucoup les besoins d’ordre de l’homme, son esprit de système et ses conceptions logiques. En effet, il y a, d’une part, les faits nouveaux, d’autre part, les points de vues nouveaux sous lesquels se perçoivent les faits anciens. Ainsi les groupements de la Classification ne sauraient être stables, et il faut sans cesse un effort pour faire cadrer les concepts nouveaux avec la classification établie et avec l’état des connaissances déjà systématisées en science. La distinction entre ce qui était confondu jusque-là, et le chevauchement d’un sujet sur un autre sujet sont constan's. A cette difficulté s'ajoute celle du langage, de la Terminologie. Les mots ont des significations consacrées par les dictionnaires ou par les idées dominantes. Ils n'éveillent pas dans l'esprit de qui les entend, ou les lit, des images identiques à celles qui sont dans l’esprit de celui qui les prononce ou les écrit. Il reste alors à inventer de nouveaux mots. Mais l’écueil alors est qu'ils seraient moins compris encore. Conscient d’une terminologie inadéquate, on en arrive à accoupler plusieurs termes, à superposer significations et après avoir énoncé les mots à y ajouter d'autres pour marquer des nuances. Ainsi, un travail continu se poursuit simultanément, parallèlement ou con-nexement, dans les cinq domaines : Science, Logique, Classification, Terminologie, Livres. Ce travail est largement fragmentaire et occasionnel; il ne prend que rarement des formes assez imposantes pour retenir l’attention et c’est à la longue qu'on en perçoit le résultat.
 
 
 
@@ -1595,9 +1600,9 @@ Sans cesse il faut distinguer la réalité de la pensée (méditée, parlée, é
 16 ORGANISATION DES RECHERCHES ET DES ÉTUDES
 ---------------------------------------------
 
-La science est une chose, l'organisation de la science en est une autre, l'une et l'autre sont intimement liées. La Bibliologie s'organise en tant que science de la Documentation et du Livre, tandis que ceux-ci considérés du point de vue de la science particulière dont ils traitent (Médecine, Droit, Technique, etc.) sont eux-mêmes des facteurs d'organisation dans leur domaine respectif. Í1 s agit donc en réalité de « l'organisation d'une partie de 1 organisation », et il s'agit de recherches, d'enseignement et diffusion.
+La science est une chose, l'organisation de la science en est une autre, l'une et l'autre sont intimement liées. La Bibliologie s'organise en tant que science de la Documentation et du Livre, tandis que ceux-ci considérés du point de vue de la science particulière dont ils traitent (Médecine, Droit, Technique, etc.) sont eux-mêmes des facteurs d'organisation dans leur domaine respectif. Í1 s agit donc en réalité de « l'organisation d'une partie de l'organisation », et il s'agit de recherches, d'enseignement et diffusion.
 
-L'organisation des recherches et des études s opère en tout domaine d'une manière de plus en plus systématique. Dans ses congrès suivis des travaux de réalisation qui en ont été la suite, l'Union des Associations Internationales s'est spécialement occupée de ces questions. (Voir Actes du Congrès mondial et Introduction aux volumes de Y Annuaire de la Vie Internationale.) Dans son Afonuel de Bibliographie historique (t. fI), M. Langlois a montré à propos de l'Histoire tout l'intérêt qui s'attache à l'organisation des Etudes dans une branche spéciale.
+L'organisation des recherches et des études s'opère en tout domaine d'une manière de plus en plus systématique. Dans ses congrès suivis des travaux de réalisation qui en ont été la suite, l'Union des Associations Internationales s'est spécialement occupée de ces questions. (Voir Actes du Congrès mondial et Introduction aux volumes de Y Annuaire de la Vie Internationale.) Dans son Afonuel de Bibliographie historique (t. fI), M. Langlois a montré à propos de l'Histoire tout l'intérêt qui s'attache à l'organisation des Etudes dans une branche spéciale.
 
 161 Recherches.
 ----------------
@@ -1615,8 +1620,8 @@ Ce devient une nécessité d'organiser dans toutes les branches de l’enseignem
 
 L'A. S. L. I. B. (Londres) dans sa Conférence de 1930, a par une résolution demandé que les autorités des Universités fassent donner aux Etudiants un enseignement sur Tunage efficient des Bibliothèques, que pour le moins les Bibliothécaires soient chargés de donner une fois Tan une lecture sur ce sujet.
 
-Une Ecole des Bibliothécaires avait été organisée à París par 1 American Library Association. Elle avait un certain caractère international. Cette Ecole a été fermée.
-L’Enseignement des matières du livre doit lutter contre des difficultés énormes parce que la Bibliologie n'est pas présentée comme science centrale ou unique et que ses différente» branches se présentent en ordre indépendant et dispersé.
+Une Ecole des Bibliothécaires avait été organisée à Paris par l'American Library Association. Elle avait un certain caractère international. Cette Ecole a été fermée.
+L’Enseignement des matières du livre doit lutter contre des difficultés énormes parce que la Bibliologie n'est pas présentée comme science centrale ou unique et que ses différentes branches se présentent en ordre indépendant et dispersé.
 
 163 Associations.
 ------------------
@@ -1626,7 +1631,7 @@ Il y a autant d'espèces d'associations qu'il y a de branches du livre. Ainsi ce
 164 Encouragement au livre.
 ----------------------------
 
-Diverses questions intéressant les Livres et le Document, comme tels ont déjà fait l’objet de concours, par exemple pour T hygiène. Il y a tous les prix littéraires ou scientifiques que décernent périodiquement les Académies et les Sociétés littéraires, il y a les bourses d’études qui, en favorisant les étudiants, facilitent 1 établissement de leurs thèses, dissertations, rapport. Il y a les prix Nobel de littérature. médecine, physique et chimie dont chacun est d’environ 172,000 couronnes, soit environ 780,000 francs français.
+Diverses questions intéressant les Livres et le Document, comme tels ont déjà fait l’objet de concours, par exemple pour T hygiène. Il y a tous les prix littéraires ou scientifiques que décernent périodiquement les Académies et les Sociétés littéraires, il y a les bourses d’études qui, en favorisant les étudiants, facilitent l'établissement de leurs thèses, dissertations, rapport. Il y a les prix Nobel de littérature. médecine, physique et chimie dont chacun est d’environ 172,000 couronnes, soit environ 780,000 francs français.
 
 165 Sources.
 -------------
@@ -1635,7 +1640,7 @@ Diverses questions intéressant les Livres et le Document, comme tels ont déjà
 
 2. La Bibliologie possède aussi des recueils de matériaux, récents ouvrages ou périodiques qui sont à la base de toutes les considérations sur le livre. M. F. C. Lon-champ a publié un Manuel du Bibliophile français en 4 volumes, 1600 p. avec 385 illustrations. C'est un ouvrage d'ensemble, historique et bibliographique sur tout le livre et ses arts, depuis les origines jusqu'à nos jours. (1470-1921). (Imprimerie, illustration, reliure, ex-libris, etc.).
 
-3. Les listes bibliographiques placée» in fine de cet ouvrage, ainsi que les notes inframarginales au cours de l’exposé, indiquent les principales contributions. Tout l’ensemble constitue à ce jour la source des sciences biblio-logiques et documentaires. (I)
+3. Les listes bibliographiques placées in fine de cet ouvrage, ainsi que les notes inframarginales au cours de l’exposé, indiquent les principales contributions. Tout l’ensemble constitue à ce jour la source des sciences biblio-logiques et documentaires. (I)
 (I) HOECKER, R et VORSTIUS, J. Internationale Bibliographie des Buch und Bibliothekswesen, mit besonderer Berücksichtigung der Bibliographie. — In Kritischer Ausv/ahl Zusammengestcllt von R. Hoecker und J. Vors-tius (Leipzig Harrassowitz).
 
 
@@ -1645,7 +1650,7 @@ Diverses questions intéressant les Livres et le Document, comme tels ont déjà
 
 17 HISTOIRE ET ÉVOLUTION. PHASES DES SCIENCES BIBLIOLOGIQUES
 
-1. Trois points de vu© tendent à prévaloir dans toute science : le statique, le dynamique, le génétique ou évolutif. De même en Bibliologie. Très longtemps statique, elle même doit se faire maintenant largement évolutive et génétique.
+1. Trois points de vue tendent à prévaloir dans toute science : le statique, le dynamique, le génétique ou évolutif. De même en Bibliologie. Très longtemps statique, elle même doit se faire maintenant largement évolutive et génétique.
 
 La loi d évolution es1, générale. On la retrouve dans les phénomèmes biologiques, sociaux et ceux qui portent l’objet des autres sciences. Influence du milieu, procédés organiques divers et réitérés d'agrégation des parties en un tout; transition incessante d’un ordre moins homogène, moins organique, moins efficace et moins parfait à un autre plus homogène, plus organique, plus efficace et plut parfait.
 
@@ -1653,28 +1658,27 @@ Sous le nom d’« Histoire du Livre », des matériaux considérables ont été
 
 Une histoire du livre détaillée est une source incomparable pour la compréhension réelle du livre tel qu’il se présente aujourd’hui. Le livre est l’aboutissement d'une longue, très longue évolution et bien peu de ses détails qui soient le résultat d'un hasard et d'un fac teur arbitraire. On est stimulé ainsi à créer de nouveaux types, en connaissance plus complète des pos sibilités. Les notes historiques éclairent tout exposé et lui donnent une signification plus vive.
 
-Il semble que pour nos objets familiers comme pour nos connaissances, le plus difficile est d’en prendre conscience, de les détacher pour ainsi dire en nous-mêmes, pour leur faire prendre existence et consistance propre. C'est le € désaxement » facilité par l’histoire, qui rend possible cette c autonomisation ».
+Il semble que pour nos objets familiers comme pour nos connaissances, le plus difficile est d’en prendre conscience, de les détacher pour ainsi dire en nous-mêmes, pour leur faire prendre existence et consistance propre. C'est le « désaxement » facilité par l’histoire, qui rend possible cette c autonomisation ».
 
-2. La Documentation, vieille comme l'homme au mo ment où il inscrivait scs premiers signes, a offert trois phases dans son développement récent :
+2. La Documentation, vieille comme l'homme au mo ment où il inscrivait ses premiers signes, a offert trois phases dans son développement récent :
 
 Io Au sortir des temps modernes, les Bibliothèques constituent de grands centres d’érudition. Elles commandent l'activité intellectuelle et entreprennent l’œuvre de leur catalogue concurremment avec celle du collectionne-ment. C’est d'autre part chez elles et c??est avec leurs ressources en matériaux de toute nature que s’entreprennent alors les grandes compilations, recueils, dictionnaires, encyclopédies.
 
 2" Ensuite la Bibliographie se dégage peu à peu de la Bibliothèque. Elle naît des besoins, non d’une collection déterminée, qui est satisfaite par le catalogue, mais de ia Science, désireuse de se servir des livres où qu’ils soient entreposés. Pour se constituer une méthode, — celle de la description des livres et des études sur les ensembles
-de livres. — elle arrive bientôt à élargir la conception qu’elle se fait du livre lui-méme jusqu’à lui substituer la notion du document. A partir de ce moment, à l’étroit dans les anciens cadres, la Bibliog.aphic s’affirme autonome, l'égale même de la Bibliothéconomie, et critique son particularisme. En travaillant dans la catégorie de l universel, elle influence rapidement la science, la production inte lee-tuelle elle-même, à laquelle elle apporte le moyen de se représenter plus clairement sa propre universalité.
+de livres. — elle arrive bientôt à élargir la conception qu’elle se fait du livre lui-méme jusqu’à lui substituer la notion du document. A partir de ce moment, à l’étroit dans les anciens cadres, la Bibliog.aphic s’affirme autonome, l'égale même de la Bibliothéconomie, et critique son particularisme. En travaillant dans la catégorie de l'universel, elle influence rapidement la science, la production inte lee-tuelle elle-même, à laquelle elle apporte le moyen de se représenter plus clairement sa propre universalité.
 
 3U Et maintenant voici qu’une nouvelle phase est commencée. Ce n'est plus ni celle de la Bibliothéconomie, ni celle de la Bibliographie, c'est celle de l'ensemble du Livre et du Document, (a Documentation. L'une et ( autre en sont des parties, mais des parties rattachées à un corps plus vaste, dont l’existence les élargit, les élève, les transforme.
 
-On peut rapprocher tout ce développement de celui de la Chimie à travers les Âges. Science théorique, industrie pratique, on ne trouve d’abord que les officines du moyen âge avec chez quelques esprits la préoccupation du problème de la matière, de scs espèces et de ses créations. La chimie naît lentement de l’Alchimie et de la Philosophie naturelle, et un moment vient, le nôtre, où toute la pharmacie est absorbée et réordonnée par la Chimie.
+On peut rapprocher tout ce développement de celui de la Chimie à travers les Âges. Science théorique, industrie pratique, on ne trouve d’abord que les officines du moyen âge avec chez quelques esprits la préoccupation du problème de la matière, de ses espèces et de ses créations. La chimie naît lentement de l’Alchimie et de la Philosophie naturelle, et un moment vient, le nôtre, où toute la pharmacie est absorbée et réordonnée par la Chimie.
 
 3. Il ne faudrait trop s'étonner que la Bibliologie ne se constitue que de nos jours. Il fallait d’abord que les livres existassent avant de pouvoir les décrire, les analyser et dégager de leur existence même des faits généraux. De même la Critique littéraire est apparue tardive ment « le dernier produit d'une longue expérience disait Longin. avec la tâche de constater l'état-civil des vivants et de relever les morts ».
 
 Proudhon (sur VEconomie politique), a dit :
 
-« L'Histoire de la Bibliologie est nécessairement préma-» turée si on la juge ou point de vue d’une Science faite.
-
-• Mais elle est lumineusement utile sous ce rapport qu’elle
-
-est le dernier degré que nous ayons à monter pour arri-c ver au sanctuaire ».
+    « L'Histoire de la Bibliologie est nécessairement
+    prématurée si on la juge ou point de vue d’une Science faite.
+    Mais elle est lumineusement utile sous ce rapport qu’elle
+    est le dernier degré que nous ayons à monter pour arri-c       ver au sanctuaire ».
 
 Il y a des sciences qui se sont formées au sein des universités. D’autres hors les universités : ainsi la Sta tistique. Il est compréhensible que la Bibliologie se soit constituée hors les universités et qu elle s’impose aujourd'hui à elles,
 
@@ -1692,16 +1696,16 @@ Le livre, l’écriture sont si importants qu'on dénomme période préhistoriqu
 
 froisième époque. — Communication par des appareils mécaniques, imprimerie (journal). Télégraphie, Téléphone, Poste. Radiophonie.
 
-XXe Siècle. — Nous nous sommes trouvés subitement en présence du livre en large collaboration de la publication périodique et continuelle, de la commercialisation, des formes matérielles nouvelles, notamment des répertoires sur fiches, de l’invasion du texte par 1 image, des procédés de notation, de chiffrage et de diagramme, de /a culture simultanée de toutes les sciences de leur application.
+XXe Siècle. — Nous nous sommes trouvés subitement en présence du livre en large collaboration de la publication périodique et continuelle, de la commercialisation, des formes matérielles nouvelles, notamment des répertoires sur fiches, de l’invasion du texte par l'image, des procédés de notation, de chiffrage et de diagramme, de /a culture simultanée de toutes les sciences de leur application.
 
-Peut-être sommes-nous à un moment aussi important dans 1 Histoire du Livre qu’a été la découverte et la généralisation de l'imprimerie au XVe siècle. En toute matière les grands changements d’orientation nécessitent de longues et patientes préparations. Après les efforts particuliers des dernières décades, nous assistons maintenant à ce qu’on pourrait appeler H rénovation de la pensée bibliologique,
+Peut-être sommes-nous à un moment aussi important dans l'Histoire du Livre qu’a été la découverte et la généralisation de l'imprimerie au XVe siècle. En toute matière les grands changements d’orientation nécessitent de longues et patientes préparations. Après les efforts particuliers des dernières décades, nous assistons maintenant à ce qu’on pourrait appeler à rénovation de la pensée bibliologique,
 
 5. Les phases du livre correspondent aux phases de la Pensée : 1° Les pensées primitives. 2° L’expression littéraire de la pensée morale, philologique, scientifi-
 que. 3° La science constituée. 4° L'étape nouvelle : la science synthétisée, documentée, visualisée, mathéma-tisée, se condensant, se ramassant pour mieux bondir plus loin et plus haut.
 
 C’est la parole extérieure, la vérité, la phonation, qui a fini par modeler la parole intérieure, et a donné au travail de notre pensée l’expression verbale, une réalité presque tangible. De même, c’est l'écriture qui a donné une forme, une réalité à la science : l’écriture a peu à peu constitué les livres. D’une manière générale, on peut suivre cette histoire de la pensée cérébrée (cogitée) et se constituant peu à peu en un vaste organisme intellectuel, la science.
 
-6. La scierice bibliologique dans sa première phase a été purement descriptive ; Ja Bibliographie proprement dite. Dans une deuxième elle a tendu à devenir théorique : Bibliologie. Voici qu'elle tend à devenir technique, c'est-à dire à influencer la confection du livre par des règles déduites de la théorie (Bibliotech nie). Cessant d'être la servante de livres tout fait«, et insuffisamment bien faits, elle revendique une action sur les livres à faire. Elle prescrit h la fois les meilleures formes (abstraction faite du contenu) et l’opportunité d écrire certains ouvrages selon les besoins scientifiques reconnus, ce qui est aujourd’hui livré entièrement à l’ar bitraire des éditeurs et souvent des auteurs. Cette fonction, les sciences du livre ont è la partager avec l'organisation scientifique de chaque science.
+6. La scierice bibliologique dans sa première phase a été purement descriptive ; Ja Bibliographie proprement dite. Dans une deuxième elle a tendu à devenir théorique : Bibliologie. Voici qu'elle tend à devenir technique, c'est-à dire à influencer la confection du livre par des règles déduites de la théorie (Bibliotech nie). Cessant d'être la servante de livres tout fait«, et insuffisamment bien faits, elle revendique une action sur les livres à faire. Elle prescrit à la fois les meilleures formes (abstraction faite du contenu) et l’opportunité d écrire certains ouvrages selon les besoins scientifiques reconnus, ce qui est aujourd’hui livré entièrement à l’ar bitraire des éditeurs et souvent des auteurs. Cette fonction, les sciences du livre ont à la partager avec l'organisation scientifique de chaque science.
 
 
 .. image:: ./pics_small/pg039_Fig1_livres_periodiques.png
@@ -1732,7 +1736,7 @@ La science
 Remet et coordonne en ses cadres les pdnsr.es de toutes les intelligences particulières
 Les Livres
 
-Transcrivent et photographient la science selon l ’ordre divise des°connaissances La Collection de livres forment la Bibliothèque
+Transcrivent et photographient la science selon l'ordre divise des°connaissances La Collection de livres forment la Bibliothèque
 La Bibliographic Jnventone et catalogue les Iivres
 
 la reunion de notices Bihliographiquos forme le repertoire B?? bl'0(jcaP^'9oC universe!
@@ -1747,7 +1751,7 @@ Concentre, danse et coordonne le contenu des livres
 
 La Classification
 
-Conforme à l'ordre que 1 intelligence, découvre dans les choses, sert a lu fois a. J ordonnance de la science des li vres de leur Bibliographie et de 1 Encyclopédie
+Conforme à l'ordre que l'intelligence, découvre dans les choses, sert a lu fois a. J ordonnance de la science des li vres de leur Bibliographie et de l'Encyclopédie
 
 L’Univers, l’lntellicence, la Science, le Livre
 
@@ -1789,7 +1793,7 @@ Livre et du Document. 2. Leurs éléments constitutifs : matériels, graphiques,
 
 Les livres sont devenus les organes par excellence de la conservation, de la concentration et de la diffusion de la Pensée, et il faut les considérer comme des instruments de recherche, de culture, d’enseignement, d information et de récréation. Ils sont à la fois le réceptacle et le moyen de transport des idées.
 
-Le développement de la production, le bon marché et 1 excellence des éditions, la variété des matières traitées, la refonte à intervalles rapprochés des ouvrages fondamentaux selon des ensembles de plus en plus complets, de mieux en mieux ordonnés, ce sont là des circonstances qui concourent à accroître l’importance du rôle social des livres,
+Le développement de la production, le bon marché et l'excellence des éditions, la variété des matières traitées, la refonte à intervalles rapprochés des ouvrages fondamentaux selon des ensembles de plus en plus complets, de mieux en mieux ordonnés, ce sont là des circonstances qui concourent à accroître l’importance du rôle social des livres,
 
 A côté des livres proprement dits, il y a la multitude des documents de toute espèce qui n’ont pas été publiés ou ne sont pas destinés à l'être.
 
@@ -1806,7 +1810,7 @@ Il y a désormais un terme générique (Biblion ou Bibliogramme ou Document) qui
 
 cartes, diagrammes, photographies, estampes, brevets, statistiques, voire même disques phonographiques, verres ou films cinématographiques.
 
-Le € Biblion » sera pour nous l’unité intellectuelle et abstraite mais que l’on peut retrouver concrètement et réellement mais revêtue de modalités diverses. Le biblion est conçu à la manière de l’atome (ion) en physique, de la cellule en Biologie, de l’esprit en psychologie, de l’agrégation humaine (le socion) en sociologie. L’atome a donné lieu à une représentation de plus en plus précise et sur la base de laquelle se sont engagées toutes les recherches et discussions. (C’est Bohr qui en a donné la première figure.)
+Le « Biblion » sera pour nous l’unité intellectuelle et abstraite mais que l’on peut retrouver concrètement et réellement mais revêtue de modalités diverses. Le biblion est conçu à la manière de l’atome (ion) en physique, de la cellule en Biologie, de l’esprit en psychologie, de l’agrégation humaine (le socion) en sociologie. L’atome a donné lieu à une représentation de plus en plus précise et sur la base de laquelle se sont engagées toutes les recherches et discussions. (C’est Bohr qui en a donné la première figure.)
 
 
 ====
@@ -1815,73 +1819,77 @@ Le € Biblion » sera pour nous l’unité intellectuelle et abstraite mais que
 
 a) Dan» le cosmos (ensemble des choses) le livre ou 1 Document prend place parmi les choses corporellea (non incorporelle»), artificielle?? (non naturelles), et ayant une utilité intellectuelle (non matérielle).
 
-Le» créations matérielle» sont ou des productions ou des moyens de produire. Il y a : a) les moyens de produire les choses utiles et consommables (les machines) ; b) les moyens pour produire des phénomènes naturels, abstraction de toute préoccupation d utilité (les appareils) ; c) les moyens de mesurer les phénomènes (les instruments).
+Les créations matérielles sont ou des productions ou des moyens de produire. Il y a : a) les moyens de produire les choses utiles et consommables (les machines) ; b) les moyens pour produire des phénomènes naturels, abstraction de toute préoccupation d utilité (les appareils) ; c) les moyens de mesurer les phénomènes (les instruments).
 
 Le Livre est un moyen de produire des utilités intellectuelles.
 
 b) Les chotcs ont avec les documents des rapports de diverses espèces :
 
-?o Rapport de choses signifiantes à choses inaignafiées, ce qui constitue le fondement mime de la documentation.
+1° Rapport de choses signifiantes à choses inaignafiées, ce qui constitue le fondement mime de la documentation.
 
-2° Les choses elles-mêmes traitées comme objet de documentation quand à titre de spécimen et échantillon elle?? figurent dans de» collections documentaires (musées, expositions).
+2° Les choses elles-mêmes traitées comme objet de documentation quand à titre de spécimen et échantillon elles figurent dans des collections documentaires (musées, expositions).
 
 3° Les choses créées, modèles et mécanismes pour démonstration scientifique, éducative ou publicitaire.
 
 4° Les marques de toute nature portées sur les objets et qui servent a leur identification et signalisation.
 
-5” L'application par analogie des méthodes de la documentation à l'administration des choses elles-mêmes (Documentation administrative).
+5° L'application par analogie des méthodes de la documentation à l'administration des choses elles-mêmes (Documentation administrative).
 
-c) Les écrit» ont la propriété dite par l'adage « scripta marient verba volant». Le» écrits restent si les paroles s'envolent. Mais au point de vue de la rigueur de la pensée on peut proposer en terme» latins cet autre adage, les termes s'échelonnant en degré : verba divagantur scripta concentrant constructione» coordinant mechanica logicant
+c) Les écrits ont la propriété dite par l'adage « scripta marient verba volant». Les écrits restent si les paroles s'envolent. Mais au point de vue de la rigueur de la pensée on peut proposer en termes latins cet autre adage, les termes s'échelonnant en degré : verba divagantur scripta concentrant constructiones coordinant mechanica logicant
 
 1° La parole peut divaguer. Autant dit. autant en emporte le vent. La parole étant successive peut se traduire sans qu'elle soit autre chose qu’une série de points, dont le lien matériel simplement sonore, est s» léger qu'elle peut flotter en tous sens.
 
 2° Les écrits concentrent la pensée de qui les établit. Ils sont en surface. On les lit. pouvant revenir dans le texte d'avant en nrrière. Les liens logiques de la vérité s'ils ne sont pas réels peuvent facilement être décélés.
 
-3° Le» constructions, stéréogrammes à trois dimensions, coordonnent strictement les idées. Par les vides et les surcharges, par les trois directions de l'idée qui doivent être concordantes, qui permettent un contrôle facile, il est déjà plus difficile de s’aventurer dans de» développements superficiels et mal étudiés.
+3° Les constructions, stéréogrammes à trois dimensions, coordonnent strictement les idées. Par les vides et les surcharges, par les trois directions de l'idée qui doivent être concordantes, qui permettent un contrôle facile, il est déjà plus difficile de s’aventurer dans des développements superficiels et mal étudiés.
 
-4“ Les machines enfin sont les logiciennes par excellence. Elles ne sauraient entrer en mouvement et s??y maintenir
+4° Les machines enfin sont les logiciennes par excellence. Elles ne sauraient entrer en mouvement et s'y maintenir
 
 
 ----
 
 que par le jeu rigoureusement exact, concordant et simultané de toutes leurs parties.
 
-d) Le Document offre de U Réalité une image à 1a sixième dérivation. On a en effet les termes intermédiaires suivants: 1° Le Monde (ou la Réalité elle-même) ; 2° Les 5eni de l'homme qui perçoivent le monde exactement et complètement ; 3° L'Intelligence, qui élabore les données sensorielles; 4° La Langue, instrument social de communication; b?? La Science, ou connaissance?? collective», 6° Le Document composé par 1??Intelligence et pour exprimer la Science.
+d) Le Document offre de de la Réalité une image à la sixième dérivation. On a en effet les termes intermédiaires suivants: 1° Le Monde (ou la Réalité elle-même) ; 2° Les 5eni de l'homme qui perçoivent le monde exactement et complètement ; 3° L'Intelligence, qui élabore les données sensorielles; 4° La Langue, instrument social de communication; b?? La Science, ou connaissance?? collective», 6° Le Document composé par 1??Intelligence et pour exprimer la Science.
 
 Chacun de ses intermédiaires est une cause de déformations et de frictions absorbant l’énergie intellectuelle.
 
-Tout effort doit donc être fait : a) pour supprimer ou atténuer le» déformations et les frictions intermédiaires ; b) pour créer des moyens de percevoir ou se représenter ta réalité.
+Tout effort doit donc être fait : a) pour supprimer ou atténuer les déformations et les frictions intermédiaires ; b) pour créer des moyens de percevoir ou se représenter ta réalité.
 
 5. Définitions littéraires du Livre.
 L'homme passe, le livre reste.   Le livre porte aux
 
-générations futures la lumière» la consolation, 1 espérance et la force (Milton). — L'imprimerie c’est l'artillerie de la pensée (Rivarol), — Le livre forme un cercle distingué, nullement bruyant, mais toujours vivant, dans l’intimité duquel on se repose à loisir (Montaigne). — Les livres réalisent la conversation imprimée (Ruskin). — Les livres sont des amis muets qui parlent aux sourds (Proverbe flamand). — L organisation humaine la plus puissante, l'avantage le plus grand pour une société, c’est la mi»e à la portée de tous des trésors du monde emmagasinés dans les livres (Carnegie). — La littérature est le souffle vital de ta civilisation, le sel du corps social (Wells).
+générations futures la lumière, la consolation, l'espérance et la force (Milton). — L'imprimerie c’est l'artillerie de la pensée (Rivarol), — Le livre forme un cercle distingué, nullement bruyant, mais toujours vivant, dans l’intimité duquel on se repose à loisir (Montaigne). — Les livres réalisent la conversation imprimée (Ruskin). — Les livres sont des amis muets qui parlent aux sourds (Proverbe flamand). — L organisation humaine la plus puissante, l'avantage le plus grand pour une société, c’est la mi»e à la portée de tous des trésors du monde emmagasinés dans les livres (Carnegie). — La littérature est le souffle vital de ta civilisation, le sel du corps social (Wells).
 
-Le livre, c’est la passion de répandre scs idée» sur le monde et de les faire partager à tou» le» hommes (Suarez).
+Le livre, c’est la passion de répandre ses idées sur le monde et de les faire partager à tout les hommes (Suarez).
 
-■ Le livre, mais qu’est-ce donc pour qu'il attire à ce » point qu’on l’aime avec passion quand on 1 a connu)
-
-• Un livre est une voix qu'on entend, une voix qui nous » parle, qui gagne notre confiance, d autant mieux qu elle » s’insinue plu» doucement, plus intimement ï c’est la p pensée vivante d'une personne séparée de nou» par » l'espace et le temps. C’est une âme, une àmc dont nul r ne peut prévoir le destin, la durée et qui va auprès et
-
-?? au loin souvent, on ne sait où, dans l’univers connu, » communiquer avec d'autres âmes, leur apporter ses n beautés et ses laideurs aussi, la vérité et l'erreur, bêlas, n souvent; une âme prenante, à peu près toujours, à cause
-
-■ de ton contact’ intime, seule à seule, avec l’autre âme » qu’elle touche, capable par conséquent de la faire ma?? D griifique et sublime, perverse ou dégradée. Et donc âme
-
-■ qui réclame des soins délicats, âme qui exibe des ntten-
-
-?? tions spéciales de tous ceux qui l’entourent et lui facili??
-
-• tent son élan. » (Gabriel Beauchetnc.)
+    « Le livre, mais qu’est-ce donc pour qu'il attire à ce
+    point qu’on l’aime avec passion quand on l'a connu ?
+    Un livre est une voix qu'on entend, une voix qui nous
+    parle, qui gagne notre confiance, d'autant mieux qu'elle
+    s’insinue plus doucement, plus intimement; c’est la 
+    pensée vivante d'une personne séparée de nous par
+    l'espace et le temps. C’est une âme, une âme dont nul 
+    ne peut prévoir le destin, la durée et qui va auprès et
+    au loin souvent, on ne sait où, dans l’univers connu,
+    communiquer avec d'autres âmes, leur apporter ses
+    beautés et ses laideurs aussi, la vérité et l'erreur, hélas, 
+    souvent; une âme prenante, à peu près toujours, à cause
+    de ton contact intime, seule à seule, avec l’autre âme
+    qu’elle touche, capable par conséquent de la faire magnifique
+     et sublime, perverse ou dégradée. Et donc âme
+    qui réclame des soins délicats, âme qui exibe des attentions
+    spéciales de tous ceux qui l’entourent et lui facilitent
+    son élan. » (Gabriel Beauchesne.)
 
 Le plus grand personnage qui, depuis 3000 ans peut être
 
-fasse parler de lui dans le monde, tour à tour géant oa
+fasse parler de lui dans le monde, tour à tour géant ou
 
 
 ====
 
 212 ANALYSE DES CARACTERISTIQUES *45*
-
 
 pygmée, orgueilleux ou modeste, entreprenant ou timide, sachant prendre toutes les formes et tous les rôles, capable tour a tour d'éclairer ou de pervertir les esprits, d'émou- ? voir les passions ou de les apaiser, artisan de factions ou conciliateur de partis, véritable Protée qu'aucune définition ne peut saisir. c’est le Livre. (Egger. )
 
